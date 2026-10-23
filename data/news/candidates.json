@@ -1,0 +1,488 @@
+[
+  {
+    "id": "0fcfe696b7a13969ef44",
+    "source_id": "bbc",
+    "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
+    "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 08 Oct 2026 12:01:55 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "105c085da21b142f6623",
+    "source_id": "bbc",
+    "title": "Israel's far right find fertile ground among first-time voters",
+    "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 20 Oct 2026 08:53:06 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "10a37a5422949b69bc56",
+    "source_id": "axios",
+    "title": "The affordability question Republicans can't escape",
+    "url": "https://www.axios.com/2026/10/19/gas-prices-republicans-affordability-question",
+    "published": "Mon, 19 Oct 2026 23:03:40 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "14608ca386e2617925ad",
+    "source_id": "axios",
+    "title": "Wall Street prepares for AI's \"day after\"",
+    "url": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
+    "published": "Fri, 23 Oct 2026 09:30:05 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "16d533bf1373fae23519",
+    "source_id": "axios",
+    "title": "Trump names scapegoats as Republicans sweat in Texas",
+    "url": "https://www.axios.com/2026/10/16/trump-texas-paxton-cornyn-rove-talarico",
+    "published": "Fri, 16 Oct 2026 00:20:56 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "228a7895228e07515840",
+    "source_id": "bbc",
+    "title": "Why is it so hard to fight the Houthis?",
+    "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 12 Oct 2026 12:15:01 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "2457c3b14c26c0ba712f",
+    "source_id": "axios",
+    "title": "Airlines' new normal: Higher fares, fewer flights",
+    "url": "https://www.axios.com/2026/10/22/airline-prices-fuel-costs",
+    "published": "Thu, 22 Oct 2026 21:49:30 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "2c15e5f933ccdc0a9a20",
+    "source_id": "axios",
+    "title": "Trump: White House didn't impede satellite system in Ukraine",
+    "url": "https://www.axios.com/2026/10/16/trump-starlink-musk-ukraine-zelensky",
+    "published": "Fri, 16 Oct 2026 18:52:48 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "2f0b29806ce2ead56a43",
+    "source_id": "bbc",
+    "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
+    "url": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 15:29:28 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "2fb5a72fddc278760b08",
+    "source_id": "axios",
+    "title": "Trump isn't out to hurt Ukraine, Rubio tells Zelensky",
+    "url": "https://www.axios.com/2026/10/20/rubio-zelensky-trump-directive-harm-ukraine-putin",
+    "published": "Tue, 20 Oct 2026 12:13:18 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "3aa87bd04011b638dc56",
+    "source_id": "axios",
+    "title": "Witkoff heads to Oslo, plans Russia trip for peace talks",
+    "url": "https://www.axios.com/2026/10/20/russia-ukraine-peace-talks-trump-witkoff-oslo",
+    "published": "Tue, 20 Oct 2026 02:38:06 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "3b4bac6a7d9cf3817d45",
+    "source_id": "aljazeera",
+    "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
+    "url": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
+    "published": "Fri, 23 Oct 2026 16:29:51 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "42a71c26230ee142b3cc",
+    "source_id": "aljazeera",
+    "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
+    "url": "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss",
+    "published": "Fri, 23 Oct 2026 13:50:26 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "44a9a7abcbc260506dad",
+    "source_id": "axios",
+    "title": "Zelensky speaks to Witkoff and Kushner amid U.S.-Ukraine crisis",
+    "url": "https://www.axios.com/2026/10/18/zelensky-witkoff-kushner-ukraine-russia-crisis",
+    "published": "Sun, 18 Oct 2026 20:51:10 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "4810d914a1312c8e7c84",
+    "source_id": "bbc",
+    "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+    "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 06:29:55 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "483a6a98dd138f38b5f9",
+    "source_id": "aljazeera",
+    "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
+    "url": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
+    "published": "Fri, 23 Oct 2026 15:51:29 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "5585a7d1b1b61f045648",
+    "source_id": "bbc",
+    "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
+    "url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 10:34:18 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "57d62e2f1fa44546f553",
+    "source_id": "bbc",
+    "title": "How Arab parties could hold critical balance of power in Israeli election",
+    "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 22 Oct 2026 05:30:22 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "5a2c97adcee96c0682e4",
+    "source_id": "axios",
+    "title": "Trump waives new Russia sanctions in the \"national interests\"",
+    "url": "https://www.axios.com/2026/10/17/trump-russia-sanctions",
+    "published": "Sat, 17 Oct 2026 17:20:45 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "5bf25cfe91e6525d124b",
+    "source_id": "axios",
+    "title": "Decades-old GOP winning streaks are suddenly at risk",
+    "url": "https://www.axios.com/2026/10/18/democrat-2026-republican-winning-streak-kansas",
+    "published": "Sun, 18 Oct 2026 12:10:07 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "5eaa76cfb05f4081ca88",
+    "source_id": "axios",
+    "title": "Republicans see shrinking boost from redistricting",
+    "url": "https://www.axios.com/2026/10/20/republicans-redistricting-boost-shrinking-midterms",
+    "published": "Tue, 20 Oct 2026 09:20:11 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "62279ec0311da35f99c2",
+    "source_id": "bbc",
+    "title": "How do Israel's elections work and who are the main contenders?",
+    "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 22 Oct 2026 09:27:10 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "63c2536df7b819b5dc7b",
+    "source_id": "aljazeera",
+    "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
+    "published": "Fri, 23 Oct 2026 17:30:51 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "6a720d663df788eae38b",
+    "source_id": "axios",
+    "title": "Witkoff to present Putin with peace proposal after talks with Zelensky",
+    "url": "https://www.axios.com/2026/10/20/putin-witkoff-russia-ukraine-war",
+    "published": "Tue, 20 Oct 2026 23:04:09 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "6cc574f36a1d781adeb8",
+    "source_id": "axios",
+    "title": "Trump's Russia waiver draws instant bipartisan backlash",
+    "url": "https://www.axios.com/2026/10/17/trump-russia-waiver-putin-republicans-democrats",
+    "published": "Sat, 17 Oct 2026 19:18:15 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "6e1bc289fe1710d66758",
+    "source_id": "axios",
+    "title": "Senate control hinges on unwanted nominees",
+    "url": "https://www.axios.com/2026/10/23/senate-midterms-2026-elections-thune-schumer",
+    "published": "Fri, 23 Oct 2026 04:31:28 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "75d3bc9bafe583af3601",
+    "source_id": "axios",
+    "title": "Trump open to summit with Xi and Putin — to discuss denuclearization",
+    "url": "https://www.axios.com/2026/10/19/trump-summit-xi-putin-denuclearization-ukraine",
+    "published": "Mon, 19 Oct 2026 20:04:17 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "77e267240d10474ee395",
+    "source_id": "axios",
+    "title": "Trump ratchets up the chaos in an October barrage",
+    "url": "https://www.axios.com/2026/10/17/trump-october-midterms-controversy",
+    "published": "Sat, 17 Oct 2026 12:40:07 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "77f23ac5894caf028c0f",
+    "source_id": "axios",
+    "title": "Wright calls Trump's diesel deal a peace incentive. Rubio says Russia would sell anyway.",
+    "url": "https://www.axios.com/2026/10/18/trump-russia-diesel-deal-rubio-wright-sanctions",
+    "published": "Sun, 18 Oct 2026 17:33:38 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "7a788d7ca9fb388f24b6",
+    "source_id": "axios",
+    "title": "Iran-backed militias sending money back to cash-starved IRGC, U.S. says",
+    "url": "https://www.axios.com/2026/10/16/iran-backed-militias-sending-money-irgc-centcom",
+    "published": "Fri, 16 Oct 2026 20:22:57 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "80d413cc47bb3ed38a07",
+    "source_id": "aljazeera",
+    "title": "Israel locks down occupied West Bank after Hebron shooting",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
+    "published": "Fri, 23 Oct 2026 18:38:26 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "80ecf9f82a383b6d23e0",
+    "source_id": "aljazeera",
+    "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
+    "url": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
+    "published": "Fri, 23 Oct 2026 16:37:59 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "86c0dd7a5c03ff764c69",
+    "source_id": "axios",
+    "title": "Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections",
+    "url": "https://www.axios.com/2026/10/19/pete-hegseth-israel-visit-netanyahu-meeting",
+    "published": "Tue, 20 Oct 2026 02:06:36 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "89856f6ddc3a13d65d76",
+    "source_id": "axios",
+    "title": "\"People are tired of theater\": The left sours on \"performative\" Trump impeachment",
+    "url": "https://www.axios.com/2026/10/23/trump-impeachment-democrats-darializa-tlaib-left",
+    "published": "Fri, 23 Oct 2026 19:15:34 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "8ac63a2e137b2034db39",
+    "source_id": "axios",
+    "title": "Why soaring prices aren't breaking America's diesel habit",
+    "url": "https://www.axios.com/2026/10/23/soaring-prices-diesel-habit",
+    "published": "Fri, 23 Oct 2026 09:15:04 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "8eac94b3c2bbc8936318",
+    "source_id": "axios",
+    "title": "France riots become Republican midterm boogeyman",
+    "url": "https://www.axios.com/2026/10/20/french-protests-trump-republicans-midterms",
+    "published": "Tue, 20 Oct 2026 15:30:36 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "8ee9a0baac1af1492b01",
+    "source_id": "axios",
+    "title": "Trump goes full apocalypse in anti-Dems midterms message",
+    "url": "https://www.axios.com/2026/10/20/trump-democrats-elections-rallies-comments-vote",
+    "published": "Tue, 20 Oct 2026 19:34:42 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "963494877b488f80a5c0",
+    "source_id": "bbc",
+    "title": "Israelis demand accountability over 7 October failures three years after attacks",
+    "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 07 Oct 2026 16:00:18 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "980c13e989347df33466",
+    "source_id": "bbc",
+    "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
+    "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 15 Oct 2026 05:00:23 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "99c66ca062e69bdcc83e",
+    "source_id": "bbc",
+    "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+    "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 23 Oct 2026 15:37:07 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "9f80a0f70149cb0b9b06",
+    "source_id": "axios",
+    "title": "How the energy crisis could become a food security crisis",
+    "url": "https://www.axios.com/2026/10/20/energy-crisis-food-security-crisis",
+    "published": "Tue, 20 Oct 2026 13:29:13 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "a2e229b445e4bee3eeae",
+    "source_id": "axios",
+    "title": "The budget deficit swells, while the cost of debt rises",
+    "url": "https://www.axios.com/2026/10/20/federal-deficit-debt-interest-rates",
+    "published": "Tue, 20 Oct 2026 09:15:08 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "a6c02f7644b6c08591cf",
+    "source_id": "axios",
+    "title": "Israeli military conducts massive \"power projection\" operation near Iran's border",
+    "url": "https://www.axios.com/2026/10/21/israel-military-training-sortie-iran-border",
+    "published": "Wed, 21 Oct 2026 17:33:53 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "b09d6a13d4b470b6ad52",
+    "source_id": "bbc",
+    "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
+    "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 08 Oct 2026 05:06:09 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "b4fb4e21d6f35d15b1c0",
+    "source_id": "axios",
+    "title": "The fallout from Trump's Russia energy moves",
+    "url": "https://www.axios.com/2026/10/19/fallout-trump-russia-energy",
+    "published": "Mon, 19 Oct 2026 12:40:07 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "b9c02846378bcdf0c20c",
+    "source_id": "axios",
+    "title": "The oil market's 2027 relief hopes are fading fast",
+    "url": "https://www.axios.com/2026/10/21/oil-prices-inflation-central-banking",
+    "published": "Wed, 21 Oct 2026 15:55:50 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "be4b7af9ec6feca06c1b",
+    "source_id": "axios",
+    "title": "Warsh signals steady Fed outlook despite inflation jump",
+    "url": "https://www.axios.com/2026/10/16/warsh-federal-reserve-interest-rates",
+    "published": "Fri, 16 Oct 2026 10:25:29 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "c62d52f0ebfa894d6ac4",
+    "source_id": "axios",
+    "title": "95% of MAGA Republicans approve of Trump. For non-MAGA Republicans, it's 47%.",
+    "url": "https://www.axios.com/2026/10/18/trump-approval-polls-maga-gop-midterms-2026",
+    "published": "Sun, 18 Oct 2026 19:53:17 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "cd9fbb160f8434262820",
+    "source_id": "axios",
+    "title": "Geothermal finds rare political sweet spot amid AI boom",
+    "url": "https://www.axios.com/2026/10/16/geothermal-rare-political-sweet-spot-ai-boom",
+    "published": "Fri, 16 Oct 2026 09:15:05 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "d43e0f8b4ff84a32815a",
+    "source_id": "axios",
+    "title": "Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.",
+    "url": "https://www.axios.com/2026/10/22/us-canada-election-interference-tariffs-embassy",
+    "published": "Thu, 22 Oct 2026 15:45:24 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "d76aa35b7990980bd0a0",
+    "source_id": "axios",
+    "title": "Putin tells Witkoff he is ready to resume direct peace talks, Russia releases U.S. detainee",
+    "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace",
+    "published": "Wed, 21 Oct 2026 15:22:02 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "e4ba9c979a81066deabf",
+    "source_id": "axios",
+    "title": "Trump tells Axios why he endorsed Netanyahu's reelection",
+    "url": "https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran",
+    "published": "Sun, 18 Oct 2026 17:32:51 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "eb43deb67d211b3a2e99",
+    "source_id": "axios",
+    "title": "Trump ordered to sit for deposition in $10 billion BBC lawsuit",
+    "url": "https://www.axios.com/2026/10/22/trump-bbc-lawsuit-december-deposition-deadline",
+    "published": "Thu, 22 Oct 2026 19:22:43 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "fca7ffb6349131f1112b",
+    "source_id": "axios",
+    "title": "The manosphere stars who helped Trump win are losing their shine",
+    "url": "https://www.axios.com/2026/10/20/joe-rogan-trump-vance-young-men",
+    "published": "Tue, 20 Oct 2026 14:56:02 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  }
+]
