@@ -14,7 +14,7 @@ TARGET = ROOT / "data/polymarket"
 API = "https://gamma-api.polymarket.com/markets"
 TERMS = ("iran", "iranian", "tehran", "hormuz", "khamenei", "nuclear deal",
          "persian gulf", "israel-iran", "us-iran", "u.s.-iran")
-MAX_PAGES = 5
+MAX_PAGES = 25
 
 def unpack(value):
     if isinstance(value, list):
@@ -48,7 +48,7 @@ def collect():
         for market in rows:
             question = str(market.get("question") or "")
             description = str(market.get("description") or "")[:500]
-            if not any(t in (question+" "+description).lower() for t in TERMS):
+            if not any(t in question.lower() for t in TERMS):
                 continue
             outcomes = unpack(market.get("outcomes"))
             prices = unpack(market.get("outcomePrices"))
@@ -83,10 +83,46 @@ def main():
     records=collect() # Fail closed; no invented or replaced records on API error.
     now=dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
     TARGET.mkdir(parents=True,exist_ok=True)
-    snapshot={"observed_at":now,"source_api":API,"coverage_note":"Limited first 500 active Gamma markets; not comprehensive.","markets":records,
+    snapshot={"observed_at":now,"source_api":API,"coverage_note":"Up to 2,500 active Gamma markets scanned; question-filtered coverage is not exhaustive.","markets":records,
       "caveats":["Prices reflect market expectations, not calibrated event probabilities.",
                  "Quoted prices may be illiquid or stale.","Markets may share underlying information.",
                  "Do not mutate scenario scores from market observations."]}
+    # Historical comparison: nearest observation at or before the 24h / 7d cutoff.
+    # Do not use recent observations as a substitute for an unavailable historical baseline.
+    history = []
+    for days_ago in range(0, 9):
+        historic_date = (dt.datetime.fromisoformat(now) - dt.timedelta(days=days_ago)).date().isoformat()
+        path = TARGET / ("daily-" + historic_date + ".json")
+        if path.exists():
+            try:
+                data = json.loads(path.read_text(encoding="utf-8"))
+                if isinstance(data, list):
+                    history.extend(data)
+            except (OSError, ValueError):
+                print("Skipping unreadable archive: " + historic_date)
+    current_time = dt.datetime.fromisoformat(now)
+    def change(market, days):
+        cutoff = current_time - dt.timedelta(days=days)
+        candidates = []
+        for prior in history:
+            if prior.get("market_id") != market["market_id"]:
+                continue
+            price = prior.get("yes_market_price")
+            if not isinstance(price, (int, float)) or not 0 <= price <= 1:
+                continue
+            try:
+                timestamp = dt.datetime.fromisoformat(prior["observed_at"].replace("Z", "+00:00"))
+            except (KeyError, TypeError, ValueError):
+                continue
+            # At most one day older than the exact lookback to avoid stale comparisons.
+            if cutoff - dt.timedelta(days=1) <= timestamp <= cutoff:
+                candidates.append((timestamp, price))
+        if not candidates or market["yes_market_price"] is None:
+            return None
+        return round(100 * (market["yes_market_price"] - max(candidates)[1]), 3)
+    for market in records:
+        market["delta_24h"] = change(market, 1)
+        market["delta_7d"] = change(market, 7)
     # Append to date-level archive as hourly observations keyed by UTC hour and market ID.
     day = now[:10]
     archive=TARGET/("daily-"+day+".json")
