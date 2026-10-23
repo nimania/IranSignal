@@ -1,0 +1,39 @@
+{
+  "observed_at": "2026-10-23T16:10:07+00:00",
+  "source_api": "https://gamma-api.polymarket.com/markets",
+  "coverage_note": "Limited first 500 active Gamma markets; not comprehensive.",
+  "markets": [
+    {
+      "market_id": "663583",
+      "condition_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "question": "Will the Iranian regime fall before 2027?",
+      "slug": "will-the-iranian-regime-fall-by-the-end-of-2026",
+      "end_date": "2027-01-01T04:59:00Z",
+      "yes_market_price": 0.055,
+      "volume": 27878294.177889004,
+      "liquidity": 472784.4868,
+      "source": "Polymarket Gamma API",
+      "status": "market_expectation_not_scenario_probability",
+      "resolution_rule_excerpt": "This market will resolve to \"Yes\" if the Islamic Republic of Iran’s current ruling regime is overthrown, collapsed, or otherwise ceases to govern by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nThis requires a broad consensus of reporting indicating that core structures of the Islamic Republic (e.g. the office of the Supreme Leader, the Guardian Council, IRGC control under clerical authority) have been dissolved, incapacitated, or replaced by a fundamentally diff"
+    },
+    {
+      "market_id": "665374",
+      "condition_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "question": "Will the U.S. invade Iran before 2027?",
+      "slug": "will-the-us-invade-iran-before-2027",
+      "end_date": "2027-01-01T04:59:00Z",
+      "yes_market_price": 0.165,
+      "volume": 75055404.83040099,
+      "liquidity": 335186.1144,
+      "source": "Polymarket Gamma API",
+      "status": "market_expectation_not_scenario_probability",
+      "resolution_rule_excerpt": "This market will resolve to \"Yes\" if the United States commences a military offensive intended to establish control over any portion of Iran by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, land de facto controlled by Iran or the United States as of November 4, 2025 12:00 PM ET, will be considered the sovereign territory of that country.\n\nThe resolution source for this market will be a consensus of credible sources."
+    }
+  ],
+  "caveats": [
+    "Prices reflect market expectations, not calibrated event probabilities.",
+    "Quoted prices may be illiquid or stale.",
+    "Markets may share underlying information.",
+    "Do not mutate scenario scores from market observations."
+  ]
+}
