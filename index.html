@@ -21,7 +21,7 @@
  const holder=document.getElementById("pm-list"),updated=document.getElementById("pm-updated");
  const base="https://raw.githubusercontent.com/nimania/IranSignal/main/data/polymarket/";
  const format=n=>n==null?"—":(n*100).toFixed(1)+"%";
- const delta=n=>n==null?"Not enough history":(n>0?"+":"")+(n*100).toFixed(1)+" pp";
+ const delta=n=>n==null?"Not enough history":(n>0?"+":"")+Number(n).toFixed(1)+" pp";
  try{
   const response=await fetch(base+"latest.json?t="+Date.now(),{cache:"no-store"});
   if(!response.ok)throw Error("HTTP "+response.status);
