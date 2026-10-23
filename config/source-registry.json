@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "language": "en",
+  "purpose": "Research lead discovery and aggregate civilian disruption indicators; not tactical tracking.",
+  "rules": {
+    "raw_articles_are_evidence_candidates": true,
+    "one_event_multiple_articles_one_signal": true,
+    "source_republication_is_not_independent_corroboration": true,
+    "no_automatic_scenario_score_change": true,
+    "no_live_military_asset_tracking": true,
+    "validate_licensing_and_usage_before_activation": true
+  },
+  "news_sources": [
+    {
+      "id": "axios",
+      "label": "Axios",
+      "tier": "investigative",
+      "access": "official_feed",
+      "endpoint": "https://api.axios.com/feed/top/",
+      "enabled": true,
+      "topics": [
+        "Iran",
+        "United States",
+        "Israel",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "bbc",
+      "label": "BBC News",
+      "tier": "broad",
+      "access": "official_feed",
+      "endpoint": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "enabled": true,
+      "topics": [
+        "Iran",
+        "Middle East"
+      ]
+    },
+    {
+      "id": "aljazeera",
+      "label": "Al Jazeera English",
+      "tier": "broad",
+      "access": "official_feed",
+      "endpoint": "https://www.aljazeera.com/xml/rss/all.xml",
+      "enabled": true,
+      "topics": [
+        "Iran",
+        "Middle East"
+      ]
+    },
+    {
+      "id": "reuters",
+      "label": "Reuters",
+      "tier": "wire",
+      "access": "licensed_or_approved_aggregator",
+      "enabled": false
+    },
+    {
+      "id": "ap",
+      "label": "Associated Press",
+      "tier": "wire",
+      "access": "licensed_or_approved_aggregator",
+      "enabled": false
+    },
+    {
+      "id": "ft",
+      "label": "Financial Times",
+      "tier": "economy",
+      "access": "licensed_feed",
+      "enabled": false
+    },
+    {
+      "id": "bloomberg",
+      "label": "Bloomberg",
+      "tier": "economy",
+      "access": "licensed_feed",
+      "enabled": false
+    },
+    {
+      "id": "twz",
+      "label": "The War Zone",
+      "tier": "specialist_analysis",
+      "access": "approved_feed_pending",
+      "enabled": false
+    },
+    {
+      "id": "defensenews",
+      "label": "Defense News",
+      "tier": "specialist_analysis",
+      "access": "approved_feed_pending",
+      "enabled": false
+    },
+    {
+      "id": "haaretz",
+      "label": "Haaretz",
+      "tier": "regional",
+      "access": "licensed_feed",
+      "enabled": false
+    },
+    {
+      "id": "toi",
+      "label": "Times of Israel",
+      "tier": "regional",
+      "access": "approved_feed_pending",
+      "enabled": false
+    },
+    {
+      "id": "iaea",
+      "label": "IAEA official releases",
+      "tier": "primary",
+      "access": "official_releases_pending",
+      "enabled": false
+    },
+    {
+      "id": "state",
+      "label": "US State Department",
+      "tier": "primary",
+      "access": "official_releases_pending",
+      "enabled": false
+    },
+    {
+      "id": "whitehouse",
+      "label": "White House",
+      "tier": "primary",
+      "access": "official_releases_pending",
+      "enabled": false
+    },
+    {
+      "id": "pendar",
+      "label": "Pendar structured evidence",
+      "tier": "aggregation",
+      "access": "existing_read_only_sync",
+      "enabled": true
+    }
+  ],
+  "aggregate_indicators": [
+    {
+      "id": "civil_flight_volume",
+      "label": "Daily civil aviation operations by country/airport",
+      "provider_options": [
+        "OpenSky (research license)",
+        "Flightradar24 API (licensed)"
+      ],
+      "cadence": "daily",
+      "metric": "daily_count_and_7d_baseline_delta",
+      "enabled": false,
+      "notes": "Aggregate-only; do not expose tracks, individual aircraft, military identifiers, or live coordinates."
+    },
+    {
+      "id": "flight_cancellations",
+      "label": "Civilian cancellations and airport disruption",
+      "provider_options": [
+        "airport/airline public advisories",
+        "licensed schedule provider"
+      ],
+      "cadence": "daily",
+      "metric": "cancellation_share_and_airport_notices",
+      "enabled": false
+    },
+    {
+      "id": "commercial_vessel_transits",
+      "label": "Daily commercial shipping transits",
+      "provider_options": [
+        "MarineTraffic/Kpler licensed AIS aggregates",
+        "port authority published statistics"
+      ],
+      "cadence": "daily",
+      "metric": "total_daily_transits_and_7d_delta",
+      "enabled": false,
+      "notes": "No live vessel positions, specific tanker tracks, or security-vessel identifiers."
+    },
+    {
+      "id": "shipping_disruption",
+      "label": "Maritime disruption and insurance notices",
+      "provider_options": [
+        "official maritime notices",
+        "published trade and insurance market reporting"
+      ],
+      "cadence": "daily",
+      "metric": "confirmed_notices_by_date",
+      "enabled": false
+    }
+  ],
+  "quality_controls": [
+    "Require publication time and original URL",
+    "Entity and event clustering before scoring",
+    "Classify attribution: named, anonymous, primary document, syndicated",
+    "Archive correction and contradictory evidence",
+    "Separate civil-disruption metric from interpretation of war likelihood",
+    "Label coverage gaps and stale data",
+    "Keep subscription credentials only in GitHub Actions secrets"
+  ]
+}
