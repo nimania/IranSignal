@@ -1,0 +1,38 @@
+name: Transport indicator research
+on:
+  schedule:
+    - cron: '42 3 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data/transport/observations.csv'
+      - 'data/transport/scenario_outcomes.csv'
+      - 'scripts/analyze_transport.py'
+      - 'scripts/backtest_transport.py'
+permissions:
+  contents: write
+concurrency:
+  group: transport-research
+  cancel-in-progress: false
+jobs:
+  indicators:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Compute aggregate observations and audit readiness
+        run: |
+          python scripts/analyze_transport.py
+          python scripts/backtest_transport.py
+      - name: Record reproducible derived datasets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/transport/analysis.json data/transport/backtest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Recompute auditable aggregate transport indicators"
+            git pull --rebase origin main
+            git push
+          fi
