@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "status": "insufficient_labeled_outcomes",
+  "verified_outcomes": 0,
+  "dated_indicator_observations": 2841,
+  "temporally_joinable_labels": 0,
+  "claim": "No predictive accuracy, lift, or scenario probability has been established.",
+  "note": "Require pre-registered outcome definitions, training/test split by time, lead horizons, and calibration before reporting accuracy."
+}
