@@ -1,0 +1,691 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-22T05:24:40.009660+00:00",
+  "families": [
+    "deal",
+    "regroup",
+    "war",
+    "transition",
+    "attrition",
+    "recovery"
+  ],
+  "points": [
+    {
+      "date": "2026-10-08",
+      "scores": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 2,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "daily": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 2,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 2,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        }
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "scores": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 2,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "daily": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 0,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 2,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        }
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "scores": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 2,
+        "transition": 1,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "daily": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 0,
+        "transition": 1,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 2,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 1,
+          "attrition": 0,
+          "recovery": 0
+        }
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "scores": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 2,
+        "transition": 1,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "daily": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 0,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 2,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 1,
+          "attrition": 0,
+          "recovery": 0
+        }
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "scores": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 4,
+        "transition": 1,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "daily": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 2,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 4,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 1,
+          "attrition": 0,
+          "recovery": 0
+        }
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "scores": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 7,
+        "transition": 1,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "daily": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 3,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 4,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 3,
+          "transition": 1,
+          "attrition": 0,
+          "recovery": 0
+        }
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "scores": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 7,
+        "transition": 1,
+        "attrition": 0,
+        "recovery": 1
+      },
+      "daily": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 0,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 1
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 4,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 3,
+          "transition": 1,
+          "attrition": 0,
+          "recovery": 1
+        }
+      }
+    },
+    {
+      "date": "2026-10-15",
+      "scores": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 9,
+        "transition": 1,
+        "attrition": 2,
+        "recovery": 1
+      },
+      "daily": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 2,
+        "transition": 0,
+        "attrition": 2,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 6,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 3,
+          "transition": 1,
+          "attrition": 2,
+          "recovery": 1
+        }
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "scores": {
+        "deal": 1,
+        "regroup": 0,
+        "war": 11,
+        "transition": 1,
+        "attrition": 2,
+        "recovery": 1
+      },
+      "daily": {
+        "deal": 1,
+        "regroup": 0,
+        "war": 2,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": -2,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 6,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 1,
+          "regroup": 0,
+          "war": 7,
+          "transition": 1,
+          "attrition": 2,
+          "recovery": 1
+        }
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "scores": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 10,
+        "transition": 1,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "daily": {
+        "deal": -1,
+        "regroup": 0,
+        "war": -1,
+        "transition": 0,
+        "attrition": 1,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": -2,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": -1,
+          "regroup": 0,
+          "war": 5,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 1,
+          "regroup": 0,
+          "war": 7,
+          "transition": 1,
+          "attrition": 3,
+          "recovery": 1
+        }
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "scores": {
+        "deal": 1,
+        "regroup": 0,
+        "war": 11,
+        "transition": 1,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "daily": {
+        "deal": 1,
+        "regroup": 0,
+        "war": 1,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": -2,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 6,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 1,
+          "regroup": 0,
+          "war": 7,
+          "transition": 1,
+          "attrition": 3,
+          "recovery": 1
+        }
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "scores": {
+        "deal": 2,
+        "regroup": 0,
+        "war": 12,
+        "transition": 1,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "daily": {
+        "deal": 1,
+        "regroup": 0,
+        "war": 1,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": -2,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 1,
+          "regroup": 0,
+          "war": 7,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 1,
+          "regroup": 0,
+          "war": 7,
+          "transition": 1,
+          "attrition": 3,
+          "recovery": 1
+        }
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "scores": {
+        "deal": 1,
+        "regroup": 0,
+        "war": 12,
+        "transition": 1,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "daily": {
+        "deal": -1,
+        "regroup": 0,
+        "war": 0,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": -2,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 7,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 1,
+          "regroup": 0,
+          "war": 7,
+          "transition": 1,
+          "attrition": 3,
+          "recovery": 1
+        }
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "scores": {
+        "deal": 1,
+        "regroup": 0,
+        "war": 13,
+        "transition": 1,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "daily": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 1,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": -2,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 8,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 1,
+          "regroup": 0,
+          "war": 7,
+          "transition": 1,
+          "attrition": 3,
+          "recovery": 1
+        }
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "scores": {
+        "deal": 1,
+        "regroup": 0,
+        "war": 13,
+        "transition": 1,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "daily": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 0,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": -2,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 8,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 1,
+          "regroup": 0,
+          "war": 7,
+          "transition": 1,
+          "attrition": 3,
+          "recovery": 1
+        }
+      }
+    }
+  ],
+  "score_is_probability": false,
+  "method": "Cumulative directional signal points: reported events + attributed views + unverified legacy seed; daily automated caps"
+}
