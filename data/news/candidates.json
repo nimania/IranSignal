@@ -1,5 +1,14 @@
 [
   {
+    "id": "07981ec2196ea880db10",
+    "source_id": "aljazeera",
+    "title": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
+    "url": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 05:04:32 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "0fcfe696b7a13969ef44",
     "source_id": "bbc",
     "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
@@ -72,11 +81,29 @@
     "score_effect": null
   },
   {
+    "id": "28bb3ba191ba4c34e749",
+    "source_id": "aljazeera",
+    "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
+    "url": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 05:29:07 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "2a42bf8c75a36edfbe1e",
     "source_id": "aljazeera",
     "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
     "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
     "published": "Sat, 24 Oct 2026 00:00:00 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "2aea2430d731657eed2d",
+    "source_id": "aljazeera",
+    "title": "Why is Israel launching a new military operation in the occupied West Bank?",
+    "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 09:14:40 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -104,6 +131,15 @@
     "title": "Trump isn't out to hurt Ukraine, Rubio tells Zelensky",
     "url": "https://www.axios.com/2026/10/20/rubio-zelensky-trump-directive-harm-ukraine-putin",
     "published": "Tue, 20 Oct 2026 12:13:18 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "3a607cd91efa1abec7e5",
+    "source_id": "bbc",
+    "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
+    "url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 24 Oct 2026 07:36:02 GMT",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -329,6 +365,15 @@
     "title": "Why soaring prices aren't breaking America's diesel habit",
     "url": "https://www.axios.com/2026/10/23/soaring-prices-diesel-habit",
     "published": "Fri, 23 Oct 2026 09:15:04 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "8e7d6eb242ad745b803b",
+    "source_id": "aljazeera",
+    "title": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
+    "url": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 07:09:55 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
