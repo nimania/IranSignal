@@ -1,10 +1,37 @@
 [
   {
+    "id": "0764fe0165a019ef4429",
+    "source_id": "axios",
+    "title": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu",
+    "url": "https://www.axios.com/2026/10/24/israel-election-trump-netanyahu-advisers",
+    "published": "Sat, 24 Oct 2026 12:56:30 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "07981ec2196ea880db10",
     "source_id": "aljazeera",
     "title": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
     "url": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss",
     "published": "Sat, 24 Oct 2026 05:04:32 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "0daa81659bd2bec7d105",
+    "source_id": "aljazeera",
+    "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
+    "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 15:50:49 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "0f8f4414b74dcb284a9e",
+    "source_id": "aljazeera",
+    "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+    "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 13:06:03 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -288,6 +315,15 @@
     "score_effect": null
   },
   {
+    "id": "7003788b036dc8c466d6",
+    "source_id": "aljazeera",
+    "title": "Malaysia considers complete ban on Israel-based navigation app Waze",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 12:30:42 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "75d3bc9bafe583af3601",
     "source_id": "axios",
     "title": "Trump open to summit with Xi and Putin — to discuss denuclearization",
@@ -320,6 +356,15 @@
     "title": "Iran-backed militias sending money back to cash-starved IRGC, U.S. says",
     "url": "https://www.axios.com/2026/10/16/iran-backed-militias-sending-money-irgc-centcom",
     "published": "Fri, 16 Oct 2026 20:22:57 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "7fbc5ce12d03ffc00176",
+    "source_id": "aljazeera",
+    "title": "Why Israeli tourists and investors are unsettling Cypriots",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 14:56:47 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -459,6 +504,15 @@
     "score_effect": null
   },
   {
+    "id": "a6ea960c7ad463486071",
+    "source_id": "aljazeera",
+    "title": "Armed Israeli settlers try to break into Palestinian grandfather’s home",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 13:16:23 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "aa9bf6c9aad755639f06",
     "source_id": "aljazeera",
     "title": "‘Generation Right’: Israeli youth show strong support for the right",
@@ -549,6 +603,15 @@
     "score_effect": null
   },
   {
+    "id": "dba65553edae7f5043b3",
+    "source_id": "aljazeera",
+    "title": "Is Iran planning attacks on Americans; why is the US on alert?",
+    "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 12:51:21 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "dd38bb2669cf276f83dd",
     "source_id": "axios",
     "title": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
@@ -576,11 +639,29 @@
     "score_effect": null
   },
   {
+    "id": "f8f712a4567febf9f978",
+    "source_id": "aljazeera",
+    "title": "Netanyahu floats Crypto to bypass sanctions",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 13:27:11 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "fca7ffb6349131f1112b",
     "source_id": "axios",
     "title": "The manosphere stars who helped Trump win are losing their shine",
     "url": "https://www.axios.com/2026/10/20/joe-rogan-trump-vance-young-men",
     "published": "Tue, 20 Oct 2026 14:56:02 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "fcf4a8f8f1d754cc553e",
+    "source_id": "aljazeera",
+    "title": "Full lockdown of occupied West Bank begins",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 14:24:19 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   }
