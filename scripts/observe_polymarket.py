@@ -14,7 +14,10 @@ TARGET = ROOT / "data/polymarket"
 API = "https://gamma-api.polymarket.com/markets"
 TERMS = ("iran", "iranian", "tehran", "hormuz", "khamenei", "nuclear deal",
          "persian gulf", "israel-iran", "us-iran", "u.s.-iran")
-# Gamma's offset endpoint rejects offsets over 2000 (HTTP 422).\n# With 100 markets/page, offsets 0..2000 cover at most 2,100 markets.\n# Prefer keyset pagination for broader discovery in a separate change.\nMAX_PAGES = 21
+# Gamma's offset endpoint rejects offsets over 2000 (HTTP 422).
+# With 100 markets/page, offsets 0..2000 cover at most 2,100 markets.
+# Prefer keyset pagination for broader discovery in a separate change.
+MAX_PAGES = 21
 
 def unpack(value):
     if isinstance(value, list):
