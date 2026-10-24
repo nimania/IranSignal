@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="IranSignal Daily Brief: independently sourced daily analysis of Iran scenarios."><title>Daily Brief | IranSignal</title>
+<style>
+:root{color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:#0b1221;color:#eaf0fc;font:16px/1.7 system-ui,-apple-system,Segoe UI,sans-serif}a{color:#74c8f7}header{border-bottom:1px solid #293950;background:#101b2d}.wrap{max-width:930px;margin:auto;padding:22px}nav{display:flex;gap:24px;align-items:center;flex-wrap:wrap}.brand{font-weight:800;font-size:22px;color:#eaf0fc;text-decoration:none}.brand b{color:#45d6bf}h1{font-size:clamp(34px,5vw,54px);line-height:1.15;margin:40px 0 12px}h2{font-size:23px;margin:0}p{color:#c5d3e4}.subtitle{font-size:19px;max-width:760px}.item{background:#142139;border:1px solid #2a3b56;padding:22px;border-radius:14px;margin:16px 0}.item p{margin:8px 0}.meta{font-size:13px;color:#9eb4d1}.empty{border:1px dashed #3b4d68;border-radius:14px;padding:25px;margin-top:28px}footer{border-top:1px solid #27354c;margin-top:50px;color:#9eb4d1;font-size:13px}button{cursor:pointer;padding:9px 16px;border:1px solid #506687;border-radius:8px;background:#1b354f;color:#fff}
+</style></head><body>
+<header><div class="wrap"><nav><a class="brand" href="../">IRAN<b>SIGNAL</b></a><a href="../">Scenario Radar</a><a href="https://pendar.io/radar/iran-scenarios/">Persian radar</a></nav></div></header>
+<main class="wrap"><h1>Iran Daily Brief</h1><p class="subtitle">A sourced, English-language interpretation of Iran's changing scenarios — separating confirmed developments from competing explanations.</p>
+<div id="entries" aria-live="polite"><div class="empty">No verified daily briefs are published yet. The archive will appear here after editorial review.</div></div></main>
+<footer><div class="wrap">IranSignal · Scenario indicators are evidence indices, not probability forecasts. Every published report must carry a date and sources.</div></footer>
+<script>
+(async function(){
+  const target=document.getElementById('entries');
+  try {
+    const response=await fetch('./manifest.json',{cache:'no-store'});
+    if(!response.ok)throw new Error('manifest unavailable');
+    const records=await response.json();
+    if(!Array.isArray(records))throw new Error('invalid manifest');
+    const entries=records.filter(r=>r&&typeof r==='object'&&/^\d{4}-\d{2}-\d{2}$/.test(r.date)&&typeof r.title==='string'&&typeof r.summary==='string'&&typeof r.slug==='string'&&/^\d{4}-\d{2}-\d{2}\/[a-z0-9-]+$/.test(r.slug)&&r.status==='published').sort((a,b)=>b.date.localeCompare(a.date));
+    if(!entries.length)return;
+    target.replaceChildren();
+    entries.forEach(entry=>{
+      const article=document.createElement('article');article.className='item';
+      const date=document.createElement('div');date.className='meta';date.textContent=entry.date;
+      const h=document.createElement('h2');const a=document.createElement('a');a.href='./'+entry.slug+'/';a.textContent=entry.title;h.append(a);
+      const p=document.createElement('p');p.textContent=entry.summary;
+      article.append(date,h,p);target.append(article);
+    });
+  }catch(e){/* Keep the accessible empty state; never show unreviewed content. */}
+})();
+</script></body></html>
