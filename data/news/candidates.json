@@ -72,6 +72,15 @@
     "score_effect": null
   },
   {
+    "id": "2a42bf8c75a36edfbe1e",
+    "source_id": "aljazeera",
+    "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 00:00:00 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "2c15e5f933ccdc0a9a20",
     "source_id": "axios",
     "title": "Trump: White House didn't impede satellite system in Ukraine",
@@ -360,6 +369,15 @@
     "score_effect": null
   },
   {
+    "id": "999ff2f0a32d6ef8f14b",
+    "source_id": "aljazeera",
+    "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 00:50:05 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "99c66ca062e69bdcc83e",
     "source_id": "bbc",
     "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
@@ -432,6 +450,15 @@
     "score_effect": null
   },
   {
+    "id": "bc927370be7192d7a390",
+    "source_id": "aljazeera",
+    "title": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
+    "url": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 03:47:14 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "be4b7af9ec6feca06c1b",
     "source_id": "axios",
     "title": "Warsh signals steady Fed outlook despite inflation jump",
@@ -473,6 +500,15 @@
     "title": "Putin tells Witkoff he is ready to resume direct peace talks, Russia releases U.S. detainee",
     "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace",
     "published": "Wed, 21 Oct 2026 15:22:02 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "dd38bb2669cf276f83dd",
+    "source_id": "axios",
+    "title": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
+    "url": "https://www.axios.com/2026/10/24/iran-war-us-embassies-evacuations-threat",
+    "published": "Sat, 24 Oct 2026 00:16:19 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
