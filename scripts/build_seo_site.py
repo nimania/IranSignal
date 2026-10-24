@@ -108,7 +108,9 @@ def enhance(file,relative):
            '<meta property="og:type" content="article">' if relative in (REPORT,FA_REPORT) else
            '<!-- SEO:START --><link rel="canonical" href="'+canonical+'">'+alternates+
            '<meta property="og:type" content="website">')
-    extra+=('<meta property="og:site_name" content="IranSignal">'
+    extra+='<link rel="stylesheet" href="'+BASE+'assets/editorial.css">'
+    extra+=('<meta name="theme-color" content="#12253b">'
+            '<meta property="og:site_name" content="IranSignal">'
             '<meta property="og:title" content="'+escape(title,quote=True)+'">'
             '<meta property="og:description" content="'+escape(desc,quote=True)+'">'
             '<meta property="og:url" content="'+canonical+'">'
@@ -118,7 +120,21 @@ def enhance(file,relative):
             '<script type="application/ld+json">'+json.dumps(schema,ensure_ascii=False).replace("</","<\\/")+'</script>'
             '<!-- SEO:END -->')
     html=html.replace("</head>",extra+"</head>",1)
-    footer=('<footer style="border-top:1px solid #ccd5dd;margin:40px auto 0;padding:20px 0;font:14px/1.8 system-ui,sans-serif">'
+    navlinks=[("Home",""),("Daily Briefs","daily/"),("Weekly Reviews","weekly/"),
+              ("Methodology","methodology/"),("About","about/")]
+    links=''.join('<a href="'+url(target)+'">'+label+'</a>' for label,target in navlinks)
+    links+='<a href="'+url("fa/")+'" lang="fa" dir="rtl">فارسی</a>'
+    masthead=('<header class="is-masthead"><div class="is-masthead-inner">'
+             '<div><a class="is-logo" href="'+BASE+'">IRAN<span>SIGNAL</span></a>'
+             '<div class="is-tagline">Iran Scenario Intelligence · Independent Analysis</div></div>'
+             '<div class="is-tagline">Evidence · Scenarios · Perspective</div></div>'
+             '<nav class="is-navbar" aria-label="Primary navigation"><div class="is-navbar-inner">'+links+'</div></nav></header>')
+    # Pages predate a shared semantic body: guarantee a real body and header.
+    if not re.search(r'<body\\b',html,re.I):
+        html=html.replace('</head>','</head><body>',1)
+        html=html.replace('</html>','</body></html>',1)
+    html=re.sub(r'(<body\\b[^>]*>)',lambda m:m.group(1)+masthead,html,count=1,flags=re.I)
+    footer=('<footer class="is-trust-footer" style="border-top:1px solid #ccd5dd;margin:40px auto 0;padding:20px 0;font:14px/1.8 system-ui,sans-serif">'
             '<a href="'+BASE+'">Home</a> · <a href="'+BASE+'daily/">Daily</a> · <a href="'+BASE+'weekly/">Weekly</a> · '
             '<a href="'+BASE+'fa/" lang="fa">فارسی</a> · <a href="'+BASE+'about/">About</a> · '
             '<a href="'+BASE+'methodology/">Methodology</a> · <a href="'+BASE+'editorial-policy/">Editorial Policy</a> · '
@@ -134,6 +150,9 @@ def main():
         dest=root/path/"index.html"
         dest.parent.mkdir(parents=True,exist_ok=True)
         dest.write_text(static_page(title,desc,body),encoding="utf-8")
+    # Assets are deployed alongside HTML and never loaded from a third-party CDN.
+    if not (root/"assets/editorial.css").is_file():
+        raise SystemExit("Missing shared editorial stylesheet")
     for path,title,description,body,language in [
         ("weekly/","Weekly Reviews","Weekly scenario reviews and evidence changes","Our first verified weekly review is being prepared.", "en"),
         ("fa/weekly/","گزارش‌های هفتگی","گزارش‌های هفتگی رادار ایران","اولین گزارش هفتگی پس از تکمیل بررسی‌ها منتشر خواهد شد.", "fa"),
