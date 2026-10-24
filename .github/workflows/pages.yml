@@ -7,6 +7,7 @@ on:
       - 'daily/**'
       - 'fa/**'
       - 'scripts/**'
+      - 'assets/**'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 permissions:
@@ -33,6 +34,7 @@ jobs:
           cp index.html _site/index.html
           cp -a daily _site/daily
           cp -a fa _site/fa
+          cp -a assets _site/assets
           touch _site/.nojekyll
       - name: Generate SEO pages, metadata and sitemap
         run: python3 scripts/build_seo_site.py
