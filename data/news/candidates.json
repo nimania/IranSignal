@@ -162,6 +162,15 @@
     "score_effect": null
   },
   {
+    "id": "39912228276fe3a6eda5",
+    "source_id": "aljazeera",
+    "title": "How have Democrats’ policies shifted since the last major US election?",
+    "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 22:28:37 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "3a607cd91efa1abec7e5",
     "source_id": "bbc",
     "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
@@ -369,6 +378,15 @@
     "score_effect": null
   },
   {
+    "id": "79e05709ddf34bd45b83",
+    "source_id": "aljazeera",
+    "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 20:37:02 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "7a788d7ca9fb388f24b6",
     "source_id": "axios",
     "title": "Iran-backed militias sending money back to cash-starved IRGC, U.S. says",
@@ -509,6 +527,15 @@
     "title": "How the energy crisis could become a food security crisis",
     "url": "https://www.axios.com/2026/10/20/energy-crisis-food-security-crisis",
     "published": "Tue, 20 Oct 2026 13:29:13 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "a2572fc27fc625b349ad",
+    "source_id": "aljazeera",
+    "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+    "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 21:30:11 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
