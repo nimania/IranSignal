@@ -130,10 +130,10 @@ def enhance(file,relative):
              '<div class="is-tagline">Evidence · Scenarios · Perspective</div></div>'
              '<nav class="is-navbar" aria-label="Primary navigation"><div class="is-navbar-inner">'+links+'</div></nav></header>')
     # Pages predate a shared semantic body: guarantee a real body and header.
-    if not re.search(r'<body\\b',html,re.I):
+    if not re.search(r'<body\b',html,re.I):
         html=html.replace('</head>','</head><body>',1)
         html=html.replace('</html>','</body></html>',1)
-    html=re.sub(r'(<body\\b[^>]*>)',lambda m:m.group(1)+masthead,html,count=1,flags=re.I)
+    html=re.sub(r'(<body\b[^>]*>)',lambda m:m.group(1)+masthead,html,count=1,flags=re.I)
     footer=('<footer class="is-trust-footer" style="border-top:1px solid #ccd5dd;margin:40px auto 0;padding:20px 0;font:14px/1.8 system-ui,sans-serif">'
             '<a href="'+BASE+'">Home</a> · <a href="'+BASE+'daily/">Daily</a> · <a href="'+BASE+'weekly/">Weekly</a> · '
             '<a href="'+BASE+'fa/" lang="fa">فارسی</a> · <a href="'+BASE+'about/">About</a> · '
