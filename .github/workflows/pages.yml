@@ -5,6 +5,7 @@ on:
     paths:
       - 'index.html'
       - 'daily/**'
+      - 'fa/**'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 permissions:
@@ -30,6 +31,7 @@ jobs:
           mkdir -p _site
           cp index.html _site/index.html
           cp -a daily _site/daily
+          cp -a fa _site/fa
           touch _site/.nojekyll
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
