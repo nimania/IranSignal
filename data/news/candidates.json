@@ -225,6 +225,15 @@
     "score_effect": null
   },
   {
+    "id": "5424205c6a4d11ac96bd",
+    "source_id": "aljazeera",
+    "title": "Thousands gather at new Albanian antigovernment rally",
+    "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 18:30:56 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "5585a7d1b1b61f045648",
     "source_id": "bbc",
     "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
@@ -320,6 +329,15 @@
     "title": "Malaysia considers complete ban on Israel-based navigation app Waze",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
     "published": "Sat, 24 Oct 2026 12:30:42 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "725fc07d77abab81da1c",
+    "source_id": "aljazeera",
+    "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+    "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+    "published": "Sat, 24 Oct 2026 19:11:48 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -473,6 +491,15 @@
     "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
     "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
     "published": "Fri, 23 Oct 2026 15:37:07 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "99ccc01013538e42e694",
+    "source_id": "bbc",
+    "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+    "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 24 Oct 2026 17:21:42 GMT",
     "status": "unverified_candidate",
     "score_effect": null
   },
