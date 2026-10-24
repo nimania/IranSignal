@@ -14,7 +14,7 @@ TARGET = ROOT / "data/polymarket"
 API = "https://gamma-api.polymarket.com/markets"
 TERMS = ("iran", "iranian", "tehran", "hormuz", "khamenei", "nuclear deal",
          "persian gulf", "israel-iran", "us-iran", "u.s.-iran")
-MAX_PAGES = 25
+# Gamma's offset endpoint rejects offsets over 2000 (HTTP 422).\n# With 100 markets/page, offsets 0..2000 cover at most 2,100 markets.\n# Prefer keyset pagination for broader discovery in a separate change.\nMAX_PAGES = 21
 
 def unpack(value):
     if isinstance(value, list):
@@ -83,7 +83,7 @@ def main():
     records=collect() # Fail closed; no invented or replaced records on API error.
     now=dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
     TARGET.mkdir(parents=True,exist_ok=True)
-    snapshot={"observed_at":now,"source_api":API,"coverage_note":"Up to 2,500 active Gamma markets scanned; question-filtered coverage is not exhaustive.","markets":records,
+    snapshot={"observed_at":now,"source_api":API,"coverage_note":"Up to 2,100 active Gamma markets scanned using supported offsets (0..2000); question-filtered coverage is not exhaustive.","markets":records,
       "caveats":["Prices reflect market expectations, not calibrated event probabilities.",
                  "Quoted prices may be illiquid or stale.","Markets may share underlying information.",
                  "Do not mutate scenario scores from market observations."]}
