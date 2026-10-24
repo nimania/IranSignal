@@ -8,6 +8,7 @@ on:
       - 'fa/**'
       - 'scripts/**'
       - 'assets/**'
+      - 'telegram/**'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 permissions:
@@ -36,6 +37,8 @@ jobs:
           cp -a fa _site/fa
           cp -a assets _site/assets
           touch _site/.nojekyll
+      - name: Generate Telegram-ready Persian summaries
+        run: python3 scripts/build_telegram_daily.py
       - name: Generate SEO pages, metadata and sitemap
         run: python3 scripts/build_seo_site.py
       - name: Validate generated SEO XML and page paths
