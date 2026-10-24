@@ -1,0 +1,43 @@
+/* IranSignal editorial design system — lightweight, no external fonts */
+:root{--ink:#182536;--muted:#5e6c7b;--paper:#f6f4ef;--surface:#fff;--navy:#12253b;--navy2:#213d54;--accent:#a72f34;--line:#d9dbdb;--link:#164b70}
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0!important;background:var(--paper)!important;color:var(--ink)!important;font-family:Inter,"Segoe UI",system-ui,-apple-system,sans-serif!important;font-size:16px!important;line-height:1.78!important}
+html[lang="fa"] body{font-family:Tahoma,system-ui,sans-serif!important;line-height:2!important}
+a{color:var(--link)!important;text-underline-offset:3px}
+a:hover{color:var(--accent)!important}
+body>header:not(.is-masthead){display:none!important}
+.is-masthead{display:block!important;background:var(--navy)!important;border-bottom:4px solid var(--accent)!important;color:white!important;padding:0!important}
+.is-masthead-inner{max-width:1130px;margin:auto;padding:18px 24px 14px;display:flex;justify-content:space-between;align-items:center;gap:20px}
+.is-logo{font-family:Georgia,serif!important;letter-spacing:-.5px;font-size:30px;font-weight:700;white-space:nowrap;text-decoration:none!important;color:white!important}
+.is-logo span{color:#dc9f85}
+.is-tagline{font-size:11px;letter-spacing:1.7px;color:#bfcdd9;text-transform:uppercase}
+.is-navbar{background:#20364d;border-top:1px solid #435a6b}
+.is-navbar-inner{max-width:1130px;margin:auto;padding:8px 24px;display:flex;gap:24px;flex-wrap:wrap}
+.is-masthead a{color:#f3f6fa!important;text-decoration:none}
+.is-navbar a{font-size:13px;font-weight:700;letter-spacing:.3px}
+.is-navbar a:hover{color:#e7bbab!important}
+main,.wrap{max-width:1130px;margin-left:auto;margin-right:auto}
+main{padding-top:28px}
+main:not(.wrap){max-width:850px!important;margin:24px auto!important;padding:24px!important}
+h1,h2,h3{color:var(--navy)!important;letter-spacing:-.5px;line-height:1.25}
+h1{font-family:Georgia,"Times New Roman",serif!important;font-size:clamp(34px,4.6vw,60px)!important;margin:27px 0 17px!important;font-weight:700}
+html[lang="fa"] h1,html[lang="fa"] h2{font-family:Tahoma,system-ui,sans-serif!important;line-height:1.55}
+h2{font-size:clamp(22px,2.4vw,30px)!important;margin-top:32px}
+p,.lead,.subtitle,.panel p,.item p{color:var(--ink)!important}
+.lead,.subtitle{font-size:19px!important;color:#435265!important;max-width:820px}
+.card,.panel,.item,.empty{background:var(--surface)!important;border:1px solid var(--line)!important;border-radius:4px!important;box-shadow:none!important;padding:22px!important}
+.grid{gap:12px!important}
+.label,.meta,.chip,.tag,.card small{color:var(--muted)!important}
+.score{color:var(--navy)!important;font-family:Georgia,serif!important}
+.warning{background:#f1e9e3!important;color:#5e463b!important;border-color:#b47658!important}
+.warning *{color:inherit!important}
+.buttons a,button{background:var(--navy)!important;border:1px solid var(--navy)!important;border-radius:3px!important;color:white!important}
+main article p{font-size:17px;line-height:2}
+main ul li{margin-bottom:8px}
+main iframe{width:100%;max-width:100%}
+.is-trust-footer{max-width:1130px;margin:50px auto 0!important;padding:25px 24px 40px!important;border-top:2px solid var(--navy)!important;color:var(--muted)!important;font-size:13px!important}
+.is-trust-footer a{display:inline-block;margin:0 3px;color:var(--link)!important}
+body>footer:not(.is-trust-footer){display:none!important}
+:focus-visible{outline:3px solid #a72f34;outline-offset:3px}
+@media(max-width:680px){.is-masthead-inner{padding:15px 18px;align-items:flex-start}.is-logo{font-size:25px}.is-tagline{font-size:9px}.is-navbar-inner{gap:14px;padding:9px 18px}.is-navbar a{font-size:12px}main,.wrap{padding:18px!important}.grid{grid-template-columns:1fr!important}h1{font-size:36px!important}}

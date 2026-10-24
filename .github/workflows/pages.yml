@@ -6,6 +6,8 @@ on:
       - 'index.html'
       - 'daily/**'
       - 'fa/**'
+      - 'scripts/**'
+      - 'assets/**'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 permissions:
@@ -32,7 +34,21 @@ jobs:
           cp index.html _site/index.html
           cp -a daily _site/daily
           cp -a fa _site/fa
+          cp -a assets _site/assets
           touch _site/.nojekyll
+      - name: Generate SEO pages, metadata and sitemap
+        run: python3 scripts/build_seo_site.py
+      - name: Validate generated SEO XML and page paths
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from xml.etree import ElementTree
+          root=Path('_site')
+          ElementTree.parse(root/'sitemap.xml')
+          for page in ['index.html','fa/index.html','daily/index.html','fa/daily/index.html','weekly/index.html','fa/weekly/index.html','about/index.html','editorial-policy/index.html','privacy/index.html','contact/index.html']:
+              assert (root/page).is_file(),page
+          print('SEO deployment validation passed')
+          PY
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
