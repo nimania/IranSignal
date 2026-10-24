@@ -60,7 +60,7 @@ def static_page(title,desc,body):
             '<title>'+escape(title)+' | IranSignal</title></head>'
             '<body style="font:18px/1.8 system-ui,sans-serif;max-width:850px;margin:30px auto;padding:0 20px;color:#202d3d">'
             '<nav><a href="'+BASE+'">IranSignal</a> · <a href="'+BASE+'daily/">Daily</a> · '
-            '<a href="'+BASE+'weekly/">Weekly</a> · <a href="'+BASE+'fa/" lang="fa">فارسی</a></nav>'
+            '<a href="'+BASE+'weekly/">Weekly</a> · <a href="'+BASE+'fa/" lang="en">Persian</a></nav>'
             '<h1>'+escape(title)+'</h1>'+body+'</body></html>')
 def tidy_head(html):
     if re.search(r'<head\b',html,re.I): return html
@@ -123,7 +123,7 @@ def enhance(file,relative):
     navlinks=[("Home",""),("Daily Briefs","daily/"),("Weekly Reviews","weekly/"),
               ("Methodology","methodology/"),("About","about/")]
     links=''.join('<a href="'+url(target)+'">'+label+'</a>' for label,target in navlinks)
-    links+='<a href="'+url("fa/")+'" lang="fa" dir="rtl">فارسی</a>'
+    links+='<a href="'+url("fa/")+'" lang="en">Persian</a>'
     masthead=('<header class="is-masthead"><div class="is-masthead-inner">'
              '<div><a class="is-logo" href="'+BASE+'">IRAN<span>SIGNAL</span></a>'
              '<div class="is-tagline">Iran Scenario Intelligence · Independent Analysis</div></div>'
@@ -136,7 +136,7 @@ def enhance(file,relative):
     html=re.sub(r'(<body\b[^>]*>)',lambda m:m.group(1)+masthead,html,count=1,flags=re.I)
     footer=('<footer class="is-trust-footer" style="border-top:1px solid #ccd5dd;margin:40px auto 0;padding:20px 0;font:14px/1.8 system-ui,sans-serif">'
             '<a href="'+BASE+'">Home</a> · <a href="'+BASE+'daily/">Daily</a> · <a href="'+BASE+'weekly/">Weekly</a> · '
-            '<a href="'+BASE+'fa/" lang="fa">فارسی</a> · <a href="'+BASE+'about/">About</a> · '
+            '<a href="'+BASE+'fa/" lang="en">Persian</a> · <a href="'+BASE+'about/">About</a> · '
             '<a href="'+BASE+'methodology/">Methodology</a> · <a href="'+BASE+'editorial-policy/">Editorial Policy</a> · '
             '<a href="'+BASE+'privacy/">Privacy</a> · <a href="'+BASE+'contact/">Contact</a> · '
             '<a href="'+BASE+'terms/">Terms</a></footer>')
