@@ -18,6 +18,15 @@
     "score_effect": null
   },
   {
+    "id": "0936b6d6100c22d6f7aa",
+    "source_id": "aljazeera",
+    "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
+    "url": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 05:27:54 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "0daa81659bd2bec7d105",
     "source_id": "aljazeera",
     "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
@@ -77,6 +86,15 @@
     "title": "Trump names scapegoats as Republicans sweat in Texas",
     "url": "https://www.axios.com/2026/10/16/trump-texas-paxton-cornyn-rove-talarico",
     "published": "Fri, 16 Oct 2026 00:20:56 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "1d33449e2de317c49ee3",
+    "source_id": "aljazeera",
+    "title": "Who Israel elects matters, and not just for Israelis",
+    "url": "https://www.aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 06:41:41 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -162,6 +180,24 @@
     "score_effect": null
   },
   {
+    "id": "3385ba34bcc5dd0468df",
+    "source_id": "aljazeera",
+    "title": "Israel to close occupied West Bank crossings as it locks down Hebron",
+    "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 07:20:36 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "34504a74c9dc1d763973",
+    "source_id": "bbc",
+    "title": "The bitter row over military service that could shape Israel's future",
+    "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 24 Oct 2026 23:03:21 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "39912228276fe3a6eda5",
     "source_id": "aljazeera",
     "title": "How have Democrats’ policies shifted since the last major US election?",
@@ -194,6 +230,15 @@
     "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
     "url": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
     "published": "Fri, 23 Oct 2026 16:29:51 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "41968c37876cc90de4d7",
+    "source_id": "aljazeera",
+    "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+    "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 08:44:17 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -248,6 +293,15 @@
     "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
     "url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
     "published": "Mon, 19 Oct 2026 10:34:18 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "56a9ff3625ca6194d37a",
+    "source_id": "aljazeera",
+    "title": "Election posters, mass tourism and property: Israel’s footprint in Cyprus",
+    "url": "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 05:33:10 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -432,6 +486,15 @@
     "score_effect": null
   },
   {
+    "id": "88980d9f2a03b820075d",
+    "source_id": "aljazeera",
+    "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 10:14:43 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "89856f6ddc3a13d65d76",
     "source_id": "axios",
     "title": "\"People are tired of theater\": The left sours on \"performative\" Trump impeachment",
@@ -477,11 +540,29 @@
     "score_effect": null
   },
   {
+    "id": "942c3f6e7af0b227508e",
+    "source_id": "aljazeera",
+    "title": "Elections cannot produce change in Israel",
+    "url": "https://www.aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-israel?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 06:54:37 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "963494877b488f80a5c0",
     "source_id": "bbc",
     "title": "Israelis demand accountability over 7 October failures three years after attacks",
     "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
     "published": "Wed, 07 Oct 2026 16:00:18 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "968d4999aac93be3a350",
+    "source_id": "aljazeera",
+    "title": "Israeli elections: What are the possible outcomes?",
+    "url": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 07:10:52 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -518,6 +599,15 @@
     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
     "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
     "published": "Sat, 24 Oct 2026 17:21:42 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "9a626af7487e7bd45b14",
+    "source_id": "bbc",
+    "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+    "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 25 Oct 2026 05:15:52 GMT",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -567,6 +657,15 @@
     "score_effect": null
   },
   {
+    "id": "a8a576c43294806409d5",
+    "source_id": "aljazeera",
+    "title": "Police in Albania filmed beating protester unconscious",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 10:45:51 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "aa9bf6c9aad755639f06",
     "source_id": "aljazeera",
     "title": "‘Generation Right’: Israeli youth show strong support for the right",
@@ -581,6 +680,24 @@
     "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
     "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
     "published": "Thu, 08 Oct 2026 05:06:09 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "b3d6eccff47b989811a9",
+    "source_id": "aljazeera",
+    "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
+    "url": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 09:27:03 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "b3fe6cf0c18ddbf01b12",
+    "source_id": "aljazeera",
+    "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
+    "url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 10:50:38 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
