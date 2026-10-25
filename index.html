@@ -28,16 +28,23 @@ p{margin:8px 0;color:#c9d6e7}
 .panel-head{display:flex;justify-content:space-between;gap:18px;align-items:flex-start;flex-wrap:wrap}
 .meta,.muted{color:var(--muted);font-size:13px}
 .source-link{font-size:13px;white-space:nowrap}
-.controls{display:flex;gap:8px;flex-wrap:wrap;margin:20px 0 14px}
-button{font:inherit;color:#d8e7f6;background:#182840;border:1px solid #415675;border-radius:9px;padding:8px 13px;cursor:pointer}
-button[aria-pressed="true"]{background:#24445f;border-color:#70c6e7;color:white}
-button:hover{border-color:#8bd7ff}
-.custom-range{display:none;align-items:end;gap:10px;flex-wrap:wrap;margin:12px 0}
+.controls{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:12px 0 6px}
+select,button{font:inherit;color:#f4f7fb;background:#182840;border:1px solid #60738d;border-radius:8px;padding:6px 10px;cursor:pointer}
+button:hover,select:focus{border-color:#8bd7ff}
+.custom-range{display:none;align-items:end;gap:8px;flex-wrap:wrap;margin:8px 0}
 .custom-range.active{display:flex}
-label{display:grid;gap:4px;color:var(--muted);font-size:12px}
-input[type=date]{font:inherit;color:var(--text);background:#0b1628;border:1px solid #415675;border-radius:8px;padding:7px}
+label{display:grid;gap:3px;color:#d5dfeb;font-size:12px}
+input[type=date]{font:inherit;color:#f4f7fb;background:#0b1628;border:1px solid #60738d;border-radius:8px;padding:5px}
 .chart-wrap{width:100%;overflow:hidden}
-svg{display:block;width:100%;height:auto;min-height:270px}
+svg{display:block;width:100%;height:190px;min-height:0}
+.data-table{width:100%;border-collapse:collapse;margin-top:10px;color:#eaf0f8;font-size:13px}
+.data-table th{background:#1d2d45;color:#fff;text-align:left;font-weight:700}
+.data-table th,.data-table td{padding:9px 10px;border:1px solid #52647c;vertical-align:top}
+.data-table tbody tr:nth-child(even){background:#17263c}
+.data-table tbody tr:nth-child(odd){background:#101d30}
+.data-table .num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.table-wrap{overflow-x:auto}
+.forecast-note{font-size:12px;color:#d4dfeb;margin-top:8px}
 .chart-grid{stroke:#293b55;stroke-width:1}
 .chart-zero{stroke:#8496ad;stroke-width:1.2;stroke-dasharray:5 5}
 .chart-axis{fill:#a9bbd1;font:12px system-ui,sans-serif}
@@ -69,23 +76,14 @@ footer{border-top:1px solid var(--line);margin-top:45px;color:var(--muted);font-
 <section aria-labelledby="page-title"><h1 id="page-title">Iran Daily Analysis Archive</h1><p class="intro">English-language reporting and analysis, organized by publication day. Each entry separates reported facts from interpretation and identifies the evidence that could change the assessment.</p></section>
 <section class="section panel" aria-labelledby="momentum-title">
 <div class="panel-head"><div><p class="meta">HISTORICAL INDICATORS</p><h2 id="momentum-title">Scenario Momentum</h2><p class="muted">Daily cumulative evidence scores across six competing scenarios.</p></div><a class="source-link" href="https://pendar.io/radar/iran-scenarios/">Open the source scenario radar ↗</a></div>
-<div class="controls" role="group" aria-label="Chart date range">
-<button type="button" data-range="daily" aria-pressed="false">Day to day</button>
-<button type="button" data-range="weekly" aria-pressed="true">7 days</button>
-<button type="button" data-range="monthly" aria-pressed="false">30 days</button>
-<button type="button" data-range="all" aria-pressed="false">All history</button>
-<button type="button" data-range="custom" aria-pressed="false">Custom range</button>
-</div>
-<div class="custom-range" id="custom-range">
-<label>Start date<input type="date" id="range-start"></label>
-<label>End date<input type="date" id="range-end"></label>
-<button type="button" id="apply-range">Apply range</button>
-</div>
+<div class="controls"><label for="range-select">View range</label><select id="range-select" aria-label="Chart date range"><option value="daily">Day to day</option><option value="weekly" selected>7 days</option><option value="monthly">30 days</option><option value="all">All history</option><option value="custom">Custom range</option></select><span id="latest-date" class="muted"></span></div>
+<div class="custom-range" id="custom-range"><label>Start date<input type="date" id="range-start"></label><label>End date<input type="date" id="range-end"></label><button type="button" id="apply-range">Apply</button></div>
 <p id="chart-status" class="status" role="status" aria-live="polite">Loading published score history…</p>
-<div class="chart-wrap"><svg id="momentum-chart" viewBox="0 0 960 330" role="img" aria-label="Line chart of daily cumulative scenario momentum scores"></svg></div>
-<div id="momentum-legend" class="legend" aria-label="Scenario scores"></div>
-<div class="chart-note"><strong>Reading the chart:</strong> scores are weighted evidence indices, not probabilities. The published score history currently ends on 22 October 2026. The 24 and 25 October articles are listed below, but the source archive has not published comparable score snapshots for those dates. The chart will extend as daily snapshots are added; missing scores are not estimated.</div>
+<div class="chart-wrap"><svg id="momentum-chart" viewBox="0 0 960 220" role="img" aria-label="Line chart of daily cumulative scenario momentum scores"></svg></div>
+<div class="table-wrap"><table class="data-table" aria-label="Latest scenario momentum scores"><thead><tr><th>Scenario</th><th class="num">Latest score</th></tr></thead><tbody id="momentum-rows"></tbody></table></div>
+<p class="forecast-note">Scores are evidence indices, not probabilities. Published history currently ends on 22 October 2026; newer reports have no comparable score snapshot yet.</p>
 </section>
+<section class="section panel" aria-labelledby="markets-title"><div class="panel-head"><div><p class="meta">LIVE MARKET QUOTES</p><h2 id="markets-title">Prediction Markets</h2><p class="muted">Iran-related contracts, quoted from Polymarket.</p></div><a class="source-link" href="https://polymarket.com/">Open Polymarket ↗</a></div><p id="market-status" class="status" role="status" aria-live="polite">Loading live market quotes…</p><div class="table-wrap"><table class="data-table" aria-label="Iran prediction market quotes"><thead><tr><th>Market</th><th class="num">Yes price</th><th class="num">24h change</th><th>Market end</th></tr></thead><tbody id="market-rows"></tbody></table></div><p class="forecast-note">Market prices are quotes, not calibrated probabilities or IranSignal scenario scores. Quotes may be stale or illiquid.</p></section>
 <section class="section" id="archive" aria-labelledby="archive-title"><p class="meta">LATEST FIRST · GROUPED BY DAY</p><h2 id="archive-title">English Daily Archive</h2><div id="archive-status" class="status" role="status" aria-live="polite">Showing the latest published reports.</div>
 <div id="archive-list">
 <section class="day-group"><h3 class="day-title">Sunday, 25 October 2026</h3><article class="article"><div class="article-top"><span class="article-date">25 October 2026</span></div><h3><a href="./daily/2026-10-25/strike-threat-or-deal/">Iran: Strike Threat or Coercion for a Deal?</a></h3><p>Trump keeps military action in view as Tehran signals conditional openness to talks through Pakistan; neither a strike nor a deal is confirmed.</p><a class="read-link" href="./daily/2026-10-25/strike-threat-or-deal/">Read the analysis →</a></article></section>
@@ -100,7 +98,7 @@ footer{border-top:1px solid var(--line);margin-top:45px;color:var(--muted);font-
 const colors={war:"#ff7e83",attrition:"#f3bd70",deal:"#62c7e5",regroup:"#91aaff",transition:"#c0a0ff",recovery:"#70d7aa"};
 const labels={war:"Return to wide war",attrition:"Attrition / long stalemate",deal:"Deal / pressured settlement",regroup:"Authoritarian regroup",transition:"Collapse and transition",recovery:"Post-Trump recovery / pivot east"};
 const keys=["war","attrition","deal","regroup","transition","recovery"];
-const chart=document.getElementById("momentum-chart"),status=document.getElementById("chart-status"),legend=document.getElementById("momentum-legend");
+const chart=document.getElementById("momentum-chart"),status=document.getElementById("chart-status"),legend=document.getElementById("momentum-rows");
 let points=[],active="weekly";
 const ns="http://www.w3.org/2000/svg";
 function el(tag,attrs,text){const n=document.createElementNS(ns,tag);for(const [k,v] of Object.entries(attrs||{}))n.setAttribute(k,v);if(text)n.textContent=text;return n}
@@ -108,7 +106,7 @@ function utcDate(s){return new Date(s+"T00:00:00Z")}
 function draw(rows){
  chart.replaceChildren();legend.replaceChildren();
  if(!rows.length){status.textContent="No score snapshots are available in this date range.";return}
- const W=960,H=330,L=58,R=22,T=22,B=48,innerW=W-L-R,innerH=H-T-B;
+ const W=960,H=220,L=50,R=18,T=12,B=32,innerW=W-L-R,innerH=H-T-B;
  const vals=rows.flatMap(p=>keys.map(k=>Number(p.scores?.[k]??0))).filter(Number.isFinite);
  let min=Math.min(0,...vals),max=Math.max(0,...vals);if(min===max){min-=1;max+=1}
  const pad=Math.max(1,(max-min)*.12);min-=pad;max+=pad;
@@ -124,8 +122,8 @@ function draw(rows){
   rows.forEach((p,i)=>chart.append(el("circle",{cx:x(i),cy:y(Number(p.scores?.[key]??0)),r:3.4,fill:colors[key],class:"chart-point"})));
  }
  const latest=rows[rows.length-1];
- for(const key of keys){const item=document.createElement("div");item.className="legend-item";const dot=document.createElement("span");dot.className="swatch";dot.style.background=colors[key];const name=document.createElement("span");name.textContent=labels[key];const score=document.createElement("span");score.className="score-value";const v=Number(latest.scores?.[key]??0);score.textContent=(v>0?"+":"")+v;item.append(dot,name,score);legend.append(item)}
- const from=rows[0].date,to=latest.date;
+ for(const key of keys){const item=document.createElement("tr");const name=document.createElement("td");name.textContent=labels[key];const score=document.createElement("td");score.className="num";const v=Number(latest.scores?.[key]??0);score.textContent=(v>0?"+":"")+v;item.append(name,score);legend.append(item)}
+ const from=rows[0].date,to=latest.date;document.getElementById("latest-date").textContent="Latest: "+to;
  status.textContent=rows.length===1?"Latest published snapshot: "+to:"Showing "+rows.length+" daily snapshots, "+from+" to "+to+". Latest scores are dated "+to+".";
 }
 function selectedRows(){
@@ -141,15 +139,15 @@ function selectedRows(){
  return points;
 }
 function setRange(range){
- active=range;document.querySelectorAll("[data-range]").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.range===range)));
+ active=range;document.getElementById("range-select").value=range;
  document.getElementById("custom-range").classList.toggle("active",range==="custom");
  draw(selectedRows());
 }
-document.querySelectorAll("[data-range]").forEach(b=>b.addEventListener("click",()=>setRange(b.dataset.range)));
+document.getElementById("range-select").addEventListener("change",e=>setRange(e.target.value));
 document.getElementById("apply-range").addEventListener("click",()=>draw(selectedRows()));
 (async function(){
  try{
-  const res=await fetch("./data/pendar/iran-scenario-history.json?ts="+Date.now(),{cache:"no-store"});
+  const res=await fetch("https://raw.githubusercontent.com/nimania/IranSignal/main/data/pendar/iran-scenario-history.json?ts="+Date.now(),{cache:"no-store"});
   if(!res.ok)throw new Error("HTTP "+res.status);
   const data=await res.json();
   if(!Array.isArray(data.points)||!data.points.length)throw new Error("No points");
@@ -159,6 +157,26 @@ document.getElementById("apply-range").addEventListener("click",()=>draw(selecte
   document.getElementById("range-end").value=points[points.length-1].date;
   draw(selectedRows());
  }catch(e){status.textContent="Score history could not be loaded. The English article archive remains available below."}
+})();
+(async function(){
+ const body=document.getElementById("market-rows"),status=document.getElementById("market-status");
+ const titles={"1115288":"US recognition of Reza Pahlavi as Iran’s leader in 2026","663583":"Iranian regime falls before 2027","665374":"US invades Iran before 2027","665521":"Iran conducts a nuclear test before 2027","665727":"Iran withdraws from the NPT before 2027","677396":"Iran possesses a nuclear weapon before 2027"};
+ try{
+  const r=await fetch("https://raw.githubusercontent.com/nimania/IranSignal/main/data/polymarket/latest.json?ts="+Date.now(),{cache:"no-store"});
+  if(!r.ok)throw new Error("HTTP "+r.status);
+  const data=await r.json(),markets=(data.markets||[]).filter(m=>titles[m.market_id]).sort((a,b)=>a.question.localeCompare(b.question));
+  if(!markets.length)throw new Error("No Iran markets");
+  body.replaceChildren();
+  for(const m of markets){
+   const tr=document.createElement("tr"),name=document.createElement("td"),price=document.createElement("td"),delta=document.createElement("td"),end=document.createElement("td"),link=document.createElement("a");
+   link.href="https://polymarket.com/event/"+m.slug;link.target="_blank";link.rel="noopener noreferrer";link.textContent=titles[m.market_id];name.append(link);
+   price.className=delta.className=end.className="num";price.textContent=(Number(m.yes_market_price)*100).toFixed(1)+"%";
+   const d=Number(m.delta_24h);delta.textContent=Number.isFinite(d)?((d>0?"+":"")+d.toFixed(1)+" pp"):"—";
+   end.textContent=m.end_date?new Intl.DateTimeFormat("en-US",{year:"numeric",month:"short",day:"numeric",timeZone:"UTC"}).format(new Date(m.end_date)):"—";
+   tr.append(name,price,delta,end);body.append(tr);
+  }
+  status.textContent="Updated "+(data.observed_at||"")+" · "+markets.length+" Iran-related contracts";
+ }catch(e){status.textContent="Market quotes could not be loaded."}
 })();
 (async function(){
  const target=document.getElementById("archive-list"),status=document.getElementById("archive-status");
