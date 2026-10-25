@@ -693,6 +693,15 @@
     "score_effect": null
   },
   {
+    "id": "f1262995a7e3d23fb4f0",
+    "source_id": "aljazeera",
+    "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 02:07:29 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "f8f712a4567febf9f978",
     "source_id": "aljazeera",
     "title": "Netanyahu floats Crypto to bypass sanctions",
@@ -716,6 +725,24 @@
     "title": "Full lockdown of occupied West Bank begins",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
     "published": "Sat, 24 Oct 2026 14:24:19 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "fd2f8ffb0e5bd9b2740e",
+    "source_id": "aljazeera",
+    "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
+    "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 00:34:43 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "fe7f04ef7a64cca57399",
+    "source_id": "aljazeera",
+    "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 00:00:00 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   }
