@@ -261,6 +261,15 @@
     "score_effect": null
   },
   {
+    "id": "3eeadbbd2cd312f19903",
+    "source_id": "bbc",
+    "title": "Why Israel's election is one of the most important in its history",
+    "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 25 Oct 2026 22:05:30 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "41968c37876cc90de4d7",
     "source_id": "aljazeera",
     "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
@@ -347,6 +356,15 @@
     "title": "Trump waives new Russia sanctions in the \"national interests\"",
     "url": "https://www.axios.com/2026/10/17/trump-russia-sanctions",
     "published": "Sat, 17 Oct 2026 17:20:45 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "5a312f0e8a40f47ce322",
+    "source_id": "bbc",
+    "title": "Deeply divided Israel braces for pivotal election",
+    "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 25 Oct 2026 22:11:13 GMT",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -941,6 +959,15 @@
     "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
     "published": "Sun, 25 Oct 2026 02:07:29 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "f883129fcb904c987ec6",
+    "source_id": "axios",
+    "title": "Shapiro looks like a 2028 powerhouse — with an asterisk",
+    "url": "https://www.axios.com/2026/10/25/josh-shapiro-2028-questions",
+    "published": "Sun, 25 Oct 2026 21:44:03 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
