@@ -171,7 +171,7 @@ document.getElementById("apply-range").addEventListener("click",()=>draw(selecte
    const tr=document.createElement("tr"),name=document.createElement("td"),price=document.createElement("td"),delta=document.createElement("td"),end=document.createElement("td"),link=document.createElement("a");
    link.href="https://polymarket.com/event/"+m.slug;link.target="_blank";link.rel="noopener noreferrer";link.textContent=titles[m.market_id];name.append(link);
    price.className=delta.className=end.className="num";price.textContent=(Number(m.yes_market_price)*100).toFixed(1)+"%";
-   const d=Number(m.delta_24h);delta.textContent=Number.isFinite(d)?((d>0?"+":"")+d.toFixed(1)+" pp"):"—";
+   const d=Number(m.delta_24h);delta.textContent=m.delta_24h!==null&&m.delta_24h!==undefined&&Number.isFinite(d)?((d>0?"+":"")+d.toFixed(1)+" pp"):"—";
    end.textContent=m.end_date?new Intl.DateTimeFormat("en-US",{year:"numeric",month:"short",day:"numeric",timeZone:"UTC"}).format(new Date(m.end_date)):"—";
    tr.append(name,price,delta,end);body.append(tr);
   }
