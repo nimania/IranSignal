@@ -198,6 +198,15 @@
     "score_effect": null
   },
   {
+    "id": "310da3987f2d15e943ed",
+    "source_id": "aljazeera",
+    "title": "Israeli air strike on Gaza City university kills three people",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 18:12:13 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "3385ba34bcc5dd0468df",
     "source_id": "aljazeera",
     "title": "Israel to close occupied West Bank crossings as it locks down Hebron",
@@ -410,6 +419,15 @@
     "title": "Trump's Russia waiver draws instant bipartisan backlash",
     "url": "https://www.axios.com/2026/10/17/trump-russia-waiver-putin-republicans-democrats",
     "published": "Sat, 17 Oct 2026 19:18:15 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "6d788f767e51b4377c55",
+    "source_id": "aljazeera",
+    "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 16:30:51 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -666,6 +684,15 @@
     "score_effect": null
   },
   {
+    "id": "a088c1ef2504a58cbbea",
+    "source_id": "aljazeera",
+    "title": "Jerusalem Daily: Israel expels thousands from Hebron",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 17:12:59 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "a2572fc27fc625b349ad",
     "source_id": "aljazeera",
     "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
@@ -815,6 +842,15 @@
     "title": "Geothermal finds rare political sweet spot amid AI boom",
     "url": "https://www.axios.com/2026/10/16/geothermal-rare-political-sweet-spot-ai-boom",
     "published": "Fri, 16 Oct 2026 09:15:05 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "d31df76a5879c6fff6c4",
+    "source_id": "aljazeera",
+    "title": "US and Israel elections: New leaders, same policies?",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
+    "published": "Sun, 25 Oct 2026 17:53:23 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
