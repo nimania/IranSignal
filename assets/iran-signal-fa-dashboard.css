@@ -1,0 +1,36 @@
+/* Shared compact dashboard tables for all Persian IranSignal pages. */
+.ir-dashboard{direction:rtl;background:#fff;color:#142437;border:1px solid #b9c8d8;border-radius:12px;padding:14px;margin:22px 0;font:14px/1.6 system-ui,sans-serif;box-shadow:0 3px 12px #152b4210}
+.ir-dashboard *{box-sizing:border-box}
+.ir-dashboard h2{color:#132b45;margin:0 0 5px;font-size:20px;line-height:1.45}
+.ir-dashboard h3{color:#173451;margin:0 0 6px;font-size:16px;line-height:1.45}
+.ir-dashboard p{color:#33465b;margin:4px 0}
+.ir-dashboard .dash-intro{font-size:13px;color:#40546a}
+.ir-dashboard .dash-grid{display:grid;grid-template-columns:1fr;gap:10px}
+.ir-dashboard .dash-card{border:1px solid #c7d3df;border-radius:9px;padding:10px;background:#f8fafc;min-width:0}
+.ir-dashboard .dash-controls{display:flex;align-items:center;gap:7px;flex-wrap:wrap;margin:5px 0}
+.ir-dashboard select,.ir-dashboard button,.ir-dashboard input{font:inherit;color:#142437;background:#fff;border:1px solid #7589a0;border-radius:6px;padding:4px 7px}
+.ir-dashboard button{cursor:pointer;background:#eaf1f7}
+.ir-dashboard button:hover{background:#dce8f2}
+.ir-dashboard .dash-custom{display:none;align-items:end;gap:7px;flex-wrap:wrap;margin:6px 0}
+.ir-dashboard .dash-custom.active{display:flex}
+.ir-dashboard label{display:grid;gap:2px;font-size:11px;color:#33465b}
+.ir-dashboard .dash-status{font-size:11px;color:#405268}
+.ir-dashboard svg{display:block;width:100%;height:130px}
+.ir-dashboard .dash-table-wrap{overflow-x:auto}
+.ir-dashboard table{width:100%;border-collapse:collapse;color:#142437;font-size:12px;line-height:1.4;min-width:0}
+.ir-dashboard th{background:#183652;color:#fff;text-align:right;font-weight:700}
+.ir-dashboard th,.ir-dashboard td{border:1px solid #9aabbd;padding:5px 6px;vertical-align:middle}
+.ir-dashboard td{color:#142437}
+.ir-dashboard tbody tr:nth-child(odd){background:#fff}
+.ir-dashboard tbody tr:nth-child(even){background:#eaf0f6}
+.ir-dashboard .num{white-space:nowrap;text-align:center;font-variant-numeric:tabular-nums;color:#142437}
+.ir-dashboard a{color:#075985;text-decoration:underline;text-underline-offset:2px}
+.ir-dashboard .dash-note{font-size:11px;color:#405268;margin-top:5px}
+.ir-dashboard .market-table{table-layout:fixed}
+.ir-dashboard .market-table th:first-child,.ir-dashboard .market-table td:first-child{width:54%}
+.ir-dashboard .market-table th:nth-child(2),.ir-dashboard .market-table td:nth-child(2){width:15%}
+.ir-dashboard .market-table th:nth-child(3),.ir-dashboard .market-table td:nth-child(3){width:17%}
+.ir-dashboard .market-table th:last-child,.ir-dashboard .market-table td:last-child{width:14%}
+.ir-dashboard .market-table td:first-child{overflow-wrap:anywhere}
+@media(min-width:800px){.ir-dashboard .dash-grid{grid-template-columns:1fr 1fr}}
+@media(max-width:520px){.ir-dashboard{padding:10px;margin:16px 0}.ir-dashboard .dash-card{padding:8px}.ir-dashboard table{font-size:11px}.ir-dashboard th,.ir-dashboard td{padding:4px}.ir-dashboard .market-table{min-width:390px}}
