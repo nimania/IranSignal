@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T05:24:40.009660+00:00",
+  "generated_at": "2026-10-25T14:25:16.548697+00:00",
   "families": [
     "deal",
     "regroup",
@@ -11,101 +11,11 @@
   ],
   "points": [
     {
-      "date": "2026-10-08",
-      "scores": {
-        "deal": 0,
-        "regroup": 0,
-        "war": 2,
-        "transition": 0,
-        "attrition": 0,
-        "recovery": 0
-      },
-      "daily": {
-        "deal": 0,
-        "regroup": 0,
-        "war": 2,
-        "transition": 0,
-        "attrition": 0,
-        "recovery": 0
-      },
-      "components": {
-        "event": {
-          "deal": 0,
-          "regroup": 0,
-          "war": 0,
-          "transition": 0,
-          "attrition": 0,
-          "recovery": 0
-        },
-        "analyst": {
-          "deal": 0,
-          "regroup": 0,
-          "war": 2,
-          "transition": 0,
-          "attrition": 0,
-          "recovery": 0
-        },
-        "legacy": {
-          "deal": 0,
-          "regroup": 0,
-          "war": 0,
-          "transition": 0,
-          "attrition": 0,
-          "recovery": 0
-        }
-      }
-    },
-    {
-      "date": "2026-10-09",
-      "scores": {
-        "deal": 0,
-        "regroup": 0,
-        "war": 2,
-        "transition": 0,
-        "attrition": 0,
-        "recovery": 0
-      },
-      "daily": {
-        "deal": 0,
-        "regroup": 0,
-        "war": 0,
-        "transition": 0,
-        "attrition": 0,
-        "recovery": 0
-      },
-      "components": {
-        "event": {
-          "deal": 0,
-          "regroup": 0,
-          "war": 0,
-          "transition": 0,
-          "attrition": 0,
-          "recovery": 0
-        },
-        "analyst": {
-          "deal": 0,
-          "regroup": 0,
-          "war": 2,
-          "transition": 0,
-          "attrition": 0,
-          "recovery": 0
-        },
-        "legacy": {
-          "deal": 0,
-          "regroup": 0,
-          "war": 0,
-          "transition": 0,
-          "attrition": 0,
-          "recovery": 0
-        }
-      }
-    },
-    {
       "date": "2026-10-10",
       "scores": {
         "deal": 0,
         "regroup": 0,
-        "war": 2,
+        "war": 0,
         "transition": 1,
         "attrition": 0,
         "recovery": 0
@@ -130,7 +40,7 @@
         "analyst": {
           "deal": 0,
           "regroup": 0,
-          "war": 2,
+          "war": 0,
           "transition": 0,
           "attrition": 0,
           "recovery": 0
@@ -150,7 +60,7 @@
       "scores": {
         "deal": 0,
         "regroup": 0,
-        "war": 2,
+        "war": 0,
         "transition": 1,
         "attrition": 0,
         "recovery": 0
@@ -175,7 +85,7 @@
         "analyst": {
           "deal": 0,
           "regroup": 0,
-          "war": 2,
+          "war": 0,
           "transition": 0,
           "attrition": 0,
           "recovery": 0
@@ -195,7 +105,7 @@
       "scores": {
         "deal": 0,
         "regroup": 0,
-        "war": 4,
+        "war": 0,
         "transition": 1,
         "attrition": 0,
         "recovery": 0
@@ -203,7 +113,7 @@
       "daily": {
         "deal": 0,
         "regroup": 0,
-        "war": 2,
+        "war": 0,
         "transition": 0,
         "attrition": 0,
         "recovery": 0
@@ -220,7 +130,7 @@
         "analyst": {
           "deal": 0,
           "regroup": 0,
-          "war": 4,
+          "war": 0,
           "transition": 0,
           "attrition": 0,
           "recovery": 0
@@ -240,7 +150,7 @@
       "scores": {
         "deal": 0,
         "regroup": 0,
-        "war": 7,
+        "war": 3,
         "transition": 1,
         "attrition": 0,
         "recovery": 0
@@ -265,7 +175,7 @@
         "analyst": {
           "deal": 0,
           "regroup": 0,
-          "war": 4,
+          "war": 0,
           "transition": 0,
           "attrition": 0,
           "recovery": 0
@@ -285,7 +195,7 @@
       "scores": {
         "deal": 0,
         "regroup": 0,
-        "war": 7,
+        "war": 3,
         "transition": 1,
         "attrition": 0,
         "recovery": 1
@@ -310,7 +220,7 @@
         "analyst": {
           "deal": 0,
           "regroup": 0,
-          "war": 4,
+          "war": 0,
           "transition": 0,
           "attrition": 0,
           "recovery": 0
@@ -330,7 +240,7 @@
       "scores": {
         "deal": 0,
         "regroup": 0,
-        "war": 9,
+        "war": 3,
         "transition": 1,
         "attrition": 2,
         "recovery": 1
@@ -338,7 +248,7 @@
       "daily": {
         "deal": 0,
         "regroup": 0,
-        "war": 2,
+        "war": 0,
         "transition": 0,
         "attrition": 2,
         "recovery": 0
@@ -355,7 +265,7 @@
         "analyst": {
           "deal": 0,
           "regroup": 0,
-          "war": 6,
+          "war": 0,
           "transition": 0,
           "attrition": 0,
           "recovery": 0
@@ -375,7 +285,7 @@
       "scores": {
         "deal": 1,
         "regroup": 0,
-        "war": 11,
+        "war": 7,
         "transition": 1,
         "attrition": 2,
         "recovery": 1
@@ -383,7 +293,7 @@
       "daily": {
         "deal": 1,
         "regroup": 0,
-        "war": 2,
+        "war": 4,
         "transition": 0,
         "attrition": 0,
         "recovery": 0
@@ -392,7 +302,7 @@
         "event": {
           "deal": 0,
           "regroup": 0,
-          "war": -2,
+          "war": 0,
           "transition": 0,
           "attrition": 0,
           "recovery": 0
@@ -400,7 +310,7 @@
         "analyst": {
           "deal": 0,
           "regroup": 0,
-          "war": 6,
+          "war": 0,
           "transition": 0,
           "attrition": 0,
           "recovery": 0
@@ -418,17 +328,17 @@
     {
       "date": "2026-10-17",
       "scores": {
-        "deal": 0,
+        "deal": 1,
         "regroup": 0,
-        "war": 10,
+        "war": 7,
         "transition": 1,
         "attrition": 3,
         "recovery": 1
       },
       "daily": {
-        "deal": -1,
+        "deal": 0,
         "regroup": 0,
-        "war": -1,
+        "war": 0,
         "transition": 0,
         "attrition": 1,
         "recovery": 0
@@ -437,15 +347,15 @@
         "event": {
           "deal": 0,
           "regroup": 0,
-          "war": -2,
+          "war": 0,
           "transition": 0,
           "attrition": 0,
           "recovery": 0
         },
         "analyst": {
-          "deal": -1,
+          "deal": 0,
           "regroup": 0,
-          "war": 5,
+          "war": 0,
           "transition": 0,
           "attrition": 0,
           "recovery": 0
@@ -465,16 +375,16 @@
       "scores": {
         "deal": 1,
         "regroup": 0,
-        "war": 11,
-        "transition": 1,
+        "war": 7,
+        "transition": 2,
         "attrition": 3,
         "recovery": 1
       },
       "daily": {
-        "deal": 1,
+        "deal": 0,
         "regroup": 0,
-        "war": 1,
-        "transition": 0,
+        "war": 0,
+        "transition": 1,
         "attrition": 0,
         "recovery": 0
       },
@@ -482,7 +392,7 @@
         "event": {
           "deal": 0,
           "regroup": 0,
-          "war": -2,
+          "war": 0,
           "transition": 0,
           "attrition": 0,
           "recovery": 0
@@ -490,8 +400,8 @@
         "analyst": {
           "deal": 0,
           "regroup": 0,
-          "war": 6,
-          "transition": 0,
+          "war": 0,
+          "transition": 1,
           "attrition": 0,
           "recovery": 0
         },
@@ -508,15 +418,15 @@
     {
       "date": "2026-10-19",
       "scores": {
-        "deal": 2,
+        "deal": 1,
         "regroup": 0,
-        "war": 12,
-        "transition": 1,
+        "war": 8,
+        "transition": 2,
         "attrition": 3,
         "recovery": 1
       },
       "daily": {
-        "deal": 1,
+        "deal": 0,
         "regroup": 0,
         "war": 1,
         "transition": 0,
@@ -527,16 +437,16 @@
         "event": {
           "deal": 0,
           "regroup": 0,
-          "war": -2,
+          "war": 0,
           "transition": 0,
           "attrition": 0,
           "recovery": 0
         },
         "analyst": {
-          "deal": 1,
+          "deal": 0,
           "regroup": 0,
-          "war": 7,
-          "transition": 0,
+          "war": 1,
+          "transition": 1,
           "attrition": 0,
           "recovery": 0
         },
@@ -555,13 +465,13 @@
       "scores": {
         "deal": 1,
         "regroup": 0,
-        "war": 12,
-        "transition": 1,
+        "war": 8,
+        "transition": 2,
         "attrition": 3,
         "recovery": 1
       },
       "daily": {
-        "deal": -1,
+        "deal": 0,
         "regroup": 0,
         "war": 0,
         "transition": 0,
@@ -572,7 +482,7 @@
         "event": {
           "deal": 0,
           "regroup": 0,
-          "war": -2,
+          "war": 0,
           "transition": 0,
           "attrition": 0,
           "recovery": 0
@@ -580,8 +490,8 @@
         "analyst": {
           "deal": 0,
           "regroup": 0,
-          "war": 7,
-          "transition": 0,
+          "war": 1,
+          "transition": 1,
           "attrition": 0,
           "recovery": 0
         },
@@ -598,17 +508,17 @@
     {
       "date": "2026-10-21",
       "scores": {
-        "deal": 1,
+        "deal": 2,
         "regroup": 0,
-        "war": 13,
-        "transition": 1,
+        "war": 8,
+        "transition": 2,
         "attrition": 3,
         "recovery": 1
       },
       "daily": {
-        "deal": 0,
+        "deal": 1,
         "regroup": 0,
-        "war": 1,
+        "war": 0,
         "transition": 0,
         "attrition": 0,
         "recovery": 0
@@ -617,16 +527,16 @@
         "event": {
           "deal": 0,
           "regroup": 0,
-          "war": -2,
+          "war": 0,
           "transition": 0,
           "attrition": 0,
           "recovery": 0
         },
         "analyst": {
-          "deal": 0,
+          "deal": 1,
           "regroup": 0,
-          "war": 8,
-          "transition": 0,
+          "war": 1,
+          "transition": 1,
           "attrition": 0,
           "recovery": 0
         },
@@ -643,10 +553,145 @@
     {
       "date": "2026-10-22",
       "scores": {
+        "deal": 2,
+        "regroup": 0,
+        "war": 10,
+        "transition": 2,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "daily": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 2,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 1,
+          "regroup": 0,
+          "war": 3,
+          "transition": 1,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 1,
+          "regroup": 0,
+          "war": 7,
+          "transition": 1,
+          "attrition": 3,
+          "recovery": 1
+        }
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "scores": {
+        "deal": 2,
+        "regroup": 0,
+        "war": 11,
+        "transition": 2,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "daily": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 1,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 1,
+          "regroup": 0,
+          "war": 4,
+          "transition": 1,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 1,
+          "regroup": 0,
+          "war": 7,
+          "transition": 1,
+          "attrition": 3,
+          "recovery": 1
+        }
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "scores": {
+        "deal": 3,
+        "regroup": 0,
+        "war": 11,
+        "transition": 2,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "daily": {
         "deal": 1,
         "regroup": 0,
-        "war": 13,
-        "transition": 1,
+        "war": 0,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 0,
+          "regroup": 0,
+          "war": 0,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 2,
+          "regroup": 0,
+          "war": 4,
+          "transition": 1,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 1,
+          "regroup": 0,
+          "war": 7,
+          "transition": 1,
+          "attrition": 3,
+          "recovery": 1
+        }
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "scores": {
+        "deal": 3,
+        "regroup": 0,
+        "war": 11,
+        "transition": 2,
         "attrition": 3,
         "recovery": 1
       },
@@ -662,16 +707,16 @@
         "event": {
           "deal": 0,
           "regroup": 0,
-          "war": -2,
+          "war": 0,
           "transition": 0,
           "attrition": 0,
           "recovery": 0
         },
         "analyst": {
-          "deal": 0,
+          "deal": 2,
           "regroup": 0,
-          "war": 8,
-          "transition": 0,
+          "war": 4,
+          "transition": 1,
           "attrition": 0,
           "recovery": 0
         },
