@@ -1,5 +1,1743 @@
 [
   {
+    "id": "auto-27b4fb3492e050e843",
+    "date": "2026-10-26",
+    "ts": 1793052269455,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "گزارش های منطقه ای از تحولات یمن و سوریه؛ سرنگونی هواپیما و حملات هوایی",
+    "source": "خبرگزاری ایرنا (IRNA)، خبرگزاری مهر (Mehr)، مشرق نیوز",
+    "source_url": "/story/bef4963b-e7d1-4c31-9a5c-126b1a3c1324/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/bef4963b-e7d1-4c31-9a5c-126b1a3c1324/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86303511/%DB%8C%D9%85%D9%86-%DB%8C%DA%A9-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%B1%D8%A7-%D8%B3%D8%B1%D9%86%DA%AF%D9%88%D9%86-%DA%A9%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری مهر (Mehr)",
+        "url": "https://www.mehrnews.com/news/6990109/%D9%85%D8%AD%D9%85%D8%AF%D8%AE%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D9%88%D8%AF-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D9%87%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848382/%DB%B1%DB%B1%DB%B9-%D8%AD%D9%85%D9%84%D9%87-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%DB%8C%D9%85%D9%86-%D8%B7%DB%8C-%DB%B2%DB%B4-%D8%B3%D8%A7%D8%B9%D8%AA-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201755/119-حمله-عربستان-به-یمن-طی-24-ساعت-گذشته",
+        "kind": "original"
+      },
+      {
+        "label": "باشگاه خبرنگاران جوان",
+        "url": "https://www.yjc.ir/fa/news/9142688/انصارالله-عربستان-در-۲۴-ساعت-۱۱۹-حمله-به-یمن-انجام-داده-است",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86304305/%D8%AD%D9%85%D9%84%D9%87-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B1%D8%AF%D9%86-%D8%A8%D9%87-%D8%B3%D9%88%D8%B1%DB%8C%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1137586",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "bef4963b-e7d1-4c31-9a5c-126b1a3c1324",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "یحیی سریع",
+        "role": "سخنگوی نیروهای مسلح یمن",
+        "statement": "عربستان سعودی طی ۲۴ ساعت گذشته در مجموع ۱۱۹ حمله هوایی و موشکی علیه یمن انجام داده است.",
+        "direct_quote": false,
+        "source_url": "https://www.asriran.com/fa/news/1201755/119-حمله-عربستان-به-یمن-طی-24-ساعت-گذشته"
+      }
+    ],
+    "uncertainty": "مستقل بودن آمار حملات اعلام شده به یمن و جزئیات دقیق سرنگونی هواپیمای شناسایی از سوی منابع مستقل تأیید نشده است.؛ جزئیات کامل و پیامدهای دقیق عملیات هوایی اردن در جنوب سوریه هنوز به طور کامل روشن نیست.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-03587982daa97dd85e",
+    "date": "2026-10-26",
+    "ts": 1793052216139,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "مواضع انتخاباتی گادی آیزنکوت درباره برنامه هسته ای و سیاست های منطقه ای اسرائیل در قبال ایران",
+    "source": "مشرق نیوز، همشهری آنلاین، خبرگزاری مهر (Mehr)",
+    "source_url": "/story/57846bd5-245a-4b35-a878-82aec1f3c9a8/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/57846bd5-245a-4b35-a878-82aec1f3c9a8/",
+        "kind": "pendar"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848156/%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%B1%D8%A7-%D9%86%D8%A7%D8%A8%D9%88%D8%AF-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%DA%A9%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1080479/%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D9%85%DB%8C-%D8%AF%D8%A7%D9%86%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1080481/%D9%85%D9%86-%D9%85%DB%8C-%D8%AF%D8%A7%D9%86%D9%85-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D9%86%D8%A7%D8%A8%D9%88%D8%AF-%DA%A9%D9%86%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری مهر (Mehr)",
+        "url": "https://www.mehrnews.com/news/6990859/%D8%A2%DB%8C%D8%B2%D9%86%DA%A9%D9%88%D8%AA-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D9%85%DB%8C-%D8%AF%D8%A7%D9%86%D8%AF-%DA%A9%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%D8%B1%DA%AF%D8%B2-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D9%86%D8%AF%D8%A7%D8%B4%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201738/ادعای-رقیب-انتخاباتی-نتانیاهو-من-می-دانم-چگونه-برنامه-هسته-ای-ایران-را-نابود-کنم",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416614",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1080502/%D8%A2%DB%8C%D8%B2%D9%86%DA%A9%D9%88%D8%AA-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D9%85%DB%8C-%D8%AF%D8%A7%D9%86%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%AD%DA%A9%D9%88%D9%85%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "آشیان سیمرغ",
+        "url": "https://t.me/simorghdata369/3154",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "57846bd5-245a-4b35-a878-82aec1f3c9a8",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "گادی آیزنکوت",
+        "role": "رقیب اصلی نتانیاهو در انتخابات اسرائیل",
+        "statement": "نتانیاهو فردی متوهم است و می داند که ایران سلاح هسته ای نداشته است.",
+        "direct_quote": false,
+        "source_url": "https://www.hamshahrionline.ir/news/1080502/%D8%A2%DB%8C%D8%B2%D9%86%DA%A9%D9%88%D8%AA-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D9%85%DB%8C-%D8%AF%D8%A7%D9%86%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%AD%DA%A9%D9%88%D9%85%D8%AA"
+      },
+      {
+        "name": "گادی آیزنکوت",
+        "role": "رقیب اصلی نتانیاهو در انتخابات کنست رژیم صهیونیستی",
+        "statement": "تعیین تغییر رژیم به عنوان هدف جنگ علیه ایران، کار درستی نیست.",
+        "direct_quote": false,
+        "source_url": "https://www.hamshahrionline.ir/news/1080502/%D8%A2%DB%8C%D8%B2%D9%86%DA%A9%D9%88%D8%AA-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D9%85%DB%8C-%D8%AF%D8%A7%D9%86%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%AD%DA%A9%D9%88%D9%85%D8%AA"
+      },
+      {
+        "name": "گادی آیزنکوت",
+        "role": "رئیس پیشین ستاد کل ارتش اسرائیل و از رقبای سیاسی بنیامین نتانیاهو",
+        "statement": "اگرچه از سقوط حکومت ایران استقبال می کنم، اما تعیین تغییر حکومت به عنوان هدف عملیات نظامی را درست نمی دانم و می دانم چگونه برنامه هسته ای و موشکی ایران و نیروهای هم پیمانش را نابود کنم.",
+        "direct_quote": false,
+        "source_url": "https://t.me/simorghdata369/3154"
+      }
+    ],
+    "uncertainty": "میزان حمایت عمومی از مواضع و ادعاهای آیزنکوت در میان رأی دهندگان اسرائیلی مشخص نیست.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-932988574f91b891c2",
+    "date": "2026-10-26",
+    "ts": 1793052211556,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "نشست چهارجانبه امنیتی ایران، ترکیه، پاکستان و عربستان در تهران برگزار شد",
+    "source": "خبرگزاری صداوسیما، میزان، مشرق نیوز",
+    "source_url": "/story/de628f27-fcc6-496c-80ab-36d6cd8ac861/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/de628f27-fcc6-496c-80ab-36d6cd8ac861/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5949454/سرلشکر-رضایی-امنیت-در-غرب-آسیا-باید-درون-زا-باشد",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4925998/سرلشکر-رضایی-امنیت-در-غرب-آسیا-باید-درون-زا-باشد",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848383/%D8%B3%D8%B1%D9%84%D8%B4%DA%A9%D8%B1-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%AF%D8%B1-%D8%BA%D8%B1%D8%A8-%D8%A2%D8%B3%DB%8C%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AF%D8%B1%D9%88%D9%86-%D8%B2%D8%A7-%D8%A8%D8%A7%D8%B4%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945214/محسن-رضایی-مقامات-ارشد-ترکیه-پاکستان-و-عربستان-معتقد-بودند-راه-حل-مشکلات-منطقه-در-همراهی-هر-چهار-کشور-با-یکدیگر-است-به-این-نتیجه-رسیدیم-که-امنیت-در-غرب-آسیا-باید-درون-زا-باشد",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416616",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2387971/",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1092647/سرلشکر-رضایی-امنیت-در-غرب-آسیا-باید-درون-زا-باشد",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1080506/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D9%86%D8%B4%D8%B3%D8%AA-%DA%86%D9%87%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%A7%D9%85%D9%86%DB%8C%D8%AA%DB%8C-%D8%A8%D8%A7-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D9%87%D9%85%D8%B3%D8%A7%DB%8C%D9%87",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "de628f27-fcc6-496c-80ab-36d6cd8ac861",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "مقامات ارشد ترکیه، پاکستان و عربستان معتقد بودند راه حل مشکلات منطقه در همراهی هر چهار کشور با یکدیگر است و به این نتیجه رسیدیم که امنیت در غرب آسیا باید درون زا باشد.",
+        "direct_quote": false,
+        "source_url": "https://www.mizanonline.ir/fa/news/4925998/سرلشکر-رضایی-امنیت-در-غرب-آسیا-باید-درون-زا-باشد"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق و مفاد توافق شده در نشست چهارجانبه خارج از کلیات اعلام شده توسط دبیر شورای عالی امنیت ملی منتشر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-677f1ef495f12f2753",
+    "date": "2026-10-26",
+    "ts": 1793052186869,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تاکید وزیر خارجه عمان بر ضرورت مشارکت ایران در امنیت خلیج فارس",
+    "source": "خبرگزاری ایرنا (IRNA)، انتخاب، اقتصاد آنلاین",
+    "source_url": "/story/1c267c39-ca6c-41bd-84ed-df3ee0a004bc/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/1c267c39-ca6c-41bd-84ed-df3ee0a004bc/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86304310/%D9%88%D8%B2%DB%8C%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A8%D8%AF%D9%88%D9%86-%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D9%85%DA%A9%D9%86-%D9%86%DB%8C%D8%B3%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945224/وزیر-خارجه-عمان-امنیت-خلیج-فارس-بدون-مشارکت-ایران-ممکن-نیست-مسئله-این-نیست-که-شما-با-ایران-دوست-هستید-یا-دشمن-امروز-ایران-یک-واقعیت-است-مسئله-هسته-ای-و-موضوع-تنگه-هرمز-هر-دو-غیرقابل-حل-شده-اند-زیرا-قدرت-های-خارجی-همچنان-شرایط-و-چارچوب-تعاملات-را-تعیین-می-کنند-خواستار-ایجاد-یک-ساختار-امنیتی-فراگیر-با-مشارکت-ایران-عراق-و-شش-کشور-عضو-شورای-همکاری-خلیج-فارس-هستیم",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171527/وزیر-خارجه-عمان-حذف-ایران-از-امنیت-خلیج-فارس-شکست-خورده-است",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304471-%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A8%D8%AF%D9%88%D9%86-%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D9%85%DA%A9%D9%86-%D9%86%DB%8C%D8%B3%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1012651/%D9%88%D8%B2%DB%8C%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%B9%D9%85%D8%A7%D9%86-%D9%87%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1-%D8%A7%D9%85%D9%86%DB%8C%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A8%D8%AF%D9%88%D9%86-%D8%AD%D8%B6%D9%88%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B0%D8%A7%D8%AA%D8%A7-%D8%A8%DB%8C-%D8%AB%D8%A8%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "1c267c39-ca6c-41bd-84ed-df3ee0a004bc",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "واکنش رسمی دیگر کشورهای عضو شورای همکاری خلیج فارس و قدرت های خارجی به این پیشنهاد مشخص نشده است.؛ جزئیات اجرایی و مکانیسم توافق عدم تعرض پیشنهادی اعلام نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-37ac5648a6231251ed",
+    "date": "2026-10-26",
+    "ts": 1793052183441,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "طرح قطر برای توافق پنج روزه میان ایران و آمریکا",
+    "source": "رویداد۲۴، اقتصاد آنلاین، خبرآنلاین — تلگرام",
+    "source_url": "/story/dd40cde3-d7d5-413c-8273-b5205fffbc11/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/dd40cde3-d7d5-413c-8273-b5205fffbc11/",
+        "kind": "pendar"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475450/دو-دیپلمات-مطلع-به-نیویورک-تایمز-قطر-یک-طرح-توافق-پنج-روزه-میان-ایران-و-آمریکا-ارائه-کرده-است",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171508/طرح-جدید-قطر-برای-توافق-ایران-و-آمریکا-نشست-امروز-آغاز-دور-جدید-مذاکرات-بود",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/666229",
+        "kind": "original"
+      },
+      {
+        "label": "ایران اینترنشنال (Iran International)",
+        "url": "https://www.iranintl.com/202610261686",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304478-%D9%BE%DB%8C%D8%B4%D9%86%D9%87%D8%A7%D8%AF-%D9%85%DB%8C%D8%A7%D9%86%D8%AC%DB%8C-%D9%87%D8%A7%DB%8C-%D9%82%D8%B7%D8%B1%DB%8C-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "dd40cde3-d7d5-413c-8273-b5205fffbc11",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "میزان پیشرفت دقیق مذاکرات و احتمال موفقیت نهایی این طرح هنوز روشن نیست.؛ اختلاف نظر بر سر زمان بندی اجرای تعهدات به طور کامل حل نشده باقی مانده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-98d364ece22ab6e312",
+    "date": "2026-10-26",
+    "ts": 1793037752000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "اگرچه از سقوط حکومت ایران استقبال می کنم، اما تعیین تغییر حکومت به عنوان هدف عملیات نظامی را درست نمی دانم و می دانم چگونه برنامه هسته ای و موشکی ایران و نیروهای هم پیمانش را نابود کنم.",
+    "source": "گادی آیزنکوت",
+    "source_url": "https://t.me/simorghdata369/3154",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/simorghdata369/3154",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/57846bd5-245a-4b35-a878-82aec1f3c9a8/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "57846bd5-245a-4b35-a878-82aec1f3c9a8",
+    "speaker": "گادی آیزنکوت",
+    "speaker_role": "رئیس پیشین ستاد کل ارتش اسرائیل و از رقبای سیاسی بنیامین نتانیاهو",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-90277d02df4eac66c1",
+    "date": "2026-10-26",
+    "ts": 1793037375216,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "پایان نشست چهارجانبه تهران؛ توافق ایران، عربستان، ترکیه و پاکستان بر ادامه گفت وگوهای امنیتی",
+    "source": "دنیای اقتصاد، شورای عالی امنیت ملی",
+    "source_url": "/story/5a345a8b-1d97-4641-b066-71db9992c250/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/5a345a8b-1d97-4641-b066-71db9992c250/",
+        "kind": "pendar"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416589",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1137532",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945201/ببینید-پایان-نشست-چهارجانبه-ایران-عربستان-ترکیه-و-پاکستان-در-سعدآباد",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4304329-%D9%BE%D8%B4%D8%AA-%D8%AF%D8%B1%D9%87%D8%A7%DB%8C-%D9%86%D8%B4%D8%B3%D8%AA-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5949398/بیانیه-مطبوعاتی-نشست-چهارجانبه-امنیت-و-ثبات-منطقه-ای",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4925989/بیانیه-نشست-چهارجانبه-ایران-پاکستان-ترکیه-عربستان-درباره-امنیت-و-ثبات-منطقه-ای",
+        "kind": "original"
+      },
+      {
+        "label": "رکنا",
+        "url": "https://www.rokna.net/fa/tiny/news-1261435",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2387909/",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "5a345a8b-1d97-4641-b066-71db9992c250",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق مباحث مطرح شده پشت درهای بسته و برنامه های عملیاتی آینده مشخص نشده است.؛ سطح دقیق دیپلماتیک یا نظامی نمایندگان خارجی شرکت کننده در خبرها تصریح نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-89266183074f3710ba",
+    "date": "2026-10-26",
+    "ts": 1793037354000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تعیین تغییر رژیم به عنوان هدف جنگ علیه ایران، کار درستی نیست.",
+    "source": "گادی آیزنکوت",
+    "source_url": "https://www.hamshahrionline.ir/news/1080502/%D8%A2%DB%8C%D8%B2%D9%86%DA%A9%D9%88%D8%AA-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D9%85%DB%8C-%D8%AF%D8%A7%D9%86%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%AD%DA%A9%D9%88%D9%85%D8%AA",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.hamshahrionline.ir/news/1080502/%D8%A2%DB%8C%D8%B2%D9%86%DA%A9%D9%88%D8%AA-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D9%85%DB%8C-%D8%AF%D8%A7%D9%86%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%AD%DA%A9%D9%88%D9%85%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/57846bd5-245a-4b35-a878-82aec1f3c9a8/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "57846bd5-245a-4b35-a878-82aec1f3c9a8",
+    "speaker": "گادی آیزنکوت",
+    "speaker_role": "رقیب اصلی نتانیاهو در انتخابات کنست رژیم صهیونیستی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-394c217b2f963c282c",
+    "date": "2026-10-26",
+    "ts": 1793037321786,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تکذیب حمله پیش دستانه به ایران در آستانه انتخابات اسرائیل؛ بن بست سیاسی در نظرسنجی ها",
+    "source": "مشرق نیوز، فرارو، بی بی سی فارسی",
+    "source_url": "/story/6be036d9-c7f9-4aac-91c5-aaf9755b467b/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/6be036d9-c7f9-4aac-91c5-aaf9755b467b/",
+        "kind": "pendar"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848197/%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D9%86%D8%B8%D8%B1%D8%B3%D9%86%D8%AC%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4925833/آغاز-سکوت-انتخاباتی-در-اراضی-اشغالی-آخرین-نظرسنجی-ها-درباره-وضعیت-نتانیاهو-و-آیزنکوت",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945111/ادعای-وزیر-جنگ-اسرائیل-قاطعانه-می-گویم-که-اسرائیل-قصدی-برای-حمله-پیش-دستانه-به-ایران-پیش-از-انتخابات-ندارد",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1073876/وزیر-جنگ-اسرائیل-برنامه-ای-برای-حمله-به-ایران-پیش-از-انتخابات-نداشته-ایم",
+        "kind": "original"
+      },
+      {
+        "label": "رادیو فردا",
+        "url": "https://www.radiofarda.com/a/israel-defence-minister-denies-report-of-pm-army-rift-on-eve-of-election/33884404.html",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304292-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%DA%A9%D8%A7%D8%AA%D8%B3-%D8%A8%D9%87-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D9%87%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%B3%D8%AA%D8%A7%D8%AF-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D9%82%D8%B5%D8%AF-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D9%86%D8%AF%D8%A7%D8%B1%DB%8C%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2293423/%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%DA%A9%D8%A7%D8%AA%D8%B3-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%82%D8%B5%D8%AF-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B1%D8%A7-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848283/%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%DA%A9%D8%A7%D8%AA%D8%B3-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%82%D8%B5%D8%AF-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B1%D8%A7-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "6be036d9-c7f9-4aac-91c5-aaf9755b467b",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "اسرائیل کاتس",
+        "role": "وزیر جنگ اسرائیل",
+        "statement": "قاطعانه تأکید می کنم که اسرائیل هیچ قصدی برای انجام حمله پیش دستانه به ایران پیش از انتخابات نداشته است و گزارش ها درباره اختلاف میان نتانیاهو و رئیس ستاد کل ارتش صحت ندارد.",
+        "direct_quote": true,
+        "source_url": "https://www.entekhab.ir/fa/news/945111/ادعای-وزیر-جنگ-اسرائیل-قاطعانه-می-گویم-که-اسرائیل-قصدی-برای-حمله-پیش-دستانه-به-ایران-پیش-از-انتخابات-ندارد"
+      }
+    ],
+    "uncertainty": "توانایی هر یک از جناح های سیاسی برای شکستن بن بست و تشکیل کابینه پس از انتخابات.؛ میزان واقعیت داشتن اختلافات داخلی میان نخست وزیر و رئیس ستاد کل ارتش که توسط وزیر جنگ تکذیب شده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-85ab94ea1c6efe56da",
+    "date": "2026-10-26",
+    "ts": 1793037228312,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "سفر پزشکیان به مسکو؛ رایزنی درباره امنیت انرژی و توافق جامع راهبردی با روسیه",
+    "source": "عصر ایران، آنا",
+    "source_url": "/story/d7dec160-82f5-41fe-b8f6-611ae2a1d31a/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/d7dec160-82f5-41fe-b8f6-611ae2a1d31a/",
+        "kind": "pendar"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4925982/پزشکیان-تهران-را-به-مقصد-مسکو-ترک-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201699/پزشکیان-تهران-را-به-مقصد-مسکو-ترک-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475433/پزشکیان-عازم-مسکو-شد",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1092621/رئیس-جمهور-تهران-را-به-مقصد-مسکو-ترک-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416585",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4925984/پزشکیان-تأمین-امنیت-مسیر-های-انتقال-انرژی-و-تقویت-چندجانبه-گرایی-از-محور-های-اجلاس-سران-مجمع-کشور-های-صادرکننده-گاز-است",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945197/پزشکیان-پیش-از-عزیمت-به-روسیه-در-این-سفر-دیدار-و-گفت-وگوی-مستقیمی-با-آقای-پوتین-خواهم-داشت-در-این-دیدار-درباره-توسعه-روابط-دوجانبه-و-موضوعات-مختلف-مورد-علاقه-دو-کشور-گفت-و-گو-خواهیم-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848356/%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D8%B9%D8%B2%DB%8C%D9%85%D8%AA-%D8%A8%D9%87-%D9%85%D8%B3%DA%A9%D9%88-%D8%B1%D9%88%D8%A7%D8%A8%D8%B7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%B1%D9%88%D8%B2%D8%A8%D9%87-%D8%B1%D9%88%D8%B2-%DA%AF%D8%B3%D8%AA%D8%B1%D8%B4",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "d7dec160-82f5-41fe-b8f6-611ae2a1d31a",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "مسعود پزشکیان",
+        "role": "رئیس جمهور",
+        "statement": "یک قدرت بخواهد بر اساس خواست خود برای سایر کشورها تصمیم بگیرد و محدودیت هایی را بر آنها تحمیل کند، قابل قبول نیست.",
+        "direct_quote": true,
+        "source_url": "https://ana.ir/fa/news/1092630/پزشکیان-تحمیل-اراده-یک-کشور-بر-سایر-کشورها-قابل-قبول-نیست-همکاری-های-تهران-و-مسکو-روزبه-روز-در-حال-گسترش-است"
+      },
+      {
+        "name": "مسعود پزشکیان",
+        "role": "رئیس جمهور",
+        "statement": "در این سفر، دیدار و گفت وگوی مستقیمی با آقای پوتین خواهم داشت و درباره توسعه روابط دوجانبه گفت و گو خواهیم کرد.",
+        "direct_quote": true,
+        "source_url": "https://www.entekhab.ir/fa/news/945197/پزشکیان-پیش-از-عزیمت-به-روسیه-در-این-سفر-دیدار-و-گفت-وگوی-مستقیمی-با-آقای-پوتین-خواهم-داشت-در-این-دیدار-درباره-توسعه-روابط-دوجانبه-و-موضوعات-مختلف-مورد-علاقه-دو-کشور-گفت-و-گو-خواهیم-کرد"
+      },
+      {
+        "name": "حبیب الله عباسی",
+        "role": "مدیرکل روابط عمومی دفتر رئیس جمهور",
+        "statement": "رئیس جمهور عصر امروز به منظور شرکت و سخنرانی در هشتمین اجلاس سران راهی مسکو می شود.",
+        "direct_quote": false,
+        "source_url": "https://fa.shafaqna.com/news/2387862/"
+      }
+    ],
+    "uncertainty": "در تاریخ دقیق سفر میان منابع اختلاف وجود دارد (برخی ۴ مهر و برخی ۴ آبان را ذکر کرده اند).؛ جزییات دقیق از میزان پیشرفت اجرایی توافقنامه جامع راهبردی در این مرحله از گفتگوها منتشر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-d60119cca8a706742c",
+    "date": "2026-10-26",
+    "ts": 1793037148470,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "اعطای درجه سرلشکری به شهید محمدصالح اسدی و تجلیل از دانش آموختگان ارتش",
+    "source": "خبرگزاری آنا، شفقنا فارسی",
+    "source_url": "/story/d06619b5-0fdc-439b-99ce-e5784f0fb21d/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/d06619b5-0fdc-439b-99ce-e5784f0fb21d/",
+        "kind": "pendar"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1092286/برگزاری-آیین-اعطای-عطیه-فرماندهی-معظم-کل-قوا-به-دانش-آموختگان-دانشگاه-افسری-امام-علی-ع",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1092286/برگزاری-آیین-اعطای-عطیه-فرمانده-معظم-کل-قوا-به-دانش-آموختگان-دانشگاه-افسری-امام-علی-ع",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1080351/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87-%DA%A9%D9%84-%D9%82%D9%88%D8%A7-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%B1%D9%84%D8%B4%DA%A9%D8%B1%DB%8C-%D8%A8%D9%87-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A7%D8%B3%D8%AF%DB%8C-%D8%A7%D8%B9%D8%B7%D8%A7-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF-%D8%B9%DA%A9%D8%B3",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848285/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87-%DA%A9%D9%84-%D9%82%D9%88%D8%A7-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%B1%D9%84%D8%B4%DA%A9%D8%B1%DB%8C-%D8%A8%D9%87-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A7%D8%B3%D8%AF%DB%8C-%D8%A7%D8%B9%D8%B7%D8%A7-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4925975/اعطای-درجه-سرلشکری-به-شهید-محمدصالح-اسدی-ازسوی-فرمانده-معظم-کل-قوا",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405080402606/%D8%A7%D8%B9%D8%B7%D8%A7%DB%8C-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%B1%D9%84%D8%B4%DA%A9%D8%B1%DB%8C-%D8%A8%D9%87-%D8%B4%D9%87%DB%8C%D8%AF-%D9%85%D8%AD%D9%85%D8%AF%D8%B5%D8%A7%D9%84%D8%AD-%D8%A7%D8%B3%D8%AF%DB%8C",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5949420/دیدار-با-خانواده-سرلشکر-شهید-اسدی",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2387941/",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "d06619b5-0fdc-439b-99ce-e5784f0fb21d",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "یحیی سریع",
+        "role": "سخنگوی نیروهای مسلح یمن",
+        "statement": "عربستان طی ۲۴ ساعت گذشته ۱۱۹ حمله هوایی و موشکی علیه مراکز غیرنظامی در صنعا و چندین استان دیگر یمن انجام داده است.",
+        "direct_quote": false,
+        "source_url": "https://fa.shafaqna.com/news/2387960/"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق ماهیت «عطیه» اعطا شده به دانش آموختگان ارتش در منابع ذکر نشده است.؛ تعداد دقیق تلفات یا خسارات ناشی از ۱۱۹ حمله ادعایی در یمن به صورت مستقل تأیید نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-fcd837c7d3a83bab7b",
+    "date": "2026-10-26",
+    "ts": 1793037033393,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "توافق ایران، عربستان، ترکیه و پاکستان در تهران برای تداوم گفت وگوهای امنیتی منطقه ای",
+    "source": "خبرگزاری ایسنا (ISNA)، فردانیوز، همشهری آنلاین",
+    "source_url": "/story/c090d939-02fd-4216-a2bf-2492f18d4972/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/c090d939-02fd-4216-a2bf-2492f18d4972/",
+        "kind": "pendar"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848369/%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D9%88-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%DA%AF%D9%81%D8%AA%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%DA%86%D9%87%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1137535",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405080402610/%D8%AA%D8%A7%DA%A9%DB%8C%D8%AF-%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%86%D8%B4%D8%B3%D8%AA-%DA%86%D9%87%D8%A7%D8%B1-%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%A8%D8%B1-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%DA%AF%D9%81%D8%AA-%D9%88%DA%AF%D9%88%D9%87%D8%A7",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304341-%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D9%85%D8%B7%D8%A8%D9%88%D8%B9%D8%A7%D8%AA%DB%8C-%D9%86%D8%B4%D8%B3%D8%AA-%DA%86%D9%87%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171482/فوری-بیانیه-ایران-درباره-نشست-چهارجانبه-با-پاکستان-ترکیه-و-عربستان-در-تهران",
+        "kind": "original"
+      },
+      {
+        "label": "باشگاه خبرنگاران جوان",
+        "url": "https://www.yjc.ir/fa/news/9142654/بیانیه-مطبوعاتی-نشست-چهارجانبه-ایران-پاکستان-ترکیه-عربستان-درباره-امنیت-و-ثبات-منطقه‌ای",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416601",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1092636/واکنش-اولیانوف-به-نشست-چهارجانبه-تهران",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "c090d939-02fd-4216-a2bf-2492f18d4972",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "عدم انتشار جزئیات دقیق و محورهای عملیاتی توافقات امنیتی در بیانیه مطبوعاتی.؛ مشخص نبودن سطح سازمانی دقیق نمایندگان شرکت کننده در گزارش های خبری.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-2e4e9318e803d7246f",
+    "date": "2026-10-26",
+    "ts": 1793036889227,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تحرکات دیپلماتیک در تهران و پکن؛ رایزنی های منطقه ای درباره کاهش تنش",
+    "source": "شرق، انتخاب، تابناک",
+    "source_url": "/story/5c65e9e8-991a-4848-9569-e6f40755ba2d/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/5c65e9e8-991a-4848-9569-e6f40755ba2d/",
+        "kind": "pendar"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1137457",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945168/وزارت-خارجه-عربستان-نمایندگان-کشورهای-عضو-توافق-مکه-در-سفر-به-تهران-از-تلاش-های-میانجی-گرانه-قطر-و-پاکستان-حمایت-می-کنند-بر-اهمیت-گشودن-کانال-های-مذاکره-تأکید-می-کنیم-چشم-انتظار-هستیم-که-طرف-های-بحران-با-نهایت-مثبت-اندیشی-با-نتایج-این-سفر-برخورد-کنند",
+        "kind": "original"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://example.com/fa/news/30007894/%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D8%A7-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%85%DB%8C-%D8%AF%D9%87%D8%AF-%D9%85%DB%8C%D8%A7%D9%86%D8%AC%DB%8C-%D9%87%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D8%A7-%D8%A8%D8%A7%D8%B2%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%DA%A9%D9%86%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2293522/%DA%A9%D9%88%D8%AB%D8%B1%DB%8C-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D9%88-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%DB%8C%D9%86-%D8%AC%D9%85%D8%B9-%D8%A8%D9%86%D8%AF%DB%8C-%D8%B1%D8%B3%DB%8C%D8%AF%D9%86%D8%AF-%DA%A9%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304323-%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84-%DA%A9%D9%88%D8%AB%D8%B1%DB%8C-%D8%A7%D8%B2-%D9%86%D8%B4%D8%B3%D8%AA-%DA%86%D9%87%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%DA%86%D9%84%D9%88%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A7%D8%B2-%DA%AF%D8%B3%D8%AA%D8%B1%D8%B4-%D8%AA%D9%86%D8%B4-%D9%87%D8%A7-%D9%87%D8%B3%D8%AA%D9%86%D8%AF",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "5c65e9e8-991a-4848-9569-e6f40755ba2d",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "اسماعیل کوثری",
+        "role": "عضو کمیسیون امنیت ملی و سیاست خارجی مجلس",
+        "statement": "کشورهای پاکستان، ترکیه و عربستان به این جمع بندی رسیده اند که آمریکا توان یا جرات اقدام علیه ایران را ندارد و به دنبال جلوگیری از گسترش تنش ها هستند.",
+        "direct_quote": false,
+        "source_url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304323-%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84-%DA%A9%D9%88%D8%AB%D8%B1%DB%8C-%D8%A7%D8%B2-%D9%86%D8%B4%D8%B3%D8%AA-%DA%86%D9%87%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%DA%86%D9%84%D9%88%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A7%D8%B2-%DA%AF%D8%B3%D8%AA%D8%B1%D8%B4-%D8%AA%D9%86%D8%B4-%D9%87%D8%A7-%D9%87%D8%B3%D8%AA%D9%86%D8%AF"
+      }
+    ],
+    "uncertainty": "محتوای دقیق پیشنهادهای مطرح شده در سفر نمایندگان به تهران مشخص نشده است.؛ نتیجه نهایی میانجی گری کشورهای منطقه بر معادلات تنش با آمریکا نامعلوم است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-d9d659d33132c49558",
+    "date": "2026-10-26",
+    "ts": 1793036883322,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "برگزاری نشست چهارجانبه امنیتی در تهران با حضور مقامات ارشد ایران، عربستان، ترکیه و پاکستان",
+    "source": "میزان، تابناک، خبرگزاری ایسنا (ISNA)",
+    "source_url": "/story/c2f3d7ab-6033-483a-9b89-67713060fbc7/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/c2f3d7ab-6033-483a-9b89-67713060fbc7/",
+        "kind": "pendar"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4925977/حضور-عراقچی-در-دیدار-نمایندگان-دفاعی-امنیتی-ترکیه-پاکستان-و-عربستان-با-دبیر-شورای-عالی-امنیت-ملی",
+        "kind": "original"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://example.com/fa/news/30007912/%D8%B2%D8%A8%D8%A7%D9%86-%D8%A8%D8%AF%D9%86-%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D9%85%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A8%D8%A7-%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA-%D8%AA%D8%B1%DA%A9-%D9%88-%D8%B9%D8%B1%D8%A8-%D9%88-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416596",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405080402615/%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%DA%86%D9%87%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D9%88-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405080402627/%D8%A8%D8%A7%D8%B2%D8%AA%D8%A7%D8%A8-%DA%AF%D8%B3%D8%AA%D8%B1%D8%AF%D9%87-%D9%86%D8%B4%D8%B3%D8%AA-%DA%86%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D8%B1%D8%A8-%D8%B2%D8%A8%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405080402632/%D8%AA%D8%A3%DA%A9%DB%8C%D8%AF-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%B1-%D8%A7%D9%87%D9%85%DB%8C%D8%AA-%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D9%84%D9%88%DA%AF%DB%8C%D8%B1%DB%8C",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2293586/%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%DA%86%D9%87%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D9%88-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%81%DB%8C%D9%84%D9%85",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "c2f3d7ab-6033-483a-9b89-67713060fbc7",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق توافقات یا خروجی های ملموس نشست فراتر از اهداف کلی اعلام شده، هنوز منتشر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-7a7274eb8daec16e62",
+    "date": "2026-10-26",
+    "ts": 1793036870260,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "موضع تهران درباره برنامه هسته ای و برگزاری نشست منطقه ای با حضور عربستان، ترکیه و پاکستان",
+    "source": "انتخاب، خبرگزاری مهر (Mehr)، همشهری آنلاین",
+    "source_url": "/story/db1067ac-3d17-4571-9f9a-3221bdb4ec67/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/db1067ac-3d17-4571-9f9a-3221bdb4ec67/",
+        "kind": "pendar"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945193/رویترز-به-نقل-از-یک-مقام-ارشد-ایرانی-تهران-پیش-از-آنکه-آمریکا-به-مطالباتش-پاسخ-دهد-درباره-برنامه-هسته-ای-خود-مذاکره-نخواهد-کرد-گفت-و-گو-های-تهران-با-اعضای-پیمان-دفاعی-مکه-شامل-پرونده-هسته-ای-ایران-نمی-شود",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری مهر (Mehr)",
+        "url": "https://www.mehrnews.com/news/6990705/%D9%85%D9%82%D8%A7%D9%85-%D8%A7%D8%B1%D8%B4%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D9%86%D9%85%DB%8C-%DA%A9%D9%86%DB%8C%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1080423/%D8%B4%D8%B1%D8%B7-%D8%B5%D8%B1%DB%8C%D8%AD-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B2%D8%B3%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%A8%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416582",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848351/%D9%85%D9%82%D8%A7%D9%85-%D8%A7%D8%B1%D8%B4%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D9%86%D9%85%DB%8C-%DA%A9%D9%86%DB%8C%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171467/مخالفت-رسمی-ایران-با-شرط-اصلی-آمریکا-برای-مذاکرات-رویترز-گزارش-داد",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304326-%D9%85%D9%82%D8%A7%D9%85-%D8%A7%D8%B1%D8%B4%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D9%86%D8%B4%D8%B3%D8%AA-%DA%86%D9%87%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%AD%D8%AB-%D9%86%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945200/رویترز-به-نقل-از-مقام-امنیتی-پاکستان-محور-اصلی-نشست-با-ایران-ایجاد-شبکه-ای-منطقه-ای-برای-عدم-تجاوز-بود-دستور-کار-نشست-همچنین-شامل-مذاکرات-ایران-و-آمریکا-حملات-حوثی-ها-به-عربستان-سعودی-تنگه-هرمز-و-محاصره-بود",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "db1067ac-3d17-4571-9f9a-3221bdb4ec67",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق مطالبات ایران از ایالات متحده و پاسخ احتمالی آمریکا مشخص نشده است.؛ مفاد کامل توافق ها یا نتایج عینی نشست چهارجانبه تهران هنوز به طور رسمی منتشر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-252e5b9dbda8bf72c3",
+    "date": "2026-10-26",
+    "ts": 1793026699403,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "صدور بیانیه وزارت خارجه عربستان همزمان با سفر خالد بن سلمان و مقام های ارشد به تهران",
+    "source": "مشرق نیوز، دنیای اقتصاد، فرارو",
+    "source_url": "/story/3d2020cb-c0f4-449a-a76d-c8827363e11a/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/3d2020cb-c0f4-449a-a76d-c8827363e11a/",
+        "kind": "pendar"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848245/%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%A7%D8%B2-%D9%85%D9%88%D8%B6%D8%B9-%D9%86%D8%A7%D8%AA%D9%88-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C-%D8%A8%D8%A7%D9%84%D8%AA%DB%8C%DA%A9",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304301-%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%86%D8%B4%D8%B3%D8%AA-%DA%86%D9%87%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%87%D8%AF%D9%81-%D8%A7%DB%8C%D9%86-%D9%86%D8%B4%D8%B3%D8%AA-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1012550/%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%86%D8%B4%D8%B3%D8%AA-%DA%86%D9%87%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1073916/بیانیه-ریاض-در-خصوص-سفر-وزیر-دفاع-عربستان-به-ایران",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475420/عربستان-درباره-نشست-چهارجانبه-تهران-بیانیه-داد",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945184/معاون-وزیر-خارجه-عربستان-سفر-امروز-مقام-های-ارشد-عربستان-پاکستان-و-ترکیه-به-تهران-در-چارچوب-تشویق-به-گفت-و-گو-و-حمایت-از-تلاش-های-میانجی-گرانه-قطر-و-پاکستان-انجام-می-شود-نمایندگان-سه-کشور-با-پزشکیان-و-محسن-رضایی-دیدار-خواهند-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416567",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201681/بیانیه-وزارت-خارجه-عربستان-درباره-سفر-وزیر-دفاع-این-کشور-به-تهران",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "3d2020cb-c0f4-449a-a76d-c8827363e11a",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "معاون وزیر خارجه عربستان",
+        "role": "معاون وزیر خارجه عربستان",
+        "statement": "سفر مقام های ارشد عربستان، پاکستان و ترکیه به تهران در چارچوب تشویق به گفت وگو، راه حل های دیپلماتیک و حمایت از تلاش های میانجی گرانه قطر و پاکستان انجام می شود و نمایندگان این سه کشور با مسعود پزشکیان و محسن رضایی دیدار خواهند کرد.",
+        "direct_quote": false,
+        "source_url": "https://www.entekhab.ir/fa/news/945184/معاون-وزیر-خارجه-عربستان-سفر-امروز-مقام-های-ارشد-عربستان-پاکستان-و-ترکیه-به-تهران-در-چارچوب-تشویق-به-گفت-و-گو-و-حمایت-از-تلاش-های-میانجی-گرانه-قطر-و-پاکستان-انجام-می-شود-نمایندگان-سه-کشور-با-پزشکیان-و-محسن-رضایی-دیدار-خواهند-کرد"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق و نتایج دیدارهای انجام شده در تهران با مقامات ایرانی هنوز به طور کامل منتشر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-ebecf153d409800ef6",
+    "date": "2026-10-26",
+    "ts": 1793026642000,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "ادعای سنتکام درباره توقیف کشتی های تجاری ایران در تضاد با ورود آسان کالاهایی مانند آیفون به کشور است. این تناقض نشان دهنده ناکارآمدی تحریم ها یا وجود راه های نفوذ پنهان تجاری است.",
+    "source": "حسن عباسی",
+    "source_url": "https://t.me/hasanabbasi_students/54797",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/hasanabbasi_students/54797",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@hasanabbasi_students",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "9e0f5f37-77a3-4eb2-939b-4b746f911b2e",
+    "speaker": "حسن عباسی",
+    "speaker_role": "سخنران و پژوهشگر",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@hasanabbasi_students",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-7903ed4df241dd8c50",
+    "date": "2026-10-26",
+    "ts": 1793026577356,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "گزارش رویترز درباره انتقال پنهانی سوخت جت تحریم شده ایران به میانمار با استفاده از اسناد صوری",
+    "source": "ایران اینترنشنال (Iran International)، اقتصاد آنلاین، آشیان سیمرغ",
+    "source_url": "/story/1f3a8ba6-254e-4189-b67c-f6cdfa774aaf/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/1f3a8ba6-254e-4189-b67c-f6cdfa774aaf/",
+        "kind": "pendar"
+      },
+      {
+        "label": "ایران اینترنشنال (Iran International)",
+        "url": "https://www.iranintl.com/202610269948",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171338/ادعای-رویترز-درباره-دور-زدن-تحریم-ها-ایران-مخفیانه-سوخت-جت-صادر-می-کند",
+        "kind": "original"
+      },
+      {
+        "label": "آشیان سیمرغ",
+        "url": "https://t.me/simorghdata369/3141",
+        "kind": "original"
+      },
+      {
+        "label": "یورونیوز فارسی",
+        "url": "https://parsi.euronews.com/2026/10/26/reuters-reveals-covert-shipment-of-iranian-jet-fuel-to-myanmar-using-forged-documents",
+        "kind": "original"
+      },
+      {
+        "label": "دویچه وله فارسی (DW Persian)",
+        "url": "https://www.dw.com/fa-ir/گزارش-رویترز-از-شگرد-میانمار-برای-نقض-تحریم‌ها-و-خرید-سوخت-جت-ایران/a-79760956?maca=per-rss-per-all-1491-rdf",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "1f3a8ba6-254e-4189-b67c-f6cdfa774aaf",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق تمام محموله های منتقل شده در سال ۲۰۲۶ به طور کامل از سوی منابع مستقل دیگر به جز گزارش رویترز تأیید نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-16830a072a10b7e772",
+    "date": "2026-10-26",
+    "ts": 1793026520084,
+    "family": "transition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "واکنش ها به اظهارات مقامات غربی و گمانه زنی ها درباره تنش های نظامی با ایران",
+    "source": "یورونیوز فارسی، خبرآنلاین — تلگرام",
+    "source_url": "/story/b1256991-ec62-415c-b991-05312eeefc17/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/b1256991-ec62-415c-b991-05312eeefc17/",
+        "kind": "pendar"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304237-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AA%D9%85%D8%A7%D9%85-%D8%AA%D8%A7%D8%B3%DB%8C%D8%B3%D8%A7%D8%AA-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D8%AA%D8%AD%D8%AA-%D9%86%D8%B8%D8%A7%D8%B1%D8%AA-%D8%AF%D9%82%DB%8C%D9%82-%D8%AF%D8%A7%D8%B1%DB%8C%D9%85-%D8%AF%D9%82%DB%8C%D9%82%D8%A7-%D9%85%DB%8C-%D8%AF%D8%A7%D9%86%DB%8C%D9%85-%DA%A9%D9%87-%DA%86%D9%87-%DA%A9%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%D8%AF%D9%87%DB%8C%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "یورونیوز فارسی",
+        "url": "https://parsi.euronews.com/2026/10/26/netanyahu-orders-idf-mossad-regime-change-iran-trump-monitors-nuclear-sites-oct-2026",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2292940/%D8%AC%D9%84%D8%A7%DB%8C%DB%8C-%D9%BE%D9%88%D8%B1-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%DA%A9%D8%B4%D9%88%D8%B1-%D8%B7%DB%8C-%DB%B2%DB%B0-%D8%AA%D8%A7-%DB%B9%DB%B0-%D8%B1%D9%88%D8%B2-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%B1%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171322/پیش-بینی-نگران-کننده-جلایی-پور-از-آینده-جنگ-90-روز-حساس-در-پیش-است",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1012579/%D8%AC%D9%84%D8%A7%DB%8C%DB%8C-%D9%BE%D9%88%D8%B1-%D8%AC%D9%86%DA%AF-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%A7%DB%8C-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D8%A7%D8%B2-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B4%D9%88%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/666186",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "b1256991-ec62-415c-b991-05312eeefc17",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "حمیدرضا جلایی پور",
+        "role": "فعال سیاسی اصلاح طلب",
+        "statement": "احتمال حمله به کشور در بازه ۲۰ تا ۹۰ روز آینده را باید جدی گرفت.",
+        "direct_quote": true,
+        "source_url": "https://www.khabaronline.ir/news/2292940/%D8%AC%D9%84%D8%A7%DB%8C%DB%8C-%D9%BE%D9%88%D8%B1-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%DA%A9%D8%B4%D9%88%D8%B1-%D8%B7%DB%8C-%DB%B2%DB%B0-%D8%AA%D8%A7-%DB%B9%DB%B0-%D8%B1%D9%88%D8%B2-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%B1%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF"
+      },
+      {
+        "name": "اسماعیل کوثری",
+        "role": "نماینده مجلس",
+        "statement": "انجام حمله ای وسیع و گسترده از سوی آمریکایی ها خارج از توان آن ها است.",
+        "direct_quote": false,
+        "source_url": "https://t.me/khabaronline_ir/666186"
+      },
+      {
+        "name": "بنیامین نتانیاهو",
+        "role": "نخست وزیر اسرائیل",
+        "statement": "به موساد و ارتش اسرائیل دستور داده ام رژیم ایران را سرنگون کنند.",
+        "direct_quote": false,
+        "source_url": "https://parsi.euronews.com/2026/10/26/netanyahu-orders-idf-mossad-regime-change-iran-trump-monitors-nuclear-sites-oct-2026"
+      }
+    ],
+    "uncertainty": "میزان واقعی آمادگی عملیاتی برای حملات نظامی در بازه ۲۰ تا ۹۰ روزه.؛ دقت ادعاهای نتانیاهو در خصوص پیشرفت ۹۰ درصدی برای سرنگونی نظام جمهوری اسلامی.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-1e4de51ae88be818f9",
+    "date": "2026-10-26",
+    "ts": 1793026381928,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "رایزنی های دیپلماتیک منطقه ای و تلاش مصر برای کاهش تنش میان ایران و آمریکا",
+    "source": "آفتاب نیوز، دنیای اقتصاد، فردانیوز",
+    "source_url": "/story/db5c2cfa-d642-4c3a-902c-0622040ab176/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/db5c2cfa-d642-4c3a-902c-0622040ab176/",
+        "kind": "pendar"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1073915/مصر-خواستار-کاهش-تنش-میان-ایران-و-آمریکا-شد",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1073917/رایزنی-وزرای-خارجه-قطر-و-عربستان-درباره-تحولات-منطقه",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4304304-%D8%A2%DB%8C%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D9%87-%D8%AA%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%AE%D8%AA%D9%85-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171426/ورود-میانجی-جدید-به-مذاکرات-ایران-و-آمریکا-بدر-عبدالعاطی-گفت-و-گو-ها-را-تایید-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304308-%D9%88%D8%B2%DB%8C%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D9%85%D8%B5%D8%B1-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D9%85%DB%8C-%DA%A9%D9%86%DB%8C%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201674/وزیر-خارجه-مصر-روزانه-با-تهران-در-تماس-هستیم-بهای-سنگینی-برای-ادامه-جنگ-ایران-می-پردازیم",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848328/%D9%88%D8%B2%DB%8C%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D9%85%D8%B5%D8%B1-%D8%A8%D9%87%D8%A7%DB%8C-%D8%B3%D9%86%DA%AF%DB%8C%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%DB%8C-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%DB%8C%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1073938/وزیر-خارجه-مصر-روزانه-با-تهران-در-تماس-هستیم",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "db5c2cfa-d642-4c3a-902c-0622040ab176",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "بدر عبدالعاطی",
+        "role": "وزیر امور خارجه مصر",
+        "statement": "مصر هر روز با طرف های ایرانی و آمریکایی گفت وگو می کند تا راه حلی برای بحران پیدا شود و بهای سنگینی برای ادامه جنگ پرداخته می شود.",
+        "direct_quote": true,
+        "source_url": "https://www.fardanews.com/fa/tiny/news-1416573"
+      }
+    ],
+    "uncertainty": "میزان اثربخشی و جزئیات دقیق طرح های میانجی گری قاهره در این منابع روشن نشده است.؛ چگونگی واکنش رسمی تهران و واشنگتن به این تماس های روزانه در این گزارش ها ذکر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-9ae2a9320f9f7fe4fc",
+    "date": "2026-10-26",
+    "ts": 1793026284154,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "موضع گیری های مقامات و کارشناسان درباره مسائل اقتصادی و دیپلماسی منطقه ای",
+    "source": "آنا، خبرگزاری ایرنا (IRNA)، خبرگزاری ایسنا (ISNA)",
+    "source_url": "/story/09496a1e-7843-4bc0-ae4e-fec9bcaadbf4/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/09496a1e-7843-4bc0-ae4e-fec9bcaadbf4/",
+        "kind": "pendar"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1091264/پایان-مداخلات-سلیقه-ای-و-رانت-آفرین-در-اقتصاد-نوآوری-طرح-سه-مرحله-ای-نجات-کسب-وکارها",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1092553/تقویت-بخش-خصوصی-و-اصلاح-تنظیم-گری-لازمه-پیشرفت-اقتصاد-دیجیتال-است",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86304074/%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7-%D8%B1%DB%8C%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405080402536/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D9%87%D8%B1-%D8%AA%D9%81%D8%A7%D9%87%D9%85%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D9%88%D8%AD%D8%AF%D8%AA-%D9%88-%D8%A7%D9%86%D8%B3%D8%AC%D8%A7%D9%85-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2387802/",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4925978/پزشکیان-جمهوری-اسلامی-ایران-از-هر-تفاهمی-برای-تقویت-وحدت-و-انسجام-کشور-های-اسلامی-حمایت-می-کند",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2293531/%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D9%87%D8%B1-%D8%AA%D9%81%D8%A7%D9%87%D9%85%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D9%88%D8%AD%D8%AF%D8%AA-%D9%88-%D8%A7%D9%86%D8%B3%D8%AC%D8%A7%D9%85-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%DB%8C",
+        "kind": "original"
+      },
+      {
+        "label": "رکنا",
+        "url": "https://www.rokna.net/fa/tiny/news-1261424",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "09496a1e-7843-4bc0-ae4e-fec9bcaadbf4",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "مسعود پزشکیان",
+        "role": "رئیس جمهور",
+        "statement": "جمهوری اسلامی ایران با اعتقاد راسخ آمادگی دارد در مسیر تعمیق همکاری های منطقه ای و رفع اختلافات گام بردارد و از هر تفاهمی که به تقویت وحدت، انسجام، امنیت و توسعه منطقه منجر شود، حمایت می کند.",
+        "direct_quote": true,
+        "source_url": "https://www.irna.ir/news/86304074/%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7-%D8%B1%DB%8C%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86"
+      }
+    ],
+    "uncertainty": "جزئیات اجرایی طرح سه مرحله ای نجات کسب وکارها و شاخص های بهره وری مدنظر کارشناس مربوطه در خبر مشخص نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-1350c8cd0fed94bcc7",
+    "date": "2026-10-26",
+    "ts": 1793026077481,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "دیدار مقامات ارشد کشورهای عضو توافق مکه با مقام های ایران در تهران برای کاهش تنش های منطقه ای",
+    "source": "Arab News، The Guardian، Jerusalem Post",
+    "source_url": "/story/fff715d2-0e5c-4805-bef6-5191cf3fd06e/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/fff715d2-0e5c-4805-bef6-5191cf3fd06e/",
+        "kind": "pendar"
+      },
+      {
+        "label": "Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-912855",
+        "kind": "original"
+      },
+      {
+        "label": "Arab News",
+        "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284",
+        "kind": "original"
+      },
+      {
+        "label": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss",
+        "kind": "original"
+      },
+      {
+        "label": "Financial Times — World",
+        "url": "https://www.ft.com/content/7f6943d3-b089-49a7-a0bc-a6f677c09802?syn-25a6b1a6=1",
+        "kind": "original"
+      },
+      {
+        "label": "Arab News",
+        "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-as-makkah-pact-countries-meeting-with-iran-begins-3008284",
+        "kind": "original"
+      },
+      {
+        "label": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "fff715d2-0e5c-4805-bef6-5191cf3fd06e",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "رائد کریملی",
+        "role": "معاون وزیر دیپلماسی عمومی عربستان سعودی",
+        "statement": "شاهزاده خالد بن سلمان رهبری هیأتی را برای شرکت در گفت وگوهای میان کشورهای عضو توافق مکه و ایران در تهران و با هدف کاهش تنش های منطقه ای بر عهده دارد.",
+        "direct_quote": false,
+        "source_url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-as-makkah-pact-countries-meeting-with-iran-begins-3008284"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق توافقات یا نتایج حاصل از گفت وگوهای میان هیأت های منطقه ای و مقام های ایرانی در منابع اعلام نشده است.؛ میزان اثرگذاری این نشست بر توقف کامل حملات انصارالله یمن به عربستان روشن نیست.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-c25239b93c5946bac4",
+    "date": "2026-10-26",
+    "ts": 1793022392000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "مصر هر روز با طرف های ایرانی و آمریکایی گفت وگو می کند تا راه حلی برای بحران پیدا شود و بهای سنگینی برای ادامه جنگ پرداخته می شود.",
+    "source": "بدر عبدالعاطی",
+    "source_url": "https://www.fardanews.com/fa/tiny/news-1416573",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416573",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/db5c2cfa-d642-4c3a-902c-0622040ab176/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "db5c2cfa-d642-4c3a-902c-0622040ab176",
+    "speaker": "بدر عبدالعاطی",
+    "speaker_role": "وزیر امور خارجه مصر",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-bafc9e4f7060cc804b",
+    "date": "2026-10-26",
+    "ts": 1793017454000,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "ایران می تواند با پیشنهاد انتقال فناوری هسته ای به عربستان و ترکیه، از تهدید تحریم ها عبور کند. توزیع فناوری به جای تلاش برای تعطیلی آن، راه برون رفت از پرونده هسته ای است.",
+    "source": "حسین درخشان",
+    "source_url": "https://t.me/hoderestan/2277",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/hoderestan/2277",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@hoderestan",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "0d286abe-a076-4c1c-831d-8d21f64334af",
+    "speaker": "حسین درخشان",
+    "speaker_role": "نویسنده و پژوهشگر رسانه",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@hoderestan",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-36ab64c49fcb61f5bd",
+    "date": "2026-10-26",
+    "ts": 1793017454000,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "ایران قادر است با انتقال فناوری سوخت اتمی به کشورهای عربستان و ترکیه، ضمن پیوستن به پیمان مکه، چالش تحریم ها و تهدیدهای هسته ای را به جای تعطیلی فعالیت ها، از طریق مشارکت منطقه ای مدیریت کند.",
+    "source": "حسین درخشان",
+    "source_url": "https://t.me/hoderestan/2277",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/hoderestan/2277",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@hoderestan",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "99c7f840-4da4-4e87-b231-80f6aaa8b050",
+    "speaker": "حسین درخشان",
+    "speaker_role": "نویسنده و پژوهشگر رسانه",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@hoderestan",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
     "id": "auto-93b12d984879241923",
     "date": "2026-10-26",
     "ts": 1793015226227,
@@ -384,6 +2122,47 @@
     "analyst_handle": "",
     "analyst_group": "",
     "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-a557b071bbd3ad6a5a",
+    "date": "2026-10-26",
+    "ts": 1793004819000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "بحران کنونی به این بستگی دارد که آیا فرمولی برای توافق وجود دارد که هم ترامپ آن را پیروزی بداند و هم تهران بدون تسلیم شدن بپذیرد.",
+    "source": "یدالله کریمی پور",
+    "source_url": "https://t.me/Karimipour_K/6319",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/Karimipour_K/6319",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@Karimipour_K",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "a6f2d8cd-6238-408e-858f-3a181c706978",
+    "speaker": "یدالله کریمی پور",
+    "speaker_role": "پژوهشگر ژئوپلیتیک",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@Karimipour_K",
     "related_people": [],
     "uncertainty": "",
     "evidence_phrase": "",
@@ -872,6 +2651,47 @@
     "source_doc_id": "a46a4373-aedc-49b2-a7fc-b72bbef36a29",
     "speaker": "بنیامین نتانیاهو",
     "speaker_role": "نخست وزیر اسرائیل",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-f78500a8f777d72ca8",
+    "date": "2026-10-26",
+    "ts": 1792994165000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "شاهزاده خالد بن سلمان رهبری هیأتی را برای شرکت در گفت وگوهای میان کشورهای عضو توافق مکه و ایران در تهران و با هدف کاهش تنش های منطقه ای بر عهده دارد.",
+    "source": "رائد کریملی",
+    "source_url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-as-makkah-pact-countries-meeting-with-iran-begins-3008284",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-as-makkah-pact-countries-meeting-with-iran-begins-3008284",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/fff715d2-0e5c-4805-bef6-5191cf3fd06e/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "fff715d2-0e5c-4805-bef6-5191cf3fd06e",
+    "speaker": "رائد کریملی",
+    "speaker_role": "معاون وزیر دیپلماسی عمومی عربستان سعودی",
     "analyst_priority": false,
     "analyst_handle": "",
     "analyst_group": "",
