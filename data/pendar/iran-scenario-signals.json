@@ -1,5 +1,1270 @@
 [
   {
+    "id": "auto-93b12d984879241923",
+    "date": "2026-10-26",
+    "ts": 1793015226227,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "برگزاری نشست امنیتی تهران با حضور مقامات ارشد عربستان، ترکیه و پاکستان و تایید سفر هیات میانجی گر قطری",
+    "source": "دنیای اقتصاد، فردانیوز، رویداد۲۴",
+    "source_url": "/story/f7c9bb0e-0f0b-43f8-b46f-a87c80f8b626/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/f7c9bb0e-0f0b-43f8-b46f-a87c80f8b626/",
+        "kind": "pendar"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304270-%D8%AA%D9%88%D8%A6%DB%8C%D8%AA-%D9%85%D9%87%D9%85-%DA%86%D9%87%D8%B1%D9%87-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9-%D8%A8%D9%87-%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%B9%D9%84%D8%AA-%D8%B3%D9%81%D8%B1-%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B4%D8%AF-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416535",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475373/بقایی-امنیت-منطقه-با-همکاری-کشور-های-منطقه-تأمین-می-شود-ایران-برای-دفاع-از-خود-تردید-نمی-کند",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171352/فوری-بقایی-حضور-هیات-میانجی-گر-قطری-در-تهران-را-تایید-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171354/نشست-امنیتی-چهار-کشور-در-تهران-پای-چه-توافقی-در-میان-است",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945119/سخنگوی-وزارت-خارجه-درباره-آخرین-وضعیت-مرزها-مقامات-پاکستانی-برخی-نگرانی-های-امنیتی-را-مطرح-کردند-رایزنی-های-ما-با-پاکستان-ادامه-دارد-و-روند-مذاکرات-مثبت-است-مقام-های-عراقی-نیز-به-فشارهای-آمریکا-اشاره-کرده-اند-ما-باید-مصالح-و-منافع-دو-ملت-را-مد-نظر-قرار-دهیم-سفارت-ایران-در-بغداد-و-کنسولگری-های-ما-در-این-کشور-با-جدیت-موضوع-را-پیگیری-می-کنند",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945120/سخنگوی-وزارت-خارجه-هیأت-قطری-دیروز-در-چارچوب-میانجی-گری-به-تهران-سفر-کرد-طبیعی-است-که-کشورهای-منطقه-برای-انتقال-پیام-و-طرح-پیشنهادهای-احتمالی-تلاش-کنند-این-سفر-یکی-از-سفرهایی-بود-که-طی-سه-تا-چهار-هفته-گذشته-انجام-شد",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "f7c9bb0e-0f0b-43f8-b46f-a87c80f8b626",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "اسماعیل بقایی",
+        "role": "سخنگوی وزارت امور خارجه",
+        "statement": "امنیت منطقه با همکاری کشورهای منطقه تامین می شود و میزبانی تهران از مقامات ارشد نظامی و امنیتی عربستان، پاکستان و ترکیه رویدادی کلیدی در مسیر شکل گیری دیپلماسی منطقه ای است.",
+        "direct_quote": false,
+        "source_url": "https://www.fardanews.com/fa/tiny/news-1416535"
+      },
+      {
+        "name": "اسماعیل بقایی",
+        "role": "سخنگوی وزارت امور خارجه",
+        "statement": "طرف قطری دیروز سفری به ایران داشت و این سفر در ادامه گفت وگوها با کشورهای منطقه و در راستای همکاری های دوجانبه و ایفای نقش قطر به عنوان میانجی انجام شد.",
+        "direct_quote": true,
+        "source_url": "https://www.eghtesadonline.com/fa/news/2171354/نشست-امنیتی-چهار-کشور-در-تهران-پای-چه-توافقی-در-میان-است"
+      },
+      {
+        "name": "اسماعیل بقایی",
+        "role": "سخنگوی وزارت امور خارجه",
+        "statement": "در ارتباط با مرزهای ایران و پاکستان، مقام های پاکستانی از ابتدا اعلام کردند که موضوع فنی است و باید به روزرسانی هایی در سامانه های مربوطه انجام شود و نگرانی های امنیتی را مطرح کردند.",
+        "direct_quote": true,
+        "source_url": "https://www.entekhab.ir/fa/news/945120/سخنگوی-وزارت-خارجه-هیأت-قطری-دیروز-در-چارچوب-میانجی-گری-به-تهران-سفر-کرد-طبیعی-است-که-کشورهای-منطقه-برای-انتقال-پیام-و-طرح-پیشنهادهای-احتمالی-تلاش-کنند-این-سفر-یکی-از-سفرهایی-بود-که-طی-سه-تا-چهار-هفته-گذشته-انجام-شد"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق و توافقات مشخصِ حاصل شده در نشست چهارجانبه امنیتی تهران هنوز به طور کامل رسانه ای نشده است.؛ محتوای دقیق پیام ها و پیشنهادهای منتقل شده توسط هیات میانجی گر قطری اعلام نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-2b8f2807950c8e30cd",
+    "date": "2026-10-26",
+    "ts": 1793015152730,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "اظهارات بنیامین نتانیاهو درباره برنامه هسته ای ایران و توافق ابراهیم؛ واکنش دونالد ترامپ به رصد مراکز هسته ای ایران",
+    "source": "فردانیوز، خبرآنلاین، عصر ایران",
+    "source_url": "/story/cd24f977-afc1-49af-a8ee-5f5943c78bc0/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/cd24f977-afc1-49af-a8ee-5f5943c78bc0/",
+        "kind": "pendar"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416517",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2293228/%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%DB%8C%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D9%85%D8%A7-%D8%B1%D8%A7-%D9%86%D8%A7%D8%A8%D9%88%D8%AF-%D8%AE%D9%88%D8%A7%D9%87%D9%86%D8%AF-%DA%A9%D8%B1%D8%AF-%DB%8C%D8%A7-%D9%85%D8%A7-%D8%A2%D9%86-%D9%87%D8%A7-%D8%B1%D8%A7",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201545/ادعای-نتانیاهو-ایران-برنامه-هسته-ای-خود-را-از-سر-گرفته-کشورهای-عربی-در-انتظار-پیوستن-به-توافق-ابراهیم-هستند",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475382/ادعای-نتانیاهو-ایران-برنامه-هسته-ای-خود-را-از-سر-گرفته-است",
+        "kind": "original"
+      },
+      {
+        "label": "ورزش سه",
+        "url": "https://www.varzesh3.com/news/2439523/ترامپ-با-تهران-توافق-فوق-العاده-ای-امضا-می-کنیم",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2293310/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%87%D9%85%D9%87-%D9%85%D8%B1%D8%A7%DA%A9%D8%B2-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D8%B2%DB%8C%D8%B1-%D9%86%D8%B8%D8%B1-%D8%AF%D8%A7%D8%B1%DB%8C%D9%85-%D9%81%DB%8C%D9%84%D9%85",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "cd24f977-afc1-49af-a8ee-5f5943c78bc0",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "بنیامین نتانیاهو",
+        "role": "نخست وزیر اسرائیل",
+        "statement": "یا آنها ما را نابود می کنند یا ما اینها را که عبارت مرگ بر اسرائیل را بر پرچم خود حک کرده، نابود می کنیم.",
+        "direct_quote": true,
+        "source_url": "https://www.fardanews.com/fa/tiny/news-1416517"
+      },
+      {
+        "name": "بنیامین نتانیاهو",
+        "role": "نخست وزیر اسرائیل",
+        "statement": "هدف اسرائیل سرنگونی حکومت جمهوری اسلامی ایران است و چندین کشور عربی برای پیوستن به توافق ابراهیم منتظر نتیجه این جنگ هستند.",
+        "direct_quote": false,
+        "source_url": "https://www.khabaronline.ir/news/2293310/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%87%D9%85%D9%87-%D9%85%D8%B1%D8%A7%DA%A9%D8%B2-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D8%B2%DB%8C%D8%B1-%D9%86%D8%B8%D8%B1-%D8%AF%D8%A7%D8%B1%DB%8C%D9%85-%D9%81%DB%8C%D9%84%D9%85"
+      },
+      {
+        "name": "بنیامین نتانیاهو",
+        "role": "نخست وزیر اسرائیل",
+        "statement": "ما نمی توانیم با ایرانی هسته ای زندگی کنیم و نمی توانیم این بمب را بپذیریم، زیرا آن ها ما را نابود خواهند کرد.",
+        "direct_quote": false,
+        "source_url": "https://www.asriran.com/fa/news/1201545/ادعای-نتانیاهو-ایران-برنامه-هسته-ای-خود-را-از-سر-گرفته-کشورهای-عربی-در-انتظار-پیوستن-به-توافق-ابراهیم-هستند"
+      },
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهوری آمریکا",
+        "statement": "با ایران و کانادا توافق های فوق العاده ای امضا خواهیم کرد و مراکز هسته ای جمهوری اسلامی ایران را زیر نظر داریم.",
+        "direct_quote": false,
+        "source_url": "https://www.varzesh3.com/news/2439523/ترامپ-با-تهران-توافق-فوق-العاده-ای-امضا-می-کنیم"
+      }
+    ],
+    "uncertainty": "میزان صحت ادعاهای مطرح شده درباره ازسرگیری برنامه هسته ای ایران از سوی منابع مستقل تایید نشده است.؛ واکنش قطعی کشورهای عربی به توافق ابراهیم بر اساس نتیجه درگیری ها نامشخص است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-4d103b9377ca6a694a",
+    "date": "2026-10-26",
+    "ts": 1793015110468,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "مقامات ایران در یادداشت ها و نشست های مختلف بر نقش مخرب سیاست های آمریکا بر امنیت انرژی تأکید کردند",
+    "source": "خبرگزاری صداوسیما، عصر ایران، رویداد۲۴",
+    "source_url": "/story/cd4a22e2-1574-41e2-8b26-330facbe6acf/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/cd4a22e2-1574-41e2-8b26-330facbe6acf/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5948709/قلدری-آمریکا-تهدیدی-برای-امنیت-انرژی-و-غذایی-جهان",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201531/یادداشت-عراقچی-در-روزنامه-ودوموستی-روسیه-توسعه-روابط-انرژی-تهران-و-مسکو-امنیت-منطقه-را-تقویت-می-کند",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475353/توسعه-همکاری-های-بانک-تجارت-و-گروه-سرمایه-گذاری-غدیر",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475368/عراقچی-امنیت-انرژی-جهان-به-همکاری-کشور-ها-و-رفع-تهدید-های-نظامی-وابسته-است",
+        "kind": "original"
+      },
+      {
+        "label": "ورزش سه",
+        "url": "https://www.varzesh3.com/news/2439522/یادداشت-عراقچی-در-روزنامه-ودوموستی-روسیه",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1073853/آغاز-نشست-وزارتی-مجمع-کشورهای-صادرکننده-گاز",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2387602/",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "cd4a22e2-1574-41e2-8b26-330facbe6acf",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "سیدعباس عراقچی",
+        "role": "وزیر امور خارجه ایران",
+        "statement": "امنیت انرژی و امنیت غذایی بزرگترین چالش های جهان هستند که نتیجه مستقیم اقدامات قهرآمیز و قلدرمآبانه ایالات متحده آمریکا در منطقه به شمار می روند.",
+        "direct_quote": false,
+        "source_url": "https://www.irib-news.ir/fa/news/5948709/قلدری-آمریکا-تهدیدی-برای-امنیت-انرژی-و-غذایی-جهان"
+      },
+      {
+        "name": "سیدعباس عراقچی",
+        "role": "وزیر امور خارجه ایران",
+        "statement": "امنیت انرژی جهان به همکاری کشورها و رفع تهدیدهای نظامی وابسته است و تقویت روابط انرژی ایران و روسیه به امنیت منطقه کمک می کند.",
+        "direct_quote": false,
+        "source_url": "https://www.rouydad24.ir/fa/news/475368/عراقچی-امنیت-انرژی-جهان-به-همکاری-کشور-ها-و-رفع-تهدید-های-نظامی-وابسته-است"
+      }
+    ],
+    "uncertainty": "جزئیات اجرایی و قراردادهای دقیق سرمایه گذاری شرکت های روسی در میادین نفت و گاز ایران در منابع ذکر نشده است.؛ واکنش رسمی ایالات متحده یا روزنامه ودوموستی به این یادداشت در این مجموعه اخبار وجود ندارد.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-8033c975f452c4f5f1",
+    "date": "2026-10-26",
+    "ts": 1793015103464,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "پیشنهاد طرح هفت روزه ایران برای بازگشایی تنگه هرمز در یادداشت وزیر خارجه",
+    "source": "انتخاب، خبرآنلاین، خبرگزاری ایرنا (IRNA)",
+    "source_url": "/story/fb49ca2f-4682-42a0-a5d2-4d4fb45acb56/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/fb49ca2f-4682-42a0-a5d2-4d4fb45acb56/",
+        "kind": "pendar"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945080/صبحانه-خبری-4-آبان-1405-از-ورود-هیئت-قطری-به-تهران-با-هماهنگی-آمریکا-برای-جلوگیری-از-تشدید-تنش-و-ادعای-یک-رسانه-پیرامون-ارائه-ابتکاری-دو-مرحله-ای-و-جامع-از-سوی-اروپا-به-ایران-و-آمریکا-تا-خبر-بلومبرگ-در-مورد-گمانه-زنی-ها-مبنی-بر-پرداخت-پول-به-ایران-جهت-احیای-جریان-صادرات-نفت-و-گاز-از-تنگه-هرمز",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2293241/%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A8%D8%A7-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%A7%DB%8C%DB%B7-%D8%B1%D9%88%D8%B2%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86303470/%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%AB%D8%A8%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%DA%AF%D8%A7%D8%B2",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4925835/عراقچی-ایران-برنامه-ای-هفت-روزه-را-برای-فراهم-سازی-زمینه-بازگشایی-تنگه-هرمز-ارائه-کرده-است",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945102/یادداشت-عراقچی-در-روزنامه-روسی-ودوموستی-ایران-بر-این-باور-است-که-ثبات-بازار-جهانی-انرژی-در-گرو-حل-مسالمت-آمیز-اختلافات-است-در-همین-راستا-برنامه-ای-7-روزه-را-برای-فراهم-سازی-زمینه-بازگشایی-تنگه-هرمز-ارائه-کردیم-از-نظر-ایران-رویکرد-مسئولانه-گفت-وگوی-سازنده-و-انجام-تعهدات-متقابل-می-تواند-زمینه-ساز-کاهش-تنش-ها-باشد",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416532",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304269-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%AB%D8%A8%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%AF%D8%B1-%DA%AF%D8%B1%D9%88-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B3%D8%AA-%D9%87%D8%B1%DA%AF%D9%88%D9%86%D9%87-%D8%AA%D8%AE%D8%A7%D8%B5%D9%85-%D9%BE%DB%8C%D8%A7%D9%85%D8%AF%D9%87%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D9%81%D8%B1%D8%A7%D8%AA%D8%B1-%D8%A7%D8%B2-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D9%85%D8%A7-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "fb49ca2f-4682-42a0-a5d2-4d4fb45acb56",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "سیدعباس عراقچی",
+        "role": "وزیر امور خارجه ایران",
+        "statement": "جمهوری اسلامی ایران برنامه ای هفت روزه را برای فراهم سازی زمینه بازگشایی تنگه هرمز و بازگشت تردد عادی دریایی در صورت رفع تهدیدهای نظامی ارائه کرده است و ثبات بازار جهانی انرژی در گروی اراده سیاسی و انتخاب آمریکا قرار دارد.",
+        "direct_quote": false,
+        "source_url": "https://www.khabaronline.ir/news/2293241/%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A8%D8%A7-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%A7%DB%8C%DB%B7-%D8%B1%D9%88%D8%B2%D9%87"
+      }
+    ],
+    "uncertainty": "جزئیات اجرایی و محتوای دقیق برنامه هفت روزه ایران مشخص نشده است.؛ صحت ادعاها و گمانه زنی های مطرح شده درباره پرداخت پول به ایران جهت احیای جریان صادرات نفت و گاز از تنگه هرمز تأیید رسمی نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-e4b3a4085dd1c899b7",
+    "date": "2026-10-26",
+    "ts": 1793007000000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "با ایران و کانادا توافق های فوق العاده ای امضا خواهیم کرد و مراکز هسته ای جمهوری اسلامی ایران را زیر نظر داریم.",
+    "source": "دونالد ترامپ",
+    "source_url": "https://www.varzesh3.com/news/2439523/ترامپ-با-تهران-توافق-فوق-العاده-ای-امضا-می-کنیم",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.varzesh3.com/news/2439523/ترامپ-با-تهران-توافق-فوق-العاده-ای-امضا-می-کنیم",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/cd24f977-afc1-49af-a8ee-5f5943c78bc0/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "cd24f977-afc1-49af-a8ee-5f5943c78bc0",
+    "speaker": "دونالد ترامپ",
+    "speaker_role": "رئیس جمهوری آمریکا",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-20cd6bb2155d9acd61",
+    "date": "2026-10-26",
+    "ts": 1793000534000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "امنیت منطقه با همکاری کشورهای منطقه تامین می شود و میزبانی تهران از مقامات ارشد نظامی و امنیتی عربستان، پاکستان و ترکیه رویدادی کلیدی در مسیر شکل گیری دیپلماسی منطقه ای است.",
+    "source": "اسماعیل بقایی",
+    "source_url": "https://www.fardanews.com/fa/tiny/news-1416535",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416535",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/f7c9bb0e-0f0b-43f8-b46f-a87c80f8b626/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "f7c9bb0e-0f0b-43f8-b46f-a87c80f8b626",
+    "speaker": "اسماعیل بقایی",
+    "speaker_role": "سخنگوی وزارت امور خارجه",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-05704dec5aa0610738",
+    "date": "2026-10-26",
+    "ts": 1792998762828,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تحلیل هشدار یک فعال سیاسی درباره احتمال درگیری نظامی در ماه های آینده",
+    "source": "شرق، فرارو، خبرآنلاین — تلگرام",
+    "source_url": "/story/e89d2f37-7c5c-44e2-9d26-9b71e25d7d0a/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/e89d2f37-7c5c-44e2-9d26-9b71e25d7d0a/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرورزشی",
+        "url": "https://www.khabarvarzeshi.com/news/561308/%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3-%D8%B1%D8%A7-%D8%A7%DB%8C%D9%86-%D9%82%D8%AF%D8%B1-%D8%B2%D9%88%D8%AF-%D9%88%D8%A7%D8%B1%D8%AF-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D9%86%DA%A9%D9%86%DB%8C%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1137375",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1012407/%D8%AC%D9%84%D8%A7%DB%8C%DB%8C-%D9%BE%D9%88%D8%B1-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B7%DB%8C-%D8%AA%D8%A7-%D8%B1%D9%88%D8%B2-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%B1%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AC%D8%AF%DB%8C-%DA%AF%D8%B1%D9%81%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1073812/جلایی-پور-احتمال-حمله-به-کشور-طی-20-تا-90-روز-آینده-را-باید-جدی-گرفت",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/666112",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475348/جلایی-احتمال-حمله-مجدد-آمریکا-و-اسرائیل-در-20-تا-90-روز-آینده-را-باید-جدی-گرفت",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "e89d2f37-7c5c-44e2-9d26-9b71e25d7d0a",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "حمیدرضا جلایی پور",
+        "role": "فعال سیاسی اصلاح طلب",
+        "statement": "احتمال حمله نظامی به کشور در ۲۰ تا ۹۰ روز آینده را باید جدی گرفت، اگرچه باید میان لحن تهدیدآمیز ترامپ، آمادگی نظامی آمریکا و اسرائیل و تصمیم نهایی برای حمله تفاوت قائل شد.",
+        "direct_quote": true,
+        "source_url": "https://t.me/khabaronline_ir/666112"
+      }
+    ],
+    "uncertainty": "میزان دقت و مبنای تحلیلیِ پیش بینیِ بازه زمانی ۲۰ تا ۹۰ روز برای یک حمله احتمالی مشخص نیست.؛ تأیید رسمیِ آمادگی های نظامی مورد اشاره از سوی مقامات امنیتی کشور در این منابع ذکر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است"
+  },
+  {
+    "id": "auto-9367fb70ca36ed0e66",
+    "date": "2026-10-26",
+    "ts": 1792998717919,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "درخواست ترامپ برای رأی به نتانیاهو و گزارش ها درباره فشار برای اقدام نظامی علیه ایران",
+    "source": "فردانیوز، رکنا، فرارو",
+    "source_url": "/story/e81f76c3-304e-4e09-aa43-244285b0cbe6/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/e81f76c3-304e-4e09-aa43-244285b0cbe6/",
+        "kind": "pendar"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416527",
+        "kind": "original"
+      },
+      {
+        "label": "رکنا",
+        "url": "https://www.rokna.net/fa/tiny/news-1261159",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1012423/%D9%81%D8%B4%D8%A7%D8%B1-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A8%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "دویچه وله فارسی (DW Persian)",
+        "url": "https://www.dw.com/fa-ir/ترامپ-خطاب-به-اسرائیلی‌ها-به-نتانیاهو-رأی-دهید-تا-کار-را-تمام-کنیم/live-79759162?maca=per-rss-per-all-1491-rdf",
+        "kind": "original"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://example.com/fa/news/30007854/%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%B2-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A8%D8%A7-%DA%86%D8%A7%D8%B4%D9%86%DB%8C-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1012433/%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%A8%D9%84%D9%88%D9%85%D8%A8%D8%B1%DA%AF-%D8%A7%D8%B2-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D9%86%D8%AF%DB%8C-%D8%B4%D8%B1%D9%88%D8%B9-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%DA%AF",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "e81f76c3-304e-4e09-aa43-244285b0cbe6",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "باراک راوید",
+        "role": "روزنامه نگار/تحلیلگر",
+        "statement": "نتانیاهو به طور مستمر برای انجام عملیات نظامی آشکار یا مخفیانه علیه ایران، پیش از برگزاری انتخابات اسرائیل، به ترامپ فشار وارد می کند.",
+        "direct_quote": false,
+        "source_url": "https://www.fardanews.com/fa/tiny/news-1416527"
+      },
+      {
+        "name": "باراک راوید",
+        "role": "روزنامه نگار/تحلیلگر",
+        "statement": "نتانیاهو با التماس از ترامپ خواسته بود در آستانه انتخابات، حمایت علنی بیشتری از او اعلام کند.",
+        "direct_quote": false,
+        "source_url": "https://fararu.com/fa/news/1012433/%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%A8%D9%84%D9%88%D9%85%D8%A8%D8%B1%DA%AF-%D8%A7%D8%B2-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D9%86%D8%AF%DB%8C-%D8%B4%D8%B1%D9%88%D8%B9-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%DA%AF"
+      },
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهور آمریکا",
+        "statement": "باید کاری را که آغاز کرده ایم، به پایان برسانیم.",
+        "direct_quote": true,
+        "source_url": "https://www.dw.com/fa-ir/ترامپ-خطاب-به-اسرائیلی‌ها-به-نتانیاهو-رأی-دهید-تا-کار-را-تمام-کنیم/live-79759162?maca=per-rss-per-all-1491-rdf"
+      }
+    ],
+    "uncertainty": "میزان و کیفیت دقیق فشارهای منتسب به نتانیاهو به ترامپ برای اقدام نظامی علیه ایران.؛ تصمیم نهایی ترامپ در خصوص زمان بندی هرگونه عملیات نظامی علیه ایران پیش یا پس از انتخابات.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-21a21cdfd9729a8b28",
+    "date": "2026-10-26",
+    "ts": 1792998702066,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "اظهارات تازه دونالد ترامپ درباره توافق احتمالی با ایران و نظارت بر تأسیسات هسته ای",
+    "source": "فردانیوز، خبرآنلاین، اقتصاد آنلاین",
+    "source_url": "/story/f2b6784f-c915-4c84-8ae0-7146a074fa0d/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/f2b6784f-c915-4c84-8ae0-7146a074fa0d/",
+        "kind": "pendar"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416510",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2293185/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%D9%85%D8%B6%D8%A7-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%DA%A9%D8%B1%D8%AF-%D9%85%D8%B1%D8%A7%DA%A9%D8%B2-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171321/ترامپ-بار-دیگر-از-توافق-با-ایران-سخن-گفت-پشت-پرده-اظهارات-جدید-چیست",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416520",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1073803/ترامپ-مراکز-هسته-ای-ایران-را-زیر-نظر-داریم-با-تهران-توافق-های-فوق-العاده-ای-امضا-می-کنیم",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201512/ترامپ-با-تهران-توافق-فوق-العاده-ای-امضا-خواهیم-کرد-تمام-تاسیسات-هسته-ای-ایران-تحت-نظارت-دقیق-ماست",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945095/ادعای-ترامپ-با-ایران-و-کانادا-به-توافق-های-بزرگی-دست-خواهیم-یافت-اگر-هرگونه-تحرکی-در-سیاست-های-هسته-ای-ایران-صورت-بگیرد-می-دانیم-باید-چه-کاری-انجام-دهیم-اما-چنین-اتفاقی-نخواهد-افتاد-قیمت-بنزین-بهای-کوچکی-است-برای-گرفتن-سلاح-هسته-ای-از-دست-تهران",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "f2b6784f-c915-4c84-8ae0-7146a074fa0d",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهور آمریکا",
+        "statement": "با ایران و کانادا توافق های بزرگی امضا خواهیم کرد.",
+        "direct_quote": false,
+        "source_url": "https://www.fardanews.com/fa/tiny/news-1416520"
+      },
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهور آمریکا",
+        "statement": "مراکز هسته ای جمهوری اسلامی ایران را تحت نظر داریم.",
+        "direct_quote": false,
+        "source_url": "https://www.khabaronline.ir/news/2293185/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%D9%85%D8%B6%D8%A7-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%DA%A9%D8%B1%D8%AF-%D9%85%D8%B1%D8%A7%DA%A9%D8%B2-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C"
+      },
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهور آمریکا",
+        "statement": "ما به تهدید هسته ای ایران پایان دادیم.",
+        "direct_quote": true,
+        "source_url": "https://www.fardanews.com/fa/tiny/news-1416520"
+      },
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهور آمریکا",
+        "statement": "اگر هرگونه تحرکی در سیاست های هسته ای ایران صورت بگیرد، می دانیم باید چه کاری انجام دهیم، اما چنین اتفاقی نخواهد افتاد.",
+        "direct_quote": false,
+        "source_url": "https://www.entekhab.ir/fa/news/945095/ادعای-ترامپ-با-ایران-و-کانادا-به-توافق-های-بزرگی-دست-خواهیم-یافت-اگر-هرگونه-تحرکی-در-سیاست-های-هسته-ای-ایران-صورت-بگیرد-می-دانیم-باید-چه-کاری-انجام-دهیم-اما-چنین-اتفاقی-نخواهد-افتاد-قیمت-بنزین-بهای-کوچکی-است-برای-گرفتن-سلاح-هسته-ای-از-دست-تهران"
+      }
+    ],
+    "uncertainty": "جزئیات یا زمان بندی مشخصی درباره توافق های ادعایی ترامپ با ایران و کانادا مطرح نشده است.؛ پشت پرده و اهداف دقیق پشت این اظهارات تازه مشخص نیست.",
+    "evidence_phrase": "",
+    "score_reason": "گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است"
+  },
+  {
+    "id": "auto-79782facee08b8fdbe",
+    "date": "2026-10-26",
+    "ts": 1792998687309,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تغییر نشانی وب سایت هواپیمایی جمهوری اسلامی ایران به دنبال مسدود شدن دامنه",
+    "source": "میزان، اقتصاد آنلاین، مشرق نیوز",
+    "source_url": "/story/08258813-b388-4625-96e7-bcdeebd3dd6a/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/08258813-b388-4625-96e7-bcdeebd3dd6a/",
+        "kind": "pendar"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4925760/اطلاعیه-هما-درباره-تغییر-نشانی-وب-سایت-رسمی",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171262/تحریم-باورنکردنی-آمریکا-علیه-پروازهای-ایران-دامنه-ایران-ایر-مسدود-شد",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848119/%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D8%B3%D8%A7%DB%8C%D8%AA-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C%DB%8C-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D9%85%D8%B3%D8%AF%D9%88%D8%AF-%DA%A9%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/666075",
+        "kind": "original"
+      },
+      {
+        "label": "زومیت",
+        "url": "https://www.zoomit.ir/iran-news/469860-iran-air-website-domain-change/",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2293251/%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1-%D8%B1%D8%A7-%D9%85%D8%B3%D8%AF%D9%88%D8%AF-%DA%A9%D8%B1%D8%AF-%D9%86%D8%B4%D8%A7%D9%86%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%85%D8%B9%D8%B1%D9%81%DB%8C",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "08258813-b388-4625-96e7-bcdeebd3dd6a",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق و نام نهاد یا شرکت ثبت کننده خارجی که دامنه را مسدود کرده در منابع ذکر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-0593ba6761afe5c555",
+    "date": "2026-10-26",
+    "ts": 1792995799000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "پنج سکوی ایرانی در نیمه نخست سال ۱۴۰۵ مجموعاً ۶۱۶ میلیون محتوا منتشر کردند و بررسی رفتار کاربران از افزایش فعالیت های اقتصادی، گسترش محتوای سرگرمی و تداوم حضور مخاطبان پس از جنگ حکایت دارد.",
+    "source": "محمدامین الله داد",
+    "source_url": "https://ana.ir/fa/news/1092432/انتشار-616-میلیون-محتوا-در-نیمه-نخست-1405-مخاطبان-ایرانی-سکو-ها-را-ترک-نکردند",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://ana.ir/fa/news/1092432/انتشار-616-میلیون-محتوا-در-نیمه-نخست-1405-مخاطبان-ایرانی-سکو-ها-را-ترک-نکردند",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/8c2d1806-8673-4207-b73b-fc25ed654d01/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "8c2d1806-8673-4207-b73b-fc25ed654d01",
+    "speaker": "محمدامین الله داد",
+    "speaker_role": "رئیس مرکز پایش و فراداده مرکز ملی فضای مجازی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-ad666256d0bd86f95b",
+    "date": "2026-10-26",
+    "ts": 1792994996000,
+    "family": "regroup",
+    "direction": 1,
+    "weight": 1,
+    "raw_direction": 1,
+    "raw_weight": 1,
+    "text": "بازگشت رهبر مخالفان ونزوئلا به وطن، نماد پیروزی استقامت در برابر استبداد است. برای ایرانیان خارج از کشور، این تصاویر تداعی کننده آرزوی پایان دوران سرکوب و امکان بازگشت شرافتمندانه به میهن است.",
+    "source": "مسیح علینژاد",
+    "source_url": "https://t.me/masih_alinejad/30914",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/masih_alinejad/30914",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@masih_alinejad",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "eba16534-11ee-4352-b023-ec8293058c21",
+    "speaker": "مسیح علینژاد",
+    "speaker_role": "روزنامه نگار و فعال سیاسی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@masih_alinejad",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "بازگشت",
+    "score_reason": "عبارت شناسایی‌شده: «بازگشت»؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل",
+    "by": "pendar-auto",
+    "score_kind": "analyst_view",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل"
+  },
+  {
+    "id": "auto-3384e594d2b7dc036a",
+    "date": "2026-10-26",
+    "ts": 1792994270000,
+    "family": "transition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "دستور او به ارتش اسرائیل، موساد و دیگر نهادهای امنیتی، سرنگونی رژیم در ایران است.",
+    "source": "بنیامین نتانیاهو",
+    "source_url": "https://www.independentpersian.com/node/422878/%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D9%88-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C/%D8%B3%DB%8C%E2%80%8C%D8%A7%D9%86%E2%80%8C%D8%A7%D9%86-%D9%85%D9%88%D8%B6%D9%88%D8%B9%D8%8C-%D8%B2%D9%85%D8%A7%D9%86-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%B3%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%8C-%D9%86%D9%87",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.independentpersian.com/node/422878/%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D9%88-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C/%D8%B3%DB%8C%E2%80%8C%D8%A7%D9%86%E2%80%8C%D8%A7%D9%86-%D9%85%D9%88%D8%B6%D9%88%D8%B9%D8%8C-%D8%B2%D9%85%D8%A7%D9%86-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%B3%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%8C-%D9%86%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/a46a4373-aedc-49b2-a7fc-b72bbef36a29/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "a46a4373-aedc-49b2-a7fc-b72bbef36a29",
+    "speaker": "بنیامین نتانیاهو",
+    "speaker_role": "نخست وزیر اسرائیل",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-66802f55a24dbbfb47",
+    "date": "2026-10-26",
+    "ts": 1792993194317,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "مرور صفحات نخست روزنامه های کشور در دوشنبه ۴ آبان ۱۴۰۵",
+    "source": "خبرگزاری صداوسیما، آنا، باشگاه خبرنگاران جوان",
+    "source_url": "/story/1dc1bfa6-13c4-4d8e-874a-a9cfb9fb49b5/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/1dc1bfa6-13c4-4d8e-874a-a9cfb9fb49b5/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5948523/نیم-صفحه-نخست-روزنامه-های-ورزشی-4-آبان",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1092383/روزنامه-های-ورزشی-دوشنبه-4-آبان-1405",
+        "kind": "original"
+      },
+      {
+        "label": "باشگاه خبرنگاران جوان",
+        "url": "https://www.yjc.ir/fa/news/9142300/صفحه-نخست-روزنامه‌ها-–-دوشنبه-۴-آبان",
+        "kind": "original"
+      },
+      {
+        "label": "مهر — فارس",
+        "url": "https://www.mehrnews.com/photo/6989911/%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%81%D8%A7%D8%B1%D8%B3-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%D9%85%D8%A7%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "مهر — خراسان رضوی",
+        "url": "https://www.mehrnews.com/photo/6989915/%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/photo/1848145/%D8%B9%DA%A9%D8%B3-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
+        "kind": "original"
+      },
+      {
+        "label": "مهر — اصفهان",
+        "url": "https://www.mehrnews.com/photo/6989930/%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/photo/1848150/%D8%B9%DA%A9%D8%B3-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%D9%85%D8%A7%D9%87-%DB%B1%DB%B4%DB%B0%DB%B5",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "1dc1bfa6-13c4-4d8e-874a-a9cfb9fb49b5",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات کامل و متن دقیق مطالب داخلی روزنامه ها در منابع ذکر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-5b38ed5aaad5d15d5a",
+    "date": "2026-10-26",
+    "ts": 1792993187391,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "واکنش های متناقض رسانه های داخلی و خارجی به حمایت ترامپ از نتانیاهو در آستانه انتخابات",
+    "source": "مشرق نیوز، همشهری آنلاین، خبرگزاری ایسنا (ISNA)",
+    "source_url": "/story/2e590a03-9669-4081-97bf-c9cb8dd680da/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/2e590a03-9669-4081-97bf-c9cb8dd680da/",
+        "kind": "pendar"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848112/%D9%87%D8%A7%D8%A2%D8%B1%D8%AA%D8%B5-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AE%D8%A7%D9%86%D9%87-%D8%A7%D8%B4-%D8%A8%D9%81%D8%B1%D8%B3%D8%AA%DB%8C%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1080154/%D8%AF%D8%B9%D9%88%D8%AA-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%B2-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA-%D9%87%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D8%A3%DB%8C-%D8%AF%D8%A7%D8%AF%D9%86-%D8%A8%D9%87-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405080401922/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%86%D8%AC%D8%A7%D8%AA-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A8%D9%87-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D8%A2%D9%85%D8%AF-%D8%A8%D9%87-%D8%A8%DB%8C-%D8%A8%DB%8C-%D8%B1%D8%A3%DB%8C-%D8%AF%D9%87%DB%8C%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86303275/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%A7%D8%B1-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%A8%D8%A7-%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1-%D9%84%D9%81%D8%A7%D8%B8%DB%8C-%D9%87%D8%A7%DB%8C-%D8%B6%D8%AF%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304246-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D9%87-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84%DB%8C-%D9%87%D8%A7-%D8%A8%D9%87-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%B1%D8%A3%DB%8C-%D8%A8%D8%AF%D9%87%D8%AF-%D8%A7%D9%88-%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF%DB%8C-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%DB%8C%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848151/%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%B2%D9%88%D8%B1-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A8%D8%A7-%DA%86%D8%A7%D8%B4%D9%86%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%D8%B1%D8%A7%D8%B3%DB%8C",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "2e590a03-9669-4081-97bf-c9cb8dd680da",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهور آمریکا",
+        "statement": "به بنیامین نتانیاهو رای دهید؛ او در جنگ عملکردی استثنایی داشته است.",
+        "direct_quote": true,
+        "source_url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304246-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D9%87-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84%DB%8C-%D9%87%D8%A7-%D8%A8%D9%87-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%B1%D8%A3%DB%8C-%D8%A8%D8%AF%D9%87%D8%AF-%D8%A7%D9%88-%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF%DB%8C-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%DB%8C%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA"
+      }
+    ],
+    "uncertainty": "میزان تاثیرگذاری واقعی حمایت ترامپ بر رای دهندگان در انتخابات پیش روی رژیم صهیونیستی نامشخص است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-370d808f7141d8be91",
+    "date": "2026-10-26",
+    "ts": 1792993098563,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "واکنش سخنگوی وزارت خارجه به اتهامات واشنگتن علیه ایران",
+    "source": "دنیای اقتصاد، اقتصاد آنلاین، میزان",
+    "source_url": "/story/a155c27a-3c24-4bce-974c-aabac1c6e89b/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/a155c27a-3c24-4bce-974c-aabac1c6e89b/",
+        "kind": "pendar"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304223-%D8%A8%D9%82%D8%A7%DB%8C%DB%8C-%D9%86%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%D8%AF%D8%B9%D8%A7%D9%87%D8%A7%DB%8C-%D9%88%D8%A7%D8%B4%D9%86%DA%AF%D8%AA%D9%86-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%DA%A9%D8%B1%D8%AF-%D8%AA%D8%B3%D9%84%DB%8C%D9%85-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%DB%8C%DA%A9-%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%86%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%D8%B4%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171314/کنایه-تند-بقائی-به-روبیو-درباره-دزدی-دریایی-یادآوری-اظهارات-جنجالی-ترامپ",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4925778/بقایی-آمریکا-بر-خواسته-های-یک-جانبه-خود-اصرار-دارد-اروپایی-ها-در-دفاع-از-حقوق-بشر-صادق-نیستند",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4925805/بقایی-وزیر-خارجه-آمریکا-ایران-را-به-چیزی-متهم-می-کند-که-خود-بدان-افتخار-می-کنند-دزدی-دریایی",
+        "kind": "original"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://example.com/fa/news/30007844/%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%A7-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AF%D8%B2%D8%AF%DB%8C-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C-%D9%85%D8%AA%D9%87%D9%85-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D8%A7%D9%85%D8%A7-%D8%AE%D9%88%D8%AF-%D8%A8%D9%87-%D8%A2%D9%86-%D8%A7%D9%81%D8%AA%D8%AE%D8%A7%D8%B1-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "رکنا",
+        "url": "https://www.rokna.net/fa/tiny/news-1261129",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "a155c27a-3c24-4bce-974c-aabac1c6e89b",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "اسماعیل بقایی",
+        "role": "سخنگوی وزارت امور خارجه",
+        "statement": "وزیر خارجه آمریکا ایران را به چیزی متهم می کند که خود بدان افتخار می کنند؛ یعنی دزدی دریایی.",
+        "direct_quote": false,
+        "source_url": "https://www.mizanonline.ir/fa/news/4925805/بقایی-وزیر-خارجه-آمریکا-ایران-را-به-چیزی-متهم-می-کند-که-خود-بدان-افتخار-می-کنند-دزدی-دریایی"
+      },
+      {
+        "name": "اسماعیل بقایی",
+        "role": "سخنگوی وزارت امور خارجه",
+        "statement": "ایران آماده پیگیری مسیر دیپلماسی است اما تسلیم خواسته های یک جانبه آمریکا نخواهد شد.",
+        "direct_quote": false,
+        "source_url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304223-%D8%A8%D9%82%D8%A7%DB%8C%DB%8C-%D9%86%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%D8%AF%D8%B9%D8%A7%D9%87%D8%A7%DB%8C-%D9%88%D8%A7%D8%B4%D9%86%DA%AF%D8%AA%D9%86-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%DA%A9%D8%B1%D8%AF-%D8%AA%D8%B3%D9%84%DB%8C%D9%85-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%DB%8C%DA%A9-%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%86%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%D8%B4%D8%AF"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق و زمینه حقوقی اتهام خاص وزیر خارجه آمریکا در منابع ذکر نشده است.؛ پاسخ احتمالی مقامات رسمی آمریکا به این اظهاراتِ سخنگوی وزارت امور خارجه ایران هنوز مشخص نیست.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-7653545dfd8afec671",
+    "date": "2026-10-26",
+    "ts": 1792992972959,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تداوم تلاش های میانجی گرانه قطر برای کاهش تنش های منطقه ای میان تهران و واشنگتن",
+    "source": "دنیای اقتصاد، ایران اینترنشنال، فرارو",
+    "source_url": "/story/ed4e40f6-2652-4991-a2dd-3c3c031b4608/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/ed4e40f6-2652-4991-a2dd-3c3c031b4608/",
+        "kind": "pendar"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304168-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%A7%D9%84%D8%AC%D8%B2%DB%8C%D8%B1%D9%87-%D8%A7%D8%B2-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B3%D9%81%D8%B1-%D9%87%DB%8C%D8%A6%D8%AA-%D9%82%D8%B7%D8%B1%DB%8C-%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D9%82%D8%A7%D9%85-%D8%A7%D8%B1%D8%B4%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%85%D8%A7%D9%86%D8%B9-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%A8%DB%8C-%D8%A8%D9%87-%D8%B1%D8%A7%D9%87-%D8%AD%D9%84-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%AA-%D9%88%D8%A7%D8%B4%D9%86%DA%AF%D8%AA%D9%86-%D8%A8%D8%A7-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "ایران اینترنشنال (Iran International)",
+        "url": "https://www.iranintl.com/202610259116",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945068/رویترز-میانجیگران-قطری-با-هماهنگی-آمریکا-در-تهران-حضور-دارند",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304211-%D8%B1%D9%88%DB%8C%D8%AA%D8%B1%D8%B2-%D9%85%DB%8C%D8%A7%D9%86%D8%AC%DB%8C%DA%AF%D8%B1%D8%A7%D9%86-%D9%82%D8%B7%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%87%D9%85%D8%A7%D9%87%D9%86%DA%AF%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AD%D8%B6%D9%88%D8%B1-%D8%AF%D8%A7%D8%B1%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1012390/%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D9%86%D8%B4-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%B3%D9%81%D8%B1-%D9%87%DB%8C%D8%A6%D8%AA-%D9%82%D8%B7%D8%B1%DB%8C-%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%D8%AF%DB%8C%D8%AF-%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D8%B3%D9%86%D8%AA%DA%A9%D8%A7%D9%85-%D8%A7%D8%B2-%D9%87%D8%B1%D9%85%D8%B2",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/666100",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "ed4e40f6-2652-4991-a2dd-3c3c031b4608",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق مطالبات ایران و پیشنهادات طرف آمریکایی که توسط هیئت قطری منتقل شده است، مشخص نیست.؛ میزان تأثیرگذاری واقعی این میانجی گری بر کاهش تنش های جاری هنوز معلوم نیست.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-0dbaa8e4d870c24c61",
+    "date": "2026-10-26",
+    "ts": 1792991058000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "با ایران و کانادا توافق های بزرگی امضا خواهیم کرد.",
+    "source": "دونالد ترامپ",
+    "source_url": "https://www.fardanews.com/fa/tiny/news-1416520",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416520",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/f2b6784f-c915-4c84-8ae0-7146a074fa0d/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "f2b6784f-c915-4c84-8ae0-7146a074fa0d",
+    "speaker": "دونالد ترامپ",
+    "speaker_role": "رئیس جمهور آمریکا",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-eb77f7b532a805c4ef",
+    "date": "2026-10-26",
+    "ts": 1792985727000,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "مصر و ایران با در پیش گرفتن استراتژی موازنه سازی دقیق، به دنبال مدیریت بحران های منطقه ای و تامین منافع اقتصادی خود هستند. قاهره تمایلی به درگیری فرسایشی ندارد و تهران نیز از همکاری با این بازیگر مستقل برای شکستن انزوای خود استقبال می کند.",
+    "source": "علی میرزامحمدی",
+    "source_url": "https://t.me/iransocialproblems/426",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/iransocialproblems/426",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@iransocialproblems",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "8846924f-79b6-4b20-a7f9-370b35a8c38d",
+    "speaker": "علی میرزامحمدی",
+    "speaker_role": "جامعه شناس",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@iransocialproblems",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
     "id": "auto-e3a5d77d98d18efd9f",
     "date": "2026-10-26",
     "ts": 1792975491654,
@@ -217,6 +1482,47 @@
     "score_kind": "unscored",
     "review_status": "auto_unverified",
     "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-f599f552472903874b",
+    "date": "2026-10-25",
+    "ts": 1792959573000,
+    "family": "deal",
+    "direction": -1,
+    "weight": 1,
+    "raw_direction": -1,
+    "raw_weight": 1,
+    "text": "ایران آماده پیگیری مسیر دیپلماسی است اما تسلیم خواسته های یک جانبه آمریکا نخواهد شد.",
+    "source": "اسماعیل بقایی",
+    "source_url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304223-%D8%A8%D9%82%D8%A7%DB%8C%DB%8C-%D9%86%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%D8%AF%D8%B9%D8%A7%D9%87%D8%A7%DB%8C-%D9%88%D8%A7%D8%B4%D9%86%DA%AF%D8%AA%D9%86-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%DA%A9%D8%B1%D8%AF-%D8%AA%D8%B3%D9%84%DB%8C%D9%85-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%DB%8C%DA%A9-%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%86%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%D8%B4%D8%AF",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304223-%D8%A8%D9%82%D8%A7%DB%8C%DB%8C-%D9%86%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%D8%AF%D8%B9%D8%A7%D9%87%D8%A7%DB%8C-%D9%88%D8%A7%D8%B4%D9%86%DA%AF%D8%AA%D9%86-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%DA%A9%D8%B1%D8%AF-%D8%AA%D8%B3%D9%84%DB%8C%D9%85-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%DB%8C%DA%A9-%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%86%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%D8%B4%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/a155c27a-3c24-4bce-974c-aabac1c6e89b/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "a155c27a-3c24-4bce-974c-aabac1c6e89b",
+    "speaker": "اسماعیل بقایی",
+    "speaker_role": "سخنگوی وزارت امور خارجه",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "نخواهد شد",
+    "score_reason": "عبارت شناسایی‌شده: «نخواهد شد»؛ دیدگاه منفی تحلیل گر؛ نه شاهد مستقل",
+    "by": "pendar-auto",
+    "score_kind": "analyst_view",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ دیدگاه منفی تحلیل گر؛ نه شاهد مستقل"
   },
   {
     "id": "auto-977cafc11e2ccf4ec0",
