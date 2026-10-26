@@ -261,6 +261,15 @@
     "score_effect": null
   },
   {
+    "id": "3c36a249022188b0be7f",
+    "source_id": "aljazeera",
+    "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+    "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 04:05:44 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "3eeadbbd2cd312f19903",
     "source_id": "bbc",
     "title": "Why Israel's election is one of the most important in its history",
@@ -585,6 +594,15 @@
     "score_effect": null
   },
   {
+    "id": "8a4d7ce00a4a79de41d6",
+    "source_id": "aljazeera",
+    "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 01:02:57 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "8ac63a2e137b2034db39",
     "source_id": "axios",
     "title": "Why soaring prices aren't breaking America's diesel habit",
@@ -842,6 +860,15 @@
     "title": "95% of MAGA Republicans approve of Trump. For non-MAGA Republicans, it's 47%.",
     "url": "https://www.axios.com/2026/10/18/trump-approval-polls-maga-gop-midterms-2026",
     "published": "Sun, 18 Oct 2026 19:53:17 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "cba9b3a7eaf832834669",
+    "source_id": "aljazeera",
+    "title": "Iran war live: Saudi forces attack Sanaa after Houthis target Riyadh",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 00:00:00 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
