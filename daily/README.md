@@ -23,3 +23,7 @@ Example **schema only**, not news:
 
 ## Not yet automated
 The archive is ready to display approved entries, but **no verified brief is currently seeded**. The external/unknown narration generator, cross-repository publisher, and Pendar homepage integration remain separate implementation tasks. An empty archive is intentional: do not fabricate reports to fill it.
+
+## Daily output format
+
+Each publication day has exactly one comprehensive Persian report, one English adaptation of the same report, and one Persian video narration at the report's `full-transcript/` path. Use one shared report_id and one daily manifest entry. News, scenario momentum, and prediction markets are sections of that daily report, not separate daily editions unless the user explicitly requests a special edition. Preserve the existing day-by-day archives and link the three outputs together. A prepared narration is not an uploaded video; do not invent an embed.

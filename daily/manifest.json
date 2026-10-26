@@ -1,47 +1,11 @@
 [
   {
     "date": "2026-10-26",
-    "slug": "2026-10-26/diplomacy-under-threat",
-    "title": "Iran–US: A Diplomatic Channel Is Not Yet a Deal",
-    "summary": "Sunday’s statements leave diplomacy available without establishing a negotiated breakthrough. An assessment published on 26 October.",
+    "slug": "2026-10-26/pressure-and-regional-diplomacy",
+    "title": "Iran Between Pressure and Regional Diplomacy: Is a Deal Taking Shape?",
+    "summary": "A single daily assessment of intermediary messaging, planned regional talks, scenario momentum and prediction-market observations.",
     "status": "published",
-    "report_id": "2026-10-26-diplomacy",
-    "author": {
-      "name": "Nima Afshar Naderi",
-      "profile": "https://pendar.io/@nima-afshar-naderi"
-    }
-  },
-  {
-    "date": "2026-10-26",
-    "slug": "2026-10-26/regional-talks-tehran",
-    "title": "Planned Tehran Talks: A Regional Channel to Watch",
-    "summary": "Reuters reports planned regional talks in Tehran. The meeting and any resulting commitments need separate confirmation.",
-    "status": "published",
-    "report_id": "2026-10-26-regional",
-    "author": {
-      "name": "Nima Afshar Naderi",
-      "profile": "https://pendar.io/@nima-afshar-naderi"
-    }
-  },
-  {
-    "date": "2026-10-26",
-    "slug": "2026-10-26/prediction-market-snapshot",
-    "title": "Iran Prediction Markets: What the 26 October Snapshot Measures",
-    "summary": "Six Iran-related contracts in a timestamped snapshot, with their daily moves and the limits of interpreting market prices.",
-    "status": "published",
-    "report_id": "2026-10-26-markets",
-    "author": {
-      "name": "Nima Afshar Naderi",
-      "profile": "https://pendar.io/@nima-afshar-naderi"
-    }
-  },
-  {
-    "date": "2026-10-26",
-    "slug": "2026-10-26/scenario-momentum",
-    "title": "Scenario Momentum: High Accumulated War Score, No New Daily Move",
-    "summary": "The refreshed 26 October radar snapshot records six cumulative evidence scores and zero daily changes. These are indices, not probabilities.",
-    "status": "published",
-    "report_id": "2026-10-26-momentum",
+    "report_id": "2026-10-26-daily",
     "author": {
       "name": "Nima Afshar Naderi",
       "profile": "https://pendar.io/@nima-afshar-naderi"
