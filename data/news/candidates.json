@@ -108,6 +108,24 @@
     "score_effect": null
   },
   {
+    "id": "1e0098156dfa297adb53",
+    "source_id": "axios",
+    "title": "Trump's Board of Peace taps ex-Biden aide to lead Congress outreach",
+    "url": "https://www.axios.com/2026/10/26/trump-gaza-board-of-peace-appoints-biden-aide-greenspan",
+    "published": "Mon, 26 Oct 2026 11:14:57 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "1e8ff57bdc2f9899b6d1",
+    "source_id": "aljazeera",
+    "title": "Suwayda remains in stasis as US signals differences with Israel on Syria",
+    "url": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 10:36:48 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "228a7895228e07515840",
     "source_id": "bbc",
     "title": "Why is it so hard to fight the Houthis?",
@@ -189,6 +207,15 @@
     "score_effect": null
   },
   {
+    "id": "2f9c7f30ba0a020783b9",
+    "source_id": "aljazeera",
+    "title": "Israel’s election: The main issues in the words of the leading candidates",
+    "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-the-main-issues-in-the-words-of-the-leading-candidates?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 07:03:43 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "2fb5a72fddc278760b08",
     "source_id": "axios",
     "title": "Trump isn't out to hurt Ukraine, Rubio tells Zelensky",
@@ -221,6 +248,15 @@
     "title": "The bitter row over military service that could shape Israel's future",
     "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
     "published": "Sat, 24 Oct 2026 23:03:21 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "387d01ea496d1905451d",
+    "source_id": "aljazeera",
+    "title": "Palestinians are opening their doors to the displaced of besieged Hebron",
+    "url": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 09:45:25 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -270,11 +306,29 @@
     "score_effect": null
   },
   {
+    "id": "3ebccb1c034b71ebfb74",
+    "source_id": "bbc",
+    "title": "Forty Iranian sailors stranded off Sri Lanka coast rescued",
+    "url": "https://www.bbc.co.uk/news/articles/c9p8g7e4k2xjo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 26 Oct 2026 03:47:28 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "3eeadbbd2cd312f19903",
     "source_id": "bbc",
     "title": "Why Israel's election is one of the most important in its history",
     "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
     "published": "Sun, 25 Oct 2026 22:05:30 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "415a2e152f38c42c69ef",
+    "source_id": "aljazeera",
+    "title": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
+    "url": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 08:43:39 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -495,6 +549,15 @@
     "score_effect": null
   },
   {
+    "id": "77c9551793e9c5690f6c",
+    "source_id": "aljazeera",
+    "title": "If Netanyahu loses, what changes for Palestinians?",
+    "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 10:16:39 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "77e267240d10474ee395",
     "source_id": "axios",
     "title": "Trump ratchets up the chaos in an October barrage",
@@ -563,6 +626,15 @@
     "title": "Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections",
     "url": "https://www.axios.com/2026/10/19/pete-hegseth-israel-visit-netanyahu-meeting",
     "published": "Tue, 20 Oct 2026 02:06:36 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "8836d850fa20be0b461d",
+    "source_id": "aljazeera",
+    "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+    "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 12:17:02 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -972,6 +1044,15 @@
     "score_effect": null
   },
   {
+    "id": "eeca3a81d2b0e8c34f43",
+    "source_id": "axios",
+    "title": "Exclusive: Democrats lay groundwork to probe Trump's diesel deal",
+    "url": "https://www.axios.com/2026/10/26/democrats-trump-diesel-deal",
+    "published": "Mon, 26 Oct 2026 12:30:46 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "f0fd2568af8c295479dc",
     "source_id": "aljazeera",
     "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
@@ -1004,6 +1085,15 @@
     "title": "Netanyahu floats Crypto to bypass sanctions",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
     "published": "Sat, 24 Oct 2026 13:27:11 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "f947f20cee00ca337f02",
+    "source_id": "aljazeera",
+    "title": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
+    "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 07:33:47 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
