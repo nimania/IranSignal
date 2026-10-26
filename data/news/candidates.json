@@ -126,11 +126,29 @@
     "score_effect": null
   },
   {
+    "id": "1ee4113ed3b68e97aa14",
+    "source_id": "aljazeera",
+    "title": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 16:12:00 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "228a7895228e07515840",
     "source_id": "bbc",
     "title": "Why is it so hard to fight the Houthis?",
     "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
     "published": "Mon, 12 Oct 2026 12:15:01 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "22d0a65163572fe71273",
+    "source_id": "aljazeera",
+    "title": "‘Enough is enough’: Palestinians and Israelis share views ahead of election",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/enough-is-enough-palestinians-and-israelis-share-views-ahead-of-election?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 16:51:13 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -149,6 +167,24 @@
     "title": "Airlines' new normal: Higher fares, fewer flights",
     "url": "https://www.axios.com/2026/10/22/airline-prices-fuel-costs",
     "published": "Thu, 22 Oct 2026 21:49:30 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "25fc59e1d2990428b3b1",
+    "source_id": "axios",
+    "title": "The anti-Bibi candidate who has Netanyahu on his heels",
+    "url": "https://www.axios.com/2026/10/26/eisenkot-netanyahu-israel-elections",
+    "published": "Mon, 26 Oct 2026 17:11:09 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "262f6ca6066afcd9bafe",
+    "source_id": "aljazeera",
+    "title": "Britain sanctions Sudanese commanders over weaponised rape",
+    "url": "https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 17:32:46 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -347,6 +383,15 @@
     "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
     "url": "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss",
     "published": "Fri, 23 Oct 2026 13:50:26 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "43665c3be5e22195352a",
+    "source_id": "axios",
+    "title": "Trump allies fall in two elections as Netanyahu faces next test",
+    "url": "https://www.axios.com/2026/10/26/trump-allies-brazil-serbia-elections-netanyahu-israel",
+    "published": "Mon, 26 Oct 2026 17:20:07 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -585,6 +630,15 @@
     "score_effect": null
   },
   {
+    "id": "79e93c699b9abfe482ad",
+    "source_id": "aljazeera",
+    "title": "Delegations arrive in Tehran for security talks",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 16:55:19 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "7a788d7ca9fb388f24b6",
     "source_id": "axios",
     "title": "Iran-backed militias sending money back to cash-starved IRGC, U.S. says",
@@ -711,6 +765,24 @@
     "score_effect": null
   },
   {
+    "id": "8f45b52c2abee3997e90",
+    "source_id": "aljazeera",
+    "title": "What does the Israeli election mean for religious groups?",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/what-does-the-israeli-election-mean-for-religious-groups?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 15:40:41 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "91fa8735e1ca953464d8",
+    "source_id": "axios",
+    "title": "Brazil's election ignites MAGA's midterm warnings",
+    "url": "https://www.axios.com/2026/10/26/maga-influencers-bolsonaro-loss-brazil",
+    "published": "Mon, 26 Oct 2026 20:32:30 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "942c3f6e7af0b227508e",
     "source_id": "aljazeera",
     "title": "Elections cannot produce change in Israel",
@@ -725,6 +797,15 @@
     "title": "Israelis demand accountability over 7 October failures three years after attacks",
     "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
     "published": "Wed, 07 Oct 2026 16:00:18 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "966f91063d6c2d7c6b9c",
+    "source_id": "aljazeera",
+    "title": "Israel committing crimes against humanity in occupied West Bank: UN",
+    "url": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 15:44:59 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -774,6 +855,15 @@
     "score_effect": null
   },
   {
+    "id": "9a4b8edd6e0cefcfb31d",
+    "source_id": "aljazeera",
+    "title": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 16:39:48 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "9a626af7487e7bd45b14",
     "source_id": "bbc",
     "title": "Israel to close West Bank crossings on election day as crackdown escalates",
@@ -815,6 +905,15 @@
     "title": "The budget deficit swells, while the cost of debt rises",
     "url": "https://www.axios.com/2026/10/20/federal-deficit-debt-interest-rates",
     "published": "Tue, 20 Oct 2026 09:15:08 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "a4fb88d7113161816e36",
+    "source_id": "aljazeera",
+    "title": "‘Everything destroyed’: Hebron businesses count cost of Israeli assault",
+    "url": "https://www.aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 16:24:24 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1125,11 +1224,29 @@
     "score_effect": null
   },
   {
+    "id": "fe014d3ce032dc8e0710",
+    "source_id": "aljazeera",
+    "title": "Could the midterms change US military support for Israel?",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 18:05:12 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "fe7f04ef7a64cca57399",
     "source_id": "aljazeera",
     "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
     "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
     "published": "Sun, 25 Oct 2026 00:00:00 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "ff3502f93db266990384",
+    "source_id": "bbc",
+    "title": "Israel and the US are both going to the polls - the consequences will be global",
+    "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 26 Oct 2026 16:30:34 GMT",
     "status": "unverified_candidate",
     "score_effect": null
   }
