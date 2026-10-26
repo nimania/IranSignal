@@ -1,5 +1,224 @@
 [
   {
+    "id": "auto-e3a5d77d98d18efd9f",
+    "date": "2026-10-26",
+    "ts": 1792975491654,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "اظهارات متناقض دونالد ترامپ درباره برنامه هسته ای ایران و رصد مراکز آن",
+    "source": "مشرق نیوز، همشهری آنلاین، خبرگزاری مهر (Mehr)",
+    "source_url": "/story/4deeef1b-b112-4e44-a412-e5bc934fdfad/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/4deeef1b-b112-4e44-a412-e5bc934fdfad/",
+        "kind": "pendar"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1847875/%D8%A7%D8%B3%D8%B1%D8%A7%DB%8C%DB%8C%D9%84-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B1%D8%AF-%DA%86%D8%B1%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DA%86%D9%86%DB%8C%D9%86-%D8%AD%D9%82%DB%8C-%D9%86%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AF%D8%A7%D8%B4%D8%AA%D9%87-%D8%A8%D8%A7%D8%B4%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1847886/%D8%A7%DA%AF%D8%B1-%D8%AF%D8%BA%D8%AF%D8%BA%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%88%D8%AF-%D9%87%D8%B1%DA%AF%D8%B2-%D8%A8%D8%B1%D8%AC%D8%A7%D9%85-%D8%B1%D8%A7-%D9%BE%D8%A7%D8%B1%D9%87-%D9%86%D9%85%DB%8C-%DA%A9%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1080151/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A8%D8%B2%D8%B1%DA%AF%DB%8C-%D8%A7%D9%85%D8%B6%D8%A7-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%DA%A9%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری مهر (Mehr)",
+        "url": "https://www.mehrnews.com/news/6989872/%DB%8C%D8%A7%D9%88%D9%87-%DA%AF%D9%88%DB%8C%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D9%87-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF%DB%8C%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86303270/%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%D9%85%D8%B6%D8%A7-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%DA%A9%D8%B1%D8%AF-%D9%85%D8%B1%D8%A7%DA%A9%D8%B2-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304235-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D8%A2%D9%86%DA%A9%D9%87-%D8%AC%D9%86%DA%AF-%D9%87%D8%A7-%D8%B1%D8%A7-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF%D9%85-%D8%AC%D8%A7%DB%8C%D8%B2%D9%87-%D9%86%D9%88%D8%A8%D9%84-%D8%B1%D8%A7-%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D9%86%DA%A9%D8%B1%D8%AF%D9%85-%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7-%D8%B3%D8%A7%D9%84-%D9%87%D8%A7-%D8%A7%D8%B2-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B3%D9%88%D8%A1%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D9%85%DB%8C-%DA%A9%D8%B1%D8%AF-%D8%A7%D9%85%D8%A7-%D8%A7%DA%A9%D9%86%D9%88%D9%86-%D8%AD%D8%A7%D8%B6%D8%B1-%D8%A7%D8%B3%D8%AA-%D9%87%D8%B1-%DA%86%DB%8C%D8%B2%DB%8C-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%85%D8%A7-%D8%A8%D8%AF%D9%87%D8%AF",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "4deeef1b-b112-4e44-a412-e5bc934fdfad",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "میزان صحت ادعاهای ترامپ درباره رصد دقیق مراکز هسته ای ایران و پایان تهدیدات.؛ جزئیات و امکان سنجی توافق بزرگی که از سوی ترامپ ادعا شده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-b35d1a8537970a1200",
+    "date": "2026-10-25",
+    "ts": 1792967803157,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "واکنش ها به مواضع انتخاباتی ترامپ و انتقادها از سیاست های آمریکا در آستانه انتخابات میاندوره ای",
+    "source": "خبرگزاری ایرنا (IRNA)، عصر ایران، باشگاه خبرنگاران جوان",
+    "source_url": "/story/b04c190d-c867-4d07-afc9-155d9c398efa/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/b04c190d-c867-4d07-afc9-155d9c398efa/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86303220/%D8%AD%D9%85%D9%84%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D9%87-%D8%A7%D9%84%D8%B3%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%B3%D9%81%D8%B1-%D8%A8%D9%87-%D9%85%DB%8C%D8%B4%DB%8C%DA%AF%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201468/حمله-ترامپ-به-عبدالرحمان-محمد-السید-در-آستانه-سفر-به-میشیگان",
+        "kind": "original"
+      },
+      {
+        "label": "باشگاه خبرنگاران جوان",
+        "url": "https://www.yjc.ir/fa/news/9142287/افشای-ابعاد-شکست-ترامپ-فیلم",
+        "kind": "original"
+      },
+      {
+        "label": "رکنا",
+        "url": "https://www.rokna.net/fa/tiny/news-1261116",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475320/ببینید-کنایه-معنادار-اوباما-درباره-سلیقه-ترامپ-انگار-صدام-حسین-رستوران-باز-کرده",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "b04c190d-c867-4d07-afc9-155d9c398efa",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "باراک اوباما",
+        "role": "رئیس جمهوری اسبق آمریکا",
+        "statement": "سیاست های دولت کنونی آمریکا را مورد انتقاد قرار داد و از کنایه ای برای توصیف سلیقه دونالد ترامپ استفاده کرد.",
+        "direct_quote": false,
+        "source_url": "https://www.rouydad24.ir/fa/news/475320/ببینید-کنایه-معنادار-اوباما-درباره-سلیقه-ترامپ-انگار-صدام-حسین-رستوران-باز-کرده"
+      }
+    ],
+    "uncertainty": "ابعاد دقیق و میزان تأثیرگذاری هزینه های جنگ بر نتایج انتخابات میاندوره ای؛ میزان دقیق خسارت های واردشده به تجهیزات نظامی آمریکا در منطقه",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-b84610337276bc7f23",
+    "date": "2026-10-25",
+    "ts": 1792967797218,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "انتقال و درمان ۴۰ ملوان ایرانی در سریلانکا و بازگشت آن ها به کشور",
+    "source": "یورونیوز فارسی، فرارو، انتخاب",
+    "source_url": "/story/c9748b9c-1b1b-4df1-a49b-3b24fffebf5b/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/c9748b9c-1b1b-4df1-a49b-3b24fffebf5b/",
+        "kind": "pendar"
+      },
+      {
+        "label": "یورونیوز فارسی",
+        "url": "https://parsi.euronews.com/2026/10/25/iranian-sailors-medical-treatment-sri-lanka-us-sanctioned-oil-tankers",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1012246/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-40-%D9%85%D9%84%D9%88%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AA%D8%AD%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%AE%D8%A7%DA%A9-%D8%B3%D8%B1%DB%8C%D9%84%D8%A7%D9%86%DA%A9%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B1%D9%85%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "رکنا",
+        "url": "https://www.rokna.net/fa/tiny/news-1260976",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475268/40-ملوان-ایرانی-برای-دریافت-مراقبت-های-فوری-پزشکی-به-سریلانکا-منتقل-شدند",
+        "kind": "original"
+      },
+      {
+        "label": "ایران اینترنشنال (Iran International)",
+        "url": "https://www.iranintl.com/202610253122",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945056/بازگشت-40-ملوان-ایرانی-از-سریلانکا-به-کشور",
+        "kind": "original"
+      },
+      {
+        "label": "آشیان سیمرغ",
+        "url": "https://t.me/simorghdata369/3132",
+        "kind": "original"
+      },
+      {
+        "label": "رکنا",
+        "url": "https://www.rokna.net/fa/tiny/news-1261117",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "c9748b9c-1b1b-4df1-a49b-3b24fffebf5b",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "ویجیتا هرات",
+        "role": "وزیر امور خارجه سریلانکا",
+        "statement": "ما ۴۰ ملوان را نجات دادیم، به آنان درمان پزشکی ارائه کردیم و صبح امروز آنان را به کشورشان بازگرداندیم.",
+        "direct_quote": true,
+        "source_url": "https://www.entekhab.ir/fa/news/945056/بازگشت-40-ملوان-ایرانی-از-سریلانکا-به-کشور"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق مشکلات پزشکی ملوانان و نوع بیماری آن ها در گزارش های رسمی مشخص نشده است.؛ تعداد دقیق کشتی هایی که این ملوانان در آن ها حضور داشته اند در میان منابع با اختلاف ذکر شده است (برخی منابع به نفتکش ها و برخی دیگر به ۱۹ کشتی تجاری اشاره کرده اند).",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
     "id": "auto-977cafc11e2ccf4ec0",
     "date": "2026-10-25",
     "ts": 1792958815678,
@@ -1736,6 +1955,47 @@
     "source_doc_id": "b98b31e9-1a65-47c8-871c-dfc6b24c2187",
     "speaker": "حمید بورد",
     "speaker_role": "سرپرست وزارت نفت",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-b727c417777d2da934",
+    "date": "2026-10-25",
+    "ts": 1792925332000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تهدید به جنگ گسترده یا ترور نمی تواند جمهوری اسلامی را به عقب نشینی از مواضع خود وادار کند و در صورت تعرض به تمامیت ارضی، پاسخی خارج از تصور خواهیم داد.",
+    "source": "محمدباقر قالیباف",
+    "source_url": "https://parsi.euronews.com/2026/10/25/iran-ghalibaf-warns-us-unimaginable-response-threats-war",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://parsi.euronews.com/2026/10/25/iran-ghalibaf-warns-us-unimaginable-response-threats-war",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/70096e8c-450e-4c0e-aaf7-2a3c58d83db6/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "70096e8c-450e-4c0e-aaf7-2a3c58d83db6",
+    "speaker": "محمدباقر قالیباف",
+    "speaker_role": "رئیس مجلس شورای اسلامی ایران",
     "analyst_priority": false,
     "analyst_handle": "",
     "analyst_group": "",
