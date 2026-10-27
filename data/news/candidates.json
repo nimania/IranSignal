@@ -117,6 +117,15 @@
     "score_effect": null
   },
   {
+    "id": "1b2ea1238890bf5c76b7",
+    "source_id": "aljazeera",
+    "title": "Israeli military detains Egyptian national who crossed border",
+    "url": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 15:10:27 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "1d33449e2de317c49ee3",
     "source_id": "aljazeera",
     "title": "Who Israel elects matters, and not just for Israelis",
@@ -333,6 +342,15 @@
     "score_effect": null
   },
   {
+    "id": "34eeab01265519d62646",
+    "source_id": "axios",
+    "title": "Socialist civil war engulfs Los Angeles mayor race",
+    "url": "https://www.axios.com/2026/10/27/dsa-socialists-la-mayor-race-israel-raman-bass",
+    "published": "Tue, 27 Oct 2026 09:30:10 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "387d01ea496d1905451d",
     "source_id": "aljazeera",
     "title": "Palestinians are opening their doors to the displaced of besieged Hebron",
@@ -347,6 +365,15 @@
     "title": "How have Democrats’ policies shifted since the last major US election?",
     "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
     "published": "Sat, 24 Oct 2026 22:28:37 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "39c17c87547da75a80df",
+    "source_id": "aljazeera",
+    "title": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
+    "url": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 15:08:59 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -464,6 +491,24 @@
     "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
     "url": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
     "published": "Fri, 23 Oct 2026 15:51:29 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "48f52cbdc4f46589c7aa",
+    "source_id": "aljazeera",
+    "title": "The Netherlands pulls out of Eurovision 2027 due to Israel ‘sensitivities’",
+    "url": "https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 13:29:47 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "4e61b23ccb39050dba63",
+    "source_id": "bbc",
+    "title": "What does Israel's election mean for Gaza and the wider world?",
+    "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 27 Oct 2026 10:17:36 GMT",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -846,6 +891,15 @@
     "score_effect": null
   },
   {
+    "id": "95784396a21452afeae8",
+    "source_id": "aljazeera",
+    "title": "Qatar’s Emir meets Iran’s Pezeshkian in Moscow",
+    "url": "https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 13:26:32 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "963494877b488f80a5c0",
     "source_id": "bbc",
     "title": "Israelis demand accountability over 7 October failures three years after attacks",
@@ -1098,6 +1152,15 @@
     "score_effect": null
   },
   {
+    "id": "b8efc5d0414da6ad0b5b",
+    "source_id": "aljazeera",
+    "title": "Iranians brace for renewed attacks after Israeli, US elections",
+    "url": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 13:23:32 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "b9c02846378bcdf0c20c",
     "source_id": "axios",
     "title": "The oil market's 2027 relief hopes are fading fast",
@@ -1116,6 +1179,15 @@
     "score_effect": null
   },
   {
+    "id": "bde89a86675856177f90",
+    "source_id": "axios",
+    "title": "Israel braces for an election each side warns could bring ruin",
+    "url": "https://www.axios.com/2026/10/27/israel-election-netanyahu-eisenkot",
+    "published": "Tue, 27 Oct 2026 09:20:04 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "be4b7af9ec6feca06c1b",
     "source_id": "axios",
     "title": "Warsh signals steady Fed outlook despite inflation jump",
@@ -1130,6 +1202,15 @@
     "title": "95% of MAGA Republicans approve of Trump. For non-MAGA Republicans, it's 47%.",
     "url": "https://www.axios.com/2026/10/18/trump-approval-polls-maga-gop-midterms-2026",
     "published": "Sun, 18 Oct 2026 19:53:17 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "c95e06c7b5cf749fd2dc",
+    "source_id": "axios",
+    "title": "Israeli turnout hits 53-year high, a bad sign for Netanyahu",
+    "url": "https://www.axios.com/2026/10/27/israel-election-turnout-netanyahu",
+    "published": "Tue, 27 Oct 2026 15:21:01 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1233,6 +1314,24 @@
     "score_effect": null
   },
   {
+    "id": "e38ea692ea3d64a120b3",
+    "source_id": "aljazeera",
+    "title": "Al Jazeera meets iconic pro-Palestine Japanese activist",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 13:06:28 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "e3f968f6e1fffc01f3d8",
+    "source_id": "aljazeera",
+    "title": "Israel election turnout highest in 50 years as voting continues",
+    "url": "https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 15:20:48 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "e4ba9c979a81066deabf",
     "source_id": "axios",
     "title": "Trump tells Axios why he endorsed Netanyahu's reelection",
@@ -1256,6 +1355,15 @@
     "title": "Trump ordered to sit for deposition in $10 billion BBC lawsuit",
     "url": "https://www.axios.com/2026/10/22/trump-bbc-lawsuit-december-deposition-deadline",
     "published": "Thu, 22 Oct 2026 19:22:43 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "ecf09fc86ece44437cea",
+    "source_id": "aljazeera",
+    "title": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 11:19:46 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
