@@ -1,5 +1,564 @@
 [
   {
+    "id": "auto-6b1fcbf44a9af938bf",
+    "date": "2026-10-27",
+    "ts": 1793125780756,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "دیدار سفیر یمن با دبیر شورای عالی امنیت ملی و تشریح اهداف نشست چهارجانبه تهران",
+    "source": "عصر ایران، انتخاب، آنا",
+    "source_url": "/story/695b5cca-ea3b-4d53-b616-542a360d030c/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/695b5cca-ea3b-4d53-b616-542a360d030c/",
+        "kind": "pendar"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201923/دیدار-محسن-رضایی-با-سفیر-یمن",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945329/دیدار-دبیر-شورای-عالی-امنیت-ملی-با-سفیر-یمن",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1092906/دبیر-شورای-عالی-امنیت-ملی-نشست-چهارجانبه-تهران-با-هدف-خروج-نیروهای-خارجی-از-منطقه-برگزار-شد",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1074177/دیدار-سفیر-انصارالله-یمن-در-تهران-با-محسن-رضایی",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475555/دیدار-محسن-رضایی-با-سفیر-انصارالله-یمن",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4926197/قدردانی-سرلشکر-رضایی-از-یمن-برای-نبرد-افتخارآمیز-با-رژیم-صهیونی",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "695b5cca-ea3b-4d53-b616-542a360d030c",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "نشست چهارجانبه اخیر در تهران با هدف ترتیبات امنیت درون زا در کل منطقه، خروج نیروهای خارجی و مسئله مداخله آن ها در امور داخلی کشورهای منطقه برگزار شده است.",
+        "direct_quote": false,
+        "source_url": "https://www.asriran.com/fa/news/1201923/دیدار-محسن-رضایی-با-سفیر-یمن"
+      },
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "این نشست با هدف ترتیبات امنیت درون زا در کل منطقه، خروج نیروهای خارجی و مسئله مداخله آن ها در امور داخلی کشورهای منطقه برگزار شده است.",
+        "direct_quote": false,
+        "source_url": "https://www.entekhab.ir/fa/news/945329/دیدار-دبیر-شورای-عالی-امنیت-ملی-با-سفیر-یمن"
+      }
+    ],
+    "uncertainty": "جزئیات بیشتری درباره سایر شرکت کنندگان و مصوبات دقیق نشست چهارجانبه تهران در متن گزارش ها ذکر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-1719fba8a29500aae4",
+    "date": "2026-10-27",
+    "ts": 1793125705269,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "محدودسازی کارت سوخت جایگاه ها و تحولات انرژی در استان ها",
+    "source": "خبرگزاری صداوسیما، اقتصاد آنلاین، میزان",
+    "source_url": "/story/c2d291dd-7a13-4821-a5b5-5e62c65dff04/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/c2d291dd-7a13-4821-a5b5-5e62c65dff04/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5948707/اختصاص-بنزین-حمایتی-به-تاکسی-های-اینترنتی-اردبیل",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2293369/%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5-%D8%A8%D9%86%D8%B2%DB%8C%D9%86-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%DB%8C-%D8%A8%D9%87-%D8%AA%D8%A7%DA%A9%D8%B3%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5949384/کارت-های-سوخت-اضطراری-خراسان-رضوی-جمع-آوری-نمی-شود",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171351/طرح-جمع-آوری-کارت-سوخت-جایگاه-ها-اگر-سهمیه-بنزین-تمام-شود-تکلیف-رانندگان-چیست",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5949015/تامین-لوله-های-جدید-برای-طرح-آبرسانی-به-استان-از-منابع-آب-سرانی-شیروان",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4926048/اجرای-طرح-انتقال-سهمیه-بنزین-به-کارت-سوخت-شخصی-در-استان-ها",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1074070/کارت-سوخت-جایگاه-ها-محدود-شد",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201832/کارت-سوخت-جایگاه-ها-محدود-شد-تکلیف-رانندگان-در-سفر-چیست",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "c2d291dd-7a13-4821-a5b5-5e62c65dff04",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "میزان دقیق تأثیر محدودسازی کارت های سوخت بر سفرهای بین استانی و چالش های احتمالی رانندگان در تمامی استان های مجری طرح؛ وضعیت کامل ذخایر سوخت مایع نیروگاه ها در ماه های سرد پیش رو",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-bf141ea7fa4947c56b",
+    "date": "2026-10-27",
+    "ts": 1793125700893,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "برگزاری هشتمین اجلاس مجمع کشورهای صادرکننده گاز و دیدار مقامات ایران، روسیه و قطر در مسکو",
+    "source": "عصر ایران، اقتصاد آنلاین، آنا",
+    "source_url": "/story/54449a69-64a3-497a-824e-8eb07200612f/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/54449a69-64a3-497a-824e-8eb07200612f/",
+        "kind": "pendar"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201911/پوتین-در-اجلاس-گاز-در-حال-بررسی-همکاری-با-شرکای-آمریکایی-هستیم",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201924/کاروان-حامل-امیر-قطر-در-خیابان-های-مسکو",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171671/تأکید-پوتین-بر-نقش-شهید-خامنه-ای-در-همکاری-گازی-جهان",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201928/دیدار-پزشکیان-و-امیر-قطر-در-مسکو-تأکید-بر-گسترش-همکاری-های-انرژی",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1092916/تمجید-پوتین-از-نقش-رهبر-شهید-انقلاب-در-تأسیس-مجمع-صادرکنندگان-گاز",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5950279/پوتین-از-نقش-رهبر-شهید-انقلاب-در-تأسیس-مجمع-صادرکنندگان-گاز-تمجید-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945354/دیدار-پزشکیان-و-پوتین-در-مسکو",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848650/%D9%81%DB%8C%D9%84%D9%85-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%B1%D9%88%D8%B3%D8%A7%DB%8C-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%B1%D9%88%D8%B3%DB%8C%D9%87",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "54449a69-64a3-497a-824e-8eb07200612f",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "ولادیمیر پوتین",
+        "role": "رئیس جمهور روسیه",
+        "statement": "نقش آیت الله شهید خامنه ای در تأسیس مجمع کشورهای صادرکننده گاز و همکاری های گازی جهان قابل توجه و تأثیرگذار بوده است.",
+        "direct_quote": false,
+        "source_url": "https://www.eghtesadonline.com/fa/news/2171671/تأکید-پوتین-بر-نقش-شهید-خامنه-ای-در-همکاری-گازی-جهان"
+      },
+      {
+        "name": "مسعود پزشکیان",
+        "role": "رئیس جمهوری اسلامی ایران",
+        "statement": "اقدامات آمریکا در منطقه ما را بیش از پیش به سمت ادامه همکاری های چندجانبه سوق می دهد و بدون وابستگی به آمریکا می توانیم مشکلات منطقه را حل وفصل کنیم.",
+        "direct_quote": false,
+        "source_url": "https://fa.shafaqna.com/news/2388726/"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق و اجرایی توافق شده در دیدارهای دوجانبه میان ایران، روسیه و قطر در منابع ذکر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-03e9a14d1342b1378e",
+    "date": "2026-10-27",
+    "ts": 1793125692950,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "حملات موشکی به ریاض و تحولات مرتبط با لبنان، یمن و پروازهای منتهی به تهران",
+    "source": "دنیای اقتصاد، آفتاب نیوز، خبرگزاری ایسنا (ISNA)",
+    "source_url": "/story/65deb9ca-84c9-43fb-b6ba-439626b76b5e/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/65deb9ca-84c9-43fb-b6ba-439626b76b5e/",
+        "kind": "pendar"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304498-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%A8%D9%87-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%A7%DB%8C%D9%86-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%DA%AF%D9%84%D9%88%D9%84%D9%87-%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1074033/حمله-اسرائیل-به-جنوب-لبنان",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405080502820/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87%DB%8C-%D8%AF%D8%B1-%D8%AC%D9%86%D9%88%D8%A8-%D8%B1%DB%8C%D8%A7%D8%B6",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405080502826/%DB%8C%DA%A9-%D8%B4%D9%87%DB%8C%D8%AF-%D9%88-%DB%B3-%D8%B2%D8%AE%D9%85%DB%8C-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%D9%84%D9%85%D8%AE%D8%A7-%D9%88-%D8%AA%D8%B9%D8%B2-%DB%8C%D9%85%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86305051/%D8%AD%D9%85%D9%84%D9%87-%D9%85%D9%88%D8%B4%DA%A9%DB%8C-%DB%8C%D9%85%D9%86-%D8%A8%D9%87-%D8%B1%DB%8C%D8%A7%D8%B6",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4926198/ارتش-یمن-وزارت-دفاع-عربستان-را-هدف-قرار-داد",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201941/حمله-یمن-به-ساختمان-وزارت-دفاع-عربستان",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171675/ریاض-زیر-ضرب-موشک-ها-وزارت-دفاع-عربستان-در-تیررس",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "65deb9ca-84c9-43fb-b6ba-439626b76b5e",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "یحیی سریع",
+        "role": "سخنگوی نیروهای مسلح یمن",
+        "statement": "حمله به ساختمان وزارت دفاع عربستان در ریاض به صورت مستقیم به هدف اصابت کرد و دو فروند هواپیمای ترابری نظامی عربستان سعودی نیز با موشک بالستیک هدف قرار گرفتند.",
+        "direct_quote": false,
+        "source_url": "https://www.asriran.com/fa/news/1201941/حمله-یمن-به-ساختمان-وزارت-دفاع-عربستان"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق خسارات ناشی از انفجار و حملات موشکی در ریاض هنوز به طور رسمی و کامل تایید نشده است.؛ هدف دقیق و مقام های حاضر در پرواز هواپیماهای منتهی به تهران از سوی منابع رسمی دولتی تایید نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-acb257b964ed99fc12",
+    "date": "2026-10-27",
+    "ts": 1793125688123,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "نشست شورای امنیت سازمان ملل درباره پرونده هسته ای ایران و مواضع نمایندگان ایران، مسکو و پکن",
+    "source": "اقتصاد آنلاین، آنا، مشرق نیوز",
+    "source_url": "/story/b30942d7-f32d-4c03-9eb2-73cfb14f6b73/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/b30942d7-f32d-4c03-9eb2-73cfb14f6b73/",
+        "kind": "pendar"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171707/هم-پیمانی-ناگهانی-بحرین-با-آمریکا-علیه-ایران-موضع-گیری-جنجالی-در-شورای-امنیت",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1092943/ایران-خطاب-به-شورای-امنیت-اسرائیل-سلاح-هسته-ای-دارد-اما-شما-نگران-نبود-بازرسان-در-ایران-هستید",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848649/%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B1%D8%AF-%D9%86%DA%AF%D8%B1%D8%A7%D9%86-%D9%86%D8%A8%D9%88%D8%AF-%D8%A8%D8%A7%D8%B2%D8%B1%D8%B3%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%D8%B3%D8%AA%DB%8C%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201980/نماینده-ایران-در-شورای-امنیت-اسرائیل-سلاح-هسته-ای-دارد-نگران-نبود-بازرسان-در-ایران-هستید",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2294093/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%A8%D9%87-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B1%D8%AF-%D9%86%DA%AF%D8%B1%D8%A7%D9%86-%D9%86%D8%A8%D9%88%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945355/اسرائیل-سلاح-هسته-ای-در-اختیار-دارد-اما-نگرانی-شما-نبود-بازرسان-در-ایران-است-نشست-امروز-نمونه-دیگری-از-دورویی-ای-است-که-به-یکی-از-ویژگی-های-جدایی-ناپذیر-سیاست-خارجی-این-کشورها-تبدیل-شده-اعضای-غربی-شورای-امنیت-دست-کم-به-خوبی-می-دانند-که-برنامه-هسته-ای-ایران-هرگز-تهدیدی-علیه-صلح-و-امنیت-بین-المللی-نبوده-اگر-نمی-توانید-در-سمت-درست-تاریخ-بایستید-دست-کم-در-سمت-نادرست-آن-نایستید",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1137771",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "b30942d7-f32d-4c03-9eb2-73cfb14f6b73",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "غلامحسین درزی",
+        "role": "سفیر و کاردار ایران نزد سازمان ملل",
+        "statement": "آژانس بین المللی انرژی اتمی ابزاری برای امتیازگیری و پیشبرد اهداف ژئوپلیتیکی نیست و اعضای غربی شورای امنیت به خوبی می دانند برنامه هسته ای ایران هرگز تهدیدی علیه صلح و امنیت بین المللی نبوده است.",
+        "direct_quote": true,
+        "source_url": "https://www.khabaronline.ir/news/2294093/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%A8%D9%87-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B1%D8%AF-%D9%86%DA%AF%D8%B1%D8%A7%D9%86-%D9%86%D8%A8%D9%88%D8%AF"
+      }
+    ],
+    "uncertainty": "جزئیات کامل موضع گیری سایر اعضای شورای امنیت و قطعنامه های احتمالی آتی نامشخص است.؛ ابعاد دقیق موضع گیری بحرین و واکنش های پیرامون آن به0 جزئیات ذکر شده محدود است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-61d31f8b2c1cb86bd7",
+    "date": "2026-10-27",
+    "ts": 1793125661222,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "دیدارهای رئیس جمهور ایران با امیر قطر و ولادیمیر پوتین در مسکو",
+    "source": "رادیو فردا، فردانیوز، عصر ایران",
+    "source_url": "/story/3faa9c2e-fe9a-4b2f-adfc-24216d11367e/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/3faa9c2e-fe9a-4b2f-adfc-24216d11367e/",
+        "kind": "pendar"
+      },
+      {
+        "label": "رادیو فردا",
+        "url": "https://www.radiofarda.com/a/pezeshkian-qatar-emir-moscow-talks-iran-us-mediation-strait-hormuz/33885270.html",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416720",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201981/دیدار-پزشکیان-با-پوتین",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171721/توافق-داغ-ایران-و-روسیه-در-حوزه-نفت-و-گاز-جزئیات-رایزنی-های-تازه-رؤسای-جمهور-فیلم",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171725/ائتلاف-جدید-علیه-تحریم-ها-پاتک-ایران-و-روسیه-به-اقدامات-یک-جانبه-آمریکا",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475571/دیدار-پوتین-و-پزشکیان",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "3faa9c2e-fe9a-4b2f-adfc-24216d11367e",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق و عملیاتی توافقات نفت و گاز میان ایران و روسیه در گزارش ها مسکوت مانده است.؛ پاسخ رسمی یا اقدام مشخص ایران در برابر درخواست قطر برای بازگشایی تنگه هرمز در منابع ذکر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-cdd41a7d5fd824d012",
+    "date": "2026-10-27",
+    "ts": 1793124339000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "مردم در توافق اسلام آباد برخلاف برجام شادی نکردند که نشان دهنده پیروزی است. با این حال، نماینده تهران به دلیل شکایت شخصی و بهانه های مطبوعاتی در زندان به سر می برد.",
+    "source": "حمید رسایی",
+    "source_url": "https://t.me/rasaee/33750",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/rasaee/33750",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@rasaee",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "a984f7ae-e286-4e42-b2a1-a92c5bbe8ca6",
+    "speaker": "حمید رسایی",
+    "speaker_role": "نماینده مجلس و مدیرمسئول هفته نامه ۹ دی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@rasaee",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-15d43830399f9305b9",
+    "date": "2026-10-27",
+    "ts": 1793122207000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "انتخابات کنگره آمریکا در شرایطی برگزار می شود که گرانی ناشی از جنگ با ایران به نفع دموکرات ها تمام شده است. دموکرات ها شانس بالایی برای کسب اکثریت مجلس نمایندگان دارند.",
+    "source": "حسین جابری انصاری",
+    "source_url": "https://t.me/yekhezaran/52161",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/yekhezaran/52161",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@yekhezaran",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "aaf4cc6e-e861-458d-9c38-7cbfeeada07b",
+    "speaker": "حسین جابری انصاری",
+    "speaker_role": "دیپلمات و پژوهشگر مسائل منطقه ای",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@yekhezaran",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
     "id": "auto-fe6923842050d0b896",
     "date": "2026-10-27",
     "ts": 1793104643154,
