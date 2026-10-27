@@ -1,5 +1,14 @@
 [
   {
+    "id": "02992984a82972c4990c",
+    "source_id": "aljazeera",
+    "title": "Lebanese and Syrians expect no change in Israeli policy after election",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 20:34:44 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "0764fe0165a019ef4429",
     "source_id": "axios",
     "title": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu",
@@ -32,6 +41,15 @@
     "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
     "url": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss",
     "published": "Sun, 25 Oct 2026 05:27:54 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "0c90b7150d2ca59b826f",
+    "source_id": "aljazeera",
+    "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 19:36:01 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -122,6 +140,15 @@
     "title": "Israeli military detains Egyptian national who crossed border",
     "url": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss",
     "published": "Tue, 27 Oct 2026 15:10:27 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "1bb1bf2c110111aa28c0",
+    "source_id": "axios",
+    "title": "U.S. granting visas to Flávio Bolsonaro and family",
+    "url": "https://www.axios.com/2026/10/27/us-granting-visas-to-flavio-bolsonaro-and-family",
+    "published": "Tue, 27 Oct 2026 21:53:38 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -765,6 +792,24 @@
     "score_effect": null
   },
   {
+    "id": "81952cf286d58e45485b",
+    "source_id": "aljazeera",
+    "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
+    "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 21:28:33 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "81b89ceaad6b1ec1d627",
+    "source_id": "aljazeera",
+    "title": "Jerusalem Daily: Israeli elections underway",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 18:12:17 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "86c0dd7a5c03ff764c69",
     "source_id": "axios",
     "title": "Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections",
@@ -828,6 +873,15 @@
     "score_effect": null
   },
   {
+    "id": "8c92a67513a4fa0295ab",
+    "source_id": "aljazeera",
+    "title": "Netanyahu rallies Likud voters with megaphone in shopping mall",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 20:38:17 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "8e7d6eb242ad745b803b",
     "source_id": "aljazeera",
     "title": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
@@ -878,6 +932,15 @@
     "title": "Brazil's election ignites MAGA's midterm warnings",
     "url": "https://www.axios.com/2026/10/26/maga-influencers-bolsonaro-loss-brazil",
     "published": "Mon, 26 Oct 2026 20:32:30 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "93f5b0e357315ed8d496",
+    "source_id": "aljazeera",
+    "title": "Exit polls from Israel’s election show no clear winner",
+    "url": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 20:18:18 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1053,6 +1116,15 @@
     "score_effect": null
   },
   {
+    "id": "a66fddfbea51bef7477e",
+    "source_id": "aljazeera",
+    "title": "Forever Wars: Why can’t America stop?",
+    "url": "https://www.aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 21:21:08 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "a6c02f7644b6c08591cf",
     "source_id": "axios",
     "title": "Israeli military conducts massive \"power projection\" operation near Iran's border",
@@ -1170,6 +1242,15 @@
     "score_effect": null
   },
   {
+    "id": "bad0a60e45c61aff86a3",
+    "source_id": "aljazeera",
+    "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
+    "url": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 21:12:27 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "bc927370be7192d7a390",
     "source_id": "aljazeera",
     "title": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
@@ -1188,11 +1269,29 @@
     "score_effect": null
   },
   {
+    "id": "be308e6fb60d55b2adc8",
+    "source_id": "aljazeera",
+    "title": "Will players in the Gulf establish a new security framework?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/10/27/will-players-in-the-gulf-establish-a-new-security-framework?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 21:14:12 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "be4b7af9ec6feca06c1b",
     "source_id": "axios",
     "title": "Warsh signals steady Fed outlook despite inflation jump",
     "url": "https://www.axios.com/2026/10/16/warsh-federal-reserve-interest-rates",
     "published": "Fri, 16 Oct 2026 10:25:29 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "c16c12fb6fbf6c7733de",
+    "source_id": "aljazeera",
+    "title": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
+    "url": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 18:11:57 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1242,6 +1341,15 @@
     "score_effect": null
   },
   {
+    "id": "ceee8d1a198a90d48a1c",
+    "source_id": "axios",
+    "title": "Israeli exit polls: Netanyahu bloc loses, but Eisenkot's short of clear majority",
+    "url": "https://www.axios.com/2026/10/27/netanyahu-eisenkot-israel-election-exit-polls",
+    "published": "Tue, 27 Oct 2026 20:26:46 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "d0231a82d68c4243c82b",
     "source_id": "bbc",
     "title": "Israel heads to polls for pivotal election defined by security and democracy",
@@ -1283,6 +1391,15 @@
     "title": "Putin tells Witkoff he is ready to resume direct peace talks, Russia releases U.S. detainee",
     "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace",
     "published": "Wed, 21 Oct 2026 15:22:02 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "d87931a975605ef3c8bf",
+    "source_id": "aljazeera",
+    "title": "Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 19:28:12 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
