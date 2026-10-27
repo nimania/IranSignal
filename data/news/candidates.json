@@ -99,6 +99,15 @@
     "score_effect": null
   },
   {
+    "id": "1a4e2b336594371b9706",
+    "source_id": "aljazeera",
+    "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 00:00:00 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "1d33449e2de317c49ee3",
     "source_id": "aljazeera",
     "title": "Who Israel elects matters, and not just for Israelis",
@@ -131,6 +140,15 @@
     "title": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss",
     "published": "Mon, 26 Oct 2026 16:12:00 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "1f6864ad58507759622f",
+    "source_id": "aljazeera",
+    "title": "Palestinian children crawl under Israeli military gates to get to school",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 20:46:01 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1076,6 +1094,15 @@
     "title": "Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.",
     "url": "https://www.axios.com/2026/10/22/us-canada-election-interference-tariffs-embassy",
     "published": "Thu, 22 Oct 2026 15:45:24 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "d5282f8b561b0661a1ee",
+    "source_id": "aljazeera",
+    "title": "Africa food security under threat due to Iran war, trade officials warn",
+    "url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+    "published": "Mon, 26 Oct 2026 21:42:18 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
