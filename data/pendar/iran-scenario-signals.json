@@ -1,5 +1,818 @@
 [
   {
+    "id": "auto-fe6923842050d0b896",
+    "date": "2026-10-27",
+    "ts": 1793104643154,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "حضور و سخنرانی مسعود پزشکیان در اجلاس سران مجمع کشورهای صادرکننده گاز در روسیه",
+    "source": "خبرآنلاین — تلگرام، شرق، همشهری آنلاین",
+    "source_url": "/story/1ebfd195-3412-44bc-a2dc-0c784d611d52/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/1ebfd195-3412-44bc-a2dc-0c784d611d52/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/666299",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1137720",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1080766/%D9%84%D8%AD%D8%B8%D9%87-%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%A7%D8%B2-%D9%85%D8%B3%D8%B9%D9%88%D8%AF-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1137724",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848517/%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%A7%D8%B2-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%D8%AC%D9%84%D8%A7%D8%B3-%D8%B3%D8%B1%D8%A7%D9%86-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%AF%D8%A7%D8%B2",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475544/ببینید-استقبال-پوتین-از-پزشکیان-در-اجلاس-سران-کشور-های-صادر-کننده-گاز",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945313/استقبال-پوتین-از-پزشکیان-در-اجلاس-سران-کشورهای-صادر-کننده-گاز",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304572-%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%A7%D8%B2-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%D8%AC%D9%84%D8%A7%D8%B3-%D8%B3%D8%B1%D8%A7%D9%86-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%AF%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D9%85",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "1ebfd195-3412-44bc-a2dc-0c784d611d52",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "مسعود پزشکیان",
+        "role": "رئیس جمهور",
+        "statement": "روابط ما با روسیه توسعهٔ بسیار خوبی پیدا کرده است.",
+        "direct_quote": true,
+        "source_url": "https://t.me/khabaronline_ir/666299"
+      },
+      {
+        "name": "مسعود پزشکیان",
+        "role": "رئیس جمهور",
+        "statement": "اعمال تحریم های یک جانبه و تروریسم اقتصادی آمریکا، ثبات بازارهای انرژی جهان را به خطر انداخته است.",
+        "direct_quote": false,
+        "source_url": "https://www.mizanonline.ir/fa/news/4926178/پزشکیان-تحریم-های-یک-جانبه-ثبات-بازار-های-انرژی-را-به-خطر-انداخته-است"
+      }
+    ],
+    "uncertainty": "جزئیات کامل توافقات دوجانبه احتمالی میان ایران و روسیه در حاشیه این اجلاس در متن گزارش ها ذکر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-e56f3c81480ab95d6b",
+    "date": "2026-10-27",
+    "ts": 1793104540538,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "دیدار دبیر شورای عالی امنیت ملی با رهبر انقلاب و محورهای مطرح شده در آن",
+    "source": "باشگاه خبرنگاران جوان، عصر ایران، مشرق نیوز",
+    "source_url": "/story/9ae2d25f-e9a3-4e5b-850b-21ba033213aa/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/9ae2d25f-e9a3-4e5b-850b-21ba033213aa/",
+        "kind": "pendar"
+      },
+      {
+        "label": "باشگاه خبرنگاران جوان",
+        "url": "https://www.yjc.ir/fa/news/9142908/دیدار-دبیر-شورای-عالی-امنیت-ملی-با-رهبر-معظم-انقلاب",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201880/محسن-رضایی-با-رهبر-انقلاب-دیدار-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848575/%D9%81%DB%8C%D9%84%D9%85-%D9%85%D8%AF%D8%A7%D9%84-%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D8%AA%D9%82%D8%AF%DB%8C%D9%85-%D8%B1%D9%87%D8%A8%D8%B1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%B4%D8%AF%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "کردپرس",
+        "url": "https://www.kurdpress.com/news/2801310/%D8%AA%D8%A3%DA%A9%DB%8C%D8%AF-%D8%B1%D9%87%D8%A8%D8%B1%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%A8%D8%B1-%D8%AA%D8%AD%D9%82%D9%82-%D8%B4%D8%B1%D9%88%D8%B7-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D9%87%D8%AF%D9%81-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AC%D9%86%DA%AF-yk4tpmg8",
+        "kind": "original"
+      },
+      {
+        "label": "کردپرس",
+        "url": "https://www.kurdpress.com/news/2801311/%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D9%81%DB%8C%D9%84%D9%85-%DA%A9%D9%88%D8%AA%D8%A7%D9%87-%D9%87%D8%A8%D9%88%D8%B7-%D8%AF%D8%B1-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-%DA%A9%D8%B3%D8%A8-%D8%AC%D8%A7%DB%8C%D8%B2%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%81%DB%8C%D9%84%D9%85-%DA%A9%D9%88%D8%AA%D8%A7%D9%87-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AD%D9%82%D9%88%D9%82-%D8%A8%D8%B4%D8%B1-ARTIKAS-lsugyn2z",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304567-%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%D8%B1%D9%87%D8%A8%D8%B1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4926179/مدال-هایی-که-تقدیم-رهبر-انقلاب-شدند",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "9ae2d25f-e9a3-4e5b-850b-21ba033213aa",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "با رهبر معظم انقلاب اسلامی دیدار کرد.",
+        "direct_quote": false,
+        "source_url": "https://www.yjc.ir/fa/news/9142908/دیدار-دبیر-شورای-عالی-امنیت-ملی-با-رهبر-معظم-انقلاب"
+      }
+    ],
+    "uncertainty": "جزئیات کامل مربوط به اهداف و مصوبات دیگرِ دیدار دبیر شورای عالی امنیت ملی با رهبر انقلاب به طور کامل منتشر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-9ff7d73b27b869320c",
+    "date": "2026-10-27",
+    "ts": 1793104513283,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "دیدار و گفت وگوی رئیس جمهور ایران با امیر قطر و ولادیمیر پوتین در حاشیه اجلاس مسکو",
+    "source": "انتخاب، خبرگزاری مهر (Mehr)",
+    "source_url": "/story/47bbcebc-4474-46d0-95a9-83bfa16074b9/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/47bbcebc-4474-46d0-95a9-83bfa16074b9/",
+        "kind": "pendar"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171611/ورود-پزشکیان-به-محل-دیدار-با-امیر-قطر-فیلم",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1080740/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A7%D9%85%DB%8C%D8%B1-%D9%82%D8%B7%D8%B1-%D8%AF%D8%B1-%D9%85%D8%B3%DA%A9%D9%88",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/666288",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171637/فصل-تازه-همکاری-ها-کلید-می-خورد-پزشکیان-و-امیر-قطر-چه-می-خواهند",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری مهر (Mehr)",
+        "url": "https://www.mehrnews.com/news/6991613/%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%A7%D9%85%DB%8C%D8%B1-%D9%82%D8%B7%D8%B1-%D8%A8%D8%A7-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%AA%D8%A7%DA%A9%DB%8C%D8%AF-%D8%A8%D8%B1-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%B1%D9%88%D8%A7%D8%A8%D8%B7-%D8%AF%D9%88%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D9%88-%D8%AA%D9%88%D8%B3%D8%B9%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171650/پوتین-به-استقبال-پزشکیان-رفت-ایران-و-روسیه-نزدیکتر-از-همیشه",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848590/%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%A7%D8%B2-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%D8%AC%D9%84%D8%A7%D8%B3-%D8%B3%D8%B1%D8%A7%D9%86-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%DA%A9%D9%86%D9%86%D8%AF%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1012789/%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%A7%D8%B2-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%D8%AC%D9%84%D8%A7%D8%B3-%D8%B3%D8%B1%D8%A7%D9%86-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%AF%D8%A7%D8%B2",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "47bbcebc-4474-46d0-95a9-83bfa16074b9",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق و توافقات حاصل شده در پشت درهای بسته میان مقامات ایران، قطر و روسیه به طور کامل منتشر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-478e570b4b74880d1d",
+    "date": "2026-10-27",
+    "ts": 1793104504195,
+    "family": "war",
+    "direction": -1,
+    "weight": 2,
+    "raw_direction": -1,
+    "raw_weight": 2,
+    "text": "نشست چهارجانبه در تهران درباره امنیت منطقه ای و موضع گیری رهبر ایران درباره شرایط پایان جنگ",
+    "source": "Anadolu Ajansı، Al Jazeera، Arab News",
+    "source_url": "/story/98d6fefc-4c38-4b5d-9315-53f620a56d3e/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/98d6fefc-4c38-4b5d-9315-53f620a56d3e/",
+        "kind": "pendar"
+      },
+      {
+        "label": "Anadolu Ajansı",
+        "url": "https://www.aa.com.tr/en/world/turkish-intelligence-chief-holds-talks-in-iran-with-saudi-pakistani-officials/4101915",
+        "kind": "original"
+      },
+      {
+        "label": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
+        "kind": "original"
+      },
+      {
+        "label": "Anadolu Ajansı",
+        "url": "https://www.aa.com.tr/en/middle-east/iran-s-supreme-leader-calls-for-meeting-tehran-s-conditions-to-end-war/4102374",
+        "kind": "original"
+      },
+      {
+        "label": "Arab News",
+        "url": "https://www.arabnews.com/middle-east/iran-says-supreme-leader-met-with-security-chief-over-hormuz-3008502",
+        "kind": "original"
+      },
+      {
+        "label": "Tehran Times",
+        "url": "https://www.tehrantimes.com/news/531563/Iran-Calls-for-Muslim-Unity-as-Foreign-Pressure-Fails-to-Break",
+        "kind": "original"
+      },
+      {
+        "label": "Middle East Monitor",
+        "url": "https://www.middleeastmonitor.com/20261027-irans-supreme-leader-calls-for-meeting-tehrans-conditions-to-end-war/",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "98d6fefc-4c38-4b5d-9315-53f620a56d3e",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق و مفاد شرط های تعیین شده از سوی تهران برای پایان جنگ مشخص نشده است.؛ میزان پیشرفت یا خروجی عینی نشست چهارجانبه تهران به طور کامل اعلام نشده است.",
+    "evidence_phrase": "پایان جنگ",
+    "score_reason": "عبارت شناسایی‌شده: «پایان جنگ»؛ رویداد با قاعده روشن؛ نیازمند راستی آزمایی",
+    "by": "pendar-auto",
+    "score_kind": "reported_event",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ رویداد با قاعده روشن؛ نیازمند راستی آزمایی"
+  },
+  {
+    "id": "auto-06eeff2d61c40e5575",
+    "date": "2026-10-27",
+    "ts": 1793100010130,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "رایزنی های تلفنی وزیر خارجه ایران با همتایان مصری و اردنی درباره تحولات منطقه",
+    "source": "میزان، انتخاب، آنا",
+    "source_url": "/story/c3de3a82-2376-43e1-86a8-fa8df8da7865/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/c3de3a82-2376-43e1-86a8-fa8df8da7865/",
+        "kind": "pendar"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4926094/گفت-وگوی-تلفنی-عراقچی-با-همتایان-مصری-و-اردنی-درباره-آخرین-تحولات-منطقه",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945273/گفت-وگوی-تلفنی-وزرای-خارجه-ایران-و-اردن-تأکید-طرفین-بر-اهمیت-بهره-گیری-از-دیپلماسی-و-تداوم-رایزنی-های-سیاسی-برای-صیانت-از-صلح",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1092783/گفت-وگوی-تلفنی-وزرای-امور-خارجه-ایران-و-مصر",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304546-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A8%D8%A7-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%A7%D8%B7%DB%8C-%DA%AF%D9%81%D8%AA-%DA%AF%D9%88-%DA%A9%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1074098/گفت-وگوی-تلفنی-عراقچی-با-وزرای-خارجه-اردن-و-مصر",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1092791/گفت-وگوی-تلفنی-وزرای-امور-خارجه-ایران-و-اردن-درباره-ثبات-منطقه",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475518/رایزنی-تلفنی-عراقچی-و-وزیر-خارجه-مصر-درباره-تحولات-منطقه",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2388378/",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "c3de3a82-2376-43e1-86a8-fa8df8da7865",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "سیدعباس عراقچی",
+        "role": "وزیر امور خارجه جمهوری اسلامی ایران",
+        "statement": "رایزنی تلفنی با وزرای خارجه اردن و مصر درباره تحولات منطقه و ضرورت صیانت از صلح و ثبات از مسیر دیپلماسی.",
+        "direct_quote": false,
+        "source_url": "https://fa.shafaqna.com/news/2388421/"
+      },
+      {
+        "name": "ایمن الصفدی",
+        "role": "معاون نخست وزیر و وزیر خارجه اردن",
+        "statement": "تأکید بر اهمیت بهره گیری از دیپلماسی و تداوم رایزنی های سیاسی برای صیانت از صلح و ثبات منطقه در گفت وگو با وزیر خارجه ایران.",
+        "direct_quote": false,
+        "source_url": "https://fa.shafaqna.com/news/2388421/"
+      },
+      {
+        "name": "مسعود پزشکیان",
+        "role": "رئیس جمهوری اسلامی ایران",
+        "statement": "دیدار با امیر قطر و تأکید بر تقویت روابط دوجانبه و توسعه همکاری ها در حوزه انرژی در حاشیه اجلاس سران مجمع کشورهای صادرکننده گاز.",
+        "direct_quote": false,
+        "source_url": "https://fa.shafaqna.com/news/2388421/"
+      }
+    ],
+    "uncertainty": "جزئیات بیشتری از مباحث مطرح شده در تماس های تلفنی وزیر خارجه ایران با مقامات مصر و اردن منتشر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-e3ac3f611a3dcbee0c",
+    "date": "2026-10-27",
+    "ts": 1793099887997,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "برگزاری نخستین انتخابات سراسری اسرائیل پس از حمله ۷ اکتبر",
+    "source": "France 24، Arab News، Financial Times — World",
+    "source_url": "/story/27e75396-435e-4649-8eb4-42b887a3c954/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/27e75396-435e-4649-8eb4-42b887a3c954/",
+        "kind": "pendar"
+      },
+      {
+        "label": "France 24",
+        "url": "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7",
+        "kind": "original"
+      },
+      {
+        "label": "Arab News",
+        "url": "https://www.arabnews.com/middle-east/israelis-start-to-vote-as-polls-open-in-first-vote-since-hamas-attack-3008463",
+        "kind": "original"
+      },
+      {
+        "label": "Financial Times — World",
+        "url": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1",
+        "kind": "original"
+      },
+      {
+        "label": "DW",
+        "url": "https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-rdf",
+        "kind": "original"
+      },
+      {
+        "label": "RFI",
+        "url": "https://www.rfi.fr/en/international/20261027-polls-open-in-israel-as-netanyahu-faces-close-contest-after-three-years-of-war",
+        "kind": "original"
+      },
+      {
+        "label": "France 24",
+        "url": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack",
+        "kind": "original"
+      },
+      {
+        "label": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss",
+        "kind": "original"
+      },
+      {
+        "label": "France 24",
+        "url": "https://www.france24.com/en/israeli-elections-voters-turnout-reaches-16-7-four-hours-after-polls-open",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "27e75396-435e-4649-8eb4-42b887a3c954",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "نتیجه نهایی رقابت میان ائتلاف نتانیاهو و رقیب میانه روی او مشخص نیست و نظرسنجی ها آن را پایاپای نشان می دهند.؛ میزان دقیق تأثیرگذاری احزاب عربی به عنوان نقش آفرینان احتمالی در تعیین دولت آینده هنوز قطعی نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-1f5fbfcf5215658306",
+    "date": "2026-10-27",
+    "ts": 1793099869211,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "دیدار دبیر شورای عالی امنیت ملی با رهبر انقلاب و موضع گیری درباره امنیت منطقه",
+    "source": "آنا، خبرگزاری صداوسیما، فردانیوز",
+    "source_url": "/story/6118f091-1dc0-4edb-9289-7b074d13f3cd/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/6118f091-1dc0-4edb-9289-7b074d13f3cd/",
+        "kind": "pendar"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1092816/سرلشکر-رضایی-آمریکا-برای-هیچ-کشوری-در-منطقه-امنیت-به-ارمغان-نیاورده-است",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5949935/ناتوانی-واشنگتن-در-ارائه-تضمین-های-امنیتی-آشکار-شده-است",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416675",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475529/محسن-رضایی-امنیت-منطقه-نباید-به-قدرت-های-خارجی-وابسته-باشد",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171633/طعنه-سنگین-رضایی-به-واشینگتن-تضمین-های-امنیتی-آمریکا-چه-شد",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/666289",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171636/پیام-مهم-از-بیت-رهبری-درباره-جنگ-دیدار-محسن-رضایی-با-رهبر-انقلاب",
+        "kind": "original"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://example.com/fa/news/30008014/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF%D9%86-%D8%A8%D9%87-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D9%86%D9%87-%D8%AC%D9%86%DA%AF-%D9%86%D9%87-%D8%B5%D9%84%D8%AD-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B4%D9%88%D8%AF-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%85%D9%84%DB%8C-%DA%86%D9%87%D8%A7%D8%B1%D8%B1%D8%A7%D9%87-%D8%AA%D8%AF%D8%A8%DB%8C%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B3%D8%AA",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "6118f091-1dc0-4edb-9289-7b074d13f3cd",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "آمریکا برای هیچ کشوری در منطقه امنیت به ارمغان نیاورده و ناکارآمدی تضمین امنیتی واشنگتن آشکار شده است.",
+        "direct_quote": false,
+        "source_url": "https://www.fardanews.com/fa/tiny/news-1416679"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق و کامل نقشه راهِ مطرح شده در دیدار و پیوست های تصمیم گیری در منابع ذکر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-33638dc807a1000987",
+    "date": "2026-10-27",
+    "ts": 1793099864192,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "برگزاری نشست چهارجانبه در تهران و موضع گیری درباره امنیت منطقه ای و تنگه هرمز",
+    "source": "خبرگزاری صداوسیما، فردانیوز، خبرگزاری ایسنا (ISNA)",
+    "source_url": "/story/0a35731e-13e8-401b-803a-1178fa3bb840/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/0a35731e-13e8-401b-803a-1178fa3bb840/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5949500/تهران-کانون-رایزنی-کشورهای-بزرگ-منطقه",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416646",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405080502814/%D9%86%D8%B8%D8%B1-%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%AC%D8%A7%D8%B3%D9%85-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D9%84%D8%A7%D8%B4-%D9%87%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF%D9%86-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B7%D9%82%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1074060/حمد-بن-جاسم-آتش-بس-موقت-میان-ایران-و-آمریکا-بمب-ساعتی-است",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416668",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171614/موافقت-ایران-با-بازگشایی-تنگه-هرمز-عرفانیان-امیدوارم-روابط-به-دوران-طلایی-خود-بازگردد",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945301/نخست-وزیر-پیشین-قطر-امیدوارم-توافقی-روشن-و-صریح-میان-ایران-و-آمریکا-منعقد-شود-نه-موقت-آتش-بس-های-موقت-هدف-مورد-نظر-را-محقق-نمی-کنند-و-تنها-به-تشدید-تنش-می-انجامند-تنش-هایی-که-ممکن-است-به-بمبی-ساعتی-تبدیل-شوند",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "0a35731e-13e8-401b-803a-1178fa3bb840",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "حمد بن جاسم",
+        "role": "نخست وزیر پیشین قطر",
+        "statement": "آتش بس های موقت هدف موردنظر را محقق نمی کنند و تنها به تشدید تنش می انجامند؛ تنش هایی که ممکن است به بمبی ساعتی تبدیل شوند.",
+        "direct_quote": false,
+        "source_url": "https://www.entekhab.ir/fa/news/945301/نخست-وزیر-پیشین-قطر-امیدوارم-توافقی-روشن-و-صریح-میان-ایران-و-آمریکا-منعقد-شود-نه-موقت-آتش-بس-های-موقت-هدف-مورد-نظر-را-محقق-نمی-کنند-و-تنها-به-تشدید-تنش-می-انجامند-تنش-هایی-که-ممکن-است-به-بمبی-ساعتی-تبدیل-شوند"
+      }
+    ],
+    "uncertainty": "آیا نشست چهارجانبه تهران می تواند به طور عملی مانع از شعله ور شدن درگیری های بیشتر در منطقه شود؟؛ جزئیات دقیق طرح پیشنهادی ایران برای بازگشایی تنگه هرمز و واکنش رسمی آمریکا به آن مشخص نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-d44a6a137ff094af2a",
+    "date": "2026-10-27",
+    "ts": 1793093895000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تأکید بر اهمیت بهره گیری از دیپلماسی و تداوم رایزنی های سیاسی برای صیانت از صلح و ثبات منطقه در گفت وگو با وزیر خارجه ایران.",
+    "source": "ایمن الصفدی",
+    "source_url": "https://fa.shafaqna.com/news/2388421/",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://fa.shafaqna.com/news/2388421/",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/c3de3a82-2376-43e1-86a8-fa8df8da7865/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "c3de3a82-2376-43e1-86a8-fa8df8da7865",
+    "speaker": "ایمن الصفدی",
+    "speaker_role": "معاون نخست وزیر و وزیر خارجه اردن",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-2b015b557bd2e41153",
+    "date": "2026-10-27",
+    "ts": 1793088482000,
+    "family": "war",
+    "direction": 1,
+    "weight": 1,
+    "raw_direction": 1,
+    "raw_weight": 1,
+    "text": "تصمیم به آغاز جنگ ده روز مانده به انتخابات کنگره می تواند برای ترامپ هزینه سیاسی داشته باشد و ایران خواهان جنگ دوباره نیست.",
+    "source": "محمود واعظی",
+    "source_url": "https://fa.shafaqna.com/news/2388352/",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://fa.shafaqna.com/news/2388352/",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/b783d535-d841-4ffe-b065-c7188cb9e4a8/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "b783d535-d841-4ffe-b065-c7188cb9e4a8",
+    "speaker": "محمود واعظی",
+    "speaker_role": "رئیس دفتر حسن روحانی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "آغاز",
+    "score_reason": "عبارت شناسایی‌شده: «آغاز»؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل",
+    "by": "pendar-auto",
+    "score_kind": "analyst_view",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل"
+  },
+  {
+    "id": "auto-9f58b2dca2263517c8",
+    "date": "2026-10-27",
+    "ts": 1793084138000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "انتخابات اسرائیل نشان داد ائتلاف نتانیاهو آشکارتر از گذشته به دنبال تغییر رژیم در ایران و حمله نظامی است. در این میان، مخالفان نتانیاهو نیز با وجود حمایت از حمله به زیرساخت ها، کارایی تغییر نظام از طریق جنگ را زیر سوال می برند.",
+    "source": "کوروش احمدی",
+    "source_url": "https://t.me/covid_policy_dip/2776",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/covid_policy_dip/2776",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@covid_policy_dip",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "225bdf7b-3d67-41e9-a2a3-5376a712c5e4",
+    "speaker": "کوروش احمدی",
+    "speaker_role": "دیپلمات بازنشسته و پژوهشگر روابط بین الملل",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@covid_policy_dip",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-882dcd014498334a04",
+    "date": "2026-10-27",
+    "ts": 1793083249000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "توان موشکی و پهپادی ایران، هم سنگ بمب هسته ای است.",
+    "source": "علاءالدین بروجردی",
+    "source_url": "https://www.rouydad24.ir/fa/news/475484/علاءالدین-بروجردی-توان-موشکی-و-پهپادی-ایران-هم-سنگ-بمب-هسته-ای-است",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.rouydad24.ir/fa/news/475484/علاءالدین-بروجردی-توان-موشکی-و-پهپادی-ایران-هم-سنگ-بمب-هسته-ای-است",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/ba2fd76c-3a63-4314-8b28-1420c81ac5ae/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "ba2fd76c-3a63-4314-8b28-1420c81ac5ae",
+    "speaker": "علاءالدین بروجردی",
+    "speaker_role": "عضو کمیسیون امنیت ملی و سیاست خارجی مجلس",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
     "id": "auto-4c7e99419f9b3d63cb",
     "date": "2026-10-27",
     "ts": 1793082282477,
@@ -212,6 +1025,47 @@
     "score_kind": "unscored",
     "review_status": "auto_unverified",
     "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-a4b9cd304db215a3b6",
+    "date": "2026-10-27",
+    "ts": 1793080903000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "ذخایر موشکی ایران بیش از ۵۰ درصد افزایش یافته و حتی در صورت ادامه جنگ به مدت دو سال نیز به پایان نخواهد رسید.",
+    "source": "علاءالدین بروجردی",
+    "source_url": "https://www.khabaronline.ir/news/2293718/%D8%B9%D8%B6%D9%88-%DA%A9%D9%85%DB%8C%D8%B3%DB%8C%D9%88%D9%86-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%85%D8%AC%D9%84%D8%B3-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B4%D8%B1%D9%88%D8%B7-%D9%87%D9%81%D8%AA-%DA%AF%D8%A7%D9%86%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.khabaronline.ir/news/2293718/%D8%B9%D8%B6%D9%88-%DA%A9%D9%85%DB%8C%D8%B3%DB%8C%D9%88%D9%86-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%85%D8%AC%D9%84%D8%B3-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B4%D8%B1%D9%88%D8%B7-%D9%87%D9%81%D8%AA-%DA%AF%D8%A7%D9%86%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/ba2fd76c-3a63-4314-8b28-1420c81ac5ae/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "ba2fd76c-3a63-4314-8b28-1420c81ac5ae",
+    "speaker": "علاءالدین بروجردی",
+    "speaker_role": "عضو کمیسیون امنیت ملی و سیاست خارجی مجلس",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
   },
   {
     "id": "auto-ce46a2879a2d20ec88",

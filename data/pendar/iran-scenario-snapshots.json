@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T10:40:41.709735+00:00",
+  "generated_at": "2026-10-27T16:43:57.712743+00:00",
   "score_is_probability": false,
   "snapshots": [
     {
@@ -647,6 +647,82 @@
         "auto-677f1ef495f12f2753",
         "auto-37ac5648a6231251ed",
         "auto-98d364ece22ab6e312"
+      ]
+    },
+    {
+      "at": "2026-10-27T12:44:25.669026+00:00",
+      "digest": "a864365f3e386f69cce43a57",
+      "scores": {
+        "deal": 1,
+        "regroup": 1,
+        "war": 11,
+        "transition": 3,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "changes": {
+        "deal": 0,
+        "regroup": 0,
+        "war": -1,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "signal_count": 158,
+      "recent_signal_ids": [
+        "auto-fe6923842050d0b896",
+        "auto-e56f3c81480ab95d6b",
+        "auto-9ff7d73b27b869320c",
+        "auto-478e570b4b74880d1d",
+        "auto-06eeff2d61c40e5575",
+        "auto-e3ac3f611a3dcbee0c",
+        "auto-1f5fbfcf5215658306",
+        "auto-33638dc807a1000987",
+        "auto-d44a6a137ff094af2a",
+        "auto-2b015b557bd2e41153",
+        "auto-882dcd014498334a04",
+        "auto-4c7e99419f9b3d63cb",
+        "auto-396b4675436dfc7658",
+        "auto-3f03fd61750653c992",
+        "auto-a4b9cd304db215a3b6"
+      ]
+    },
+    {
+      "at": "2026-10-27T13:13:49.545911+00:00",
+      "digest": "ce8d57fbe769cacaf000fed5",
+      "scores": {
+        "deal": 1,
+        "regroup": 1,
+        "war": 11,
+        "transition": 3,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "changes": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 0,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "signal_count": 159,
+      "recent_signal_ids": [
+        "auto-fe6923842050d0b896",
+        "auto-e56f3c81480ab95d6b",
+        "auto-9ff7d73b27b869320c",
+        "auto-478e570b4b74880d1d",
+        "auto-06eeff2d61c40e5575",
+        "auto-e3ac3f611a3dcbee0c",
+        "auto-1f5fbfcf5215658306",
+        "auto-33638dc807a1000987",
+        "auto-d44a6a137ff094af2a",
+        "auto-2b015b557bd2e41153",
+        "auto-9f58b2dca2263517c8",
+        "auto-882dcd014498334a04",
+        "auto-4c7e99419f9b3d63cb",
+        "auto-396b4675436dfc7658",
+        "auto-3f03fd61750653c992"
       ]
     }
   ]
