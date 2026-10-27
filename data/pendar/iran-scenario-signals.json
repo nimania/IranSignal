@@ -1,5 +1,383 @@
 [
   {
+    "id": "auto-4c7e99419f9b3d63cb",
+    "date": "2026-10-27",
+    "ts": 1793082282477,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "انتشار نتایج طرح ملی سنجش سلامت روان پس از جنگ؛ تهران در صدر شهرهای دارای اضطراب",
+    "source": "دنیای اقتصاد، اقتصاد آنلاین، انتخاب",
+    "source_url": "/story/07c3cf9b-d204-4bd0-8b34-9076acd1d6e1/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/07c3cf9b-d204-4bd0-8b34-9076acd1d6e1/",
+        "kind": "pendar"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304025-%D9%86%D8%AA%DB%8C%D8%AD%D9%87-%D8%B3%D9%86%D8%AC%D8%B4-%D8%B3%D9%84%D8%A7%D9%85%D8%AA-%D8%B1%D9%88%D8%A7%D9%86-%D9%85%D8%B1%D8%AF%D9%85-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%AC%D9%86%DA%AF-%D8%AA%D9%88%D8%B3%D8%B7-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D9%87%D8%B2%DB%8C%D8%B3%D8%AA%DB%8C-%DB%8C%DA%A9-%D9%BE%D9%86%D8%AC%D9%85-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8-%D8%AF%D8%A7%D8%B1%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2171236/رتبه-اول-تهران-در-شهر-های-پر-اضطراب-ایران-آسیب-های-روانی-را-جدی-بگیرید",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945179/بهزیستی-یک-پنجم-تهرانی-ها-اضطراب-زیاد-پس-از-جنگ-دارند-رتبه-دوم-به-خراسان-رضوی-با-10-درصد-افراد-دارای-اضطراب-می-رسد-و-اصفهان-بعد-از-آن-قرار-دارد",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201777/اعلام-نتایج-آسیب-جنگ-بر-روان-ایرانیان-25-استان-کشور-دچار-ترومای-روانی-شده-اند",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1012658/%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%A2%D8%B3%DB%8C%D8%A8-%D8%AC%D9%86%DA%AF-%D8%A8%D8%B1-%D8%B1%D9%88%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%DA%86%D8%A7%D8%B1-%D8%AA%D8%B1%D9%88%D9%85%D8%A7%DB%8C-%D8%B1%D9%88%D8%A7%D9%86%DB%8C-%D8%B4%D8%AF%D9%87-%D8%A7%D9%86%D8%AF",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "07c3cf9b-d204-4bd0-8b34-9076acd1d6e1",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق تعداد دقیق شرکت کنندگان در سطح ملی و تفکیک سنی یا جنسیتی آسیب دیدگان در منابع ذکر نشده است.؛ میزان تمایل به پیگیری درمان در سایر استان ها به جز تهران در متن گزارش ها نیامده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-396b4675436dfc7658",
+    "date": "2026-10-27",
+    "ts": 1793082231685,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "اختلاف نظر در نهادهای امنیتی اسرائیل درباره زمان بندی اقدام نظامی علیه ایران",
+    "source": "انتخاب، رویداد۲۴، خبرآنلاین — تلگرام",
+    "source_url": "/story/0d1858ae-2b30-4a25-8180-02d2be7fba7b/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/0d1858ae-2b30-4a25-8180-02d2be7fba7b/",
+        "kind": "pendar"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945209/هاآرتص-به-دلیل-مخالفت-برخی-مقام-های-موساد-با-اجرای-عملیات-علیه-ایران-هم-زمان-با-برگزاری-انتخابات-فضای-متشنجی-در-این-سازمان-حاکم-شده-رئیس-موساد-از-موضع-نتانیاهو-مبنی-بر-لزوم-انجام-حملات-علیه-ایران-حمایت-می-کند",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475445/هاآرتص-رئیس-موساد-از-موضع-نتانیاهو-مبنی-بر-لزوم-انجام-حملات-علیه-ایران-حمایت-می-کند",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945216/شبکه-آی-24-مقام-های-اسرائیلی-اخیرا-درباره-آمادگی-برای-حمله-به-ایران-گفت-و-گو-کرده-اند-فرماندهان-نظامی-هشدار-داده-اند-که-آشکار-شدن-این-آمادگی-ها-ممکن-است-باعث-شود-تهران-حمله-پیش-دستانه-انجام-دهد-رئیس-ستاد-کل-ارتش-اسرائیل-از-اقدام-علیه-ایران-حمایت-می-کند-اما-با-انجام-چنین-اقدامی-درست-پیش-از-انتخابات-مخالف-است",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/666228",
+        "kind": "original"
+      },
+      {
+        "label": "آشیان سیمرغ",
+        "url": "https://t.me/simorghdata369/3157",
+        "kind": "original"
+      },
+      {
+        "label": "ایندیپندنت فارسی",
+        "url": "https://www.independentpersian.com/node/422897/%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D9%88-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C/%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%87%DB%8C%D9%88%D9%85-%D8%A7%D8%B2-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%C2%A0%D8%B7%D8%B1%D8%AD-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "0d1858ae-2b30-4a25-8180-02d2be7fba7b",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "سید هادی برهانی",
+        "role": "کارشناس ارشد مطالعات اسرائیل",
+        "statement": "اجرای عملیات نظامی تا موعد برگزاری انتخابات دور از ذهن است زیرا ورود به جنگ در آستانه انتخابات بسیار پرریسک بوده و می تواند شانس انتخاباتی نتانیاهو را به مخاطره بیندازد.",
+        "direct_quote": true,
+        "source_url": "https://t.me/khabaronline_ir/666228"
+      }
+    ],
+    "uncertainty": "زمان دقیق و قطعی اجرای هرگونه عملیات نظامی علیه ایران مشخص نیست.؛ میزان هماهنگی کامل میان نهادهای امنیتی اسرائیل و دولت آمریکا در خصوص زمان بندی این اقدامات در ابهام قرار دارد.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-3f03fd61750653c992",
+    "date": "2026-10-27",
+    "ts": 1793082155357,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تلاش های فشرده دیپلماتیک میانجی گران منطقه ای و بین المللی برای توافق میان ایران و آمریکا",
+    "source": "فرارو، همشهری آنلاین، فردانیوز",
+    "source_url": "/story/8cf74e5e-e4c6-4596-aee3-b2afba6feccc/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/8cf74e5e-e4c6-4596-aee3-b2afba6feccc/",
+        "kind": "pendar"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1012650/%D8%A8%D8%A7%D9%82%D8%B1%DB%8C-%DA%A9%D9%86%DB%8C-%D8%B4%D8%B1%D8%B7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%D8%B4%D9%88%D8%AF-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D9%85%DB%8C-%DA%AF%DB%8C%D8%B1%DB%8C%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1080520/%D9%88%D8%B2%DB%8C%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%B9%D9%85%D8%A7%D9%86-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%D9%85%D9%87%D9%85%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%87-%D9%88-%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%A8%DB%8C-%D8%A8%D9%87-%D8%AA%D9%88%D8%A7%D9%81%D9%82",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1080524/%D9%85%DB%8C%D8%A7%D9%86%D8%AC%DB%8C-%D9%87%D8%A7-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%BE%D9%86%D8%AC-%D8%B1%D9%88%D8%B2%D9%87-%D9%85%DB%8C%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%87%D8%B3%D8%AA%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1012660/%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D9%86%D8%B4%D8%B3%D8%AA-%DA%86%D9%87%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D8%AA%D9%84%D8%A7%D8%B4-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416640",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945244/هدف-سفر-سران-عربستان-پاکستان-و-ترکیه-به-تهران-حمایت-از-میانجی-گری-اسلام-آباد-و-دوحه-و-ترغیب-ایران-به-انعطاف-پذیری-در-مذاکرات-است-قطر-در-حال-کار-بر-روی-توافقی-است-که-در-آن-طرفین-ظرف-5-روز-مجموعه-ای-از-امتیاز-ها-را-به-یکدیگر-ارائه-می-دهند-مهم-ترین-مانع-تعیین-زمان-اجرای-امتیاز-ها-است-اعزام-فرستاده-مورد-اعتماد-بن-سلمان-به-تهران-یعنی-ریاض-در-پی-جلوگیری-از-دور-تازه-ای-از-جنگ-است",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2293720/%D9%86%DB%8C%D9%88%DB%8C%D9%88%D8%B1%DA%A9-%D8%AA%D8%A7%DB%8C%D9%85%D8%B2-%D8%B7%D8%B1%D8%AD-%D9%BE%D9%86%D8%AC-%D8%B1%D9%88%D8%B2%D9%87-%D9%82%D8%B7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AA%D8%AD%D8%B1%DA%A9%D8%A7%D8%AA",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "8cf74e5e-e4c6-4596-aee3-b2afba6feccc",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "علی باقری کنی",
+        "role": "",
+        "statement": "آمریکا اگر برای مذاکرات جدیت دارد، باید شروط ایران را انجام دهد. در مورد اینکه ۷ شرط باید انجام شود هیچ شک و شبهه ای نداریم و وقتی انجام شد بعد تصمیم می گیریم.",
+        "direct_quote": true,
+        "source_url": "https://fararu.com/fa/news/1012660/%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D9%86%D8%B4%D8%B3%D8%AA-%DA%86%D9%87%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D8%AA%D9%84%D8%A7%D8%B4-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7"
+      }
+    ],
+    "uncertainty": "زمان دقیق اجرای امتیازها در توافق پیشنهادی قطر مشخص نیست.؛ جزئیات کامل و رسمی هفت شرط اعلام شده از سوی ایران روشن نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-ce46a2879a2d20ec88",
+    "date": "2026-10-27",
+    "ts": 1793079381000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "ایرانی ها افراد بسیار باهوشی هستند و سلاح های فوق العاده ای می سازند؛ آن ها اکنون موشکی دارند که می توانند به اروپا برسند.",
+    "source": "دونالد ترامپ",
+    "source_url": "https://www.rouydad24.ir/fa/news/475468/ترامپ-حمله-به-ایران-باید-مدت-ها-پیش-انجام-می-شد-دو-هفته-تا-ساخت-سلاح-فاصله-داشتند",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.rouydad24.ir/fa/news/475468/ترامپ-حمله-به-ایران-باید-مدت-ها-پیش-انجام-می-شد-دو-هفته-تا-ساخت-سلاح-فاصله-داشتند",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/9071dee2-be68-4806-8d83-3b59d6f7aca8/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "9071dee2-be68-4806-8d83-3b59d6f7aca8",
+    "speaker": "دونالد ترامپ",
+    "speaker_role": "رئیس جمهور آمریکا",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-79340513880e81ff19",
+    "date": "2026-10-27",
+    "ts": 1793077411000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "عربستان شریک آمریکا در جنگ های علیه ایران بوده، ترکیه عضو ناتو است که در حملات اخیر بی طرف نبوده و پاکستان مرزهای خود را به روی ایران بسته بود؛ بنابراین باید پرسید آیا این کشورها به آمریکا پشت کرده و برای تأمین امنیت منطقه به ایران پیوسته اند یا به دنبال گشودن راه تنفسی برای واشنگتن هستند.",
+    "source": "حسین شریعتمداری",
+    "source_url": "https://t.me/khabaronline_ir/666245",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/khabaronline_ir/666245",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/7c9c69cd-667e-4240-9bf5-5dbb8cdb7ee5/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "7c9c69cd-667e-4240-9bf5-5dbb8cdb7ee5",
+    "speaker": "حسین شریعتمداری",
+    "speaker_role": "مدیرمسئول روزنامه کیهان",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-10a0b91954fcd99bd7",
+    "date": "2026-10-27",
+    "ts": 1793075265000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "آمریکا اگر برای مذاکرات جدیت دارد، باید شروط ایران را انجام دهد. در مورد اینکه ۷ شرط باید انجام شود هیچ شک و شبهه ای نداریم و وقتی انجام شد بعد تصمیم می گیریم.",
+    "source": "علی باقری کنی",
+    "source_url": "https://fararu.com/fa/news/1012660/%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D9%86%D8%B4%D8%B3%D8%AA-%DA%86%D9%87%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D8%AA%D9%84%D8%A7%D8%B4-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://fararu.com/fa/news/1012660/%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D9%86%D8%B4%D8%B3%D8%AA-%DA%86%D9%87%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D8%AA%D9%84%D8%A7%D8%B4-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/8cf74e5e-e4c6-4596-aee3-b2afba6feccc/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "8cf74e5e-e4c6-4596-aee3-b2afba6feccc",
+    "speaker": "علی باقری کنی",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-ff725ac81ad09e22fd",
+    "date": "2026-10-27",
+    "ts": 1793067747000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "آتش بس با ایران اتلاف وقت بود و ایران پیش از حملات آمریکا تنها دو هفته با دستیابی به سلاح هسته ای فاصله داشت.",
+    "source": "دونالد ترامپ",
+    "source_url": "https://parsi.euronews.com/2026/10/27/trump-iran-ceasefire-waste-of-time-us-election-oct-2026",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://parsi.euronews.com/2026/10/27/trump-iran-ceasefire-waste-of-time-us-election-oct-2026",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/9071dee2-be68-4806-8d83-3b59d6f7aca8/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "9071dee2-be68-4806-8d83-3b59d6f7aca8",
+    "speaker": "دونالد ترامپ",
+    "speaker_role": "رئیس جمهور آمریکا",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
     "id": "auto-59bed9b9da4a7f7d19",
     "date": "2026-10-27",
     "ts": 1793062885236,
