@@ -63,6 +63,15 @@
     "score_effect": null
   },
   {
+    "id": "0f13547a0105a4f81aba",
+    "source_id": "aljazeera",
+    "title": "Are GCC countries looking for a regional security pact with Iran?",
+    "url": "https://www.aljazeera.com/news/2026/10/28/are-gcc-countries-looking-for-a-regional-security-pact-with-iran?traffic_source=rss",
+    "published": "Wed, 28 Oct 2026 14:51:14 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "0f8f4414b74dcb284a9e",
     "source_id": "aljazeera",
     "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
@@ -702,6 +711,15 @@
     "score_effect": null
   },
   {
+    "id": "5d89ac38bff292192cc7",
+    "source_id": "bbc",
+    "title": "Israel's election result is messy - here's why",
+    "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 14:26:24 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "5eaa76cfb05f4081ca88",
     "source_id": "axios",
     "title": "Republicans see shrinking boost from redistricting",
@@ -725,6 +743,15 @@
     "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
     "published": "Fri, 23 Oct 2026 17:30:51 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "6868f3dcc593b1a454c2",
+    "source_id": "axios",
+    "title": "Israel faces weeks of political wrangling after deadlocked election",
+    "url": "https://www.axios.com/2026/10/28/israel-elections-netanyahu-eisenkot-results-deadlock",
+    "published": "Wed, 28 Oct 2026 15:28:04 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -927,6 +954,15 @@
     "score_effect": null
   },
   {
+    "id": "8651f29be1fa1e0c1673",
+    "source_id": "aljazeera",
+    "title": "Jerusalem Daily: What’s next after Israel’s elections?",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
+    "published": "Wed, 28 Oct 2026 18:31:33 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "86c0dd7a5c03ff764c69",
     "source_id": "axios",
     "title": "Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections",
@@ -968,6 +1004,15 @@
     "title": "Seven killed in Gaza as Israel targets university campus and other sites",
     "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
     "published": "Sun, 25 Oct 2026 15:40:25 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "8a00c655c6e957235086",
+    "source_id": "bbc",
+    "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+    "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 16:59:47 GMT",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1323,6 +1368,24 @@
     "score_effect": null
   },
   {
+    "id": "b3232e7be48cb6045721",
+    "source_id": "bbc",
+    "title": "How could Israel break election deadlock? Here are four scenarios",
+    "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 14:30:31 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "b3981cf72edc4db4950b",
+    "source_id": "axios",
+    "title": "Iran pressed to make nuke concessions as massive post-midterms strikes loom",
+    "url": "https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms",
+    "published": "Wed, 28 Oct 2026 18:00:24 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "b3a77e4570832530d01a",
     "source_id": "aljazeera",
     "title": "Palestinian citizens of Israel fear they’re next target if far-right wins",
@@ -1382,6 +1445,15 @@
     "title": "The oil market's 2027 relief hopes are fading fast",
     "url": "https://www.axios.com/2026/10/21/oil-prices-inflation-central-banking",
     "published": "Wed, 21 Oct 2026 15:55:50 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "b9f29e334993967b20ac",
+    "source_id": "aljazeera",
+    "title": "Balad leader blasts ‘racist’ exclusion of Arab parties in Israel",
+    "url": "https://www.aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss",
+    "published": "Wed, 28 Oct 2026 17:54:51 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1481,6 +1553,15 @@
     "title": "Chain-reaction chaos threatens to unleash new risks on the world",
     "url": "https://www.axios.com/2026/10/25/ai-cybersecurity-politics-risks-2028",
     "published": "Sun, 25 Oct 2026 12:55:42 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "cce237332b610ea71db0",
+    "source_id": "aljazeera",
+    "title": "Israeli soldier visiting UK faces war crimes complaint",
+    "url": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
+    "published": "Wed, 28 Oct 2026 16:06:17 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1634,6 +1715,15 @@
     "title": "Trump tells Axios why he endorsed Netanyahu's reelection",
     "url": "https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran",
     "published": "Sun, 18 Oct 2026 17:32:51 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "e572bb1455e2c6116173",
+    "source_id": "aljazeera",
+    "title": "What are the implications of Israel’s elections?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+    "published": "Wed, 28 Oct 2026 19:03:03 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
