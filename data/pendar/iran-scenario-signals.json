@@ -1,5 +1,406 @@
 [
   {
+    "id": "auto-96361bd0dd1c107436",
+    "date": "2026-10-28",
+    "ts": 1793151889151,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "برگزاری نشست چهارجانبه در تهران با حضور مقام های ایران، عربستان، پاکستان و ترکیه",
+    "source": "ورزش سه، خبرگزاری صداوسیما، خبرگزاری ایرنا (IRNA)",
+    "source_url": "/story/4cb494c9-06b4-47e3-9792-5b51f01baa76/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/4cb494c9-06b4-47e3-9792-5b51f01baa76/",
+        "kind": "pendar"
+      },
+      {
+        "label": "ورزش سه",
+        "url": "https://www.varzesh3.com/news/2439931/رویترز-طرح-پاکستان-برای-پایان-جنگ-به-ایران-ارائه-شد",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5950186/تهران-میزبان-قدرت-های-منطقه-تأکید-بر-نقش-ایران-در-امنیت-سازی",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86305337/%D8%B3%D9%81%DB%8C%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%AE%D8%B1%DB%8C%D8%AF%D9%86%DB%8C-%D9%86%DB%8C%D8%B3%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1080884/%D8%B4%D8%B7%D8%B1%D9%86%D8%AC-%D9%85%D8%A7%D9%87%D8%B1%D8%A7%D9%86%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%D8%B4%D8%B3%D8%AA-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1137781",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "4cb494c9-06b4-47e3-9792-5b51f01baa76",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات محتوای طرح پاکستان برای پایان جنگ و واکنش رسمی مقام های ایرانی به آن در منابع ذکر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-2df60b045d3cd74d1c",
+    "date": "2026-10-28",
+    "ts": 1793151869471,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "پایان سفر مسعود پزشکیان به مسکو پس از شرکت در هشتمین اجلاس سران مجمع کشورهای صادرکننده گاز",
+    "source": "شرق، دنیای اقتصاد، باشگاه خبرنگاران جوان",
+    "source_url": "/story/5aefb555-ed39-4d6e-bd3a-956b23200b20/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/5aefb555-ed39-4d6e-bd3a-956b23200b20/",
+        "kind": "pendar"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1137799",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304702-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D9%85%D8%B3%DA%A9%D9%88-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%85%D9%82%D8%B5%D8%AF-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1%DA%A9-%DA%A9%D8%B1%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "باشگاه خبرنگاران جوان",
+        "url": "https://www.yjc.ir/fa/news/9143049/پزشکیان-اجلاس-سران-مجمع-کشورهای-صادرکننده-گاز-سازنده-و-ثمربخش-بود",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86305391/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C-%D9%85%D8%AB%D8%A8%D8%AA-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%A7%D8%B2-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%B3%D9%81%D8%B1-%D8%A8%D9%87-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D9%81%DB%8C%D9%84%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1080905/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%A7%D8%B2-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%B3%D9%81%D8%B1-%D8%A8%D9%87-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D9%81%DB%8C%D9%84%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86305407/%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%AA-%D9%82%D8%A7%D8%B7%D8%B9-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%AF%D8%A7%D8%B2-%D8%A8%D8%A7-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%DB%8C%DA%A9%D8%AC%D8%A7%D9%86%D8%A8%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/photo/86305411/%D8%B3%D9%81%D8%B1-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%B1%D9%88%D8%B3%DB%8C%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری مهر (Mehr)",
+        "url": "https://www.mehrnews.com/news/6992163/%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%AA-%D9%82%D8%A7%D8%B7%D8%B9-%D9%85%D8%AC%D9%85%D8%B9-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%AF%D8%A7%D8%B2-%D8%A8%D8%A7-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%DB%8C%DA%A9%D8%AC%D8%A7%D9%86%D8%A8%D9%87",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "5aefb555-ed39-4d6e-bd3a-956b23200b20",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "مسعود پزشکیان",
+        "role": "رئیس جمهور",
+        "statement": "اجلاس سران مجمع کشورهای صادرکننده گاز سازنده و ثمربخش بود.",
+        "direct_quote": true,
+        "source_url": "https://www.sharghdaily.com/fa/tiny/news-1137799"
+      },
+      {
+        "name": "مسعود پزشکیان",
+        "role": "رئیس جمهور",
+        "statement": "در جریان برگزاری هشتمین اجلاس سران مجمع کشور های صادرکننده گاز (GECF)، گفت و گو ها و تعاملات مفصل و عمیقی صورت گرفت.",
+        "direct_quote": true,
+        "source_url": "https://www.yjc.ir/fa/news/9143049/پزشکیان-اجلاس-سران-مجمع-کشورهای-صادرکننده-گاز-سازنده-و-ثمربخش-بود"
+      },
+      {
+        "name": "مسعود پزشکیان",
+        "role": "رئیس جمهور اسلامی ایران",
+        "statement": "درباره بحث های گاز و انرژی، گفت وگوهای مفصلی داشتیم و به تفاهمات خوبی رسیدیم.",
+        "direct_quote": true,
+        "source_url": "https://www.irna.ir/photo/86305411/%D8%B3%D9%81%D8%B1-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%B1%D9%88%D8%B3%DB%8C%D9%87"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق و مفاد کامل تفاهمات حاصل شده در حوزه گاز و انرژی ذکر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-8c1ba672b9f34603f9",
+    "date": "2026-10-27",
+    "ts": 1793140208042,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تحولات امنیتی پیرامون فعالیت های ناتو در بالتیک و دریای سیاه و نشست چهارجانبه در تهران",
+    "source": "فرارو، باشگاه خبرنگاران جوان، آفتاب نیوز",
+    "source_url": "/story/412500e2-7b37-4161-9882-b05f7b11fd2d/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/412500e2-7b37-4161-9882-b05f7b11fd2d/",
+        "kind": "pendar"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1012668/%D9%BE%D8%B4%D8%AA-%D9%BE%D8%B1%D8%AF%D9%87-%D9%86%D8%B4%D8%B3%D8%AA-%D8%B3%D8%B9%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "باشگاه خبرنگاران جوان",
+        "url": "https://www.yjc.ir/fa/news/9142722/مسکو-ناتو-به‌دنبال-نظامی‌سازی-دریای-بالتیک-است",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1074116/مخالفت-ترکیه-با-طرح-آمریکا-و-فرانسه-در-دریای-سیاه",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1137709",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86305389/%D9%85%D9%82%D8%A7%D9%85-%D8%B1%D9%88%D8%B3-%D9%86%D8%A7%D8%AA%D9%88-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%AE%D9%88%D8%AF-%D8%B1%D8%A7-%D8%AF%D8%B1-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%A8%D8%A7%D9%84%D8%AA%DB%8C%DA%A9-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%85%DB%8C-%D8%AF%D9%87%D8%AF",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "412500e2-7b37-4161-9882-b05f7b11fd2d",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "ولادیسلاو ماسلنیکوف",
+        "role": "مدیر بخش اروپایی وزارت خارجه روسیه",
+        "statement": "ناتو به طور پیوسته در حال افزایش فعالیت های نظامی خود در منطقه بالتیک است.",
+        "direct_quote": false,
+        "source_url": "https://www.irna.ir/news/86305389/%D9%85%D9%82%D8%A7%D9%85-%D8%B1%D9%88%D8%B3-%D9%86%D8%A7%D8%AA%D9%88-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%AE%D9%88%D8%AF-%D8%B1%D8%A7-%D8%AF%D8%B1-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%A8%D8%A7%D9%84%D8%AA%DB%8C%DA%A9-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%85%DB%8C-%D8%AF%D9%87%D8%AF"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق و کامل توافقات یا نتایج نشست چهارجانبه در سعدآباد مشخص نشده است.؛ ابعاد اجرایی طرح آمریکا و فرانسه برای دریای سیاه و واکنش های احتمالی بعدی ناتو روشن نیست.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-87c516a43f8a6db633",
+    "date": "2026-10-27",
+    "ts": 1793137344787,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "درخواست دوباره رافائل گروسی برای بازرسی از تأسیسات هسته ای ایران در نشست شورای امنیت",
+    "source": "میزان، عصر ایران، فردانیوز",
+    "source_url": "/story/8ecdaffd-a917-4f4e-ade8-bea0d1a1e787/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/8ecdaffd-a917-4f4e-ade8-bea0d1a1e787/",
+        "kind": "pendar"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4926207/درخواست-مجدد-آژانس-بین-المللی-انرژی-اتمی-برای-بازرسی-از-تأسیسات-هسته-ای-ایران",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1201961/گروسی-ایران-باید-اجازه-بازرسی-از-تاسیسات-هسته-ای-را-بدهد",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416717",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/475563/گروسی-مجددا-خواستار-بازرسی-از-تاسیسات-هسته-ای-ایران-شد-همچنان-سوالات-حل-نشده-ای-درباره-برنامه-هسته-ای-ایران-باقی-است",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945349/گروسی-در-نشست-شورای-امنیت-درخصوص-پرونده-هسته-ای-ایران-همچنان-سوالات-حل-نشده-ای-درباره-برنامه-هسته-ای-ایران-باقی-است-نظام-بازرسی-از-تاسیسات-ایران-در-هرگونه-توافق-احتمالی-ضروری-است-در-تلاش-هستیم-راه-هایی-برای-ترغیب-ایران-به-روشن-کردن-تمامی-مسائل-باقی-مانده-در-زمینه-پادمان-ها-پیدا-کنیم-یکی-از-مواردی-که-نگرانی-ویژه-ای-ایجاد-می-کند-440-کیلوگرم-اورانیوم-با-غنای-بالا-است",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1848640/%DA%AF%D8%B1%D9%88%D8%B3%DB%8C-%D9%85%D8%AC%D8%AF%D8%AF%D8%A7-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%A8%D8%A7%D8%B2%D8%B1%D8%B3%DB%8C-%D8%A7%D8%B2-%D8%AA%D8%A7%D8%B3%DB%8C%D8%B3%D8%A7%D8%AA-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1012838/%DA%AF%D8%B1%D9%88%D8%B3%DB%8C-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%D8%B3%D8%A7%D9%86-%D8%A2%DA%98%D8%A7%D9%86%D8%B3-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1137759",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "8ecdaffd-a917-4f4e-ade8-bea0d1a1e787",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "رافائل گروسی",
+        "role": "مدیرکل آژانس بین المللی انرژی اتمی",
+        "statement": "آژانس در تلاش های خود برای تعامل با ایران به منظور دریافت اطلاعات ضروری و فراهم شدن دسترسی بازرسان آژانس به تاسیسات با هدف راستی آزمایی وضعیت این مواد مطابق با الزامات توافق نامه پادمانی پیمان عدم اشاعه هسته ای، تزلزلی به خود راه نداده است.",
+        "direct_quote": true,
+        "source_url": "https://www.fardanews.com/fa/tiny/news-1416717"
+      },
+      {
+        "name": "رافائل گروسی",
+        "role": "مدیرکل آژانس بین المللی انرژی اتمی",
+        "statement": "از ایران می خواهم که بدون هیچ گونه تأخیر بیشتر با آژانس بین المللی انرژی اتمی همکاری کند تا مسائل باقی مانده در خصوص پادمان ها روشن شود.",
+        "direct_quote": true,
+        "source_url": "https://fararu.com/fa/news/1012838/%DA%AF%D8%B1%D9%88%D8%B3%DB%8C-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%D8%B3%D8%A7%D9%86-%D8%A2%DA%98%D8%A7%D9%86%D8%B3-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF"
+      }
+    ],
+    "uncertainty": "میزان دقیق همکاری های آتی ایران با بازرسان آژانس بین المللی انرژی اتمی مشخص نیست.؛ واکنش عملی شورای امنیت سازمان ملل به هشدارهای مطروحه در این نشست نامشخص است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-1c078145bf0e6d0335",
+    "date": "2026-10-27",
+    "ts": 1793129183000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "پست به نقل از رئیس جمهور اسبق آمریکا مدعی تلفات سنگین این کشور در جنگ با ایران می شود و آن را اعترافی بزرگ می خواند.",
+    "source": "حسن عباسی",
+    "source_url": "https://t.me/hasanabbasi_students/54815",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/hasanabbasi_students/54815",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@hasanabbasi_students",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "52e396f9-3dc3-44fe-9493-fc2d333f22fd",
+    "speaker": "حسن عباسی",
+    "speaker_role": "سخنران و پژوهشگر",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@hasanabbasi_students",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-0fdbb0342a78427962",
+    "date": "2026-10-27",
+    "ts": 1793129183000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "اظهارات رئیس جمهور اسبق آمریکا درباره تلفات و خسارت های این کشور در جنگ با ایران، اعتراف سنگینی به شمار می رود. این سخنان نشان دهنده شکست سیاست های ایالات متحده در قبال ایران است.",
+    "source": "حسن عباسی",
+    "source_url": "https://t.me/hasanabbasi_students/54815",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/hasanabbasi_students/54815",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@hasanabbasi_students",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "aa4e58f4-0f4f-4a23-a651-39236fdb6a6a",
+    "speaker": "حسن عباسی",
+    "speaker_role": "سخنران و پژوهشگر",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@hasanabbasi_students",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
     "id": "auto-6b1fcbf44a9af938bf",
     "date": "2026-10-27",
     "ts": 1793125780756,
@@ -549,6 +950,47 @@
     "analyst_handle": "",
     "analyst_group": "",
     "speaker_url": "/@yekhezaran",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-ca6b6632e9d0e59a0f",
+    "date": "2026-10-27",
+    "ts": 1793114121000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "آژانس در تلاش های خود برای تعامل با ایران به منظور دریافت اطلاعات ضروری و فراهم شدن دسترسی بازرسان آژانس به تاسیسات با هدف راستی آزمایی وضعیت این مواد مطابق با الزامات توافق نامه پادمانی پیمان عدم اشاعه هسته ای، تزلزلی به خود راه نداده است.",
+    "source": "رافائل گروسی",
+    "source_url": "https://www.fardanews.com/fa/tiny/news-1416717",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416717",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/8ecdaffd-a917-4f4e-ade8-bea0d1a1e787/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "8ecdaffd-a917-4f4e-ade8-bea0d1a1e787",
+    "speaker": "رافائل گروسی",
+    "speaker_role": "مدیرکل آژانس بین المللی انرژی اتمی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
     "related_people": [],
     "uncertainty": "",
     "evidence_phrase": "",
