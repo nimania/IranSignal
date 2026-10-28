@@ -1,0 +1,35 @@
+{
+  "report_id": "2026-10-28-daily",
+  "edition": "morning",
+  "review_date": "2026-10-28",
+  "sources": [
+    {
+      "url": "https://www.un.org/sg/fr/node/401528",
+      "published_date": "2026-10-27",
+      "status": "attributed reporting; no final agreement inferred"
+    },
+    {
+      "url": "https://www.gov.uk/government/speeches/iran-must-allow-the-return-of-iaea-inspectors-to-all-nuclear-sites",
+      "published_date": "2026-10-27",
+      "status": "attributed reporting; no final agreement inferred"
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/iran-security-chief-meets-supreme-leader-after-talks-with-mecca-pact-countries-2026-10-27/",
+      "published_date": "2026-10-27",
+      "status": "attributed reporting; no final agreement inferred"
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
+      "published_date": "2026-10-28",
+      "status": "attributed reporting; no final agreement inferred"
+    }
+  ],
+  "scenario_change": "No manual score mutation; stored 28 October daily changes are all zero.",
+  "contrary_evidence": "Diplomatic activity coexists with unresolved verification and Iranian conditions.",
+  "corrections": [],
+  "market_observed_at": "2026-10-28T05:34:11+00:00",
+  "excluded_market_ids": [
+    "689102"
+  ],
+  "exclusion_reason": "Unrelated expired football contract; not Iran evidence."
+}
