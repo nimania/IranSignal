@@ -99,6 +99,15 @@
     "score_effect": null
   },
   {
+    "id": "11acd49942a7cac8888a",
+    "source_id": "aljazeera",
+    "title": "Israel election results: No clear winner projected, what’s next?",
+    "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 23:06:47 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "127e69876832eeba7636",
     "source_id": "aljazeera",
     "title": "Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom",
@@ -149,6 +158,15 @@
     "title": "U.S. granting visas to Flávio Bolsonaro and family",
     "url": "https://www.axios.com/2026/10/27/us-granting-visas-to-flavio-bolsonaro-and-family",
     "published": "Tue, 27 Oct 2026 21:53:38 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "1ccd2dfae912edc1a9cc",
+    "source_id": "aljazeera",
+    "title": "Five key takeaways from Israel’s parliamentary elections",
+    "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
+    "published": "Wed, 28 Oct 2026 02:53:35 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -275,6 +293,15 @@
     "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
     "url": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
     "published": "Sat, 24 Oct 2026 05:29:07 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "2a0b0bae8640cf27b35c",
+    "source_id": "aljazeera",
+    "title": "Arab towns in Israel celebrate historic Knesset gains with fireworks",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 22:56:32 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -477,6 +504,15 @@
     "score_effect": null
   },
   {
+    "id": "42884b62bd6df52e8024",
+    "source_id": "aljazeera",
+    "title": "Netanyahu, Eisenkot camps clash over Israel election projections",
+    "url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
+    "published": "Wed, 28 Oct 2026 00:43:02 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "42a71c26230ee142b3cc",
     "source_id": "aljazeera",
     "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
@@ -572,6 +608,15 @@
     "title": "How Arab parties could hold critical balance of power in Israeli election",
     "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
     "published": "Thu, 22 Oct 2026 05:30:22 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "582e00d2cc77a38ad230",
+    "source_id": "aljazeera",
+    "title": "Arab parties on track to win record seats in Israel election, polls show",
+    "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+    "published": "Wed, 28 Oct 2026 00:43:56 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -693,11 +738,29 @@
     "score_effect": null
   },
   {
+    "id": "70149c9f05dd244f4b99",
+    "source_id": "aljazeera",
+    "title": "A bad day for Ben-Gvir as he addresses his supporters",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 23:16:38 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "725fc07d77abab81da1c",
     "source_id": "aljazeera",
     "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
     "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
     "published": "Sat, 24 Oct 2026 19:11:48 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "72e5b463670ec5d325c1",
+    "source_id": "aljazeera",
+    "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 22:31:31 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -761,6 +824,15 @@
     "title": "Iran-backed militias sending money back to cash-starved IRGC, U.S. says",
     "url": "https://www.axios.com/2026/10/16/iran-backed-militias-sending-money-irgc-centcom",
     "published": "Fri, 16 Oct 2026 20:22:57 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "7ba3abba42df4063dd36",
+    "source_id": "aljazeera",
+    "title": "Smotrich dances in Israel despite far-right decline",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 23:03:44 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1044,6 +1116,15 @@
     "score_effect": null
   },
   {
+    "id": "9bdf3c8b5819ef3741e6",
+    "source_id": "aljazeera",
+    "title": "Israel’s Eisenkot says country voted for change",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
+    "published": "Wed, 28 Oct 2026 00:30:22 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "9c9a2f2f8a6b54c05c94",
     "source_id": "axios",
     "title": "Rubio warns Venezuela's Machado: Street protests won't get you democracy",
@@ -1175,6 +1256,15 @@
     "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
     "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
     "published": "Thu, 08 Oct 2026 05:06:09 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "b177a120a745936545c3",
+    "source_id": "bbc",
+    "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+    "url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 02:09:11 GMT",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1350,6 +1440,15 @@
     "score_effect": null
   },
   {
+    "id": "cfd44e96458510f49d8b",
+    "source_id": "aljazeera",
+    "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+    "published": "Tue, 27 Oct 2026 22:29:31 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "d0231a82d68c4243c82b",
     "source_id": "bbc",
     "title": "Israel heads to polls for pivotal election defined by security and democracy",
@@ -1454,6 +1553,15 @@
     "title": "Trump tells Axios why he endorsed Netanyahu's reelection",
     "url": "https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran",
     "published": "Sun, 18 Oct 2026 17:32:51 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "eb0790865ccd04455b5e",
+    "source_id": "bbc",
+    "title": "Watch: What happens now after close vote in Israeli election?",
+    "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 04:22:59 GMT",
     "status": "unverified_candidate",
     "score_effect": null
   },
