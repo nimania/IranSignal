@@ -414,6 +414,15 @@
     "score_effect": null
   },
   {
+    "id": "341a0f8c32a73fe7ce76",
+    "source_id": "aljazeera",
+    "title": "Israelis rally for Jewish-Arab government after election gains",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+    "published": "Thu, 29 Oct 2026 00:34:24 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "34504a74c9dc1d763973",
     "source_id": "bbc",
     "title": "The bitter row over military service that could shape Israel's future",
@@ -779,6 +788,15 @@
     "title": "Trump's Russia waiver draws instant bipartisan backlash",
     "url": "https://www.axios.com/2026/10/17/trump-russia-waiver-putin-republicans-democrats",
     "published": "Sat, 17 Oct 2026 19:18:15 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "6cefb239012cf4ac6334",
+    "source_id": "aljazeera",
+    "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+    "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+    "published": "Thu, 29 Oct 2026 00:01:07 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1337,6 +1355,15 @@
     "title": "Police in Albania filmed beating protester unconscious",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
     "published": "Sun, 25 Oct 2026 10:45:51 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "a9ffb8bc510049b9f634",
+    "source_id": "aljazeera",
+    "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+    "published": "Thu, 29 Oct 2026 00:00:00 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
