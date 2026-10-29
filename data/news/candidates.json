@@ -666,6 +666,15 @@
     "score_effect": null
   },
   {
+    "id": "4f79843be64fa401055d",
+    "source_id": "aljazeera",
+    "title": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
+    "url": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
+    "published": "Thu, 29 Oct 2026 15:12:36 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "5424205c6a4d11ac96bd",
     "source_id": "aljazeera",
     "title": "Thousands gather at new Albanian antigovernment rally",
@@ -1089,6 +1098,15 @@
     "score_effect": null
   },
   {
+    "id": "89f9416c39eb8ea3f005",
+    "source_id": "axios",
+    "title": "After losing his majority, Netanyahu tries to delegitimize election results",
+    "url": "https://www.axios.com/2026/10/29/netanyahu-election-likud-delegitimize-results",
+    "published": "Thu, 29 Oct 2026 17:46:19 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "8a00c655c6e957235086",
     "source_id": "bbc",
     "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
@@ -1328,6 +1346,15 @@
     "title": "Jerusalem Daily: Israel expels thousands from Hebron",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
     "published": "Sun, 25 Oct 2026 17:12:59 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "a2538f4e0e3db5955d11",
+    "source_id": "aljazeera",
+    "title": "Israel’s anti-Qatar campaign bleeds into elections",
+    "url": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss",
+    "published": "Thu, 29 Oct 2026 15:35:53 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
