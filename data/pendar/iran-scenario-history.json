@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T07:09:28.501803+00:00",
+  "generated_at": "2026-10-29T21:41:37.622613+00:00",
   "families": [
     "deal",
     "regroup",
@@ -870,7 +870,7 @@
       "scores": {
         "deal": 4,
         "regroup": 1,
-        "war": 12,
+        "war": 13,
         "transition": 3,
         "attrition": 3,
         "recovery": 1
@@ -878,7 +878,7 @@
       "daily": {
         "deal": 0,
         "regroup": 0,
-        "war": 0,
+        "war": 1,
         "transition": 0,
         "attrition": 0,
         "recovery": 0
@@ -895,7 +895,7 @@
         "analyst": {
           "deal": 1,
           "regroup": 1,
-          "war": 7,
+          "war": 8,
           "transition": 2,
           "attrition": 0,
           "recovery": 0
