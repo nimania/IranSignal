@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-29T03:08:55.093788+00:00",
+  "generated_at": "2026-10-29T07:09:28.501803+00:00",
   "total": 217,
   "automatic_candidates": 209,
-  "new_candidates": 3,
+  "new_candidates": 0,
   "auto_scored": 17,
   "auto_direction_policy": "conservative_rules_with_daily_caps_unverified",
   "priority_analyst_policy": {
