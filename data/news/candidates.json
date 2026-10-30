@@ -9,6 +9,15 @@
     "score_effect": null
   },
   {
+    "id": "06fca2f979fbc436c4b5",
+    "source_id": "aljazeera",
+    "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
+    "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
+    "published": "Thu, 29 Oct 2026 21:16:26 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "0764fe0165a019ef4429",
     "source_id": "axios",
     "title": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu",
@@ -423,6 +432,15 @@
     "score_effect": null
   },
   {
+    "id": "335e962de22207cf5be8",
+    "source_id": "aljazeera",
+    "title": "Pentagon fires general it says leaked classified information to media",
+    "url": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
+    "published": "Thu, 29 Oct 2026 19:02:19 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "3385ba34bcc5dd0468df",
     "source_id": "aljazeera",
     "title": "Israel to close occupied West Bank crossings as it locks down Hebron",
@@ -455,6 +473,15 @@
     "title": "Socialist civil war engulfs Los Angeles mayor race",
     "url": "https://www.axios.com/2026/10/27/dsa-socialists-la-mayor-race-israel-raman-bass",
     "published": "Tue, 27 Oct 2026 09:30:10 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "357d5071f3ca748c1c41",
+    "source_id": "axios",
+    "title": "Exclusive: Fired general admitted to leaking classified Iran and Ukraine info, report says",
+    "url": "https://www.axios.com/2026/10/29/fired-general-leaks-iran-ukraine",
+    "published": "Thu, 29 Oct 2026 22:08:46 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -554,6 +581,15 @@
     "title": "Why Israel's election is one of the most important in its history",
     "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
     "published": "Sun, 25 Oct 2026 22:05:30 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "4041136dac41ca4c87d0",
+    "source_id": "aljazeera",
+    "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
+    "published": "Thu, 29 Oct 2026 19:06:00 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -783,6 +819,15 @@
     "score_effect": null
   },
   {
+    "id": "609aa40ee06bee6aaf59",
+    "source_id": "aljazeera",
+    "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+    "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
+    "published": "Fri, 30 Oct 2026 00:11:20 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "62279ec0311da35f99c2",
     "source_id": "bbc",
     "title": "How do Israel's elections work and who are the main contenders?",
@@ -797,6 +842,15 @@
     "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
     "published": "Fri, 23 Oct 2026 17:30:51 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "640e9240c8fa97054f70",
+    "source_id": "axios",
+    "title": "Top U.S. Middle East commander briefs Trump on Iran blockade",
+    "url": "https://www.axios.com/2026/10/29/brad-cooper-briefs-trump-iran-naval-blockade",
+    "published": "Thu, 29 Oct 2026 22:47:52 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -878,6 +932,15 @@
     "title": "Neymar handed two-game Santos suspension for covering mouth in argument",
     "url": "https://www.aljazeera.com/sports/2026/10/29/neymar-handed-two-game-santos-suspension-for-covering-mouth-in-argument?traffic_source=rss",
     "published": "Thu, 29 Oct 2026 08:00:55 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "6ebf06b05e50a14ce610",
+    "source_id": "bbc",
+    "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+    "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 20:21:54 GMT",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1076,6 +1139,15 @@
     "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
     "published": "Sun, 25 Oct 2026 10:14:43 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "896ae7c7bc3db9190e9f",
+    "source_id": "aljazeera",
+    "title": "Israel election result shows no overall majority as vote count complete",
+    "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
+    "published": "Thu, 29 Oct 2026 20:22:04 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1485,6 +1557,15 @@
     "score_effect": null
   },
   {
+    "id": "b2b831e892f92f6e80c6",
+    "source_id": "aljazeera",
+    "title": "Palestinians injured, arrested in Israeli raids across West Bank",
+    "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
+    "published": "Thu, 29 Oct 2026 20:40:03 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "b3232e7be48cb6045721",
     "source_id": "bbc",
     "title": "How could Israel break election deadlock? Here are four scenarios",
@@ -1544,6 +1625,24 @@
     "title": "The fallout from Trump's Russia energy moves",
     "url": "https://www.axios.com/2026/10/19/fallout-trump-russia-energy",
     "published": "Mon, 19 Oct 2026 12:40:07 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "b69fabab5b791fddd35b",
+    "source_id": "aljazeera",
+    "title": "Israel bans travel for Brad Lander after detention in occupied West Bank",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
+    "published": "Thu, 29 Oct 2026 21:10:13 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "b782c941b07f4e50f0d3",
+    "source_id": "bbc",
+    "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+    "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 10:17:54 GMT",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1827,6 +1926,15 @@
     "score_effect": null
   },
   {
+    "id": "e45a3053898ca7b24766",
+    "source_id": "aljazeera",
+    "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
+    "published": "Fri, 30 Oct 2026 00:00:00 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "e481cca43123b02a8b09",
     "source_id": "aljazeera",
     "title": "Israeli voters: hope and despair as election ballots are counted",
@@ -1913,6 +2021,15 @@
     "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
     "published": "Sun, 25 Oct 2026 02:07:29 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "f44652ec0f08bfe9a99c",
+    "source_id": "aljazeera",
+    "title": "‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support",
+    "url": "https://www.aljazeera.com/news/2026/10/29/arab-voice-doesnt-count-jewish-israeli-blocs-reject-palestinian-support?traffic_source=rss",
+    "published": "Thu, 29 Oct 2026 19:02:33 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
