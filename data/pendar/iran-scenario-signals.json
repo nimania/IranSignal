@@ -1,5 +1,332 @@
 [
   {
+    "id": "auto-e5fe9db6a2a862cabd",
+    "date": "2026-10-30",
+    "ts": 1793323664747,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "اظهارات مقامات نظامی ایران درباره آمادگی دفاعی و ناکامی دشمنان",
+    "source": "آنا، خبرگزاری صداوسیما، اقتصاد آنلاین",
+    "source_url": "/story/b0d4b256-f374-47b2-8547-eb50679cf3d2/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/b0d4b256-f374-47b2-8547-eb50679cf3d2/",
+        "kind": "pendar"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1093304/سردار-اخوان-دشمن-حتی-اجازه-طرح-ریزی-جنگ-زمینی-را-به-خود-نمی-دهد-آماده-مقابله-با-هرگونه-تهدید-هستیم",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5951726/سردار-اخوان-برای-مقابله-با-هر-تهدیدی-آماده-هستیم",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2172065/آماده-باش-نیروی-زمینی-سپاه-سردار-اخوان-به-میدان-آمد",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945622/دریادار-سیاری-معاون-هماهنگ-کننده-ارتش-ما-در-جنگ-ها-آسیب-دیدیم-اما-اجازه-ندادیم-دشمن-پیروز-شود-خطای-محاسباتی-دشمن-این-بود-که-نمی-دانست-همین-ارتش-آسیب-دیده-در-مقابل-دشمنان-مردانه-می-ایستد-جنگیدن-با-بزرگترین-قدرت-نظامی-جهان-شوخی-نیست-اما-مردم-ما-ایستادند-و-جنگیدند",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4926511/دریادار-سیاری-تسلیم-در-قاموس-ملت-ایران-وجود-ندارد",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1093333/امیر-دریادار-سیاری-دشمن-در-سه-جنگ-تحمیلی-به-هدف-خود-نرسید-تسلیم-در-قاموس-ملت-ایران-وجود-ندارد",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1849046/%D8%A7%D9%85%DB%8C%D8%B1-%D8%AF%D8%B1%DB%8C%D8%A7%D8%AF%D8%A7%D8%B1-%D8%B3%DB%8C%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B4%D9%85%D9%86-%D8%AF%D8%B1-%D8%B3%D9%87-%D8%AC%D9%86%DA%AF-%D8%AA%D8%AD%D9%85%DB%8C%D9%84%DB%8C-%D8%A8%D9%87-%D9%87%D8%AF%D9%81-%D8%AE%D9%88%D8%AF-%D9%86%D8%B1%D8%B3%DB%8C%D8%AF-%D8%AA%D8%B3%D9%84%DB%8C%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://tabnak.ir/fa/news/30008273/%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1-%D8%B3%DB%8C%D8%A7%D8%B1%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-%D8%AF%D8%B4%D9%85%D9%86-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%AE%D9%88%D8%B1%D8%AF",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "b0d4b256-f374-47b2-8547-eb50679cf3d2",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "حبیب الله سیاری",
+        "role": "معاون هماهنگ کننده ارتش جمهوری اسلامی ایران",
+        "statement": "دشمن در هر سه جنگ شکست خورد و نتوانست به اهدافش برسد؛ ما آسیب دیدیم اما اجازه ندادیم دشمن پیروز شود.",
+        "direct_quote": false,
+        "source_url": "https://www.entekhab.ir/fa/news/945622/دریادار-سیاری-معاون-هماهنگ-کننده-ارتش-ما-در-جنگ-ها-آسیب-دیدیم-اما-اجازه-ندادیم-دشمن-پیروز-شود-خطای-محاسباتی-دشمن-این-بود-که-نمی-دانست-همین-ارتش-آسیب-دیده-در-مقابل-دشمنان-مردانه-می-ایستد-جنگیدن-با-بزرگترین-قدرت-نظامی-جهان-شوخی-نیست-اما-مردم-ما-ایستادند-و-جنگیدند"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق و مشخصات فناوری های نوین مورد اشاره نیروی زمینی سپاه ذکر نشده است.؛ منظور دقیق از «سه جنگ» در اظهارات معاون هماهنگ کننده ارتش در متن گزارش ها با جزئیات تاریخی مشخص نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-2c6de80316bbb2b1b0",
+    "date": "2026-10-30",
+    "ts": 1793323656805,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "برکناری یک مقام ارشد پنتاگون به اتهام افشای اطلاعات محرمانه",
+    "source": "خبرگزاری ایسنا (ISNA)، فرارو، همشهری آنلاین",
+    "source_url": "/story/da11ac8f-fdc4-4b70-9d1b-f3411f65a318/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/da11ac8f-fdc4-4b70-9d1b-f3411f65a318/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405080704673/%D8%A7%D8%AE%D8%B1%D8%A7%D8%AC-%D9%85%D9%82%D8%A7%D9%85-%D8%A7%D8%B1%D8%B4%D8%AF-%D9%BE%D9%86%D8%AA%D8%A7%DA%AF%D9%88%D9%86-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7-%D8%A8%D9%88%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1013289/%D8%A7%D8%AE%D8%B1%D8%A7%D8%AC-%DA%98%D9%86%D8%B1%D8%A7%D9%84-%D9%BE%D9%86%D8%AA%D8%A7%DA%AF%D9%88%D9%86-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A8%D8%B7-%D8%AF%D8%A7%D8%B4%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1081344/%D8%A7%D8%AE%D8%B1%D8%A7%D8%AC-%D9%85%D9%82%D8%A7%D9%85-%D8%A7%D8%B1%D8%B4%D8%AF-%D9%BE%D9%86%D8%AA%D8%A7%DA%AF%D9%88%D9%86-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7-%D8%A8%D9%88%D8%AF-%D8%B1%D8%AF-%D8%B4%D8%AF%D9%86-%D8%B3%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1849058/%D8%A7%D8%AE%D8%B1%D8%A7%D8%AC-%D9%85%D9%82%D8%A7%D9%85-%D8%A7%D8%B1%D8%B4%D8%AF-%D9%BE%D9%86%D8%AA%D8%A7%DA%AF%D9%88%D9%86-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7-%D8%A8%D9%88%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1138213",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1202454/فاکس-نیوز-اخراج-مقام-ارشد-پنتاگون-به-جنگ-ایران-مرتبط-بود",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416965",
+        "kind": "original"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://tabnak.ir/fa/news/30008280/%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%D9%85%D8%B4%DA%A9%D9%88%DA%A9-%D8%A7%D8%AE%D8%B1%D8%A7%D8%AC-%D9%85%D9%82%D8%A7%D9%85-%D8%A7%D8%B1%D8%B4%D8%AF-%D9%BE%D9%86%D8%AA%D8%A7%DA%AF%D9%88%D9%86-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "da11ac8f-fdc4-4b70-9d1b-f3411f65a318",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق و رسمی اسناد افشاشده و هویت خبرنگارانی که اطلاعات به آن ها داده شده، مشخص نیست.؛ ابعاد دقیق پیامدهای قانونی و انضباطی این برکناری برای فرد متخلف هنوز کاملاً روشن نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-7cd500d091d7bf4295",
+    "date": "2026-10-30",
+    "ts": 1793323607565,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "ادعای کریس مورفی درباره طرح دولت ترامپ برای اقدام نظامی علیه ایران پس از انتخابات",
+    "source": "اقتصاد آنلاین، همشهری آنلاین، انتخاب",
+    "source_url": "/story/7f72832f-ee53-4cf8-bf0b-6a628fb601c8/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/7f72832f-ee53-4cf8-bf0b-6a628fb601c8/",
+        "kind": "pendar"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2172081/ترامپ-قصد-حمله-به-ایران-را-دارد-پس-از-انتخابات-میان-دوره-ای-چه-می-شود",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2172115/فوری-پیام-آمریکا-به-کشورهای-همسایه-ایران-برای-مرحله-بعدی-جنگ-آماده-باشید",
+        "kind": "original"
+      },
+      {
+        "label": "ورزش سه",
+        "url": "https://www.varzesh3.com/news/2440434/پیام-آمریکا-به-کشورهای-همسایه-ایران",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1081351/%D8%B3%D9%86%D8%A7%D8%AA%D9%88%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%DA%A9%D8%B1%D8%AF-%D8%A7%DB%8C%D9%86-%D8%B7%D8%B1%D8%AD-%D8%AF%DB%8C%D9%88%D8%A7%D9%86%D9%87-%D9%88%D8%A7%D8%B1",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2172135/فوری-کریس-مورفی-آمریکا-پس-از-انتخابات-به-ایران-حمله-خواهد-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945659/ادعای-کریس-مورفی-سناتور-دموکرات-برخی-از-ما-درباره-طرح-جنگی-ترامپ-علیه-ایران-توجیه-شدیم-این-طرح-دیوانه-وار-است-و-چرخه-جدیدی-از-تشدید-تنش-ها-را-به-راه-خواهد-انداخت",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1013299/%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%B3%D9%86%D8%A7%D8%AA%D9%88%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945662/ویدیو-دیوید-ایگنیشس-ستون-نویس-برجسته-واشنگتن-پست-در-فاصله-3-ماهه-پس-از-انتخابات-میان-دوره-ای-تا-دوره-جدید-کنگره-ترامپ-در-بحث-ایران-توسط-هیچ-عامل-سیاسی-محدود-نمی-شود",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "7f72832f-ee53-4cf8-bf0b-6a628fb601c8",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "کریس مورفی",
+        "role": "سناتور دموکرات آمریکایی",
+        "statement": "گزارش ها حاکی از آن است که ترامپ قصد دارد پس از انتخابات، جنگ با ایران را از سر بگیرد. برخی از ما درباره طرح جنگی توجیه شده ایم. این طرح دیوانه وار است، به اهداف موردنظر دست نخواهد یافت و چرخه جدیدی از تشدید تنش ها را به راه خواهد انداخت.",
+        "direct_quote": true,
+        "source_url": "https://www.rouydad24.ir/fa/news/475798/ببنید-ادعای-سناتور-آمریکایی-درباره-حمله-به-ایران-پس-از-انتخابات"
+      },
+      {
+        "name": "دیوید ایگنیشس",
+        "role": "ستون نویس واشنگتن پست",
+        "statement": "پس از انتخابات میان دوره ای، دوره متفاوتی برای دموکرات ها آغاز می شود. اما در آن دوره سه ماهه پس از انتخابات میان دوره ای تا دوره جدید کنگره، ترامپ در بحث ایران توسط هیچ عامل سیاسی محدود نمی شود.",
+        "direct_quote": true,
+        "source_url": "https://www.entekhab.ir/fa/news/945662/ویدیو-دیوید-ایگنیشس-ستون-نویس-برجسته-واشنگتن-پست-در-فاصله-3-ماهه-پس-از-انتخابات-میان-دوره-ای-تا-دوره-جدید-کنگره-ترامپ-در-بحث-ایران-توسط-هیچ-عامل-سیاسی-محدود-نمی-شود"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق یا سند رسمی مربوط به طرح ادعایی حمله نظامی آمریکا به ایران منتشر نشده است.؛ صحت ادعای هشدار واشنگتن به کشورهای همسایه ایران درباره آمادگی برای جنگ مستقل تأیید نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است"
+  },
+  {
+    "id": "auto-a23004f8e4af65e793",
+    "date": "2026-10-30",
+    "ts": 1793323584625,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "گزارش هایی از شنیده شدن صدای انفجار در قشم و تنگه هرمز و ادعای رهگیری جنگنده متخاصم",
+    "source": "آشیان سیمرغ، فردانیوز، فرارو",
+    "source_url": "/story/d127662d-6dea-4c30-9cde-15bdab9ade3c/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/d127662d-6dea-4c30-9cde-15bdab9ade3c/",
+        "kind": "pendar"
+      },
+      {
+        "label": "آشیان سیمرغ",
+        "url": "https://t.me/simorghdata369/3015",
+        "kind": "original"
+      },
+      {
+        "label": "آشیان سیمرغ",
+        "url": "https://t.me/simorghdata369/3236",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1416999",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1013306/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D9%87%D8%A7-%D8%A7%D8%B2-%D8%B4%D9%86%DB%8C%D8%AF%D9%87-%D8%B4%D8%AF%D9%86-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%AD%D9%88%D8%A7%D9%84%DB%8C-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945681/فارس-صدای-چند-انفجار-در-حوالی-تنگه-هرمز-شنیده-شد-برخی-از-این-صداها-با-شلیک-اخطار-به-سوی-شناورهای-متخلف-مرتبط-هستند",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945682/تسنیم-یک-جنگنده-متخاصم-در-قشم-توسط-سپاه-رهگیری-و-مجبور-به-ترک-منطقه-شد",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1138265",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1081384/%D8%B4%D9%86%DB%8C%D8%AF%D9%87-%D8%B4%D8%AF%D9%86-%D8%B5%D8%AF%D8%A7%DB%8C-%DA%86%D9%86%D8%AF-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%D9%87-%D8%A2%D8%A8-%D9%87%D8%A7%DB%8C-%D8%AC%D8%B2%DB%8C%D8%B1%D9%87-%D9%82%D8%B4%D9%85",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "d127662d-6dea-4c30-9cde-15bdab9ade3c",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "منشا دقیق و علت اصلی صداهای انفجار شنیده شده.؛ تایید رسمی ادعای رهگیری جنگنده متخاصم توسط ارگان های رسمی دولتی یا نظامی.",
+    "evidence_phrase": "",
+    "score_reason": "گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است"
+  },
+  {
     "id": "auto-781fabd8061b145e0a",
     "date": "2026-10-29",
     "ts": 1793309827620,
@@ -260,6 +587,88 @@
     "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
   },
   {
+    "id": "auto-5d826b81d15982ce95",
+    "date": "2026-10-29",
+    "ts": 1793295969000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "درحالی که مقامات آمریکایی ماهیت چالش با ایران را ریشه دار و تمدنی می دانند، برخی مسئولان داخلی همچنان به حل این مناقشه از طریق مذاکره امید بسته اند. این ساده لوحی و نفهمیدن واقعیت ها خود یک هنر است.",
+    "source": "امیرحسین ثابتی",
+    "source_url": "https://t.me/sabety_ir/8381",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/sabety_ir/8381",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@sabety_ir",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "2ffdeeda-0e92-44f5-8b4d-ffb54a206a56",
+    "speaker": "امیرحسین ثابتی",
+    "speaker_role": "نماینده مجلس",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@sabety_ir",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-18f0f9f796e5095140",
+    "date": "2026-10-29",
+    "ts": 1793294439000,
+    "family": "war",
+    "direction": 1,
+    "weight": 1,
+    "raw_direction": 1,
+    "raw_weight": 1,
+    "text": "گزارش ها حاکی از آن است که ترامپ قصد دارد پس از انتخابات، جنگ با ایران را از سر بگیرد. برخی از ما درباره طرح جنگی توجیه شده ایم. این طرح دیوانه وار است، به اهداف موردنظر دست نخواهد یافت و چرخه جدیدی از تشدید تنش ها را به راه خواهد انداخت.",
+    "source": "کریس مورفی",
+    "source_url": "https://www.rouydad24.ir/fa/news/475798/ببنید-ادعای-سناتور-آمریکایی-درباره-حمله-به-ایران-پس-از-انتخابات",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.rouydad24.ir/fa/news/475798/ببنید-ادعای-سناتور-آمریکایی-درباره-حمله-به-ایران-پس-از-انتخابات",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/7f72832f-ee53-4cf8-bf0b-6a628fb601c8/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "7f72832f-ee53-4cf8-bf0b-6a628fb601c8",
+    "speaker": "کریس مورفی",
+    "speaker_role": "سناتور دموکرات آمریکایی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "تشدید",
+    "score_reason": "عبارت شناسایی‌شده: «تشدید»؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل",
+    "by": "pendar-auto",
+    "score_kind": "analyst_view",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل"
+  },
+  {
     "id": "auto-d7293f74e0d9a629ee",
     "date": "2026-10-29",
     "ts": 1793294046000,
@@ -285,6 +694,47 @@
     ],
     "source_type": "figure",
     "source_doc_id": "91b1e556-2d6b-49cc-833e-48437e11306a",
+    "speaker": "رضا نصری",
+    "speaker_role": "حقوقدان بین المللی و تحلیلگر دیپلماسی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@rezanasrichannel",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "تشدید",
+    "score_reason": "عبارت شناسایی‌شده: «تشدید»؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل",
+    "by": "pendar-auto",
+    "score_kind": "analyst_view",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل"
+  },
+  {
+    "id": "auto-2a3e7851e50ce1b1fc",
+    "date": "2026-10-29",
+    "ts": 1793294046000,
+    "family": "war",
+    "direction": 1,
+    "weight": 1,
+    "raw_direction": 1,
+    "raw_weight": 1,
+    "text": "طرح های نظامی برای حمله به تأسیسات پتروشیمی ایران نقض حقوق بین الملل و تشدیدکننده خطرناک جنگ است. افشای این طرح ها مسئولیتی جدی متوجه سیاستمداران و بازیگران بین المللی می کند.",
+    "source": "رضا نصری",
+    "source_url": "https://t.me/rezanasrichannel/3393",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/rezanasrichannel/3393",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@rezanasrichannel",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "ad7101bd-5fbc-48d7-95b9-18b8ed24fffb",
     "speaker": "رضا نصری",
     "speaker_role": "حقوقدان بین المللی و تحلیلگر دیپلماسی",
     "analyst_priority": false,
