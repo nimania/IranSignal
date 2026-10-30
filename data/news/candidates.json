@@ -1,5 +1,14 @@
 [
   {
+    "id": "0201a2ec007580e0cb75",
+    "source_id": "aljazeera",
+    "title": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+    "url": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
+    "published": "Fri, 30 Oct 2026 08:36:11 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "02992984a82972c4990c",
     "source_id": "aljazeera",
     "title": "Lebanese and Syrians expect no change in Israeli policy after election",
@@ -513,6 +522,15 @@
     "score_effect": null
   },
   {
+    "id": "39fe38e39ca3efe4b665",
+    "source_id": "aljazeera",
+    "title": "How Israel choked off Hebron at 10 entrances, as 5,000 forced to flee",
+    "url": "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss",
+    "published": "Fri, 30 Oct 2026 07:07:36 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "3a607cd91efa1abec7e5",
     "source_id": "bbc",
     "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
@@ -986,6 +1004,24 @@
     "title": "Trump open to summit with Xi and Putin — to discuss denuclearization",
     "url": "https://www.axios.com/2026/10/19/trump-summit-xi-putin-denuclearization-ukraine",
     "published": "Mon, 19 Oct 2026 20:04:17 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "761e3004c014863fdf5f",
+    "source_id": "aljazeera",
+    "title": "‘My life is buried here’: Iranian man whose 12 family members were killed",
+    "url": "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss",
+    "published": "Fri, 30 Oct 2026 07:51:08 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "772eae63e4013024c0f7",
+    "source_id": "aljazeera",
+    "title": "Britain must sanction Israel, not just its settlers",
+    "url": "https://www.aljazeera.com/opinions/2026/10/30/britain-must-sanction-israel-not-just-its-settlers?traffic_source=rss",
+    "published": "Fri, 30 Oct 2026 07:10:50 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1737,6 +1773,15 @@
     "score_effect": null
   },
   {
+    "id": "c4b8588fbef494a09cd5",
+    "source_id": "aljazeera",
+    "title": "Israeli actress slams occupation in accidental ‘hot mic’ moment",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-actress-slams-occupation-in-accidental-hot-mic-moment?traffic_source=rss",
+    "published": "Fri, 30 Oct 2026 04:14:09 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "c62d52f0ebfa894d6ac4",
     "source_id": "axios",
     "title": "95% of MAGA Republicans approve of Trump. For non-MAGA Republicans, it's 47%.",
@@ -1760,6 +1805,15 @@
     "title": "High voter turnout among Palestinian citizens of Israel threatens Netanyahu",
     "url": "https://www.aljazeera.com/news/2026/10/28/high-voter-turnout-from-palestinian-citizens-of-israel-threatens-netanyahu?traffic_source=rss",
     "published": "Wed, 28 Oct 2026 11:33:13 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "cb0917697a9e0ae40022",
+    "source_id": "aljazeera",
+    "title": "AI’s real bottleneck is electricity. Who will pay for it?",
+    "url": "https://www.aljazeera.com/opinions/2026/10/30/ais-real-bottleneck-is-electricity-who-will-pay-for-it?traffic_source=rss",
+    "published": "Fri, 30 Oct 2026 07:13:47 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
