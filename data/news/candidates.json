@@ -279,6 +279,15 @@
     "score_effect": null
   },
   {
+    "id": "20dcccebfc5e3ee5d4e0",
+    "source_id": "axios",
+    "title": "Judge to probe whether Trump officials lied in golf course case",
+    "url": "https://www.axios.com/2026/10/30/judge-investigation-doj-interior-trump-golf-course",
+    "published": "Fri, 30 Oct 2026 21:01:56 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "228a7895228e07515840",
     "source_id": "bbc",
     "title": "Why is it so hard to fight the Houthis?",
@@ -1008,6 +1017,15 @@
     "score_effect": null
   },
   {
+    "id": "713f62303fd19d689f48",
+    "source_id": "aljazeera",
+    "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
+    "url": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
+    "published": "Fri, 30 Oct 2026 18:35:44 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "725fc07d77abab81da1c",
     "source_id": "aljazeera",
     "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
@@ -1125,6 +1143,15 @@
     "score_effect": null
   },
   {
+    "id": "7b0ad7200bde1c8af2c9",
+    "source_id": "axios",
+    "title": "U.S. blockade, sanctions crippling Iran's economy, Treasury report says",
+    "url": "https://www.axios.com/2026/10/30/iran-war-bessent-treasury-report-sanctions",
+    "published": "Fri, 30 Oct 2026 18:51:37 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "7ba3abba42df4063dd36",
     "source_id": "aljazeera",
     "title": "Smotrich dances in Israel despite far-right decline",
@@ -1184,6 +1211,15 @@
     "title": "Jerusalem Daily: Israeli elections underway",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
     "published": "Tue, 27 Oct 2026 18:12:17 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "84648797629ad1a139b8",
+    "source_id": "aljazeera",
+    "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+    "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
+    "published": "Fri, 30 Oct 2026 20:37:20 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1458,6 +1494,15 @@
     "score_effect": null
   },
   {
+    "id": "9bcce927c5d368d3ff44",
+    "source_id": "aljazeera",
+    "title": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss",
+    "published": "Fri, 30 Oct 2026 19:34:36 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "9bdf3c8b5819ef3741e6",
     "source_id": "aljazeera",
     "title": "Israel’s Eisenkot says country voted for change",
@@ -1620,6 +1665,15 @@
     "score_effect": null
   },
   {
+    "id": "aa0ff9066d47bc5ab98d",
+    "source_id": "aljazeera",
+    "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+    "published": "Fri, 30 Oct 2026 18:33:29 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "aa9bf6c9aad755639f06",
     "source_id": "aljazeera",
     "title": "‘Generation Right’: Israeli youth show strong support for the right",
@@ -1733,6 +1787,15 @@
     "title": "Israel bans travel for Brad Lander after detention in occupied West Bank",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
     "published": "Thu, 29 Oct 2026 21:10:13 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "b70ee43490ad59809716",
+    "source_id": "aljazeera",
+    "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
+    "url": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
+    "published": "Fri, 30 Oct 2026 18:55:36 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
