@@ -522,6 +522,15 @@
     "score_effect": null
   },
   {
+    "id": "36f9c402779f1ed8a90e",
+    "source_id": "axios",
+    "title": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
+    "url": "https://www.axios.com/2026/10/31/irans-supreme-leader-maximum-response-us-attack",
+    "published": "Sat, 31 Oct 2026 11:48:31 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "387d01ea496d1905451d",
     "source_id": "aljazeera",
     "title": "Palestinians are opening their doors to the displaced of besieged Hebron",
@@ -608,6 +617,15 @@
     "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
     "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
     "published": "Mon, 26 Oct 2026 04:05:44 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "3ca749d377b2c3f876e1",
+    "source_id": "aljazeera",
+    "title": "A UN protection force must be urgently deployed to Palestine",
+    "url": "https://www.aljazeera.com/opinions/2026/10/31/a-un-protection-force-must-be-urgently-deployed-to-palestine?traffic_source=rss",
+    "published": "Sat, 31 Oct 2026 08:57:35 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -774,11 +792,38 @@
     "score_effect": null
   },
   {
+    "id": "54c2819dce34267213c8",
+    "source_id": "aljazeera",
+    "title": "Can Democrats win the US Senate? 10 key midterm races to watch",
+    "url": "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss",
+    "published": "Sat, 31 Oct 2026 10:38:43 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "5585a7d1b1b61f045648",
     "source_id": "bbc",
     "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
     "url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
     "published": "Mon, 19 Oct 2026 10:34:18 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "565c633c7fe8f122d992",
+    "source_id": "aljazeera",
+    "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+    "url": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss",
+    "published": "Sat, 31 Oct 2026 12:22:45 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "566430d0ade8c88c3e4a",
+    "source_id": "aljazeera",
+    "title": "Lebanon charges 13 over confiscated Hezbollah explosives",
+    "url": "https://www.aljazeera.com/news/2026/10/31/lebanon-charges-13-over-hezbollah-confiscated-explosives?traffic_source=rss",
+    "published": "Sat, 31 Oct 2026 09:26:46 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1220,6 +1265,15 @@
     "title": "Jerusalem Daily: Israeli elections underway",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
     "published": "Tue, 27 Oct 2026 18:12:17 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "83c46a97f6cd86aab836",
+    "source_id": "aljazeera",
+    "title": "Education under fire: Gaza’s children face death on their way to school",
+    "url": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss",
+    "published": "Sat, 31 Oct 2026 10:00:17 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1908,6 +1962,15 @@
     "score_effect": null
   },
   {
+    "id": "c31c1f388c4b1a807ff6",
+    "source_id": "aljazeera",
+    "title": "Swiss commentary on Israeli Olympic bobsleigh team termed ‘discriminatory’",
+    "url": "https://www.aljazeera.com/sports/2026/10/31/swiss-commentary-on-israeli-olympic-bobsleigh-team-termed-discriminatory?traffic_source=rss",
+    "published": "Sat, 31 Oct 2026 10:49:19 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "c4b8588fbef494a09cd5",
     "source_id": "aljazeera",
     "title": "Israeli actress slams occupation in accidental ‘hot mic’ moment",
@@ -2264,6 +2327,15 @@
     "title": "Shapiro looks like a 2028 powerhouse — with an asterisk",
     "url": "https://www.axios.com/2026/10/25/josh-shapiro-2028-questions",
     "published": "Sun, 25 Oct 2026 21:44:03 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "f88770265c9a942162e7",
+    "source_id": "aljazeera",
+    "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
+    "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss",
+    "published": "Sat, 31 Oct 2026 12:13:42 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
