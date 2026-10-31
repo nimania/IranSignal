@@ -153,6 +153,15 @@
     "score_effect": null
   },
   {
+    "id": "12fefe33b7f0870efd2c",
+    "source_id": "axios",
+    "title": "Qataris hold marathon talks in Tehran in bid for U.S.-Iran deal before midterms",
+    "url": "https://www.axios.com/2026/10/31/qatari-mediators-iran-war-deal-before-midterms",
+    "published": "Sat, 31 Oct 2026 01:03:05 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "14608ca386e2617925ad",
     "source_id": "axios",
     "title": "Wall Street prepares for AI's \"day after\"",
@@ -2043,6 +2052,15 @@
     "score_effect": null
   },
   {
+    "id": "d527422f1d4b795ea7e0",
+    "source_id": "aljazeera",
+    "title": "Iran says four tankers on fire after striking mines in Hormuz",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
+    "published": "Sat, 31 Oct 2026 03:55:48 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "d5282f8b561b0661a1ee",
     "source_id": "aljazeera",
     "title": "Africa food security under threat due to Iran war, trade officials warn",
@@ -2201,6 +2219,15 @@
     "title": "Exclusive: Democrats lay groundwork to probe Trump's diesel deal",
     "url": "https://www.axios.com/2026/10/26/democrats-trump-diesel-deal",
     "published": "Mon, 26 Oct 2026 12:30:46 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "f00049e246b977130458",
+    "source_id": "aljazeera",
+    "title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end ‘soon’",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+    "published": "Sat, 31 Oct 2026 00:00:00 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
