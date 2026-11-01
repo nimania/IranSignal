@@ -846,6 +846,15 @@
     "score_effect": null
   },
   {
+    "id": "573b658c92b03f49aba3",
+    "source_id": "aljazeera",
+    "title": "Israel election: When will government be formed, who will lead it?",
+    "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
+    "published": "Sun, 01 Nov 2026 14:16:14 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "575e557c208fbfb7f506",
     "source_id": "aljazeera",
     "title": "Israel’s election: The battle between change and anti-Palestinian sentiment",
@@ -1512,6 +1521,15 @@
     "score_effect": null
   },
   {
+    "id": "967949b0e4347df0dd38",
+    "source_id": "aljazeera",
+    "title": "Iran and US explore diplomacy amid rising threats of war",
+    "url": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
+    "published": "Sun, 01 Nov 2026 13:02:10 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "968d4999aac93be3a350",
     "source_id": "aljazeera",
     "title": "Israeli elections: What are the possible outcomes?",
@@ -1602,6 +1620,15 @@
     "score_effect": null
   },
   {
+    "id": "9d901659fdbae7fd63b2",
+    "source_id": "axios",
+    "title": "Dems and GOP quietly bankroll dozens of third-party spoilers",
+    "url": "https://www.axios.com/2026/11/01/2026-midterms-spoiler-independent-third-party",
+    "published": "Sun, 01 Nov 2026 12:15:06 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "9e88baa63cd91b0a712b",
     "source_id": "aljazeera",
     "title": "Palestinian citizens of Israel can vote, but cannot expect change",
@@ -1652,6 +1679,15 @@
     "title": "The budget deficit swells, while the cost of debt rises",
     "url": "https://www.axios.com/2026/10/20/federal-deficit-debt-interest-rates",
     "published": "Tue, 20 Oct 2026 09:15:08 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "a41e9d02269aa9975a08",
+    "source_id": "aljazeera",
+    "title": "Israeli attacks on Gaza kill at least nine people",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
+    "published": "Sun, 01 Nov 2026 14:10:59 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1953,6 +1989,15 @@
     "score_effect": null
   },
   {
+    "id": "bba524c4002319fa856e",
+    "source_id": "aljazeera",
+    "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
+    "published": "Sun, 01 Nov 2026 15:38:12 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "bc927370be7192d7a390",
     "source_id": "aljazeera",
     "title": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
@@ -1985,6 +2030,15 @@
     "title": "Warsh signals steady Fed outlook despite inflation jump",
     "url": "https://www.axios.com/2026/10/16/warsh-federal-reserve-interest-rates",
     "published": "Fri, 16 Oct 2026 10:25:29 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "c0c253a5df7dceb957a0",
+    "source_id": "aljazeera",
+    "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
+    "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
+    "published": "Sun, 01 Nov 2026 13:36:16 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -2115,6 +2169,15 @@
     "score_effect": null
   },
   {
+    "id": "cfd1ad0261d9ab89382d",
+    "source_id": "aljazeera",
+    "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
+    "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
+    "published": "Sun, 01 Nov 2026 11:14:27 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "cfd44e96458510f49d8b",
     "source_id": "aljazeera",
     "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
@@ -2147,6 +2210,15 @@
     "title": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
     "published": "Fri, 30 Oct 2026 15:06:00 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "d1dac6073e85efc33442",
+    "source_id": "aljazeera",
+    "title": "Yamaha pulls out of Qatar MotoGP over ‘situation in the Middle East’",
+    "url": "https://www.aljazeera.com/sports/2026/11/1/yamaha-pulls-out-of-qatar-motogp-over-situation-in-the-middle-east?traffic_source=rss",
+    "published": "Sun, 01 Nov 2026 12:32:24 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
