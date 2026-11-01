@@ -1746,6 +1746,15 @@
     "score_effect": null
   },
   {
+    "id": "a9f0dd657a01a40fe0ef",
+    "source_id": "aljazeera",
+    "title": "What we know about latest efforts to end US war on Iran",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
+    "published": "Sun, 01 Nov 2026 03:24:02 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "a9ffb8bc510049b9f634",
     "source_id": "aljazeera",
     "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
@@ -1985,6 +1994,15 @@
     "title": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
     "url": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
     "published": "Tue, 27 Oct 2026 18:11:57 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "c25848e7a5487d364fd6",
+    "source_id": "aljazeera",
+    "title": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
+    "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
+    "published": "Sun, 01 Nov 2026 02:05:40 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
