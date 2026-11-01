@@ -190,5 +190,18 @@
     "Separate civil-disruption metric from interpretation of war likelihood",
     "Label coverage gaps and stale data",
     "Keep subscription credentials only in GitHub Actions secrets"
+  ],
+  "telegram_sources": [
+    {
+      "id": "simorghdata369",
+      "label": "آشیان سیمرغ",
+      "handle": "simorghdata369",
+      "access": "public_preview",
+      "endpoint": "https://t.me/s/simorghdata369",
+      "enabled": true,
+      "role": "unverified_research_leads_only",
+      "no_direct_republication": true,
+      "independent_verification_required": true
+    }
   ]
 }
