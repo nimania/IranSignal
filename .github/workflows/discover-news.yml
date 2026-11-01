@@ -16,7 +16,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Discover RSS candidates
+      - name: Validate source parsing offline
+        run: python -m unittest discover -s tests -p 'test_telegram_preview.py'
+      - name: Discover RSS and Telegram research candidates
         run: python scripts/discover_news.py
       - name: Commit candidates only if changed
         run: |
