@@ -104,14 +104,16 @@ def harvest_telegram(source, *, payload=None):
     parser = TelegramPreviewParser(handle)
     parser.feed(payload.decode("utf-8", errors="replace") if isinstance(payload, bytes) else payload)
     for post in parser.posts:
-        body = " ".join("".join(post["text"]).split())
+        raw_text = "".join(post["text"])
+        body = " ".join(raw_text.split())
         if len(body) < 55 or not any(term in body for term in IRAN_TERMS):
             continue
         if not post["published"]:
             continue
         url = "https://t.me/" + post["post"]
-        first = body.split("؛", 1)[0].split(":", 1)[0]
-        title = (first[:180].rsplit(" ", 1)[0] if len(first) > 180 else first) or body[:180]
+        lines = [" ".join(line.split()) for line in raw_text.splitlines()]
+        first = next((line for line in lines if len(line) >= 12), body)
+        title = first[:180].rsplit(" ", 1)[0] if len(first) > 180 else first
         identifier = hashlib.sha256((source["id"] + "|" + url).encode()).hexdigest()[:20]
         yield {"id": identifier, "source_id": source["id"], "title": title,
                "url": url, "published": post["published"],
