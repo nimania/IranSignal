@@ -2,6 +2,13 @@ name: Discover international news evidence
 on:
   schedule:
     - cron: '23 */3 * * *'
+  push:
+    branches: [main]
+    paths:
+      - "config/source-registry.json"
+      - "scripts/discover_news.py"
+      - "tests/test_telegram_preview.py"
+      - ".github/workflows/discover-news.yml"
   workflow_dispatch:
 permissions:
   contents: write
