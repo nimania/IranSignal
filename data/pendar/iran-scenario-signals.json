@@ -1,5 +1,1900 @@
 [
   {
+    "id": "auto-122d4ce15e7845c118",
+    "date": "2026-11-01",
+    "ts": 1793521162803,
+    "family": "war",
+    "direction": -1,
+    "weight": 2,
+    "raw_direction": -1,
+    "raw_weight": 2,
+    "text": "مواضع جدید مقامات مجلس ایران درباره پاسخ به تهدیدات و شرایط پایان جنگ",
+    "source": "میزان، آنا، خبرگزاری صداوسیما",
+    "source_url": "/story/dfacf15e-693f-48c6-b091-3554339ca5c3/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/dfacf15e-693f-48c6-b091-3554339ca5c3/",
+        "kind": "pendar"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4926801/نایب-رئیس-کمیسیون-امنیت-ملی-مجلس-پاسخ-ایران-به-تجاوز-و-تهدید-به-یک-محدوده-جغرافیایی-خاص-محدود-نخواهد-بود",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1093872/تنها-راه-پایان-جنگ-پذیرش-شروط-ایران-است-ملت-ایران-در-برابر-فشار-و-تهدید-تسلیم-نمی-شود",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4926849/رئیس-کمیسیون-امنیت-ملی-به-هر-تهدیدی-پاسخ-فوری-و-سخت-تر-از-گذشته-خواهیم-داد",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4926856/نیکزاد-ملت-ایران-در-برابر-فشار-و-تهدید-هرگز-تسلیم-نمی-شود",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1074959/عزیزی-در-برابر-هر-تهدیدی-پاسخ-فوری-و-حتی-سخت-تری-خواهیم-داد",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5954038/اجرای-کامل-شروط-ایران-تنها-راه-پایان-جنگ",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2391656/",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "dfacf15e-693f-48c6-b091-3554339ca5c3",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "علی نیکزاد",
+        "role": "نایب رئیس مجلس شورای اسلامی",
+        "statement": "اگر به دنبال پایان جنگ و خروج عاقلانه از آن هستید، باید ترتیبات ایرانی تنگه هرمز را بپذیرید و هفت شرط جمهوری اسلامی را به طور کامل اجرا کنید.",
+        "direct_quote": true,
+        "source_url": "https://fa.shafaqna.com/news/2391656/"
+      },
+      {
+        "name": "ابراهیم عزیزی",
+        "role": "رئیس کمیسیون امنیت ملی و سیاست خارجی مجلس",
+        "statement": "جمهوری اسلامی در برابر هر تهدیدی، پاسخی فوری و فراتر از گذشته خواهد داد.",
+        "direct_quote": false,
+        "source_url": "https://www.mizanonline.ir/fa/news/4926856/نیکزاد-ملت-ایران-در-برابر-فشار-و-تهدید-هرگز-تسلیم-نمی-شود"
+      }
+    ],
+    "uncertainty": "جزئیات هفت شرط ایران برای پایان جنگ در منابع ذکر نشده است.؛ محتوای دقیق «ترتیبات ایرانی تنگه هرمز» در متن منابع مشخص نشده است.",
+    "evidence_phrase": "پایان جنگ",
+    "score_reason": "عبارت شناسایی‌شده: «پایان جنگ»؛ رویداد با قاعده روشن؛ نیازمند راستی آزمایی",
+    "by": "pendar-auto",
+    "score_kind": "reported_event",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ رویداد با قاعده روشن؛ نیازمند راستی آزمایی"
+  },
+  {
+    "id": "auto-d4df3e8ba71fbb4f02",
+    "date": "2026-11-01",
+    "ts": 1793521159430,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "اظهارات دونالد ترامپ درباره روند مذاکرات با ایران و تاسیسات هسته ای",
+    "source": "انتخاب، بی بی سی فارسی (BBC Persian)",
+    "source_url": "/story/ca3d1148-0ba8-4a10-8290-01b5230bb88f/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/ca3d1148-0ba8-4a10-8290-01b5230bb88f/",
+        "kind": "pendar"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945932/ادعای-ترامپ-مذاکرات-با-ایران-به-خوبی-پیش-می-رود-ایرانی-ها-می-خواهند-به-توافق-برسند-خواهیم-دید-چه-اتفاقی-میفتد",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1013809/%D8%A2%DB%8C%D8%A7-%D8%A7%DB%8C%D9%86-%D8%B1%D8%A8%D8%A7%D8%AA-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D9%BE%D8%B3%D8%AA%DA%86%DB%8C-%D8%B4%D9%85%D8%A7-%D8%A8%D8%A7%D8%B4%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1203028/ترامپ-هنوز-با-یکی-دو-سایت-هسته-ای-ایران-کار-داریم-10-دقیقه-کار-دارند-مذاکرات-با-ایران-خوب-پیش-می-رود",
+        "kind": "original"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://tabnak.ir/fa/news/100000002/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B3%D8%A7%DB%8C%D8%AA%D9%87%D8%A7%DB%8C-%D9%87%D8%B3%D8%AA%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%81%D9%82%D8%B7-%DB%B1%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%DA%A9%D8%A7%D8%B1-%D8%AF%D8%A7%D8%B1%D9%86%D8%AF-caf11bdc0f714432a4b73c85",
+        "kind": "original"
+      },
+      {
+        "label": "رکنا",
+        "url": "https://www.rokna.net/fa/tiny/news-1262802",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2295888/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%AE%D9%88%D8%A8%DB%8C-%D9%BE%DB%8C%D8%B4-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF-%D8%A7%D9%85%D8%A7-%D8%A8%D9%87-%D8%B7%D8%B1%D9%81-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C",
+        "kind": "original"
+      },
+      {
+        "label": "انصاف نیوز",
+        "url": "https://ensafnews.com/675579/%d8%a7%d8%af%d8%b9%d8%a7%db%8c-%d8%aa%d8%b1%d8%a7%d9%85%d9%be-%d8%a8%d8%a7%db%8c%d8%af-%d8%aa%da%a9%d9%84%db%8c%d9%81-%da%a9%d9%88%d9%87-%da%a9%d9%84%d9%86%da%af-%d8%b1%d8%a7-%d9%85%d8%b4%d8%ae%d8%b5/",
+        "kind": "original"
+      },
+      {
+        "label": "بی بی سی فارسی (BBC Persian)",
+        "url": "https://www.bbc.co.uk/persian/live/c6lyl91kvjdqt?at_medium=RSS&at_campaign=rss",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "ca3d1148-0ba8-4a10-8290-01b5230bb88f",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهور آمریکا",
+        "statement": "مذاکرات به خوبی پیش می رود اما طرف ایرانی قابل اعتماد نیست و پس از توافق به تعهدات خود عمل نمی کند.",
+        "direct_quote": true,
+        "source_url": "https://www.khabaronline.ir/news/2295888/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%AE%D9%88%D8%A8%DB%8C-%D9%BE%DB%8C%D8%B4-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF-%D8%A7%D9%85%D8%A7-%D8%A8%D9%87-%D8%B7%D8%B1%D9%81-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C"
+      },
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهور آمریکا",
+        "statement": "تاسیسات هسته ای ایران نابود شده و تنها یک یا دو سایت باقی مانده که باید به آن ها رسیدگی کنیم.",
+        "direct_quote": true,
+        "source_url": "https://www.bbc.co.uk/persian/live/c6lyl91kvjdqt?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق سایت های هسته ای باقی مانده که ترامپ به آن ها اشاره کرده مشخص نیست.؛ ماهیت دقیق مذاکرات جاری و سطح پیشرفت آن ها مستقل از ادعاهای ترامپ روشن نیست.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-9fcc43ab041c181e6f",
+    "date": "2026-11-01",
+    "ts": 1793521122854,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "نوسانات صعودی در بازار ارز، طلا و خودرو در ۱۰ آبان ۱۴۰۵",
+    "source": "اقتصاد آنلاین، فرارو",
+    "source_url": "/story/367874ff-d3ba-48c5-b7c8-09405817f142/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/367874ff-d3ba-48c5-b7c8-09405817f142/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5953410/تقویم-روز-و-اوقات-شرعی-گیلان-10-آبان-1405",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5953761/تقویم-و-اوقات-شرعی-زنجان-در-10-آبان-1405",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2172574/لیست-قیمت-گوشت-قرمز-امروز-یکشنبه-10-آبان-1405-هر-کیلوگرم-گوشت-گوساله-و-گوسفندی-چند-شد-جدول",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2172575/قیمت-محصولات-ایران-خودرو-و-سایپا-امروز-10-آبان-ماه-1405-افزایش-قیمت-خودرو-رکورد-زد-جدول",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2172576/قیمت-طلا-و-سکه-امروز-یکشنبه-10-آبان-1405-جدول",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1074930/قیمت-طلا-و-سکه-امروز-یکشنبه-10-آبان-1405",
+        "kind": "original"
+      },
+      {
+        "label": "هفت صبح",
+        "url": "https://7sobh.com/fa/tiny/news-60174067",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1013799/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%B3%D8%A7%DB%8C%D9%BE%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-10-%D8%A2%D8%A8%D8%A7%D9%86-1405",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "367874ff-d3ba-48c5-b7c8-09405817f142",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "تفاوت در نرخ اعلامی طلا و سکه در منابع مختلف (آفتاب نیوز و فرارو ارقام متفاوتی برای قیمت هر گرم طلا و سکه اعلام کرده اند).؛ عدم وجود جزئیات دقیق درباره دلایل نوسانات ارزی فراتر از کلیات اقتصادی.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-052f0153b54ef04b86",
+    "date": "2026-11-01",
+    "ts": 1793521068772,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "برگزاری نخستین جلسه دادگاه رسیدگی به پرونده جنگ ۱۲ روزه و شهدای زندان اوین",
+    "source": "میزان، آنا، مشرق نیوز",
+    "source_url": "/story/6f0ea6ed-738a-46aa-aef2-ed3be2fafc00/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/6f0ea6ed-738a-46aa-aef2-ed3be2fafc00/",
+        "kind": "pendar"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4926846/دادگاه-رسیدگی-به-پرونده-جنایات-جنگی-و-شهدای-زندان-اوین-برگزار-شد-محاکمه-عاملان-جنایت-ها-مطالبه-جدی-خانواده-های-شهدا",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4926852/رئیس-مرکز-وکلای-قوه-قضاییه-محاکم-ایران-صلاحیت-رسیدگی-به-پرونده-شهدای-جنگ-12-روزه-را-دارند-آرا-از-مجاری-قانونی-اجرا-می-شود",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1093870/عبدلیان-پور-130-دادخواست-از-سوی-خانواده-های-شهدای-جنگ-12-روزه-تقدیم-دادگاه-شد-فیلم",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1093875/آغاز-رسیدگی-به-دادخواهی-60-نفر-از-خانواده-های-شهدای-جنگ-تحمیلی-12-روزه",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1849621/%D8%AC%D9%84%D8%B3%D9%87-%D8%B1%D8%B3%DB%8C%D8%AF%DA%AF%DB%8C-%D8%A8%D9%87-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%B4%D9%87%D8%AF%D8%A7%DB%8C-%D8%AC%D9%86%DA%AF-%DB%B1%DB%B2%D8%B1%D9%88%D8%B2%D9%87-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D8%B4%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1013828/%D8%AF%D8%A7%D8%AF%DA%AF%D8%A7%D9%87-%D8%B1%D8%B3%DB%8C%D8%AF%DA%AF%DB%8C-%D8%A8%D9%87-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%B2%D9%86%D8%AF%D8%A7%D9%86-%D8%A7%D9%88%DB%8C%D9%86-%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%B1%D9%88%D8%B2%D9%87-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D8%B4%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری مهر (Mehr)",
+        "url": "https://www.mehrnews.com/news/6996145/%D8%B9%D8%AA%D8%A8%D8%A7%D8%AA%DB%8C-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%B2%D9%86%D8%AF%D8%A7%D9%86-%D8%A7%D9%88%DB%8C%D9%86-%D8%AA%D8%A7-%D8%B5%D8%AF%D9%88%D8%B1-%D8%AD%DA%A9%D9%85-%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1093926/عتباتی-پرونده-حمله-به-زندان-اوین-با-جدیت-تا-صدور-حکم-نهایی-پیگیری-می-شود",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "6f0ea6ed-738a-46aa-aef2-ed3be2fafc00",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "حسن عبدلیان پور",
+        "role": "رئیس مرکز وکلای قوه قضاییه",
+        "statement": "محاکم ایران صلاحیت رسیدگی به پرونده شهدای جنگ ۱۲ روزه را دارند و اجرای آرای صادره از طریق مجاری قانونی و شناسایی در سایر کشورها پیگیری می شود.",
+        "direct_quote": false,
+        "source_url": "https://www.mizanonline.ir/fa/news/4926852/رئیس-مرکز-وکلای-قوه-قضاییه-محاکم-ایران-صلاحیت-رسیدگی-به-پرونده-شهدای-جنگ-12-روزه-را-دارند-آرا-از-مجاری-قانونی-اجرا-می-شود"
+      },
+      {
+        "name": "حسن عبدلیان پور",
+        "role": "رئیس مرکز وکلای قوه قضائیه",
+        "statement": "در مجموع ۱۳۰ دادخواست از سوی خانواده های شهدا تقدیم دادگاه شده که ۵۵ دادخواست مربوط به شهدای زندان اوین است.",
+        "direct_quote": true,
+        "source_url": "https://ana.ir/fa/news/1093926/عتباتی-پرونده-حمله-به-زندان-اوین-با-جدیت-تا-صدور-حکم-نهایی-پیگیری-می-شود"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق و مفاد کامل احکام احتمالی آینده و نحوه اجرای بین المللی آرای صادره هنوز مشخص نیست.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-f7a1f5efb8070f36f8",
+    "date": "2026-11-01",
+    "ts": 1793521057339,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "واکنش مقام های ترکیه و هند به بحران تنگه هرمز و پیامدهای اقتصادی آن",
+    "source": "اقتصاد آنلاین، خبرگزاری ایسنا (ISNA)، دنیای اقتصاد",
+    "source_url": "/story/dcf6757c-232f-4aa9-9970-f3904cca67bf/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/dcf6757c-232f-4aa9-9970-f3904cca67bf/",
+        "kind": "pendar"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2172505/معادلات-بازار-جهانی-گاز-به-هم-خورد-چه-کشوری-جای-چین-را-می-گیرد",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405081005924/%D9%81%DB%8C%D8%AF%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B1%D8%A7-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AF%D8%A7%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305484-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%BE%DB%8C%D8%A7%D9%85%D8%AF%D9%87%D8%A7%DB%8C-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%AC%D9%86%DA%AF-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%D8%A8%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945920/وزیر-خارجه-ترکیه-مناقشه-میان-ایران-و-آمریکا-سریع-تر-حل-شود-بسته-شدن-تنگه-هرمز-فشار-بر-اقتصاد-جهانی-را-به-طور-قابل-توجهی-تشدید-کرده",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417184",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1074933/ترکیه-خواستار-حل-وفصل-اختلاف-میان-ایران-و-آمریکا-شد",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1093856/هند-مناقشات-منطقه-ای-راهکار-نظامی-ندارند-دیپلماسی-تنها-مسیر-حل-بحران-است",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1138750",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "dcf6757c-232f-4aa9-9970-f3904cca67bf",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "هاکان فیدان",
+        "role": "وزیر خارجه ترکیه",
+        "statement": "بسته شدن تنگه هرمز فشار اقتصادی جهانی را افزایش داده، پیامدهای اقتصادی جنگ اوکراین را تشدید کرده و نیازمند حل وفصل سریع تر اختلاف میان ایران و آمریکا است.",
+        "direct_quote": false,
+        "source_url": "https://www.entekhab.ir/fa/news/945920/وزیر-خارجه-ترکیه-مناقشه-میان-ایران-و-آمریکا-سریع-تر-حل-شود-بسته-شدن-تنگه-هرمز-فشار-بر-اقتصاد-جهانی-را-به-طور-قابل-توجهی-تشدید-کرده"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق و وضعیت عملیاتی باز بودن یا مسدود بودن کامل تنگه هرمز از سوی منابع رسمی نظامی تأیید نشده است.؛ ابعاد دقیق تغییرات سهم کشورهای آسیایی در واردات گاز به دنبال بحران اخیر مشخص نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-df4d8e65cba1ab3888",
+    "date": "2026-11-01",
+    "ts": 1793521053280,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "اظهارات تازه دونالد ترامپ درباره مذاکرات با ایران و تهدید تأسیسات باقی مانده",
+    "source": "فردانیوز، آفتاب نیوز، شفقنا فارسی",
+    "source_url": "/story/3a40cc86-b9f2-4777-8b37-c79703a22712/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/3a40cc86-b9f2-4777-8b37-c79703a22712/",
+        "kind": "pendar"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417176",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417179",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1074929/گفت-وگوی-ترامپ-با-نتانیاهو-مذاکرات-خوب-پیش-می-رود-موضوع-ایران-را-تمام-می-کنیم-و-بعد-به-سراغ-کوبا-می-رویم",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2391554/",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945921/ادعای-ترامپ-ایرانی-ها-می-خواهند-به-توافق-برسند-باید-ببینیم-آیا-توافق-می-کنند-یا-نه-ما-چندان-عجله-ای-نداریم-هنوز-باید-کار-یکی-دو-سایت-را-تمام-کنیم-اما-می-توانیم-این-اقدام-را-ظرف-10-دقیقه-انجام-دهیم-ازسرگیری-جنگ-ایران-طی-همین-هفته-چرا-چنین-سؤال-احمقانه-ای-می-پرسید-فرض-کنیم-قصد-انجام-چنین-کاری-را-داشته-باشم-آیا-به-خبرنگاران-می-گویم",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2172583/تهدید-تازه-ترامپ-به-اقدام-نظامی-علیه-ایران-می-توانیم-کار-را-در-10-دقیقه-تمام-کنیم",
+        "kind": "original"
+      },
+      {
+        "label": "دویچه وله فارسی (DW Persian)",
+        "url": "https://www.dw.com/fa-ir/ترامپ-هنوز-باید-به-یک-یا-دو-سایت-هسته‌ای-ایران-رسیدگی-کنیم/live-79820254?maca=per-rss-per-all-1491-rdf",
+        "kind": "original"
+      },
+      {
+        "label": "یورونیوز فارسی",
+        "url": "https://parsi.euronews.com/2026/11/01/trump-iran-nuclear-sites-pickaxe-mountain-ten-minutes-strike-oct-2026",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "3a40cc86-b9f2-4777-8b37-c79703a22712",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهور آمریکا",
+        "statement": "روند مذاکرات در حال حاضر به خوبی پیش می رود، اما مشکل اصلی این است که طرف ایرانی چندان قابل اعتماد نیست و توافق می کنند و بعد زیرش می زنند.",
+        "direct_quote": false,
+        "source_url": "https://www.fardanews.com/fa/tiny/news-1417179"
+      },
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهور آمریکا",
+        "statement": "می توانیم ظرف ۱۰ دقیقه آن یک یا دو سایت باقی مانده در ایران را هدف قرار بدهیم.",
+        "direct_quote": true,
+        "source_url": "https://www.fardanews.com/fa/tiny/news-1417179"
+      },
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهوری آمریکا",
+        "statement": "مذاکرات خوب پیش می رود و آنها توافق می خواهند.",
+        "direct_quote": false,
+        "source_url": "https://aftabnews.ir/fa/news/1074958/ترامپ-یکی-دو-هدف-باقی-مانده-در-ایران-را-در-10-دقیقه-می-زنیم"
+      },
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهور آمریکا",
+        "statement": "چرا چنین سؤال احمقانه ای می پرسید؟ فرض کنیم قصد چنین کاری را داشته باشم، آیا به شما می گویم؟",
+        "direct_quote": true,
+        "source_url": "https://www.entekhab.ir/fa/news/945935/جروزالم-پست-ترامپ-پس-از-گفت-و-گو-با-نتانیاهو-اظهار-کرد-ایرانی-ها-می-خواهند-به-توافق-برسند-اوضاع-به-خوبی-پیش-می-رود-زمان-بندی-انجام-تحرکات-نظامی-اخیر-آمریکا-در-خاورمیانه-از-نظر-سیاسی-حساسیت-ویژه-ای-دارد-ارزیابی-می-شود-که-کاخ-سفید-تا-پیش-از-برگزاری-انتخابات-دستور-اجرای-عملیات-علیه-ایران-را-صادر-نکند-تهران-توافقی-را-که-مستلزم-کنار-گذاشتن-کامل-برنامه-هسته-ای-اش-باشد-امضا-نخواهد-کرد"
+      }
+    ],
+    "uncertainty": "زمان بندی دقیق یا تصمیم قطعی دولت آمریکا برای انجام عملیات نظامی علیه تأسیسات باقی مانده در ایران نامشخص است.؛ واکنش رسمی و نهایی مقام های ایرانی به این اظهارات و ارزیابی آن ها از روند مذاکرات در این منابع انعکاس نیافته است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-b433035a98ea7e5f30",
+    "date": "2026-11-01",
+    "ts": 1793521047235,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "اظهارات سخنگوی ارتش درباره تغییر دکترین نظامی و پیامدهای جنگ احتمالی",
+    "source": "دنیای اقتصاد، شفقنا فارسی، خبرآنلاین — تلگرام",
+    "source_url": "/story/43495156-9dc4-460e-9779-57bf8f721072/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/43495156-9dc4-460e-9779-57bf8f721072/",
+        "kind": "pendar"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1093839/لزوم-آمادگی-نظام-سلامت-قبل-از-وقوع-بحران",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305523-%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%DB%8C%D8%A7%DB%8C-%D8%AF%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A8%D9%87-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%BA%D8%B1%D8%A8-%D8%A2%D8%B3%DB%8C%D8%A7-%D9%85%D8%AD%D8%AF%D9%88%D8%AF-%D9%86%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D9%85%D8%A7%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2391625/",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/666947",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2391624/",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1013818/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%AC%D9%86%DA%AF-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%DB%8C-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%AC%D9%86%DA%AF-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87-%D8%A8%D8%A7%D8%B4%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1138756",
+        "kind": "original"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://tabnak.ir/fa/news/1000001469797/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D8%A7%D8%A8%D8%B9%D8%A7%D8%AF-%D8%B1%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%DB%8C-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87%D8%A7%D9%86-%D8%A8%D8%A7-%D8%B1%D9%87%D8%A8%D8%B1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-7085754bb5ce4a1c96a8e33a",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "43495156-9dc4-460e-9779-57bf8f721072",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "محمد اکرمی نیا",
+        "role": "سخنگوی ارتش جمهوری اسلامی ایران",
+        "statement": "هرگونه تجاوز مجدد آمریکا با پاسخی فوری، کوبنده و گسترده تر از گذشته مواجه خواهد شد و در صورت وقوع جنگ جدید، جغرافیای درگیری به منطقه غرب آسیا محدود نخواهد ماند.",
+        "direct_quote": false,
+        "source_url": "https://fa.shafaqna.com/news/2391624/"
+      },
+      {
+        "name": "محمد اکرمی نیا",
+        "role": "سخنگوی ارتش",
+        "statement": "دکترین نظامی ایران از رویکرد صرفاً تدافعی به سمت رویکرد تهاجمی تغییر کرده و جنگ احتمالی آینده می تواند طولانی تر از جنگ گذشته باشد.",
+        "direct_quote": false,
+        "source_url": "https://fararu.com/fa/news/1013818/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%AC%D9%86%DA%AF-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%DB%8C-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%AC%D9%86%DA%AF-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87-%D8%A8%D8%A7%D8%B4%D8%AF"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق و کامل راهبردهای مطرح شده در دیدار فرماندهان با رهبر انقلاب منتشر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است"
+  },
+  {
+    "id": "auto-2aa7157b316921a3d4",
+    "date": "2026-11-01",
+    "ts": 1793521025396,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "شروط هفت گانه ایران و تغییر لحن واشنگتن در محور تحولات دیپلماتیک",
+    "source": "آفتاب نیوز، انتخاب، رویداد۲۴",
+    "source_url": "/story/1e294f28-980c-4c56-abc6-d34ce6a79a5c/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/1e294f28-980c-4c56-abc6-d34ce6a79a5c/",
+        "kind": "pendar"
+      },
+      {
+        "label": "رکنا",
+        "url": "https://www.rokna.net/fa/tiny/news-1262681",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1074922/محسن-رضایی-درصورت-تحقق-شروط-ایران-راه-دیپلماسی-باز-است",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1074928/روز-246-جنگ-آماده-سازی-آمریکا-برای-از-سرگیری-جنگ-علیه-ایران",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945916/صبحانه-خبری-10-آبان-1405-از-اظهارات-دبیر-شورای-عالی-امنیت-ملی-در-مورد-تغییر-لحن-مثبت-آمریکا-در-نامه-ونس-و-سفر-هیئت-ایرانی-به-قطر-جهت-گفت-وگو-بر-سر-نقشه-راه-مذاکرات-تا-ادعای-العربیه-درباره-امکان-بر-عهده-گرفتن-نقش-ضامن-اجرای-توافق-احتمالی-توسط-چین",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2172592/هشدار-محسن-رضایی-درباره-پاسخ-نظامی-دیپلماسی-هنوز-روی-میز-است-اما-با-شروط-ایران",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/476092/محسن-رضایی-اگر-شروط-ایران-محقق-شود-راه-دیپلماسی-باز-است",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/476096/هفت-شرط-تهران-و-یک-نامه-بی-پاسخ-مذاکرات-در-بن-بست-تازه",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1013826/%DA%86%D8%B1%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D9%85%D8%B3%DB%8C%D8%B1-%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "1e294f28-980c-4c56-abc6-d34ce6a79a5c",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "در صورت تحقق شروط ایران، راه دیپلماسی باز است و آمریکا لحن خود را تغییر داده است.",
+        "direct_quote": false,
+        "source_url": "https://aftabnews.ir/fa/news/1074928/روز-246-جنگ-آماده-سازی-آمریکا-برای-از-سرگیری-جنگ-علیه-ایران"
+      }
+    ],
+    "uncertainty": "آیا مذاکرات جاری در قطر می تواند به یک توافق ملموس یا نقشه راه پایدار منجر شود؟؛ واکنش نهایی ایالات متحده به شروط هفت گانه ایران و جزئیات دقیق این شروط چیست؟",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-6c320deebc0d31528b",
+    "date": "2026-11-01",
+    "ts": 1793520000000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "مذاکرات به خوبی پیش می رود اما طرف ایرانی قابل اعتماد نیست و پس از توافق به تعهدات خود عمل نمی کند.",
+    "source": "دونالد ترامپ",
+    "source_url": "https://www.khabaronline.ir/news/2295888/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%AE%D9%88%D8%A8%DB%8C-%D9%BE%DB%8C%D8%B4-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF-%D8%A7%D9%85%D8%A7-%D8%A8%D9%87-%D8%B7%D8%B1%D9%81-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.khabaronline.ir/news/2295888/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%AE%D9%88%D8%A8%DB%8C-%D9%BE%DB%8C%D8%B4-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF-%D8%A7%D9%85%D8%A7-%D8%A8%D9%87-%D8%B7%D8%B1%D9%81-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/ca3d1148-0ba8-4a10-8290-01b5230bb88f/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "ca3d1148-0ba8-4a10-8290-01b5230bb88f",
+    "speaker": "دونالد ترامپ",
+    "speaker_role": "رئیس جمهور آمریکا",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-4e9a8bbbb77754ccbe",
+    "date": "2026-11-01",
+    "ts": 1793517861000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "اگر به دنبال پایان جنگ و خروج عاقلانه از آن هستید، باید ترتیبات ایرانی تنگه هرمز را بپذیرید و هفت شرط جمهوری اسلامی را به طور کامل اجرا کنید.",
+    "source": "علی نیکزاد",
+    "source_url": "https://fa.shafaqna.com/news/2391656/",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://fa.shafaqna.com/news/2391656/",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/dfacf15e-693f-48c6-b091-3554339ca5c3/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "dfacf15e-693f-48c6-b091-3554339ca5c3",
+    "speaker": "علی نیکزاد",
+    "speaker_role": "نایب رئیس مجلس شورای اسلامی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-8e606d178e38258adf",
+    "date": "2026-11-01",
+    "ts": 1793516550000,
+    "family": "war",
+    "direction": 1,
+    "weight": 1,
+    "raw_direction": 1,
+    "raw_weight": 1,
+    "text": "دکترین نظامی ایران از رویکرد صرفاً تدافعی به سمت رویکرد تهاجمی تغییر کرده و جنگ احتمالی آینده می تواند طولانی تر از جنگ گذشته باشد.",
+    "source": "محمد اکرمی نیا",
+    "source_url": "https://fararu.com/fa/news/1013818/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%AC%D9%86%DA%AF-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%DB%8C-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%AC%D9%86%DA%AF-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87-%D8%A8%D8%A7%D8%B4%D8%AF",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://fararu.com/fa/news/1013818/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%AC%D9%86%DA%AF-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%DB%8C-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%AC%D9%86%DA%AF-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87-%D8%A8%D8%A7%D8%B4%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/43495156-9dc4-460e-9779-57bf8f721072/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "43495156-9dc4-460e-9779-57bf8f721072",
+    "speaker": "محمد اکرمی نیا",
+    "speaker_role": "سخنگوی ارتش",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "احتمال",
+    "score_reason": "عبارت شناسایی‌شده: «احتمال»؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل",
+    "by": "pendar-auto",
+    "score_kind": "analyst_view",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل"
+  },
+  {
+    "id": "auto-b55a015273b7af716d",
+    "date": "2026-11-01",
+    "ts": 1793514065000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "ملت ایران در هیچ شرایطی و تحت هیچ فشاری تصمیمی برای مذاکره در موضوع هسته ای ندارد و پنجره مذاکرات به روی دشمنان بسته شده است.",
+    "source": "علی نیکزاد",
+    "source_url": "https://www.entekhab.ir/fa/news/945931/نیکزاد-نائب-رئیس-مجلس-پنجره-مذاکرات-هسته-ای-به-روی-آمریکا-بسته-شده",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.entekhab.ir/fa/news/945931/نیکزاد-نائب-رئیس-مجلس-پنجره-مذاکرات-هسته-ای-به-روی-آمریکا-بسته-شده",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/c1a3b59b-e12c-40fe-bbe7-b2c717538bcf/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "c1a3b59b-e12c-40fe-bbe7-b2c717538bcf",
+    "speaker": "علی نیکزاد",
+    "speaker_role": "نایب رئیس مجلس شورای اسلامی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-48d8360ed78c560d35",
+    "date": "2026-11-01",
+    "ts": 1793513512000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "محاکم ایران صلاحیت رسیدگی به پرونده شهدای جنگ ۱۲ روزه را دارند و اجرای آرای صادره از طریق مجاری قانونی و شناسایی در سایر کشورها پیگیری می شود.",
+    "source": "حسن عبدلیان پور",
+    "source_url": "https://www.mizanonline.ir/fa/news/4926852/رئیس-مرکز-وکلای-قوه-قضاییه-محاکم-ایران-صلاحیت-رسیدگی-به-پرونده-شهدای-جنگ-12-روزه-را-دارند-آرا-از-مجاری-قانونی-اجرا-می-شود",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.mizanonline.ir/fa/news/4926852/رئیس-مرکز-وکلای-قوه-قضاییه-محاکم-ایران-صلاحیت-رسیدگی-به-پرونده-شهدای-جنگ-12-روزه-را-دارند-آرا-از-مجاری-قانونی-اجرا-می-شود",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/6f0ea6ed-738a-46aa-aef2-ed3be2fafc00/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "6f0ea6ed-738a-46aa-aef2-ed3be2fafc00",
+    "speaker": "حسن عبدلیان پور",
+    "speaker_role": "رئیس مرکز وکلای قوه قضاییه",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-543f30c8361e31f166",
+    "date": "2026-11-01",
+    "ts": 1793508953000,
+    "family": "war",
+    "direction": 1,
+    "weight": 1,
+    "raw_direction": 1,
+    "raw_weight": 1,
+    "text": "بسته شدن تنگه هرمز فشار اقتصادی جهانی را افزایش داده، پیامدهای اقتصادی جنگ اوکراین را تشدید کرده و نیازمند حل وفصل سریع تر اختلاف میان ایران و آمریکا است.",
+    "source": "هاکان فیدان",
+    "source_url": "https://www.entekhab.ir/fa/news/945920/وزیر-خارجه-ترکیه-مناقشه-میان-ایران-و-آمریکا-سریع-تر-حل-شود-بسته-شدن-تنگه-هرمز-فشار-بر-اقتصاد-جهانی-را-به-طور-قابل-توجهی-تشدید-کرده",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.entekhab.ir/fa/news/945920/وزیر-خارجه-ترکیه-مناقشه-میان-ایران-و-آمریکا-سریع-تر-حل-شود-بسته-شدن-تنگه-هرمز-فشار-بر-اقتصاد-جهانی-را-به-طور-قابل-توجهی-تشدید-کرده",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/dcf6757c-232f-4aa9-9970-f3904cca67bf/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "dcf6757c-232f-4aa9-9970-f3904cca67bf",
+    "speaker": "هاکان فیدان",
+    "speaker_role": "وزیر خارجه ترکیه",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "تشدید",
+    "score_reason": "عبارت شناسایی‌شده: «تشدید»؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل",
+    "by": "pendar-auto",
+    "score_kind": "analyst_view",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل"
+  },
+  {
+    "id": "auto-81f3a530595fb412d4",
+    "date": "2026-11-01",
+    "ts": 1793508484000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "روند مذاکرات در حال حاضر به خوبی پیش می رود، اما مشکل اصلی این است که طرف ایرانی چندان قابل اعتماد نیست و توافق می کنند و بعد زیرش می زنند.",
+    "source": "دونالد ترامپ",
+    "source_url": "https://www.fardanews.com/fa/tiny/news-1417179",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417179",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/3a40cc86-b9f2-4777-8b37-c79703a22712/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "3a40cc86-b9f2-4777-8b37-c79703a22712",
+    "speaker": "دونالد ترامپ",
+    "speaker_role": "رئیس جمهور آمریکا",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-e6d15a8e9624af94e4",
+    "date": "2026-11-01",
+    "ts": 1793496678726,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "ادعای سنتکام درباره تغییر مسیر کشتی های تجاری و ادامه محاصره دریایی ایران",
+    "source": "فرارو، فردانیوز، همشهری آنلاین",
+    "source_url": "/story/0ce0b2b7-263b-4de6-a9dc-fb7103527b52/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/0ce0b2b7-263b-4de6-a9dc-fb7103527b52/",
+        "kind": "pendar"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1013746/%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%B3%D9%86%D8%AA%DA%A9%D8%A7%D9%85-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417171",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1081886/%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B3%D9%86%D8%AA%DA%A9%D8%A7%D9%85-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2295777/%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1%DB%8C-%D8%B3%D9%86%D8%AA%DA%A9%D8%A7%D9%85-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305475-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%AA%D8%A7%D8%B2%D9%87-%D8%B3%D9%86%D8%AA%DA%A9%D8%A7%D9%85-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "0ce0b2b7-263b-4de6-a9dc-fb7103527b52",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "آمار دقیق و مستقل کشتی های تغییرمسیرداده شده تأیید نشده است.؛ اختلاف میان آمار ۱۴۴ کشتی و ۱۳۵ کشتی در منابع مختلف وجود دارد.",
+    "evidence_phrase": "",
+    "score_reason": "گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است"
+  },
+  {
+    "id": "auto-a6f82842f21b8f9ff7",
+    "date": "2026-10-31",
+    "ts": 1793488479000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "در صورت تحقق شروط ایران، راه دیپلماسی باز است و آمریکا لحن خود را تغییر داده است.",
+    "source": "محسن رضایی",
+    "source_url": "https://aftabnews.ir/fa/news/1074928/روز-246-جنگ-آماده-سازی-آمریکا-برای-از-سرگیری-جنگ-علیه-ایران",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://aftabnews.ir/fa/news/1074928/روز-246-جنگ-آماده-سازی-آمریکا-برای-از-سرگیری-جنگ-علیه-ایران",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/1e294f28-980c-4c56-abc6-d34ce6a79a5c/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "1e294f28-980c-4c56-abc6-d34ce6a79a5c",
+    "speaker": "محسن رضایی",
+    "speaker_role": "دبیر شورای عالی امنیت ملی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-50781b3fd1cee41b2a",
+    "date": "2026-10-31",
+    "ts": 1793484164810,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "درخواست برنی سندرز از دونالد ترامپ برای پایان دادن به جنگ با ایران",
+    "source": "خبرگزاری مهر، فردانیوز، عصر ایران",
+    "source_url": "/story/cec8cd30-cb0b-4b96-b415-31282e710fb0/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/cec8cd30-cb0b-4b96-b415-31282e710fb0/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرگزاری مهر (Mehr)",
+        "url": "https://www.mehrnews.com/news/6995681/%D8%B3%D9%86%D8%A7%D8%AA%D9%88%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%A8%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%87%D9%85%DB%8C%D9%86-%D8%AD%D8%A7%D9%84%D8%A7-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417155",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1081873/%D8%AC%D9%86%DA%AF-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AA%D9%85%D8%A7%D9%85-%D8%B4%D9%88%D8%AF-%D9%87%D9%85%DB%8C%D9%86-%D8%AD%D8%A7%D9%84%D8%A7",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2295751/%D8%B3%D9%86%D8%A7%D8%AA%D9%88%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%A8%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%87%D9%85%DB%8C%D9%86-%D8%AD%D8%A7%D9%84%D8%A7-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%A8%D8%AF%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405080905889/%D8%B3%D9%86%D8%AF%D8%B1%D8%B2-%D9%87%D9%85-%D8%A7%DA%A9%D9%86%D9%88%D9%86-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AF%D9%87%DB%8C%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1202922/سندرز-هم-اکنون-به-جنگ-علیه-ایران-پایان-دهید",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305463-%D8%B3%D9%86%D8%AF%D8%B1%D8%B2-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%A8%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AC%D9%86%DA%AF-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AA%D9%85%D8%A7%D9%85-%D8%B4%D9%88%D8%AF-%D9%87%D9%85%DB%8C%D9%86-%D8%AD%D8%A7%D9%84%D8%A7",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1849532/%D8%B3%D9%86%D8%AF%D8%B1%D8%B2-%D9%87%D9%85-%D8%A7%DA%A9%D9%86%D9%88%D9%86-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AF%D9%87%DB%8C%D8%AF",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "cec8cd30-cb0b-4b96-b415-31282e710fb0",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات بیشتری درباره واکنش احتمالی دونالد ترامپ یا دولت آمریکا به این اظهارات در منابع ذکر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-abf7dc720f75f7a972",
+    "date": "2026-10-31",
+    "ts": 1793484161959,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تداوم خروج نقدینگی از بورس و تاثیر اخبار سیاسی بر بازارهای مالی ایران",
+    "source": "شرق، اقتصاد آنلاین، فردانیوز",
+    "source_url": "/story/8a55b89d-af30-49d6-b8cc-572809113294/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/8a55b89d-af30-49d6-b8cc-572809113294/",
+        "kind": "pendar"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1138623",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2172479/پیش-بینی-بورس-فردا-یکشنبه-10-آبان-حقیقی-ها-چه-زمان-با-بازار-سهام-آشتی-می-کنند",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417147",
+        "kind": "original"
+      },
+      {
+        "label": "هفت صبح",
+        "url": "https://7sobh.com/fa/tiny/news-60174001",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305459-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%81%D8%B1%D8%AF%D8%A7-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B4%D8%B1%D8%B7-%D8%B5%D8%B9%D9%88%D8%AF-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D9%88%D8%B1%D8%B3-%DA%86%DB%8C%D8%B3%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-126/4305391-%D8%B4%D9%88%DA%A9-%DA%86%DB%8C%D9%86%DB%8C-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A8%D9%86%D8%B2%DB%8C%D9%86",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "8a55b89d-af30-49d6-b8cc-572809113294",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "سرنوشت دقیق نقدینگی خارج شده از بورس و زمان دقیق بازگشت سرمایه گذاران حقیقی به بازار سهام نامشخص است.؛ میزان پایداری کاهش قیمت ها در بازار طلا و سکه و اینکه آیا این روند اصلاحی ساده است یا ابعاد پیچیده تری دارد، در هاله ای از ابهام است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-330f2ec0aa3902d7a6",
+    "date": "2026-10-31",
+    "ts": 1793484148088,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "اظهارات محسن رضایی درباره نامه معاون رئیس جمهور آمریکا، دکترین هسته ای و شرایط جنگ",
+    "source": "تابناک، انتخاب، خبرگزاری صداوسیما",
+    "source_url": "/story/57e804ba-3f2d-4041-9d40-b9e9a642c520/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/57e804ba-3f2d-4041-9d40-b9e9a642c520/",
+        "kind": "pendar"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://tabnak.ir/fa/news/30008553/%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A7%D9%85%D8%B4%D8%A8-%D8%A8%D9%87-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417133",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/476036/محسن-رضایی-امشب-به-تلویزیون-می-رود",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305423-%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D9%87%D9%86%D9%88%D8%B2-%D9%BE%D8%A7%D8%B3%D8%AE%DB%8C-%D8%A8%D9%87-%D9%86%D8%A7%D9%85%D9%87-%D9%88%D9%86%D8%B3-%D9%86%D8%AF%D8%A7%D8%AF%D9%85-%D9%84%D8%AD%D9%86-%D8%A2%D9%86%D9%87%D8%A7-%DA%A9%D8%A7%D9%85%D9%84%D8%A7-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%DA%A9%D8%B1%D8%AF%D9%87-%D9%81%DB%8C%D9%84%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1081864/%D8%AC%D8%AF%DB%8C%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%B8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%86%D8%A7%D9%85%D9%87-%D9%88%D9%86%D8%B3-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945902/دبیر-شورای-عالی-امنیت-ملی-نامه-ونس-را-مطالعه-کردم-و-هنوز-پاسخی-به-آن-ندادم-لحن-آنها-کاملا-تغییر-کرده-که-علامت-خوبی-است-تصمیم-جدیدی-به-صورت-رسمی-و-حکومتی-درباره-تغییر-دکترین-هسته-ای-گرفته-نشده-بحث-مطرح-است-که-اگر-دوباره-جنگ-شروع-شود-آیا-می-خواهیم-دکترین-سابق-را-ادامه-دهیم-یا-خیر",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2295734/%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D9%86%D8%A7%D9%85%D9%87-%D9%88%D9%86%D8%B3-%D8%B1%D8%A7-%D9%85%D8%B7%D8%A7%D9%84%D8%B9%D9%87-%DA%A9%D8%B1%D8%AF%D9%85-%D9%88-%D9%87%D9%86%D9%88%D8%B2-%D9%BE%D8%A7%D8%B3%D8%AE%DB%8C-%D8%A8%D9%87-%D8%A2%D9%86-%D9%86%D8%AF%D8%A7%D8%AF%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2172522/توضیحات-مهم-محسن-رضایی-درباره-دکترین-هسته-ای-ایران-ماجرا-چیست",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "57e804ba-3f2d-4041-9d40-b9e9a642c520",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "نامه ونس را مطالعه کردم و هنوز پاسخی به آن ندادم؛ لحن آن ها به طور کامل تغییر کرده و این علامت بسیار خوبی است.",
+        "direct_quote": false,
+        "source_url": "https://www.irib-news.ir/fa/news/5953780/سرلشکر-رضایی-هنوز-به-نامه-ونس-پاسخی-نداده-ام"
+      },
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "درباره تغییر دکترین هسته ای تصمیم جدیدی به صورت رسمی و حکومتی گرفته نشده است.",
+        "direct_quote": false,
+        "source_url": "https://www.entekhab.ir/fa/news/945907/نامه-ونس-را-مطالعه-کردم-و-هنوز-پاسخی-به-آن-ندادم-لحن-آنها-کاملا-تغییر-کرده-که-علامت-خوبی-است-اشتباهات-اسلام-آباد-را-در-شروط-جدید-رفع-کردیم-درباره-دریافت-وجوه-هم-ابتکاراتی-اندیشیده-شده-تا-این-وجوه-نسیه-نباشد-شورای-عالی-امنیت-ملی-مسئول-دیپلماسی-در-زمان-جنگ-است-برخی-ها-می-گویند-چرا-روی-تنبیه-آمریکا-اصرار-دارید-چیزی-در-دست-تان-است-بله-یک-چیزی-داریم-موشک-های-ضدناومان-را-تست-کردیم"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق محتوای نامه معاون رئیس جمهور آمریکا و پاسخ احتمالی ایران به آن.؛ سرنوشت نهایی و تصمیم گیری قطعی درباره دکترین هسته ای در صورت وقوع جنگ دوباره.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-7c7b9488056bde92ff",
+    "date": "2026-10-31",
+    "ts": 1793484144065,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "موضع گیری مقام های ارشد نظامی و امنیتی ایران درباره جنگ احتمالی و شروط دیپلماسی",
+    "source": "همشهری آنلاین، اقتصاد آنلاین، رکنـا",
+    "source_url": "/story/394e9aec-e70e-4f5b-afdd-bb3fab62afbe/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/394e9aec-e70e-4f5b-afdd-bb3fab62afbe/",
+        "kind": "pendar"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1081863/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D9%85-%D8%B9%D8%A7%D9%84%DB%8C-%D8%B1%D8%AA%D8%A8%D9%87-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%A7%DA%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A8%DB%8C%D9%81%D8%AA%D8%AF-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%BE%D8%A7%D8%B3%D8%AE",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2172553/خط-ونشان-جدید-شورای-عالی-امنیت-ملی-احتمال-خروج-ایران-از-npt-در-صورت-وقوع-جنگ-جدید",
+        "kind": "original"
+      },
+      {
+        "label": "رکنا",
+        "url": "https://www.rokna.net/fa/tiny/news-1262680",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86308662/%D8%B3%D8%B1%D9%84%D8%B4%DA%A9%D8%B1-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1%D8%B5%D9%88%D8%B1%D8%AA-%D8%AA%D8%AD%D9%82%D9%82-%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7%D9%87-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%8C-%D8%A8%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417167",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1202932/محسن-رضایی-هفت-شرط-اعلامی-از-سوی-ایران-باید-تحقق-پیدا-کند",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1093822/سرلشکر-رضایی-درصورت-تحقق-شروط-ایران-راه-دیپلماسی-باز-است",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1013740/%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D9%87%D9%81%D8%AA-%D8%B4%D8%B1%D8%B7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85%DB%8C-%D8%A7%D8%B2-%D8%B3%D9%88%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AA%D8%AD%D9%82%D9%82-%D9%BE%DB%8C%D8%AF%D8%A7-%DA%A9%D9%86%D8%AF",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "394e9aec-e70e-4f5b-afdd-bb3fab62afbe",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "در صورت تحقق شروط ایران راه دیپلماسی باز است.",
+        "direct_quote": true,
+        "source_url": "https://fararu.com/fa/news/1013740/%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D9%87%D9%81%D8%AA-%D8%B4%D8%B1%D8%B7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85%DB%8C-%D8%A7%D8%B2-%D8%B3%D9%88%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AA%D8%AD%D9%82%D9%82-%D9%BE%DB%8C%D8%AF%D8%A7-%DA%A9%D9%86%D8%AF"
+      },
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "بنا بر ابلاغ امروز مقام معظم رهبری به نیروهای مسلح، ضربات هولناکی به متجاوز با تسلیحات جدید وارد خواهیم کرد.",
+        "direct_quote": true,
+        "source_url": "https://www.eghtesadonline.com/fa/news/2172563/دستور-امروز-رهبر-انقلاب-درباره-دور-سوم-جنگ-ابلاغیه-به-محسن-رضایی-رسید"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق و محتوای هفت شرط اعلام شده از سوی ایران در متن خبرها ذکر نشده است.؛ ادعای احتمال خروج ایران از NPT تنها از سوی یک منبع (اقتصاد آنلاین) مطرح شده و در دیگر خبرگزاری های رسمی به آن اشاره نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است"
+  },
+  {
+    "id": "auto-7bf6926aff028c9461",
+    "date": "2026-10-31",
+    "ts": 1793484139167,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "موضع گیری دبیر شورای عالی امنیت ملی درباره برنامه هسته ای، تنگه هرمز و نامه آمریکا",
+    "source": "فردانیوز، هفت صبح، رکنا",
+    "source_url": "/story/84ce4844-eb6b-4b1a-a303-4874b390e88b/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/84ce4844-eb6b-4b1a-a303-4874b390e88b/",
+        "kind": "pendar"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417164",
+        "kind": "original"
+      },
+      {
+        "label": "هفت صبح",
+        "url": "https://7sobh.com/fa/tiny/news-60174018",
+        "kind": "original"
+      },
+      {
+        "label": "رکنا",
+        "url": "https://www.rokna.net/fa/tiny/news-1262678",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417166",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2295761/%D8%AF%D8%A8%DB%8C%D8%B1-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%85%D9%84%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D8%A7%D8%A8%D8%AA-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D8%A8%DB%8C%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1202939/سرلشکر-رضایی-تنگه-هرمز-و-حقوق-هسته-ای-غیرقابل-مذاکره-است",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "84ce4844-eb6b-4b1a-a303-4874b390e88b",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "تنگه هرمز و حقوق هسته ای غیرقابل مذاکره است و مدیریت جمهوری اسلامی ایران بر کریدور مشترک در تنگه هرمز با شفافیت کامل تثبیت شده است.",
+        "direct_quote": false,
+        "source_url": "https://www.asriran.com/fa/news/1202939/سرلشکر-رضایی-تنگه-هرمز-و-حقوق-هسته-ای-غیرقابل-مذاکره-است"
+      },
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "نامه ای جدید از سوی واسطه های آمریکایی تحویل وزارت امور خارجه شده که پس از بررسی اولیه، هنوز پاسخی به آن داده نشده و تغییر لحن در نامه آمریکا محسوس است.",
+        "direct_quote": false,
+        "source_url": "https://www.fardanews.com/fa/tiny/news-1417166"
+      },
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "اگر آمریکا بابت حمله به ایران پاسخگو نشود، کشورهای دیگر نیز تصور خواهند کرد که حمله به ایران بدون پیامد خواهد بود.",
+        "direct_quote": false,
+        "source_url": "https://www.khabaronline.ir/news/2295761/%D8%AF%D8%A8%DB%8C%D8%B1-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%85%D9%84%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D8%A7%D8%A8%D8%AA-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D8%A8%DB%8C%D9%87"
+      }
+    ],
+    "uncertainty": "محتوای دقیق نامه جدید دریافتی از سوی واسطه های آمریکایی در منابع ذکر نشده است.؛ جزئیات کامل شروط هفت گانه و زیرمجموعه های آن در متن خبرها به طور کامل تبیین نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-dc31f5649cc7ed1ce2",
+    "date": "2026-10-31",
+    "ts": 1793484135396,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "بررسی خسارت های حملات به پایگاه های نظامی آمریکا در خاورمیانه بر اساس تحلیل تصاویر ماهواره ای",
+    "source": "انتخاب، آشیان سیمرغ، خبرگزاری ایرنا (IRNA)",
+    "source_url": "/story/a9570551-295a-4642-8e79-57447f979eb9/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/a9570551-295a-4642-8e79-57447f979eb9/",
+        "kind": "pendar"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/945904/ایران-در-حمله-به-بیش-از-26-پایگاه-آمریکا-در-خاورمیانه-ابتدا-سامانه-های-هشدار-زودهنگام-را-هدف-قرار-داد-تهران-با-این-اقدام-مسیر-را-برای-حملات-بعدی-به-انبارها-محل-اسکان-نیروهای-نظامی-و-سایر-تأسیسات-هموار-می-کرد-بیشتر-حملات-در-کویت-انجام-شده-پایگاه-علی-السالم-دست-کم-30-بار-هدف-حملات-قرار-گرفت-که-در-نتیجه-آن-دست-کم-15-آشیانه-هواپیما-شمار-زیادی-انبار-و-10-ساختمان-آسیب-دیدند-یا-منهدم-شدند",
+        "kind": "original"
+      },
+      {
+        "label": "آشیان سیمرغ",
+        "url": "https://t.me/simorghdata369/3274",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86308635/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A2%D8%B3%D9%88%D8%B4%DB%8C%D8%AA%D8%AF%D9%BE%D8%B1%D8%B3-%D8%A7%D8%B2-%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D9%BE%DB%8C-%D9%BE%D8%A7%D8%B3%D8%AE-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%DB%B2%DB%B6",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1849530/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A2%D8%B3%D9%88%D8%B4%DB%8C%D8%AA%D8%AF%D9%BE%D8%B1%D8%B3-%D8%A7%D8%B2-%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D9%BE%DB%8C-%D9%BE%D8%A7%D8%B3%D8%AE-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%AD%D9%85%D9%84%D8%A7%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1202927/گزارش-آسوشیتدپرس-از-خسارت-سنگین-آمریکا-در-پی-پاسخ-ایران-به-حملات-26-پایگاه-نظامی-تخریب-شد",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2391475/",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305472-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D8%B2-%D9%85%DB%8C%D8%B2%D8%A7%D9%86-%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%AA%D8%AE%D8%B1%DB%8C%D8%A8-%D8%B4%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2295773/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A2%D8%B3%D9%88%D8%B4%DB%8C%D8%AA%D8%AF%D9%BE%D8%B1%D8%B3-%D8%A7%D8%B2-%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D9%BE%DB%8C-%D9%BE%D8%A7%D8%B3%D8%AE-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%DB%B2%DB%B6",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "a9570551-295a-4642-8e79-57447f979eb9",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق میزان خسارت مالی کل و تفکیک دقیق خسارت های هر پایگاه فراتر از یافته های کلی آسوشیتدپرس.؛ ماهیت دقیق تمام گروه های همسویی که ممکن است در این حملات نقش داشته باشند، علاوه بر مسئولیت ذکر شده برای ایران.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-3da61121cef44cf360",
+    "date": "2026-10-31",
+    "ts": 1793484127523,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "موضع گیری دبیر شورای عالی امنیت ملی درباره مذاکرات، دکترین هسته ای و ترتیبات امنیتی منطقه",
+    "source": "تابناک، خبرآنلاین — تلگرام، فردانیوز",
+    "source_url": "/story/a2201fcb-a59c-4ad2-ac16-aafdbd799360/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/a2201fcb-a59c-4ad2-ac16-aafdbd799360/",
+        "kind": "pendar"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://tabnak.ir/fa/news/30008562/%D9%85%D9%84%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D9%88%D8%A7%D9%86%D8%A7%DB%8C%DB%8C-%D8%AA%D8%B9%DB%8C%DB%8C%D9%86-%D8%B3%D8%B1%D9%86%D9%88%D8%B4%D8%AA-%D8%A7%D8%A8%D8%B1%D9%82%D8%AF%D8%B1%D8%AA-%D9%87%D8%A7-%D8%B1%D8%A7-%D8%AF%D8%A7%D8%B1%D8%AF-%D8%AF%D8%B1-%D9%86%D8%B4%D8%B3%D8%AA-%DA%86%D9%87%D8%A7%D8%B1%D8%AC%D8%A7%D9%86%D8%A8%DB%80-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87%DB%8C-%D8%AA%D8%B1-%D8%A7%D8%B2-%D9%85%D8%A7-%D8%B4%D8%AF%D9%87-%D8%A8%D9%88%D8%AF%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/666907",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417161",
+        "kind": "original"
+      },
+      {
+        "label": "بی بی سی فارسی (BBC Persian)",
+        "url": "https://www.bbc.com/persian/articles/crz65vj255vjo?at_medium=RSS&at_campaign=rss",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2172542/مهر-تایید-بر-پیشرفت-مذاکرات-توسط-محسن-رضایی-پیشنهاد-سوم-آمریکا-چیست",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1202923/سرلشکر-رضایی-اگر-صدای-ملت-ایران-شنیده-نشود-هیچ-پیمانی-بسته-نمی-شود-و-هیچ-اتحادی-در-منطقه-شکل-نمی-گیرد",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/666919",
+        "kind": "original"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://tabnak.ir/fa/news/30008580/%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%AA%D8%A7-%D8%A7%DB%8C%D9%86%D9%87%D8%A7-%D8%B9%D9%85%D9%84%DB%8C-%D9%86%D8%B4%D9%88%D8%AF-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D8%AF%D8%B1-%DA%A9%D8%A7%D8%B1-%D9%86%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D8%A8%D9%88%D8%AF",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "a2201fcb-a59c-4ad2-ac16-aafdbd799360",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "درباره تغییر دکترین هسته ای تصمیم جدیدی نگرفته ایم، اما ملت ایران دارای مطالاتی هستند.",
+        "direct_quote": false,
+        "source_url": "https://t.me/khabaronline_ir/666919"
+      },
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "به نامه ونس هنوز پاسخی نداده ام؛ لحن آن ها کاملا تغییر کرده که علامت خوبی است.",
+        "direct_quote": false,
+        "source_url": "https://t.me/khabaronline_ir/666919"
+      },
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "اگر صدای ملت ایران شنیده نشود، هیچ پیمان و اتحادی در منطقه پا نمی گیرد.",
+        "direct_quote": false,
+        "source_url": "https://tabnak.ir/fa/news/30008580/%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%AA%D8%A7-%D8%A7%DB%8C%D9%86%D9%87%D8%A7-%D8%B9%D9%85%D9%84%DB%8C-%D9%86%D8%B4%D9%88%D8%AF-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D8%AF%D8%B1-%DA%A9%D8%A7%D8%B1-%D9%86%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D8%A8%D9%88%D8%AF"
+      },
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "پیشنهاد سوم آمریکا درباره شروط هفت گانه ایران شفاف تر و مذاکرات غیرمستقیم وارد مرحله جدیدی شده است.",
+        "direct_quote": false,
+        "source_url": "https://www.eghtesadonline.com/fa/news/2172542/مهر-تایید-بر-پیشرفت-مذاکرات-توسط-محسن-رضایی-پیشنهاد-سوم-آمریکا-چیست"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق و مفاد پیشنهاد سوم آمریکا و پاسخ مشخص ایران به نامه ونس به طور کامل روشن نیست.؛ ابعاد دقیق توافقات و مباحث مطرح شده در نشست چهارجانبه تهران و فهرست کامل کشورهای حاضر در آن به طور کامل ذکر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-2074b6b175383ceb98",
+    "date": "2026-10-31",
+    "ts": 1793481807000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تنگه هرمز و حقوق هسته ای غیرقابل مذاکره است و مدیریت جمهوری اسلامی ایران بر کریدور مشترک در تنگه هرمز با شفافیت کامل تثبیت شده است.",
+    "source": "محسن رضایی",
+    "source_url": "https://www.asriran.com/fa/news/1202939/سرلشکر-رضایی-تنگه-هرمز-و-حقوق-هسته-ای-غیرقابل-مذاکره-است",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.asriran.com/fa/news/1202939/سرلشکر-رضایی-تنگه-هرمز-و-حقوق-هسته-ای-غیرقابل-مذاکره-است",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/84ce4844-eb6b-4b1a-a303-4874b390e88b/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "84ce4844-eb6b-4b1a-a303-4874b390e88b",
+    "speaker": "محسن رضایی",
+    "speaker_role": "دبیر شورای عالی امنیت ملی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-5cef1d361b36447551",
+    "date": "2026-10-31",
+    "ts": 1793480586000,
+    "family": "war",
+    "direction": 1,
+    "weight": 1,
+    "raw_direction": 1,
+    "raw_weight": 1,
+    "text": "تهدید «جنگ بدون محدودیت جغرافیایی» احتمالاً به معنای هدف قرار دادن اروپا در صورت بروز درگیری است. برخلاف گذشته، جغرافیا دیگر محدودیتی برای پاسخ ایران ایجاد نخواهد کرد.",
+    "source": "علی قلهکی",
+    "source_url": "https://t.me/ali_gholhaky/4904",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/ali_gholhaky/4904",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@ali_gholhaky",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "d2b918a8-da4a-4b25-9f0d-1bd940e68c65",
+    "speaker": "علی قلهکی",
+    "speaker_role": "روزنامه نگار و تحلیلگر سیاسی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@ali_gholhaky",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "احتمال",
+    "score_reason": "عبارت شناسایی‌شده: «احتمال»؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل",
+    "by": "pendar-auto",
+    "score_kind": "analyst_view",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل"
+  },
+  {
+    "id": "auto-0e8bbf88041777f662",
+    "date": "2026-10-31",
+    "ts": 1793476808000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "در صورت تحقق شروط ایران راه دیپلماسی باز است.",
+    "source": "محسن رضایی",
+    "source_url": "https://fararu.com/fa/news/1013740/%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D9%87%D9%81%D8%AA-%D8%B4%D8%B1%D8%B7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85%DB%8C-%D8%A7%D8%B2-%D8%B3%D9%88%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AA%D8%AD%D9%82%D9%82-%D9%BE%DB%8C%D8%AF%D8%A7-%DA%A9%D9%86%D8%AF",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://fararu.com/fa/news/1013740/%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D9%87%D9%81%D8%AA-%D8%B4%D8%B1%D8%B7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85%DB%8C-%D8%A7%D8%B2-%D8%B3%D9%88%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AA%D8%AD%D9%82%D9%82-%D9%BE%DB%8C%D8%AF%D8%A7-%DA%A9%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/394e9aec-e70e-4f5b-afdd-bb3fab62afbe/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "394e9aec-e70e-4f5b-afdd-bb3fab62afbe",
+    "speaker": "محسن رضایی",
+    "speaker_role": "دبیر شورای عالی امنیت ملی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-f0761511bfe6ff8d9c",
+    "date": "2026-10-31",
+    "ts": 1793476764000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "ایران رسماً از دکترین جنگ منطقه ای به جنگ بدون محدودیت جغرافیایی عبور کرده است. تجربه نشان داده است که هشدارهای ایران در این زمینه صرفاً بازدارنده نیست و با اقدام عملی همراه می شود.",
+    "source": "حسن عباسی",
+    "source_url": "https://t.me/hasanabbasi_students/54860",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/hasanabbasi_students/54860",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@hasanabbasi_students",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "eae4edbf-4108-48f0-a73d-308903d1589e",
+    "speaker": "حسن عباسی",
+    "speaker_role": "سخنران و پژوهشگر",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@hasanabbasi_students",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-3e2e643b08bbf4bd46",
+    "date": "2026-10-31",
+    "ts": 1793476764000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "ایران با عبور از دکترین جنگ منطقه ای، پایگاه ها و منافع آمریکا را در پاسخ به تجاوزات هدف قرار داده است.",
+    "source": "حسن عباسی",
+    "source_url": "https://t.me/hasanabbasi_students/54860",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/hasanabbasi_students/54860",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@hasanabbasi_students",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "456fcf64-28f8-4d52-8a5c-03f960c7a921",
+    "speaker": "حسن عباسی",
+    "speaker_role": "سخنران و پژوهشگر",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@hasanabbasi_students",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
     "id": "auto-d5414355500f5c2fda",
     "date": "2026-10-31",
     "ts": 1793473622201,
@@ -643,6 +2538,129 @@
     "score_kind": "unscored",
     "review_status": "auto_unverified",
     "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-2c09fd6914604a82c3",
+    "date": "2026-10-31",
+    "ts": 1793473359000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "پیشنهاد سوم آمریکا درباره شروط هفت گانه ایران شفاف تر و مذاکرات غیرمستقیم وارد مرحله جدیدی شده است.",
+    "source": "محسن رضایی",
+    "source_url": "https://www.eghtesadonline.com/fa/news/2172542/مهر-تایید-بر-پیشرفت-مذاکرات-توسط-محسن-رضایی-پیشنهاد-سوم-آمریکا-چیست",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.eghtesadonline.com/fa/news/2172542/مهر-تایید-بر-پیشرفت-مذاکرات-توسط-محسن-رضایی-پیشنهاد-سوم-آمریکا-چیست",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/a2201fcb-a59c-4ad2-ac16-aafdbd799360/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "a2201fcb-a59c-4ad2-ac16-aafdbd799360",
+    "speaker": "محسن رضایی",
+    "speaker_role": "دبیر شورای عالی امنیت ملی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-20de4b49b4bd640243",
+    "date": "2026-10-31",
+    "ts": 1793472633000,
+    "family": "regroup",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "ملی گرایی نقاب دار با ظاهری دلسوزانه برای ایران، حقوق اقوام و مردم را به بهانه حفظ یکپارچگی سرکوب می کند. این جریان با ترویج روایتی تحریف شده از تاریخ، مانع از گفتگو درباره مطالبات مدنی می شود.",
+    "source": "حسن محدثی",
+    "source_url": "https://t.me/NewHasanMohaddesi/14909",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/NewHasanMohaddesi/14909",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@NewHasanMohaddesi",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "b8c042b9-22a7-44a5-a08f-5473d382573a",
+    "speaker": "حسن محدثی",
+    "speaker_role": "جامعه شناس دین",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@NewHasanMohaddesi",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-74d6beb7a6325c9c7a",
+    "date": "2026-10-31",
+    "ts": 1793469803000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "ادعاهای مارکو روبیو درباره جنگ افروزی ایران از ۱۹۷۹ خلاف واقع است. واقعیت تاریخی این است که پس از انقلاب، ایران هدف تجاوز صدام قرار گرفت و شورای امنیت نیز در ابتدا از محکوم کردن این تجاوز خودداری کرد.",
+    "source": "رضا نصری",
+    "source_url": "https://t.me/rezanasrichannel/3395",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/rezanasrichannel/3395",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@rezanasrichannel",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "f0936244-09a6-4dcf-8f5f-183b371c7d8a",
+    "speaker": "رضا نصری",
+    "speaker_role": "حقوقدان بین المللی و تحلیلگر دیپلماسی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@rezanasrichannel",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
   },
   {
     "id": "auto-4e0b29717959d7ee38",
