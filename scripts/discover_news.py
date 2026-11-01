@@ -113,6 +113,8 @@ def harvest_telegram(source, *, payload=None):
         url = "https://t.me/" + post["post"]
         lines = [" ".join(line.split()) for line in raw_text.splitlines()]
         first = next((line for line in lines if len(line) >= 12), body)
+        if len(first) < 35:
+            first = body  # Do not discard context after a short colon headline.
         title = first[:180].rsplit(" ", 1)[0] if len(first) > 180 else first
         identifier = hashlib.sha256((source["id"] + "|" + url).encode()).hexdigest()[:20]
         yield {"id": identifier, "source_id": source["id"], "title": title,
@@ -153,6 +155,9 @@ def main():
             if item["id"] not in combined:
                 combined[item["id"]] = item
                 n += 1
+            elif combined[item["id"]].get("status") == "unverified_candidate":
+                combined[item["id"]].update(
+                    title=item["title"], excerpt=item["excerpt"])
         print(f"{source['id']}: {len(records)} Iran-related unverified Telegram leads")
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
