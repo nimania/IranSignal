@@ -20,7 +20,8 @@ def build():
         slug = report["slug"]
         data = editorial.get(slug)
         if not data:
-            raise SystemExit(f"Missing approved Persian Telegram summary for {slug}")
+            print(f"WARNING: Skipping unapproved Telegram summary for {slug}; the website report still publishes.")
+            continue
         for field in ("title", "lead", "analysis", "watch"):
             if not isinstance(data.get(field), str) or not data[field].strip():
                 raise SystemExit(f"Missing {field} for {slug}")
