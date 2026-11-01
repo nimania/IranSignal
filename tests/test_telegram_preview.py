@@ -15,7 +15,7 @@ PAGE = """
   </div>
 </div>
 <div class="tgme_widget_message" data-post="simorghdata369/124">
-  <div class="tgme_widget_message_text">گزارش درباره وضعیت انتخاباتی کشوری دیگر بدون ارتباط با ایران و تحولات منطقه.</div>
+  <div class="tgme_widget_message_text">گزارش درباره وضعیت انتخاباتی یک کشور اروپایی و برنامه‌های محلی آن است که ارتباط مستقیمی با موضوع ما ندارد.</div>
   <time datetime="2026-11-01T12:00:00+00:00"></time>
 </div>
 <div class="tgme_widget_message" data-post="other/125">
