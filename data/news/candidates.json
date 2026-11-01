@@ -270,6 +270,15 @@
     "score_effect": null
   },
   {
+    "id": "1f19c32052de90ba522c",
+    "source_id": "aljazeera",
+    "title": "Palestinians ‘Stealing their own olives’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
+    "published": "Sat, 31 Oct 2026 19:18:32 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "1f6864ad58507759622f",
     "source_id": "aljazeera",
     "title": "Palestinian children crawl under Israeli military gates to get to school",
@@ -1710,6 +1719,15 @@
     "score_effect": null
   },
   {
+    "id": "a7b697bc155ced6f59dc",
+    "source_id": "aljazeera",
+    "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+    "published": "Sun, 01 Nov 2026 00:00:51 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "a7ceb29f32b0ee40f94b",
     "source_id": "aljazeera",
     "title": "Israel election 2026 live: Polls open as Netanyahu faces tough test",
@@ -2390,6 +2408,15 @@
     "title": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
     "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss",
     "published": "Mon, 26 Oct 2026 07:33:47 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "f9b0b77a42be674d20f6",
+    "source_id": "aljazeera",
+    "title": "Israel’s allegations of Qatari election interference rejected",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+    "published": "Sat, 31 Oct 2026 20:24:58 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
