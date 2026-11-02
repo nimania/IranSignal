@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T21:48:17.612588+00:00",
+  "generated_at": "2026-11-02T02:34:15.562462+00:00",
   "families": [
     "deal",
     "regroup",
@@ -1015,6 +1015,51 @@
         "regroup": 0,
         "war": -2,
         "transition": 1,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "components": {
+        "event": {
+          "deal": 2,
+          "regroup": 0,
+          "war": -6,
+          "transition": 0,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "analyst": {
+          "deal": 5,
+          "regroup": 1,
+          "war": 18,
+          "transition": 3,
+          "attrition": 0,
+          "recovery": 0
+        },
+        "legacy": {
+          "deal": 1,
+          "regroup": 0,
+          "war": 7,
+          "transition": 1,
+          "attrition": 3,
+          "recovery": 1
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "scores": {
+        "deal": 8,
+        "regroup": 1,
+        "war": 19,
+        "transition": 4,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "daily": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 0,
+        "transition": 0,
         "attrition": 0,
         "recovery": 0
       },
