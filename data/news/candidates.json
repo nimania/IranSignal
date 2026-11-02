@@ -66,6 +66,15 @@
     "score_effect": null
   },
   {
+    "id": "08babe0b716ae1d39413",
+    "source_id": "bbc",
+    "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+    "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 02 Nov 2026 06:00:54 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "0936b6d6100c22d6f7aa",
     "source_id": "aljazeera",
     "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
@@ -744,6 +753,15 @@
     "score_effect": null
   },
   {
+    "id": "43a756620bf729b4824c",
+    "source_id": "aljazeera",
+    "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+    "published": "Mon, 02 Nov 2026 00:00:00 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "44a9a7abcbc260506dad",
     "source_id": "axios",
     "title": "Zelensky speaks to Witkoff and Kushner amid U.S.-Ukraine crisis",
@@ -993,6 +1011,15 @@
     "score_effect": null
   },
   {
+    "id": "5e9f9dfd3bb787733c13",
+    "source_id": "aljazeera",
+    "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+    "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+    "published": "Mon, 02 Nov 2026 01:40:50 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "5eaa76cfb05f4081ca88",
     "source_id": "axios",
     "title": "Republicans see shrinking boost from redistricting",
@@ -1053,6 +1080,18 @@
     "url": "https://www.axios.com/2026/10/28/israel-elections-netanyahu-eisenkot-results-deadlock",
     "published": "Wed, 28 Oct 2026 15:28:04 +0000",
     "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "689ebec8b1b510f9c59f",
+    "source_id": "simorghdata369",
+    "title": "🔴اصابت دو پرتابه ناشناس به یک نفتکش در شمال خلیج فارس؛ هشدار جدید دریایی بریتانیا",
+    "url": "https://t.me/simorghdata369/3299",
+    "published": "2026-11-02T05:55:27+00:00",
+    "excerpt": "🔴اصابت دو پرتابه ناشناس به یک نفتکش در شمال خلیج فارس؛ هشدار جدید دریایی بریتانیا 🇬🇧 مرکز عملیات تجارت دریایی بریتانیا (UKMTO) در هشدار تازه شماره ۱۹۲-۲۶ از دریافت گزارش اصابت دو پرتابه ناشناس به یک نفتکش در نزدیکی سواحل عربستان سعودی خبر داد. 🔴 جزئیات مهم حادثه: 🚨 این حادثه ساعت ۰۳:۱۷ بامداد دوشنبه به وقت تهران، در فاصله ۷۲ مایل دریایی شرق رأس‌الخفجی عربستان رخ داده است. 🚨 نفتکش هنگام حرکت به سمت جنوب‌شرق خلیج فارس، از سمت چپ بدنه هدف دو پرتابه ناشناس قرار گرفته است. 🚨 طبق گزارش UKMTO، وضعیت حضور تمام خدمه مشخص شده و تاکنون پیامد زیست‌محیطی گزارش نشده است. 🚨 هویت عامل حمله و نوع پرتابه‌ها هنوز مشخص نیست و تحقیقات ادامه دارد. 📌❗️🔑 نکته کلیدی: این حادثه با هشدار شماره ۱۹۱-۲۶ درباره اصابت پرتابه به شناوری در تنگه هرمز متفاوت است. حادثه جدید در شمال خلیج فارس و با گزارش مستقیم ناخدای نفتکش ثب",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
     "score_effect": null
   },
   {
@@ -1133,6 +1172,15 @@
     "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
     "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
     "published": "Thu, 29 Oct 2026 20:21:54 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "6edd324eabf3bab96279",
+    "source_id": "aljazeera",
+    "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+    "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+    "published": "Mon, 02 Nov 2026 00:29:16 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -2294,6 +2342,15 @@
     "title": "\"Petty, selfish, unhinged\": Haley Stevens' staff and colleagues erupt at her \"betrayal\"",
     "url": "https://www.axios.com/2026/11/01/haley-stevens-democrats-reaction-rogers-el-sayed",
     "published": "Sun, 01 Nov 2026 19:39:09 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "cabb55ba8b205be0cef2",
+    "source_id": "axios",
+    "title": "Haley Stevens faces push for removal from House Dem caucus",
+    "url": "https://www.axios.com/2026/11/02/haley-stevens-house-democrats-remove-caucus",
+    "published": "Mon, 02 Nov 2026 02:41:24 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
