@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T10:22:04.154020+00:00",
+  "generated_at": "2026-11-03T22:55:00.366474+00:00",
   "score_is_probability": false,
   "snapshots": [
     {
@@ -2699,6 +2699,120 @@
         "auto-e77e5561a28a1d647c",
         "auto-e4099761610ad1f947",
         "auto-16c2daf642096c9758"
+      ]
+    },
+    {
+      "at": "2026-11-03T17:50:39.723509+00:00",
+      "digest": "eebb3a6e430dee6a57a714a7",
+      "scores": {
+        "deal": 9,
+        "regroup": 1,
+        "war": 22,
+        "transition": 5,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "changes": {
+        "deal": 1,
+        "regroup": 0,
+        "war": 0,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "signal_count": 495,
+      "recent_signal_ids": [
+        "auto-b0ff52341df950173b",
+        "auto-1b0ae029a4c0c75a9a",
+        "auto-b72db91f0463e675d6",
+        "auto-9a29886ab6472f1771",
+        "auto-c951ef36ae0c3a674a",
+        "auto-2d2842df1fb6325371",
+        "auto-173e6925ee5307562f",
+        "auto-1d2c29370dda5fe87f",
+        "auto-ae06217a78636bbfa3",
+        "auto-2dc4f6686ae21a43e4",
+        "auto-f2d2b216aac41bc036",
+        "auto-e3e8aaa432503f29e2",
+        "auto-56305f3959760af1f7",
+        "auto-0c0d2c6ef1b824bb80",
+        "auto-a57f62d5147ed80203"
+      ]
+    },
+    {
+      "at": "2026-11-03T18:11:27.713540+00:00",
+      "digest": "7738764439017097be996ef3",
+      "scores": {
+        "deal": 9,
+        "regroup": 1,
+        "war": 22,
+        "transition": 5,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "changes": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 0,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "signal_count": 497,
+      "recent_signal_ids": [
+        "auto-8017a574a47860146e",
+        "auto-4ca5efd0c48ee2f32d",
+        "auto-b0ff52341df950173b",
+        "auto-1b0ae029a4c0c75a9a",
+        "auto-b72db91f0463e675d6",
+        "auto-9a29886ab6472f1771",
+        "auto-c951ef36ae0c3a674a",
+        "auto-2d2842df1fb6325371",
+        "auto-173e6925ee5307562f",
+        "auto-1d2c29370dda5fe87f",
+        "auto-ae06217a78636bbfa3",
+        "auto-2dc4f6686ae21a43e4",
+        "auto-f2d2b216aac41bc036",
+        "auto-e3e8aaa432503f29e2",
+        "auto-56305f3959760af1f7"
+      ]
+    },
+    {
+      "at": "2026-11-03T22:55:00.366474+00:00",
+      "digest": "a1d4c1c8b7ec70478a1763a7",
+      "scores": {
+        "deal": 9,
+        "regroup": 1,
+        "war": 22,
+        "transition": 5,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "changes": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 0,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "signal_count": 502,
+      "recent_signal_ids": [
+        "auto-7b2274188897b73e2f",
+        "auto-7e20c822e416c2243f",
+        "auto-d0127648b1599f982b",
+        "auto-7d8314eb5f3f04549e",
+        "auto-8017a574a47860146e",
+        "auto-4ca5efd0c48ee2f32d",
+        "auto-b0ff52341df950173b",
+        "auto-1b0ae029a4c0c75a9a",
+        "auto-324ce109c60ea096dd",
+        "auto-b72db91f0463e675d6",
+        "auto-9a29886ab6472f1771",
+        "auto-c951ef36ae0c3a674a",
+        "auto-2d2842df1fb6325371",
+        "auto-173e6925ee5307562f",
+        "auto-1d2c29370dda5fe87f"
       ]
     }
   ]
