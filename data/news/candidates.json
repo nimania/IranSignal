@@ -312,6 +312,15 @@
     "score_effect": null
   },
   {
+    "id": "1e105883b83f789942e0",
+    "source_id": "axios",
+    "title": "Trump pre-election pitch: Reflecting Pool, pipes and a new promenade",
+    "url": "https://www.axios.com/2026/11/02/trump-dc-projects-reflecting-pool-speech",
+    "published": "Mon, 02 Nov 2026 20:48:47 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "1e8ff57bdc2f9899b6d1",
     "source_id": "aljazeera",
     "title": "Suwayda remains in stasis as US signals differences with Israel on Syria",
@@ -372,6 +381,18 @@
     "url": "https://t.me/simorghdata369/3306",
     "published": "2026-11-02T12:51:48+00:00",
     "excerpt": "🔴دیدار امنیتی ایران و چین در پکن؛ وانگ یی خواستار جلوگیری از بازگشت به جنگ شد 🏪 🇮🇷🇨🇳 علی باقری کنی، معاون دبیر شورای عالی امنیت ملی ایران، امروز دوشنبه در پکن با وانگ یی، وزیر امور خارجه چین، دیدار و درباره تحولات جنگ و آینده امنیت خاورمیانه گفت‌وگو کرد. 🔴 جزئیات مهم: 🚨 وانگ یی تأکید کرد راه‌حل بحران خاورمیانه، گفت‌وگو و مذاکره است، نه بازگشت به رویارویی نظامی. 🚨 وزیر خارجه چین اعلام کرد پکن از ایران در حفاظت از حاکمیت و امنیت ملی خود حمایت می‌کند. 🚨 به روایت وزارت خارجه چین، باقری تأکید کرد ایران در دفاع از حاکمیت و تمامیت ارضی خود مصمم است، اما آمادگی گفت‌وگو با طرف‌های مختلف برای دستیابی به ثبات منطقه‌ای را دارد. 📌 ❗️🔑 : این دیدار، یک رایزنی مستقیم در سطح امنیت ملی ایران و دیپلماسی ارشد چین است؛ اما هیچ توافق تازه‌ای درباره آتش‌بس، همکاری نظامی یا مذاکرات سه‌جانبه در بیانیه رسمی اعلام ن",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
+    "id": "21b73265d699c2386306",
+    "source_id": "simorghdata369",
+    "title": "🔴🤩ترامپ: ایران خواهان توافق هرچه سریع‌تر است؛ احتمال توافق وجود دارد",
+    "url": "https://t.me/simorghdata369/3318",
+    "published": "2026-11-02T21:39:54+00:00",
+    "excerpt": "🔴🤩ترامپ: ایران خواهان توافق هرچه سریع‌تر است؛ احتمال توافق وجود دارد 🇺🇸 دونالد ترامپ در پیامی در شبکه اجتماعی تروث‌سوشال، سقوط قیمت نفت را به کاهش نگرانی بازار از وقوع جنگ دوباره با ایران مرتبط دانست و اعلام کرد احتمال دستیابی به توافق میان تهران و واشنگتن وجود دارد. ⬇️ ترامپ نوشت: 🚨 قیمت نفت با سرعت زیادی سقوط می‌کند و تقریباً ۱۰ دلار در هر بشکه کاهش یافته است؛ افتی که او آن را رکورد توصیف کرد. 🚨 به گفته ترامپ، علت این کاهش آن است که مردم تصور می‌کنند جنگی با ایران رخ نخواهد داد. 🚨 ترامپ تأکید کرد: «ایران می‌خواهد هرچه سریع‌تر به توافق برسد. ممکن است این اتفاق بیفتد!» 🌪داده بازار: نفت برنت در پایان معاملات دوشنبه با سقوط ۷.۶۳ درصدی، معادل ۸.۶۶ دلار، به ۱۰۴.۷۷ دلار برای هر بشکه رسید. 📌❗️🔑: ترامپ کاهش قیمت نفت را نشانه خوش‌بینی بازار به دیپلماسی می‌داند؛ اما نه توافقی با ایران اعلام شده و ن",
     "source_kind": "public_telegram_preview",
     "status": "unverified_candidate",
     "verification": "requires_independent_primary_or_reputable_source",
@@ -449,6 +470,15 @@
     "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
     "url": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
     "published": "Sat, 24 Oct 2026 05:29:07 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "295bbd7bfdd7099e474f",
+    "source_id": "aljazeera",
+    "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
+    "published": "Tue, 03 Nov 2026 02:25:02 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1040,6 +1070,15 @@
     "title": "Israel’s election: The battle between change and anti-Palestinian sentiment",
     "url": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss",
     "published": "Wed, 28 Oct 2026 12:22:20 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "57a8109683ef21f7676a",
+    "source_id": "aljazeera",
+    "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+    "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+    "published": "Mon, 02 Nov 2026 23:41:18 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1854,6 +1893,15 @@
     "score_effect": null
   },
   {
+    "id": "9327d5cc52ce4c5332ff",
+    "source_id": "axios",
+    "title": "U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says",
+    "url": "https://www.axios.com/2026/11/03/us-russia-ukraine-peace-talks-uae-trump-witkoff-kushner",
+    "published": "Tue, 03 Nov 2026 00:01:03 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "93f5b0e357315ed8d496",
     "source_id": "aljazeera",
     "title": "Exit polls from Israel’s election show no clear winner",
@@ -2343,6 +2391,15 @@
     "score_effect": null
   },
   {
+    "id": "b82991400671cb8d5df1",
+    "source_id": "aljazeera",
+    "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+    "published": "Tue, 03 Nov 2026 00:00:00 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "b895c73a4cfee5f11afc",
     "source_id": "axios",
     "title": "GOP's closing argument gets cheeky",
@@ -2411,6 +2468,15 @@
     "title": "Israel braces for an election each side warns could bring ruin",
     "url": "https://www.axios.com/2026/10/27/israel-election-netanyahu-eisenkot",
     "published": "Tue, 27 Oct 2026 09:20:04 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "be11524c2fa9e69abea9",
+    "source_id": "axios",
+    "title": "Trump to Axios: \"No rush\" to decide on bombing Iran again",
+    "url": "https://www.axios.com/2026/11/02/trump-axios-interview-no-rush-resume-war",
+    "published": "Mon, 02 Nov 2026 21:01:34 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -2751,6 +2817,15 @@
     "score_effect": null
   },
   {
+    "id": "dc6aed2f237745e70fce",
+    "source_id": "axios",
+    "title": "GOP's midterm blame game starts early",
+    "url": "https://www.axios.com/2026/11/03/republicans-midterms-loss-blame-trump",
+    "published": "Tue, 03 Nov 2026 01:19:59 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "dd38bb2669cf276f83dd",
     "source_id": "axios",
     "title": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
@@ -2982,6 +3057,18 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
     "published": "Sat, 24 Oct 2026 13:27:11 +0000",
     "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "f911aa9ce294d258247f",
+    "source_id": "simorghdata369",
+    "title": "🔴☝️ پزشکیان: رهبر جمهوری اسلامی برای حل بحران از مسیر گفت‌وگو به دولت اختیاراتی داده است",
+    "url": "https://t.me/simorghdata369/3313",
+    "published": "2026-11-02T19:44:36+00:00",
+    "excerpt": "🔴☝️ پزشکیان: رهبر جمهوری اسلامی برای حل بحران از مسیر گفت‌وگو به دولت اختیاراتی داده است 🇮🇷 مسعود پزشکیان، رئیس‌جمهور ایران، امروز در نشست استانداران و شهرداران کلان‌شهرها اعلام کرد رهبر جمهوری اسلامی برای پیگیری راه‌حل دیپلماتیک به دولت اختیاراتی داده است. 🤗 جزئیات مهم: 🚨 پزشکیان تأکید کرد دولت تلاش می‌کند مشکلات و بحران‌های کنونی را از طریق گفت‌وگو حل کند. 🚨 او گفت در همین زمینه رهبر جمهوری اسلامی «اختیاراتی نیز به دولت داده‌اند». 🚨 رئیس‌جمهور افزود ایران در برابر زیاده‌خواهی طرف مقابل خواهد ایستاد و جنگ به سود هیچ‌کس نیست. 📌❗️🔑 : این اظهارات هم‌زمان با ادامه رایزنی‌های غیرمستقیم ایران و آمریکا منتشر شده است. بااین‌حال، حدود اختیارات، زمان اعطای آنها و اینکه شامل تصمیم‌گیری درباره توافق نهایی می‌شود یا خیر، اعلام نشده است. همچنین هیچ توافق جدیدی با آمریکا تأیید نشده است. 🌟 آشیان سیمرغ | ",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
     "score_effect": null
   },
   {
