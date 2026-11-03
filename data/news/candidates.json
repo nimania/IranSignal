@@ -30,6 +30,15 @@
     "score_effect": null
   },
   {
+    "id": "04198f2bedbcc1a8e1ea",
+    "source_id": "aljazeera",
+    "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
+    "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
+    "published": "Tue, 03 Nov 2026 15:00:10 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "05cd79f79a95ee30b586",
     "source_id": "aljazeera",
     "title": "After Israel’s election: What’s next?",
@@ -132,6 +141,15 @@
     "score_effect": null
   },
   {
+    "id": "0e1d4263cbcdf08912cb",
+    "source_id": "axios",
+    "title": "Prediction markets have a lot riding on the blue wave",
+    "url": "https://www.axios.com/2026/11/03/kalshi-polymarket-midterms-democrats",
+    "published": "Tue, 03 Nov 2026 15:36:42 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "0f13547a0105a4f81aba",
     "source_id": "aljazeera",
     "title": "Are GCC countries looking for a regional security pact with Iran?",
@@ -213,6 +231,15 @@
     "score_effect": null
   },
   {
+    "id": "1396a74e679361e9a1e1",
+    "source_id": "aljazeera",
+    "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
+    "url": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
+    "published": "Tue, 03 Nov 2026 16:49:10 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "14608ca386e2617925ad",
     "source_id": "axios",
     "title": "Wall Street prepares for AI's \"day after\"",
@@ -227,6 +254,15 @@
     "title": "Trump vows to protect Musk, floats pre-emptive staff pardons",
     "url": "https://www.axios.com/2026/11/02/trump-musk-democrats",
     "published": "Mon, 02 Nov 2026 12:38:14 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "168890c9cf9d8b54ecf2",
+    "source_id": "bbc",
+    "title": "Trump says US 'won't be paying Israel' by end of year",
+    "url": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 03 Nov 2026 15:09:51 GMT",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -594,11 +630,32 @@
     "score_effect": null
   },
   {
+    "id": "311b9a1096e8bb7976f4",
+    "source_id": "simorghdata369",
+    "title": "🔴رویترز: شورای اطلاعات ملی آمریکا هیچ گزارش متمرکزی درباره جنگ ایران تهیه نکرده است",
+    "url": "https://t.me/simorghdata369/3330",
+    "published": "2026-11-03T15:51:23+00:00",
+    "excerpt": "🔴رویترز: شورای اطلاعات ملی آمریکا هیچ گزارش متمرکزی درباره جنگ ایران تهیه نکرده است 🗞خبرگزاری رویترز امروز سه‌شنبه ۳ نوامبر، در تحقیقی اختصاصی به نقل از مقام‌های کنونی و پیشین آمریکا، از اختلال در همکاری و تبادل اطلاعات میان نهادهای اطلاعاتی این کشور پرده برداشت. 🚨 جزئیات مهم: 🚨 به گفته پنج مقام کنونی و سابق، شورای اطلاعات ملی آمریکا (NIC) در دوره مورد بررسی هیچ ارزیابی متمرکزی درباره جنگ ایران تهیه نکرده است. 🚨 سازمان CIA از مشارکت در نگارش مشترک برخی گزارش‌های این شورا کنار کشیده، هرچند تبادل اطلاعات به‌طور کامل متوقف نشده است. 🚨 طبق این تحقیق، ارائه برخی گزارش‌های اطلاعاتی به نمایندگان کنگره نیز در مقاطعی به‌طور موقت متوقف شده است. 📌❗️🔑 شورای اطلاعات ملی وظیفه تلفیق ارزیابی‌های ۱۸ نهاد اطلاعاتی آمریکا را بر عهده دارد. این افشاگری درباره اختلال در سازوکار ارزیابی مشترک است، نه توقف تمام ",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
     "id": "317d2db2ed0e78468d0a",
     "source_id": "axios",
     "title": "The real election tech vulnerabilities in 2026",
     "url": "https://www.axios.com/2026/10/28/election-security-paper-ballots-audits",
     "published": "Wed, 28 Oct 2026 09:20:16 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "318d1634cbbd55feebdf",
+    "source_id": "aljazeera",
+    "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
+    "url": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
+    "published": "Tue, 03 Nov 2026 14:30:24 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -701,6 +758,15 @@
     "title": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
     "url": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss",
     "published": "Tue, 27 Oct 2026 15:08:59 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "39d5d4e7d4562c81a1c8",
+    "source_id": "aljazeera",
+    "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+    "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
+    "published": "Tue, 03 Nov 2026 15:47:34 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1026,6 +1092,15 @@
     "score_effect": null
   },
   {
+    "id": "51d80d99282b7c9e4f79",
+    "source_id": "axios",
+    "title": "What we're watching on election night for energy",
+    "url": "https://www.axios.com/2026/11/03/election-night-midterms-energy",
+    "published": "Tue, 03 Nov 2026 13:38:23 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "5313b64befa0f84c531a",
     "source_id": "aljazeera",
     "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
@@ -1040,6 +1115,15 @@
     "title": "Thousands gather at new Albanian antigovernment rally",
     "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
     "published": "Sat, 24 Oct 2026 18:30:56 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "549491d984a2d9852e76",
+    "source_id": "aljazeera",
+    "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
+    "published": "Tue, 03 Nov 2026 17:26:02 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1257,6 +1341,18 @@
     "score_effect": null
   },
   {
+    "id": "61c0ccebc10e54f22aee",
+    "source_id": "simorghdata369",
+    "title": "🔴وال‌استریت ژورنال: آمریکا به کشورهای منطقه درباره احتمال حمله شدید به ایران پس از انتخابات هشدار داده است",
+    "url": "https://t.me/simorghdata369/3331",
+    "published": "2026-11-03T16:43:38+00:00",
+    "excerpt": "🔴وال‌استریت ژورنال: آمریکا به کشورهای منطقه درباره احتمال حمله شدید به ایران پس از انتخابات هشدار داده است روزنامه وال‌استریت ژورنال گزارش داد واشنگتن به شماری از کشورهای حاشیه خلیج فارس درباره احتمال آغاز دور تازه‌ای از حملات نظامی شدید علیه ایران، پس از انتخابات میان‌دوره‌ای ۳ نوامبر آمریکا، هشدار داده است. 🔴 جزئیات مهم: 🚨 به گفته منابع آگاه، سناریوی مورد بررسی شامل عملیاتی کوتاه‌مدت اما با شدت بالاست. 🚨 کشورهای منطقه نسبت به پیامدهای احتمالی این عملیات و گسترش درگیری‌ها ابراز نگرانی کرده‌اند. 🚨 گزارش تکمیلی وال‌استریت ژورنال در ۳ نوامبر تأکید دارد که دونالد ترامپ همچنان گزینه نظامی را بررسی می‌کند، اما تصمیم نهایی برای اجرای حمله اعلام نشده است. 📌❗️ 🔑 : ❌هشدار واشنگتن درباره احتمال حمله، به معنای صدور فرمان قطعی عملیات نیست. مسیر دیپلماسی نیز هنوز به‌طور کامل کنار گذاشته نشده است. 🌟 آشی",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
     "id": "62279ec0311da35f99c2",
     "source_id": "bbc",
     "title": "How do Israel's elections work and who are the main contenders?",
@@ -1449,6 +1545,18 @@
     "score_effect": null
   },
   {
+    "id": "711cc9e0e5b276ce2aba",
+    "source_id": "simorghdata369",
+    "title": "🔴نیویورک‌تایمز: اسرائیل درباره احتمال استفاده ایران از سلاح شیمیایی به آمریکا هشدار داد؛ تردید مقام‌های آمریکایی درباره اعتبار اطلاعات",
+    "url": "https://t.me/simorghdata369/3334",
+    "published": "2026-11-03T19:07:29+00:00",
+    "excerpt": "🔴نیویورک‌تایمز: اسرائیل درباره احتمال استفاده ایران از سلاح شیمیایی به آمریکا هشدار داد؛ تردید مقام‌های آمریکایی درباره اعتبار اطلاعات روزنامه نیویورک‌تایمز امروز ۳ نوامبر گزارش داد اسرائیل اطلاعاتی را در اختیار واشنگتن قرار داده که بر اساس ارزیابی این کشور، ایران ممکن است در حال بررسی استفاده از تسلیحات شیمیایی باشد. 🛡 جزئیات مهم: 🚨 برخی مقام‌های آمریکایی این اطلاعات را نگران‌کننده ارزیابی کرده‌اند؛ در مقابل، گروهی دیگر نسبت به اعتبار آن تردید دارند. 🚨 شماری از این مقام‌ها به ارزیابی‌های اشتباه اطلاعاتی درباره تسلیحات کشتار جمعی عراق در سال ۲۰۰۲ اشاره کرده‌اند. 🚨 به گزارش نیویورک‌تایمز، برخی مقام‌های آمریکایی احتمال داده‌اند که این هشدارها با هدف ترغیب ترامپ به ازسرگیری عملیات گسترده نظامی علیه ایران مطرح شده باشد. 📌❗️🔑: این گزارش از اختلاف‌نظر اطلاعاتی میان واشنگتن و تل‌آویو پرده برمی‌دا",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
     "id": "713f62303fd19d689f48",
     "source_id": "aljazeera",
     "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
@@ -1575,6 +1683,18 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
     "published": "Fri, 30 Oct 2026 14:40:19 +0000",
     "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "79313dab94dc67832283",
+    "source_id": "simorghdata369",
+    "title": "🔴انتخابات سرنوشت‌ساز آمریکا آغاز شد؛ کنترل کنگره در اختیار رأی‌دهندگان",
+    "url": "https://t.me/simorghdata369/3329",
+    "published": "2026-11-03T15:01:51+00:00",
+    "excerpt": "🔴انتخابات سرنوشت‌ساز آمریکا آغاز شد؛ کنترل کنگره در اختیار رأی‌دهندگان رأی‌گیری انتخابات میان‌دوره‌ای آمریکا امروز سه‌شنبه ۳ نوامبر آغاز شد؛ انتخاباتی که ترکیب قدرت در کنگره و توان دولت دونالد ترامپ برای پیشبرد برنامه‌های خود در دو سال باقی‌مانده از ریاست‌جمهوری‌اش را تحت تأثیر قرار می‌دهد. 🚨 جزئیات مهم: 🚨 تمام ۴۳۵ کرسی مجلس نمایندگان و ۳۵ کرسی سنا به رأی گذاشته شده‌اند. 🚨 هم‌زمان، انتخابات فرمانداری در ۳۶ ایالت برگزار می‌شود. 🚨 بر اساس داده‌های آزمایشگاه انتخابات دانشگاه فلوریدا، بیش از ۵۷ میلیون آمریکایی پیش از روز اصلی انتخابات رأی داده‌اند. 🚨 جمهوری‌خواهان در حال حاضر اکثریت هر دو مجلس کنگره را در اختیار دارند. 📌❗️ 🔑: دموکرات‌ها برای کسب اکثریت مجلس نمایندگان به حداقل ۲۱۸ کرسی و برای کنترل سنا به افزایش خالص چهار کرسی نیاز دارند. نخستین حوزه‌های رأی‌گیری از ساعت ۰۲:۳۰ بامداد چهارشنبه ب",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
     "score_effect": null
   },
   {
@@ -2172,6 +2292,18 @@
     "score_effect": null
   },
   {
+    "id": "a09127e44b133a882885",
+    "source_id": "simorghdata369",
+    "title": "🔴پیامد تازه بحران هرمز؛ هند از قطر خواست گاز آمریکا را جایگزین بخشی از محموله‌های خود کند",
+    "url": "https://t.me/simorghdata369/3328",
+    "published": "2026-11-03T14:04:14+00:00",
+    "excerpt": "🔴پیامد تازه بحران هرمز؛ هند از قطر خواست گاز آمریکا را جایگزین بخشی از محموله‌های خود کند 💨 🗞رویترز امروز سه‌شنبه ۳ نوامبر گزارش داد شرکت پترونت، بزرگ‌ترین واردکننده گاز طبیعی مایع هند، در حال مذاکره با قطر است تا بخشی از گاز قرارداد بلندمدت خود را از منابع آمریکایی دریافت کند. 🔴 جزئیات مهم: 🚨 قرارداد هند و قطر شامل سالانه ۷.۵ میلیون تن LNG است و تا سال ۲۰۴۸ تمدید شده است. 🚨 مقام ارشد پترونت اعلام کرد قطر با بررسی درخواست هند برای تنوع‌بخشی به منابع تأمین موافقت کرده است. 🚨 قطر پیش‌تر قراردادهای خرید سالانه تا ۷ میلیون تن LNG از تولیدکنندگان آمریکایی امضا کرده؛ تحویل این محموله‌ها از سال‌های ۲۰۳۰ و ۲۰۳۱ آغاز می‌شود. 📌❗️🔑: اختلال در صادرات گاز قطر بر اثر جنگ و محدودیت‌های تنگه هرمز، هند را به بررسی تغییر منشأ تأمین گاز سوق داده است؛ حتی در قراردادی که طرف فروشنده آن همچنان قطر خواهد بود. هن",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
     "id": "a2538f4e0e3db5955d11",
     "source_id": "aljazeera",
     "title": "Israel’s anti-Qatar campaign bleeds into elections",
@@ -2486,6 +2618,15 @@
     "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
     "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
     "published": "Tue, 03 Nov 2026 00:00:00 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "b85567509de9a623a17a",
+    "source_id": "aljazeera",
+    "title": "Palestinian Americans turn to US flags to protect West Bank homes",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-americans-turn-to-us-flags-to-protect-west-bank-homes?traffic_source=rss",
+    "published": "Tue, 03 Nov 2026 18:38:50 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -2951,6 +3092,15 @@
     "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
     "published": "Sun, 25 Oct 2026 12:05:16 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "e138b5f3d0331b0b494c",
+    "source_id": "aljazeera",
+    "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
+    "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
+    "published": "Tue, 03 Nov 2026 19:09:09 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
