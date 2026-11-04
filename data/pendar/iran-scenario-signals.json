@@ -1,5 +1,142 @@
 [
   {
+    "id": "auto-4ff6b3854c8725479c",
+    "date": "2026-11-04",
+    "ts": 1793756802530,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "واکنش رسانه ها به رد موضع آمریکا درباره توافق از سوی ایران و زیرنویس جنجالی شبکه سه",
+    "source": "اقتصاد آنلاین، فرارو، هفت صبح",
+    "source_url": "/story/02a1603d-e82b-450b-94a9-91066acedf52/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/02a1603d-e82b-450b-94a9-91066acedf52/",
+        "kind": "pendar"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2173238/آتش-بس-و-مذاکره-ایران-و-آمریکا-در-بن-بست-خبرنگار-آکسیوس-هم-تایید-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1014472/%D8%A8%D8%A7%D8%B1%D8%A7%DA%A9-%D8%B1%D8%A7%D9%88%DB%8C%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D9%88%D8%B6%D8%B9-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%B1%D8%A7-%D8%B1%D8%AF-%DA%A9%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2173254/سپاه-موضع-ایران-درباره-پایان-جنگ-را-اعلام-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "هفت صبح",
+        "url": "https://7sobh.com/fa/tiny/news-60174750",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1203677/باراک-راوید-ایران-موضع-آمریکا-درباره-توافق-را-رد-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2297268/%D8%B2%DB%8C%D8%B1%D9%86%D9%88%DB%8C%D8%B3-%D8%B4%D8%A8%DA%A9%D9%87-%DB%B3-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B1%D8%A7-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%DA%A9%D8%B4%D8%AA-%D8%B9%DA%A9%D8%B3",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "02a1603d-e82b-450b-94a9-91066acedf52",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق و محتوای اصلی توییت استنادشده توسط باراک راوید مشخص نشده است.؛ ابعاد و واکنش رسمی نهادهای دیپلماتیک به بن بست ادعایی در مذاکرات در منابع ذکر نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-0864a5ae6f3040f44c",
+    "date": "2026-11-04",
+    "ts": 1793756793995,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "مواضع تازه ترامپ و مقامات ایرانی درباره احتمال درگیری نظامی",
+    "source": "Financial Times — World، Al Jazeera، Anadolu Ajansı",
+    "source_url": "/story/ed77f585-2860-47a5-b72e-a53daf606639/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/ed77f585-2860-47a5-b72e-a53daf606639/",
+        "kind": "pendar"
+      },
+      {
+        "label": "Financial Times — World",
+        "url": "https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1",
+        "kind": "original"
+      },
+      {
+        "label": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+        "kind": "original"
+      },
+      {
+        "label": "Anadolu Ajansı",
+        "url": "https://www.aa.com.tr/en/americas/us-has-no-immediate-plans-to-strike-iran-trump/4110663",
+        "kind": "original"
+      },
+      {
+        "label": "Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-913766",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "ed77f585-2860-47a5-b72e-a53daf606639",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهور آمریکا",
+        "statement": "وضعیت ما با تهران درخشان است و در حال حاضر هیچ برنامه فوری برای حمله به ایران وجود ندارد، اما آماده ایم و اگر نیاز باشد اقدام می کنیم.",
+        "direct_quote": true,
+        "source_url": "https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1"
+      },
+      {
+        "name": "جیمز دیوید ونس",
+        "role": "معاون رئیس جمهور آمریکا",
+        "statement": "پس از دیدار مقام های ایرانی با میانجی گران قطری در دوحه، گفت وگوهای خوبی با ایرانی ها انجام شده است.",
+        "direct_quote": true,
+        "source_url": "https://www.jpost.com/middle-east/iran-news/article-913766"
+      }
+    ],
+    "uncertainty": "آیا مذاکرات میان ایران و ایالات متحده از طریق میانجی گران به توافق پایداری منجر خواهد شد یا خیر.؛ چگونگی جزئیات و زمان بندی دقیق اجرای طرح بازدارندگی حداکثری از سوی ایران.",
+    "evidence_phrase": "",
+    "score_reason": "گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است"
+  },
+  {
     "id": "auto-7b2274188897b73e2f",
     "date": "2026-11-03",
     "ts": 1793746153433,
@@ -960,6 +1097,47 @@
     "score_kind": "unscored",
     "review_status": "auto_unverified",
     "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-6c533a1b61c1f403b5",
+    "date": "2026-11-03",
+    "ts": 1793718698000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "مذاکره با مقامات آمریکایی که در جنایات علیه ایران نقش داشته اند، به معنای نادیده گرفتن منافع بنیادین نظام است. هدف اصلی ایالات متحده همچنان تلاش برای براندازی جمهوری اسلامی است.",
+    "source": "حمید رسایی",
+    "source_url": "https://t.me/rasaee/33896",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/rasaee/33896",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@rasaee",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "888adc9a-1617-40f3-815d-e9c974a4ab76",
+    "speaker": "حمید رسایی",
+    "speaker_role": "نماینده مجلس و مدیرمسئول هفته نامه ۹ دی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@rasaee",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
   },
   {
     "id": "auto-1d2c29370dda5fe87f",
