@@ -1,5 +1,558 @@
 [
   {
+    "id": "auto-6918ec66fdeb5a00a5",
+    "date": "2026-11-04",
+    "ts": 1793787191806,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "برگزاری جلسات کارگروه پرونده رامک خودرو و اظهارات مقامات درباره مسائل کشور",
+    "source": "میزان، آنا، خبرگزاری صداوسیما",
+    "source_url": "/story/8704d539-0125-4379-8148-6dc261baabf5/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/8704d539-0125-4379-8148-6dc261baabf5/",
+        "kind": "pendar"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4927516/معاون-اول-قوه-قضاییه-حل-ریشه-ای-مشکلات-مالباختگان-رامک-خودرو-نیازمند-تصمیمات-دقیق-قانونی-و-اصلاح-ساختارهاست",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1094772/حل-ریشه-ای-مشکلات-مالباختگان-رامک-خودرو-نیازمند-تصمیمات-دقیق-قانونی-و-اصلاح-ساختارهاست",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5957120/حل-ریشه-ای-مشکلات-مالباختگان-رامک-خودرو-نیازمند-تصمیمات-قانونی-و-اصلاح-ساختارهاست",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری مهر (Mehr)",
+        "url": "https://www.mehrnews.com/news/6999787/%D9%86%D9%88%D8%B0%D8%B1%DB%8C-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D9%86%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D8%B1-%D9%85%D9%86%D8%A7%D9%81%D8%B9-%D9%85%D9%84%DB%8C-%D8%B3%D8%A7%DB%8C%D9%87-%D8%A8%DB%8C%D9%86%D8%AF%D8%A7%D8%B2%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2393996/",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2394046/",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1075632/زاکانی-جنگ-ما-با-آمریکا-مبنا-و-اساس-دارد-راهی-جز-انتقام-نداریم",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "8704d539-0125-4379-8148-6dc261baabf5",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "علیرضا زاکانی",
+        "role": "شهردار تهران و سخنران مراسم راهپیمایی ۱۳ آبان تهران",
+        "statement": "نزاع و جنگ ما با آمریکا یک مبنا و اساسی دارد و اختلاف سلیقه نیست.",
+        "direct_quote": false,
+        "source_url": "https://fa.shafaqna.com/news/2394046/"
+      }
+    ],
+    "uncertainty": "جزئیات اجرایی و جدول زمانی مشخص برای حل کامل پرونده رامک خودرو اعلام نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-3d2d4032cf454a9600",
+    "date": "2026-11-04",
+    "ts": 1793787131045,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تحرکات دیپلماتیک مصر و چین برای کاهش تنش ها میان تهران و واشنگتن و گزارش هایی درباره وضعیت تجهیزات نظامی آمریکا",
+    "source": "آفتاب نیوز، انتخاب، فرارو",
+    "source_url": "/story/b072e0a4-9903-43f2-94b5-2c4f0393af9e/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/b072e0a4-9903-43f2-94b5-2c4f0393af9e/",
+        "kind": "pendar"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1075577/پیام-مستقیم-عبدالعاطی-به-عراقچی-درباره-عواقب-جنگ",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946422/چین-از-تهران-و-واشنگتن-برای-حل-اختلافاتشان-از-طریق-مذاکره-حمایت-می-کنیم-آماده-ایم-تا-گفت-و-گو-با-ایران-عربستان-و-کشور-های-منطقه-را-تقویت-کنیم",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1850439/%DA%86%DB%8C%D9%86-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%A7%DB%8C%D9%85-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B1%D8%A7-%D8%AA%D9%82%D9%88%DB%8C%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4927539/چین-آماده-تقویت-مذاکرات-در-خاورمیانه-هستیم",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1075614/چین-آماده-گفت-وگو-با-ایران-عربستان-و-دیگر-کشورهای-منطقه-هستیم",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417620",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1014559/%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%AC%D9%86%DA%AF-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%86%D8%AA%D8%A7%DA%AF%D9%88%D9%86",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "b072e0a4-9903-43f2-94b5-2c4f0393af9e",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق و محتوای کامل پیام مستقیم وزیر خارجه مصر به عباس عراقچی مشخص نشده است.؛ میزان تأثیرگذاری عملی ابتکارات دیپلماتیک چین و مصر بر مهار بحران میان ایران و آمریکا مبهم است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-fd5b163eae29d56a67",
+    "date": "2026-11-04",
+    "ts": 1793780510000,
+    "family": "war",
+    "direction": -1,
+    "weight": 1,
+    "raw_direction": -1,
+    "raw_weight": 1,
+    "text": "شکست حامیان تقابل با ایران در انتخابات میان دوره ای آمریکا نشان داد افکار عمومی این کشور رویکرد جنگ طلبانه را رد کرده است. این نتیجه راهبردهای بازدارنده ایران را تقویت کرد.",
+    "source": "محمدرضا جلایی پور",
+    "source_url": "https://t.me/jalaeipour/18066",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/jalaeipour/18066",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@jalaeipour",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "42a0f342-d6d0-447f-b9f3-885844a5d7c8",
+    "speaker": "محمدرضا جلایی پور",
+    "speaker_role": "جامعه شناس و پژوهشگر سیاست گذاری اجتماعی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@jalaeipour",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "رد کرد",
+    "score_reason": "عبارت شناسایی‌شده: «رد کرد»؛ دیدگاه منفی تحلیل گر؛ نه شاهد مستقل",
+    "by": "pendar-auto",
+    "score_kind": "analyst_view",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ دیدگاه منفی تحلیل گر؛ نه شاهد مستقل"
+  },
+  {
+    "id": "auto-cdb1965276c9ce9a6a",
+    "date": "2026-11-04",
+    "ts": 1793780331513,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "واکنش مقام ها و رسانه های داخلی و خارجی به شکست جمهوری خواهان در انتخابات میاندوره ای آمریکا",
+    "source": "فرارو، دنیای اقتصاد، خبرگزاری صداوسیما",
+    "source_url": "/story/4cc8e884-5dee-4032-9938-0c0d27ed49d0/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/4cc8e884-5dee-4032-9938-0c0d27ed49d0/",
+        "kind": "pendar"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1014570/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%B3%D9%81%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%A8%D8%A7%D8%AE%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%DA%A9%D9%86%DA%AF%D8%B1%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306241-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D9%82%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%81-%D8%A8%D9%87-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%B1%D8%AF%D9%85-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D9%86%D9%87-%DA%AF%D9%81%D8%AA%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری صداوسیما",
+        "url": "https://www.irib-news.ir/fa/news/5957126/ایران-ضربه-ای-به-آمریکا-زد-که-حتی-بمب-اتمی-هم-نمی-توانست-وارد-کند",
+        "kind": "original"
+      },
+      {
+        "label": "ورزش سه",
+        "url": "https://www.varzesh3.com/news/2441914/اعتراف-ترامپ-به-تأثیر-جنگ-علیه-ایران-بر-شکست-جمهوری-خواهان-در-انتخابات",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2297342/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D9%81-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D9%87-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D9%81%DB%8C%D9%84%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1094741/واکنش-های-تند-رسانه-های-صهیونیستی-به-شکست-سنگین-جمهوری-خواهان",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1850436/%D9%85%D9%82%D8%A7%D9%85-%D8%A7%D8%B1%D8%B4%D8%AF-%D8%AF%D9%88%D9%84%D8%AA-%D8%A7%D9%88%D8%A8%D8%A7%D9%85%D8%A7-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D8%AF-%D9%82%D8%A7%D8%B7%D8%B9-%D8%AC%D9%86%DA%AF-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%88%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405081308629/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%DA%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D8%A7%D9%85%D8%AF%D9%87%D8%A7%DB%8C-%D8%AC%D9%86%DA%AF-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "4cc8e884-5dee-4032-9938-0c0d27ed49d0",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "محمدباقر قالیباف",
+        "role": "رئیس مجلس شورای اسلامی",
+        "statement": "مردم آمریکا به جنگ «نه» گفتند.",
+        "direct_quote": false,
+        "source_url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306241-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D9%82%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%81-%D8%A8%D9%87-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%B1%D8%AF%D9%85-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D9%86%D9%87-%DA%AF%D9%81%D8%AA%D9%86%D8%AF"
+      }
+    ],
+    "uncertainty": "میزان صحت و دقت نقل قول های منتسب به دونالد ترامپ درباره اعتراف به تأثیر جنگ با ایران در شکست انتخاباتی از سوی منابع مستقل دیگر تایید نشده است.؛ میزان اثرگذاری واقعی پرونده ایران بر نتایج صندوق های رای در انتخابات کنگره آمریکا مشخص نیست و توسط رسانه ها و تحلیلگران به شکل های متفاوتی تفسیر شده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-3f2d831369b9d0ca7b",
+    "date": "2026-11-04",
+    "ts": 1793780306809,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "اظهارات ترامپ درباره نداشتن برنامه فوری برای حمله به ایران و تبعات انتخاباتی جنگ برای جمهوری خواهان",
+    "source": "همشهری آنلاین، خبرگزاری ایرنا (IRNA)، دویچه وله فارسی (DW Persian)",
+    "source_url": "/story/2f4da4f6-3de0-42c0-af2c-a763f10aa9da/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/2f4da4f6-3de0-42c0-af2c-a763f10aa9da/",
+        "kind": "pendar"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1082987/%D8%B3%D8%AE%D9%86%D8%A7%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%86%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%DB%8C%DA%86-%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86311794/%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%87%DB%8C%DA%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%81%D9%88%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "دویچه وله فارسی (DW Persian)",
+        "url": "https://www.dw.com/fa-ir/ترامپ-آمریکا-در-حال-حاضر-برنامه‌ای-فوری-برای-حمله-به-ایران-ندارد/a-79848982?maca=per-rss-per-all-1491-rdf",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/476461/جلد-متفاوت-روزنامه-اصولگرا-ایران-چگونه-انتخابات-آمریکا-را-به-گروگان-گرفت",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/476462/همشهری-جنگ-ایران-بلای-جان-جمهوری-خواهان-در-انتخابات-آمریکا-شد-کابوس-13-آبان-برای-ترامپ-تکرار-می-شود",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1075556/ترامپ-آمریکا-هیچ-برنامه-فوری-برای-حمله-به-ایران-ندارد",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2173322/جنگی-که-به-قیمت-شکست-جمهوری-خواهان-تمام-شد-متحدان-ترامپ-چه-می-گویند",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "2f4da4f6-3de0-42c0-af2c-a763f10aa9da",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهوری آمریکا",
+        "statement": "آ آمریکا در حال حاضر هیچ برنامه فوری برای حمله به ایران ندارد.",
+        "direct_quote": false,
+        "source_url": "https://www.dw.com/fa-ir/ترامپ-آمریکا-در-حال-حاضر-برنامه‌ای-فوری-برای-حمله-به-ایران-ندارد/a-79848982?maca=per-rss-per-all-1491-rdf"
+      }
+    ],
+    "uncertainty": "میزان صداقت یا پایداری ادعای ترامپ درباره نداشتن برنامه حمله با توجه به تناقضات احتمالی رفتارهای پیشین.؛ ابعاد دقیق و پیامدهای کامل سیاسی نتایج انتخابات میان دوره ای برای آینده سیاست خارجی دولت آمریکا در قبال ایران.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-40d9b54f0ae5f97874",
+    "date": "2026-11-04",
+    "ts": 1793780302573,
+    "family": "transition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "حوادث امنیتی در تنگه هرمز و اطلاعیه سپاه پاسداران درباره انهدام چند نفتکش و پهپاد",
+    "source": "اقتصاد آنلاین، همشهری آنلاین، شرق",
+    "source_url": "/story/48b92b31-f902-49b1-87e8-5839559499c8/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/48b92b31-f902-49b1-87e8-5839559499c8/",
+        "kind": "pendar"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2173215/حادثه-امنیتی-در-خروجی-تنگه-هرمز-حمله-به-شناور-حامل-هندی-ها",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1082872/%D9%88%D9%82%D9%88%D8%B9-%D8%AD%D8%A7%D8%AF%D8%AB%D9%87-%D8%A7%D9%85%D9%86%DB%8C%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9%DB%8C-%D8%AE%D8%B1%D9%88%D8%AC%DB%8C-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1139364",
+        "kind": "original"
+      },
+      {
+        "label": "یورونیوز فارسی",
+        "url": "https://parsi.euronews.com/2026/11/03/irgc-reported-explosion-three-oil-tankers-in-strait-hormuz-un-called-for-freedom-of-navig",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2173314/اصابت-2-پرتابه-به-نفتکش-در-تنگه-هرمز",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/476460/تازه-ترین-خبر-های-جنگ-برخورد-4-نفتکش-با-مین-و-شکار-56مین-پهپاد-mq9-گروسی-ایران-سلاح-هسته-ای-ندارد",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2393701/",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4927462/انهدام-4-نفتکش-متخلف-و-سرنگونی-56مین-پهپاد-mq9-در-تنگه-هرمز",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "48b92b31-f902-49b1-87e8-5839559499c8",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق و تطابق میان حوادث اعلام شده توسط نهادهای بین المللی دریایی و اطلاعیه های رسمی سپاه پاسداران کاملاً روشن نیست.؛ ارتباط مستقیم و دقیق میان نفتکش های آسیب دیده گزارش شده توسط سازمان تجارت دریایی انگلیس و نفتکش های ذکر شده در اطلاعیه سپاه نیازمند بررسی بیشتر است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-fba5e56cd61f711c6f",
+    "date": "2026-11-04",
+    "ts": 1793774570000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "با استقبال مردم آمریکا از صلح، ایران نیز باید به جریان های جنگ طلب داخلی پاسخ منفی بدهد تا خطر جنگ از کشور دور شود.",
+    "source": "احمد زیدآبادی",
+    "source_url": "https://t.me/ahmadzeidabad/6089",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/ahmadzeidabad/6089",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@ahmadzeidabad",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "2f24494d-f0d7-42ec-ab9b-9739dc8944b8",
+    "speaker": "احمد زیدآبادی",
+    "speaker_role": "روزنامه نگار و تحلیلگر سیاسی",
+    "analyst_priority": false,
+    "analyst_handle": "ahmadzeidabad",
+    "analyst_group": "iran_future_expert_views",
+    "speaker_url": "/@ahmadzeidabad",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-1b8f71954c5cdf6cb9",
+    "date": "2026-11-04",
+    "ts": 1793774303000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تغییر دولت ها در آمریکا تاثیری بر راهبرد جنگ طلبانه اسرائیل علیه ایران ندارد و پایان بحران وابسته به تصمیمات داخلی خودمان است.",
+    "source": "امیرحسین ثابتی",
+    "source_url": "https://t.me/sabety_ir/8399",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/sabety_ir/8399",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@sabety_ir",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "7d077ae4-3a9f-413f-be47-9552db9ce68c",
+    "speaker": "امیرحسین ثابتی",
+    "speaker_role": "نماینده مجلس",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@sabety_ir",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-1bc2ce5c0549c3d535",
+    "date": "2026-11-04",
+    "ts": 1793773607000,
+    "family": "war",
+    "direction": 1,
+    "weight": 1,
+    "raw_direction": 1,
+    "raw_weight": 1,
+    "text": "شکست احتمالی جمهوری خواهان در انتخابات میان دوره ای، ترامپ را درگیر نهادهای داخلی و بحران جنگ می کند. جنگ سرشار از عدم قطعیت است و ایران با ویتنام تفاوت اساسی دارد.",
+    "source": "سهند ایرانمهر",
+    "source_url": "https://t.me/sahandiranmehr/36681",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/sahandiranmehr/36681",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@sahandiranmehr",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "e45f7df6-46be-4350-a492-9dea2f77a64c",
+    "speaker": "سهند ایرانمهر",
+    "speaker_role": "پژوهشگر روابط بین الملل",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@sahandiranmehr",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "احتمال",
+    "score_reason": "عبارت شناسایی‌شده: «احتمال»؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل",
+    "by": "pendar-auto",
+    "score_kind": "analyst_view",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل"
+  },
+  {
     "id": "auto-4ff6b3854c8725479c",
     "date": "2026-11-04",
     "ts": 1793756802530,
