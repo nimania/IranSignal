@@ -714,6 +714,15 @@
     "score_effect": null
   },
   {
+    "id": "3607b12124f1890c8495",
+    "source_id": "aljazeera",
+    "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+    "published": "Wed, 04 Nov 2026 00:00:00 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "36c27125997762230330",
     "source_id": "simorghdata369",
     "title": "🔴 سنتکام: حملات منتسب به ایران بیش از ۲۰ دریانورد غیرنظامی را کشته است؛ اختلاف بر سر آمار قربانیان",
@@ -1080,6 +1089,15 @@
     "score_effect": null
   },
   {
+    "id": "503ba4e5cc70c270bd22",
+    "source_id": "axios",
+    "title": "Haley Stevens requests U.S. marshals' protection after death threats",
+    "url": "https://www.axios.com/2026/11/03/haley-stevens-death-threats-marshals",
+    "published": "Tue, 03 Nov 2026 20:55:28 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "517db73ce5cae27308b0",
     "source_id": "simorghdata369",
     "title": "🔴 هشدار نفتی امارات درباره پیامدهای بحران هرمز؛ سهم حمل‌ونقل از هزینه هر بشکه نفت ۶ برابر شد",
@@ -1385,6 +1403,15 @@
     "title": "Iran pushing accelerated plan for ceasefire talks with US",
     "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
     "published": "Mon, 02 Nov 2026 18:49:26 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "6692b44eef6d30484131",
+    "source_id": "aljazeera",
+    "title": "Palestinian families return home after Israeli siege of Hebron",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
+    "published": "Tue, 03 Nov 2026 21:15:17 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1982,6 +2009,15 @@
     "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
     "published": "Mon, 26 Oct 2026 01:02:57 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "8a4e523239d4ed5b7f1e",
+    "source_id": "axios",
+    "title": "Election night's current star: Florida",
+    "url": "https://www.axios.com/2026/11/03/election-day-midterm-trump-democrats-republicans",
+    "published": "Wed, 04 Nov 2026 01:20:39 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -3110,6 +3146,15 @@
     "title": "Al Jazeera meets iconic pro-Palestine Japanese activist",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss",
     "published": "Tue, 27 Oct 2026 13:06:28 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "e3f5cffcf80ae0a1c0bf",
+    "source_id": "aljazeera",
+    "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
+    "url": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
+    "published": "Wed, 04 Nov 2026 00:35:44 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
