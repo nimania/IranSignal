@@ -1,5 +1,2235 @@
 [
   {
+    "id": "auto-9cdf6af39eb455e8b9",
+    "date": "2026-11-05",
+    "ts": 1793906158502,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "جزئیات دیدار محسن رضایی با ولادیمیر پوتین در مسکو",
+    "source": "دنیای اقتصاد، شرق، رویداد۲۴",
+    "source_url": "/story/848dd606-ad7c-4729-80ff-82f36ac557f7/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/848dd606-ad7c-4729-80ff-82f36ac557f7/",
+        "kind": "pendar"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306410-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D9%BE%DB%8C%D8%A7%D9%85-%D9%85%D8%AD%D8%B1%D9%85%D8%A7%D9%86%D9%87-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%DA%86%D9%87-%D8%A8%D9%88%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1083452/%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D9%88-%D8%B3%D8%B1%D9%84%D8%B4%DA%AF%D8%B1-%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%A7%D8%AE-%DA%A9%D8%B1%D9%85%D9%84%DB%8C%D9%86-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1095178/سرلشکر-محسن-رضایی-پیام-رهبر-معظم-انقلاب-را-به-پوتین-تقدیم-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1014888/%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%AF%D8%B1-%D9%85%D8%B3%DA%A9%D9%88",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306498-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%AF%D8%B1-%D9%85%D8%B3%DA%A9%D9%88",
+        "kind": "original"
+      },
+      {
+        "label": "رکنا",
+        "url": "https://www.rokna.net/fa/tiny/news-1264142",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1204072/دیدار-محسن-رضایی-و-پوتین-در-مسکو-فیلم-رضایی-پیام-رهبر-معظم-انقلاب-را-به-پوتین-تقدیم-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1075927/محسن-رضایی-به-روسیه-رفت-دیدار-با-پوتین-در-کاخ-کرملین",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "848dd606-ad7c-4729-80ff-82f36ac557f7",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "در سفر به مسکو حامل پیام رهبر انقلاب بودم؛ پوتین سلام گرمی برای رهبری داشتند و بر کمک به پایان جنگ تأکید کردند.",
+        "direct_quote": false,
+        "source_url": "https://www.sharghdaily.com/fa/tiny/news-1139902"
+      },
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "آقای پوتین بمباران سایت های هسته ای ایران را محکوم کردند و معتقد بودند جنگ علیه ایران ظالمانه است.",
+        "direct_quote": false,
+        "source_url": "https://www.rouydad24.ir/fa/news/476687/ببینید-محسن-رضایی-آقای-پوتین-گفت-هر-کمکی-برای-پایان-جنگ-انجام-می-دهد"
+      }
+    ],
+    "uncertainty": "محتوای دقیق پیام مکتوب یا شفاهی رهبر ایران به پوتین به طور عمومی منتشر نشده است.؛ جزئیات طرح های مطرح شده برای «پایان جنگ» که محسن رضایی به آن اشاره کرده، مشخص نیست.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-9cf6510ef9a66a38e8",
+    "date": "2026-11-05",
+    "ts": 1793906053614,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "گمانه زنی ها درباره کناره گیری مارکو روبیو از دولت ترامپ پس از شکست انتخاباتی جمهوری خواهان",
+    "source": "ایندیپندنت، عبدل السید",
+    "source_url": "/story/6b4c1488-fc72-43bd-8925-2ab5274b8a87/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/6b4c1488-fc72-43bd-8925-2ab5274b8a87/",
+        "kind": "pendar"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417789",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1083454/%DA%A9%D9%86%D8%A7%D8%B1%D9%87-%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%DB%8C-%D8%B1%D9%88%D8%A8%DB%8C%D9%88-%D8%A7%D8%B2-%D8%B3%D9%85%D8%AA-%D9%88%D8%B2%DB%8C%D8%B1-%D8%A7%D9%85%D9%88%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%A7%D9%88-%D8%A7%D8%B2-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1850761/%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%DA%A9%D9%86%D8%A7%D8%B1%D9%87-%DA%AF%DB%8C%D8%B1%DB%8C-%D9%88%D8%B2%DB%8C%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%B3%D9%85%D8%AA-%D8%AE%D9%88%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946625/ادعای-ایندپندنت-روبیو-در-آستانه-استعفا-قرار-دارد-او-برای-شرکت-در-انتخابات-ریاست-جمهوری-2028-می-خواهد-از-ترامپ-فاصله-بگیرد",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306500-%D8%B1%D9%88%D8%A8%DB%8C%D9%88-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%DA%A9%D9%86%D8%A7%D8%B1%D9%87-%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%AF%D9%88%D9%84%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1139874",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1014892/%D9%85%D8%A7%D8%B1%DA%A9%D9%88-%D8%B1%D9%88%D8%A8%DB%8C%D9%88-%D9%87%D9%85-%D8%A7%D8%B3%D8%AA%D8%B9%D9%81%D8%A7-%D9%85%DB%8C-%D8%AF%D9%87%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417797",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "6b4c1488-fc72-43bd-8925-2ab5274b8a87",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "عبدل السید",
+        "role": "نامزد مسلمان دموکرات ها در سنا",
+        "statement": "جی دی ونس فردی ترسو است که توان مخالفت با ترامپ را نداشت و اکنون برای فاصله گرفتن از جنگ ایران، بسیار دیر اقدام کرده است.",
+        "direct_quote": true,
+        "source_url": "https://t.me/khabaronline_ir/667604"
+      }
+    ],
+    "uncertainty": "تصمیم قطعی مارکو روبیو برای استعفا هنوز تأیید نشده است.؛ میزان تأثیرگذاری مستقیم موضوع «جنگ ایران» در تصمیمات احتمالی وزیر خارجه آمریکا مشخص نیست.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-bba2f2babd92028e29",
+    "date": "2026-11-05",
+    "ts": 1793904007000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "جی دی ونس فردی ترسو است که توان مخالفت با ترامپ را نداشت و اکنون برای فاصله گرفتن از جنگ ایران، بسیار دیر اقدام کرده است.",
+    "source": "عبدل السید",
+    "source_url": "https://t.me/khabaronline_ir/667604",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/khabaronline_ir/667604",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/6b4c1488-fc72-43bd-8925-2ab5274b8a87/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "6b4c1488-fc72-43bd-8925-2ab5274b8a87",
+    "speaker": "عبدل السید",
+    "speaker_role": "نامزد مسلمان دموکرات ها در سنا",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-e581c112288cc36700",
+    "date": "2026-11-05",
+    "ts": 1793903827909,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "وقوع آتش سوزی در دو نفتکش در شرق تنگه هرمز",
+    "source": "دنیای اقتصاد، شفقنا فارسی",
+    "source_url": "/story/3eb297af-bf80-4ac1-994b-6996814c720c/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/3eb297af-bf80-4ac1-994b-6996814c720c/",
+        "kind": "pendar"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1850691/%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%A8%D9%87-%D8%AA%D8%A3%D8%B3%DB%8C%D8%B3%D8%A7%D8%AA-%D8%B2%DB%8C%D8%B1%D8%B3%D8%A7%D8%AE%D8%AA%DB%8C-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7-%D8%A8%D8%A7-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4927830/افزایش-تعداد-نفتکش-های-آتش-گرفته-در-شرق-تنگه-هرمز",
+        "kind": "original"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1850756/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D9%86%D9%81%D8%AA%DA%A9%D8%B4-%D9%87%D8%A7%DB%8C-%D8%A2%D8%AA%D8%B4-%DA%AF%D8%B1%D9%81%D8%AA%D9%87-%D8%AF%D8%B1-%D8%B4%D8%B1%D9%82-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306494-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D9%86%D9%81%D8%AA%DA%A9%D8%B4-%D9%87%D8%A7%DB%8C-%D8%A2%D8%AA%D8%B4-%DA%AF%D8%B1%D9%81%D8%AA%D9%87-%D8%AF%D8%B1-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88-%D9%86%D9%81%D8%AA%DA%A9%D8%B4-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%AF%DA%86%D8%A7%D8%B1-%D8%AD%D8%B1%DB%8C%D9%82-%D8%B4%D8%AF%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2395041/",
+        "kind": "original"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://tabnak.ir/fa/news/4200054/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D9%86%D9%81%D8%AA%DA%A9%D8%B4%D9%87%D8%A7%DB%8C-%D8%A2%D8%AA%D8%B4-%DA%AF%D8%B1%D9%81%D8%AA%D9%87-%D8%AF%D8%B1-%D8%B4%D8%B1%D9%82-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-530eeb0314684e758ce63f72",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2395057/",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1014886/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D9%86%D9%81%D8%AA%DA%A9%D8%B4-%D9%87%D8%A7%DB%8C-%D8%A2%D8%AA%D8%B4-%DA%AF%D8%B1%D9%81%D8%AA%D9%87-%D8%AF%D8%B1-%D8%B4%D8%B1%D9%82-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "3eb297af-bf80-4ac1-994b-6996814c720c",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "دیمیتری پسکوف",
+        "role": "سخنگوی کاخ کرملین",
+        "statement": "ولادیمیر پوتین در کاخ کرملین با دبیر شورای عالی امنیت ملی ایران دیدار کرد.",
+        "direct_quote": false,
+        "source_url": "https://fa.shafaqna.com/news/2395118/"
+      }
+    ],
+    "uncertainty": "هویت و ملیت نفتکش های آسیب دیده مشخص نشده است.؛ جزئیات مربوط به نحوه برخورد و منشأ مین های دریایی مورد اشاره ارتش روشن نیست.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-7a5a61f5fbaac79515",
+    "date": "2026-11-05",
+    "ts": 1793903797032,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "گسترش مأموریت دریایی کره جنوبی در نزدیکی تنگه هرمز",
+    "source": "آشیان سیمرغ، انتخاب",
+    "source_url": "/story/d0a96b78-3e34-4abd-9885-242fdd502aae/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/d0a96b78-3e34-4abd-9885-242fdd502aae/",
+        "kind": "pendar"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1203986/کره-جنوبی-به-نزدیک-تنگه-هرمز-نیرو-اعزام-می-کند",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306439-%D8%AF%D9%88-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A2%D8%AA%D8%B4-%DA%AF%D8%B1%D9%81%D8%AA-%D9%81%DB%8C%D9%84%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://tabnak.ir/fa/news/100000685/%DA%A9%D8%B1%D9%87%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AF%D8%B1-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9%DB%8C-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%DA%86%DB%8C%D8%B3%D8%AA-683f4267b017427f990e8167",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2173608/تحرکات-نظامی-جدید-در-نزدیکی-تنگه-هرمز-متحد-قدرتمند-ترامپ-به-میدان-آمد",
+        "kind": "original"
+      },
+      {
+        "label": "آشیان سیمرغ",
+        "url": "https://t.me/simorghdata369/3359",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946606/رویترز-کره-جنوبی-می-گوید-قصد-دارد-عملیات-یگان-ضد-دزدی-دریایی-چونگ-هه-را-به-آب-های-نزدیک-تر-به-تنگه-هرمز-گسترش-دهد-بر-اساس-این-طرح-محدوده-عملیاتی-این-یگان-به-آب-های-نزدیک-بندر-دقم-در-عمان-در-650-کیلومتری-تنگه-هرمز-گسترش-خواهد-یافت-سئول-یک-فروند-هواپیمای-گشت-دریایی-را-هم-به-منطقه-اعزام-خواهد-کرد-و-شمار-نیرو-های-این-یگان-را-75-نفر-افزایش-می-دهد",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1083436/%DA%A9%D8%B1%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%A8%D9%87-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9%DB%8C-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D9%85%DB%8C-%D8%A2%DB%8C%DB%8C%D9%85-%D9%85%DB%8C%D8%B2%D8%A7%D9%86-%D9%86%DB%8C%D8%B1%D9%88-%D9%88-%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "کیهان لندن",
+        "url": "https://kayhan.london/1405/08/14/411576/",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "d0a96b78-3e34-4abd-9885-242fdd502aae",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "ارتباط مستقیم یا غیرمستقیم تصمیم سئول با فشارهای دولت ترامپ برای حمایت از جنگ علیه ایران.؛ ارتباط دقیق میان گزارش های حریق دو کشتی در تنگه هرمز با تحرکات نظامی کره جنوبی در منطقه.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-bc740c897b92018640",
+    "date": "2026-11-05",
+    "ts": 1793903794253,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تکذیب حضور نظامی ایران در یمن توسط وزارت خارجه و رویکرد جدید مشاوران ترامپ",
+    "source": "عصر ایران، میزان",
+    "source_url": "/story/09037b38-89ff-4a02-86ad-6a439624ab16/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/09037b38-89ff-4a02-86ad-6a439624ab16/",
+        "kind": "pendar"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1204052/سیا-و-خزانه-داری-آمریکا-خواستار-ادامه-محاصره-ایران-به-جای-حمله-نظامی-شدند",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1204061/وزارت-خارجه-ادعای-حضور-کارشناسان-نظامی-ایران-در-یمن-را-قویا-تکذیب-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4927816/رد-ادعای-بی-اساس-مداخله-ایران-در-یمن",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2173641/بقائی-اروپا-را-شریک-بحران-یمن-دانست-پاسخ-تند-تهران-به-اتهام-زنی-اتحادیه-اروپا",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1075920/بقائی-ادعای-حضور-کارشناسان-نظامی-ایران-در-یمن-را-قویا-تکذیب-می-کنیم",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306489-%D8%A8%D9%82%D8%A7%D8%A6%DB%8C-%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%D9%86-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DB%8C%D9%85%D9%86-%D8%AD%D8%B6%D9%88%D8%B1-%D9%86%D8%AF%D8%A7%D8%B1%D9%86%D8%AF-%D8%B5%D9%84%D8%AD-%D8%AF%D8%B1-%DB%8C%D9%85%D9%86-%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85-%D8%AA%D9%88%D9%82%D9%81-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://tabnak.ir/fa/news/4200045/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%A8%D9%87-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%A8%DB%8C%D8%A7%D8%B3%D8%A7%D8%B3-%D9%85%D8%AF%D8%A7%D8%AE%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DB%8C%D9%85%D9%86-d682d3d0245c41ada3792e13",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/476676/وزارت-خارجه-ادعای-حضور-کارشناسان-نظامی-ایران-در-یمن-را-قویا-تکذیب-کرد",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "09037b38-89ff-4a02-86ad-6a439624ab16",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "اسماعیل بقائی",
+        "role": "سخنگوی وزارت امور خارجه",
+        "statement": "ادعاهای مطرح شده مبنی بر حضور کارشناسان نظامی ایران در یمن را قویاً تکذیب می کنیم و خواستار توقف حملات و رفع محاصره غیرانسانی یمن هستیم.",
+        "direct_quote": false,
+        "source_url": "https://aftabnews.ir/fa/news/1075920/بقائی-ادعای-حضور-کارشناسان-نظامی-ایران-در-یمن-را-قویا-تکذیب-می-کنیم"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق ادعاهای مطرح شده علیه ایران در خصوص یمن که منجر به تکذیبیه سخنگو شد، در منابع ذکر نشده است.؛ ماهیت دقیق مشورت های ارائه شده به ترامپ در خصوص محاصره دریایی ایران مشخص نیست.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-0afa7847c8d91ceab4",
+    "date": "2026-11-05",
+    "ts": 1793903791624,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تداوم حملات نظامی اسرائیل در غزه، لبنان و جنوب سوریه",
+    "source": "خبرگزاری ایرنا (IRNA)، اقتصاد آنلاین، رویداد۲۴",
+    "source_url": "/story/3aa68768-390c-4689-a12e-c401c5282d0e/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/3aa68768-390c-4689-a12e-c401c5282d0e/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86312032/%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D9%86%D9%82%D8%B6-%D8%A2%D8%AA%D8%B4-%D8%A8%D8%B3-%D8%BA%D8%B2%D9%87-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%BE%D8%AE%D8%A7%D9%86%D9%87-%D9%88-%D8%AA%D8%A7%D9%86%DA%A9-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84%DB%8C",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86312908/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%87%D8%AF%D9%81-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D9%85%D8%AC%D8%AF%D8%AF-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D9%88-%D8%B2%D9%85%DB%8C%D9%86%DB%8C-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%D8%B1%D9%81%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری مهر (Mehr)",
+        "url": "https://www.mehrnews.com/news/7000760/%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%B1%DA%98%DB%8C%D9%85-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%AF%D8%B1-%D8%AC%D9%86%D9%88%D8%A8-%D8%B3%D9%88%D8%B1%DB%8C%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2173568/حملات-تازه-اسرائیل-به-جنوب-لبنان-خانه-های-مسکونی-به-آتش-کشیده-شدند",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/476616/تازه-ترین-خبر-های-جنگ-هواپیمای-دولتی-ایران-در-مسیر-مسکو-آکسیوس-ارتش-آمریکا-آمادگی-ها-را-برای-ازسرگیری-احتمالی-عملیات-گسترده-در-ایران-تکمیل-می-کند",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1075918/تداوم-حملات-اسرائیل-به-جنوب-لبنان",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "3aa68768-390c-4689-a12e-c401c5282d0e",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق تلفات و خسارات ناشی از حملات به مناطق مسکونی در جنوب لبنان تأیید رسمی نشده است.؛ ابعاد دقیق تحرکات ارتش اسرائیل در جنوب سوریه مشخص نیست.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-eab1736fe9c6ce54ee",
+    "date": "2026-11-05",
+    "ts": 1793903788790,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "گزارش فایننشال تایمز از ثبت سفارش ۹۰ پرتابگر موشکی روسیه با کد رمز مرتبط به ایران",
+    "source": "رادیو فردا، باشگاه خبرنگاران جوان، دویچه وله فارسی",
+    "source_url": "/story/0b869b90-29e3-4e67-b9bd-43c611eea9d5/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/0b869b90-29e3-4e67-b9bd-43c611eea9d5/",
+        "kind": "pendar"
+      },
+      {
+        "label": "رادیو فردا",
+        "url": "https://www.radiofarda.com/a/russia-iran-deal-90-guided-missile-launchers/33891177.html",
+        "kind": "original"
+      },
+      {
+        "label": "باشگاه خبرنگاران جوان",
+        "url": "https://www.yjc.ir/fa/news/9145853/ادعای-فایننشال-تایمز-درباره-توافق-روسیه-برای-فروش-۹۰-پرتابگر-موشکی-به-ایران",
+        "kind": "original"
+      },
+      {
+        "label": "دویچه وله فارسی (DW Persian)",
+        "url": "https://www.dw.com/fa-ir/فایننشال-تایمز-همکاری‌های-نظامی-روسیه-و-ایران-گسترش-یافته-است/a-79863271?maca=per-rss-per-all-1491-rdf",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1014856/%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%AA%D8%B3%D9%84%DB%8C%D8%AD%D8%A7%D8%AA%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D8%B3%DA%A9%D9%88-%D9%BE%D8%B1%D8%AA%D8%A7%D8%A8%DA%AF%D8%B1-%D9%85%D9%88%D8%B4%DA%A9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "آشیان سیمرغ",
+        "url": "https://t.me/simorghdata369/3365",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "0b869b90-29e3-4e67-b9bd-43c611eea9d5",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "تأیید رسمی این توافق از سوی مقامات نظامی ایران یا روسیه صورت نگرفته است.؛ نام رمز «K-10» به طور مستقل و رسمی توسط مراجع دولتی تأیید نشده که منحصراً به ایران اختصاص دارد.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-54d4664c57a7c62b23",
+    "date": "2026-11-05",
+    "ts": 1793903782868,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "واکنش های دموکرات های آمریکا به تداوم درگیری با ایران: از وعده قطع بودجه جنگ تا انتقاد از فقدان برنامه ترامپ",
+    "source": "انتخاب، برنی سندرز",
+    "source_url": "/story/2c073f45-bc20-4ed9-a12e-c1a5caa14f61/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/2c073f45-bc20-4ed9-a12e-c1a5caa14f61/",
+        "kind": "pendar"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946566/السید-نماینده-مسلمان-و-دموکرات-سنای-آمریکا-درباره-ایران-ترامپ-می-گوید-می-خواهد-کار-را-تمام-کند-اما-در-واقع-هیچ-برنامه-مشخصی-ندارد-دولت-ترامپ-فقط-با-وعده-ها-و-تبلیغات-فریبنده-مردم-آمریکا-را-به-انجام-این-کار-متقاعد-کرد-ما-شایسته-شرایطی-بسیار-بهتر-از-این-هستیم",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946567/برنی-سندرز-سناتور-آمریکایی-کاری-که-دموکرات-ها-می-توانند-انجام-دهند-متوقف-کردن-جنگ-ایران-است-ما-این-جنگ-را-متوقف-خواهیم-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417749",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1204036/نماینده-مسلمان-و-دموکرات-آمریکا-ترامپ-می-گوید-می-خواهد-کار-ایران-را-تمام-کند-اما-در-واقع-هیچ-برنامه-مشخصی-ندارد",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306464-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%DB%8C%D8%AF-%D8%A7%D8%B2-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AD%D9%85%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D9%88-%D9%85%DB%8C-%DA%AF%D9%88%DB%8C%D8%AF-%D9%85%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%DA%A9%D8%A7%D8%B1-%D8%B1%D8%A7-%D8%AA%D9%85%D8%A7%D9%85-%DA%A9%D9%86%D8%AF-%D8%A7%D9%85%D8%A7-%D8%AF%D8%B1-%D9%88%D8%A7%D9%82%D8%B9-%D9%87%DB%8C%DA%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%85%D8%B4%D8%AE%D8%B5%DB%8C-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/476650/انتقاد-السید-از-ترامپ-درباره-حمله-ایران",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1139780",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1095157/سندرز-بودجه-جنگ-با-ایران-را-قطع-می-کنیم-دیگر-بهانه-ای-برای-دموکرات-ها-وجود-ندارد",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "2c073f45-bc20-4ed9-a12e-c1a5caa14f61",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "عبدول السید",
+        "role": "نماینده دموکرات",
+        "statement": "ترامپ مدعی پایان دادن به درگیری است اما هیچ برنامه مشخصی برای آن ندارد و دولت او با تبلیغات فریبنده مردم را به این جنگ متقاعد کرده است.",
+        "direct_quote": false,
+        "source_url": "https://www.entekhab.ir/fa/news/946607/منبع-نزدیک-به-یکی-از-متحدان-عرب-آمریکا-می-گوید-ایران-در-آمریکا-تغییر-رژیم-ایجاد-کرد-دو-منبع-نزدیک-به-محافل-دولتی-عرب-گفتند-اوضاع-جدید-کنگره-انگیزه-ترامپ-را-برای-توافق-با-تهران-افزایش-می-دهد-احتمال-یک-حمله-تمام-عیار-به-ایران-اکنون-کمتر-به-نظر-می-رسد-اما-حملات-محدودتر-به-تأسیسات-هسته-ای-ممکن-است-راهی-برای-آمریکا-فراهم-کند-تا-به-درگیری-پایان-دهد"
+      },
+      {
+        "name": "برنی سندرز",
+        "role": "سناتور آمریکایی",
+        "statement": "دموکرات ها جنگ علیه ایران را نه فقط با قطعنامه، بلکه با قطع بودجه متوقف می کنند؛ این جنگ غیرقانونی و خلاف قانون اساسی است.",
+        "direct_quote": false,
+        "source_url": "https://www.mizanonline.ir/fa/news/4927817/برنی-سندرز-بودجه-جنگ-علیه-ایران-را-قطع-خواهیم-کرد"
+      }
+    ],
+    "uncertainty": "میزان توانایی عملی کنگره برای توقف کامل عملیات نظامی دولت از طریق قطع بودجه.؛ چگونگی واکنش عملی ترامپ به فشارهای داخلی کنگره در مورد ایران.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-e9f0d8dc7a8f96794c",
+    "date": "2026-11-05",
+    "ts": 1793903750301,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "رایزنی های ایران و عمان برای ازسرگیری تردد دریایی در تنگه هرمز",
+    "source": "ایسنا، انتخاب، ایران اینترنشنال",
+    "source_url": "/story/da8e8798-7862-4499-9e63-8fb18be6180b/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/da8e8798-7862-4499-9e63-8fb18be6180b/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405081409529/%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D8%B2-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%AA%D8%B1%D8%AA%DB%8C%D8%A8%D8%A7%D8%AA-%D9%81%D9%86%DB%8C-%D9%85%D8%B4%D8%AA%D8%B1%DA%A9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D8%B1%DB%8C%D8%A7%D9%86-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%88-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%86%DA%AF%D9%87",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946605/مسقط-گفت-وگوی-تلفنی-وزرای-خارجه-ایران-و-عمان-در-مورد-نتایج-مذاکرات-برای-ازسرگیری-تردد-در-تنگه-هرمز-طرفین-بر-اهمیت-عبور-از-مرحله-کاهش-تنش-ها-به-مرحله-تثبیت-تفاهم-های-پایدار-تأکید-کردند-تأکید-بر-اینکه-تفاهم-مورد-انتظار-باید-بر-رسیدگی-به-مسائل-حل-نشده-ای-استوار-باشد-که-ریشه-تشدید-تنش-ها-هستند",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/476666/رایزنی-ایران-و-عمان-برای-گشایش-دوباره-تنگه-هرمز",
+        "kind": "original"
+      },
+      {
+        "label": "ایران اینترنشنال (Iran International)",
+        "url": "https://www.iranintl.com/202611054092",
+        "kind": "original"
+      },
+      {
+        "label": "آشیان سیمرغ",
+        "url": "https://t.me/simorghdata369/3363",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "da8e8798-7862-4499-9e63-8fb18be6180b",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "عباس عراقچی",
+        "role": "وزیر امور خارجه ایران",
+        "statement": "آخرین تحولات مذاکرات برای ازسرگیری کشتیرانی بدون مانع در تنگه هرمز را بررسی کرد.",
+        "direct_quote": false,
+        "source_url": "https://t.me/simorghdata369/3363"
+      },
+      {
+        "name": "بدر البوسعیدی",
+        "role": "وزیر امور خارجه عمان",
+        "statement": "در گفت وگوی تلفنی با همتای ایرانی خود، بر ضرورت دستیابی به تفاهم های پایدار برای امنیت مسیرهای دریایی تأکید کرد.",
+        "direct_quote": false,
+        "source_url": "https://t.me/simorghdata369/3363"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق «ترتیبات فنی» مورد بحث میان دو کشور هنوز اعلام نشده است.؛ مشخص نیست «مسائل حل نشده» که ریشه تنش ها عنوان شده، دقیقاً شامل چه مواردی است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-d19b8d6158ac580d65",
+    "date": "2026-11-05",
+    "ts": 1793903735598,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "دیدار محسن رضایی با ولادیمیر پوتین در مسکو؛ تبادل پیام و رایزنی درباره ترتیبات امنیتی منطقه",
+    "source": "خبرآنلاین، شفقنا فارسی",
+    "source_url": "/story/7b133f91-afd4-4f71-b7e1-5e5799212c0e/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/7b133f91-afd4-4f71-b7e1-5e5799212c0e/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/667590",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417809",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306518-%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D9%85%D9%82%D8%A7%D9%85-%D9%85%D8%B9%D8%B8%D9%85-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D9%85%D8%A7%DB%8C%D9%84-%D8%A8%D9%88%D8%AF%D9%86%D8%AF-%D9%87%D8%B1%DA%86%D9%87-%D8%B3%D8%B1%DB%8C%D8%B9%D8%AA%D8%B1-%D9%BE%DB%8C%D8%A7%D9%85-%D8%A7%DB%8C%D8%B4%D8%A7%D9%86-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%A2%D9%82%D8%A7%DB%8C-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%AA%D9%82%D8%AF%DB%8C%D9%85-%DA%A9%D9%86%D9%85-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%B3%D8%A7%D8%A6%D9%84-%D9%85%D9%87%D9%85-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%A8%D8%A7-%D8%A2%D9%82%D8%A7%DB%8C-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D9%85%D8%B4%D9%88%D8%B1%D8%AA-%D8%B4%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/667598",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946647/محسن-رضایی-در-مسکو-رهبر-انقلاب-مایل-بودند-هر-چه-سریع-تر-پیام-ایشان-را-به-آقای-پوتین-ابلاغ-کنم-درباره-مسائل-مهم-منطقه-با-رئیس-جمهور-روسیه-مشورت-شد-پوتین-گفت-هر-کمکی-را-برای-پایان-جنگ-انجام-می-دهد",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417813",
+        "kind": "original"
+      },
+      {
+        "label": "شفقنا فارسی",
+        "url": "https://fa.shafaqna.com/news/2395124/",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1204090/محسن-رضایی-آقای-پوتین-گفت-هر-کمکی-برای-پایان-جنگ-انجام-می-دهد",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "7b133f91-afd4-4f71-b7e1-5e5799212c0e",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "آقای پوتین گفت هر کمکی برای پایان جنگ انجام می دهد و بمباران سایت های هسته ای ایران را محکوم کرد.",
+        "direct_quote": false,
+        "source_url": "https://www.khabaronline.ir/news/2298170/%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1%D8%B4-%D8%A8%D8%A7-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D9%85%D8%A7%DB%8C%D9%84-%D8%A8%D9%88%D8%AF%D9%86%D8%AF-%D9%87%D8%B1%DA%86%D9%87-%D8%B3%D8%B1%DB%8C%D8%B9%D8%AA%D8%B1-%D9%BE%DB%8C%D8%A7%D9%85"
+      },
+      {
+        "name": "محسن رضایی",
+        "role": "دبیر شورای عالی امنیت ملی",
+        "statement": "رهبر انقلاب مایل بودند هرچه سریع تر پیام ایشان به آقای پوتین تقدیم شود.",
+        "direct_quote": false,
+        "source_url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306518-%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D9%85%D9%82%D8%A7%D9%85-%D9%85%D8%B9%D8%B8%D9%85-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D9%85%D8%A7%DB%8C%D9%84-%D8%A8%D9%88%D8%AF%D9%86%D8%AF-%D9%87%D8%B1%DA%86%D9%87-%D8%B3%D8%B1%DB%8C%D8%B9%D8%AA%D8%B1-%D9%BE%DB%8C%D8%A7%D9%85-%D8%A7%DB%8C%D8%B4%D8%A7%D9%86-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%A2%D9%82%D8%A7%DB%8C-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%AA%D9%82%D8%AF%DB%8C%D9%85-%DA%A9%D9%86%D9%85-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%B3%D8%A7%D8%A6%D9%84-%D9%85%D9%87%D9%85-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%A8%D8%A7-%D8%A2%D9%82%D8%A7%DB%8C-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D9%85%D8%B4%D9%88%D8%B1%D8%AA-%D8%B4%D8%AF-%D9%81%DB%8C%D9%84%D9%85"
+      }
+    ],
+    "uncertainty": "جزئیات دقیق محتوای پیام رهبر انقلاب و جزئیات عملیاتی توافقات بر سر ترتیبات امنیتی منتشر نشده است.؛ واکنش رسمی طرف روسی به جزئیات مطرح شده توسط محسن رضایی، فراتر از روایت وی، شفاف نیست.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-7a25630010e5f22404",
+    "date": "2026-11-05",
+    "ts": 1793903732753,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "موازنه میان تهدید نظامی و دیپلماسی؛ تلاش های قطر برای حل تنش های هسته ای ایران و آمریکا",
+    "source": "تابناک، نیویورک تایمز، ایران اینترنشنال",
+    "source_url": "/story/88fbae3f-f60d-4b88-9f2f-47fb5b2de299/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/88fbae3f-f60d-4b88-9f2f-47fb5b2de299/",
+        "kind": "pendar"
+      },
+      {
+        "label": "تابناک",
+        "url": "https://tabnak.ir/fa/news/4200047/%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%DA%AF%D8%B2%DB%8C%D9%86%D9%87-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DA%A9%D8%A7%D8%AE-%D8%B3%D9%81%DB%8C%D8%AF-5e2db5b4ca0341a8ac9c845f",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306513-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D9%86%DB%8C%D9%88%DB%8C%D9%88%D8%B1%DA%A9-%D8%AA%D8%A7%DB%8C%D9%85%D8%B2-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D9%86%D9%87%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D8%B4%D8%AE%D8%B5-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946640/نیویورک-تایمز-ایران-و-آمریکا-تا-صبح-امروز-در-حال-بررسی-تازه-ترین-پیشنهادهای-میانجی-ها-برای-حل-اختلافات-بوده-اند-ونس-حامی-جدی-تلاش-های-قطر-برای-توافق-است-تلاش-های-میانجی-گرانه-دوحه-تا-حدودی-موفقیت-آمیز-بوده",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417810",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1014898/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D9%86%D9%87%D8%A7%D8%AF-%D9%85%DB%8C%D8%A7%D9%86%D8%AC%DB%8C-%D9%87%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "ایران اینترنشنال (Iran International)",
+        "url": "https://www.iranintl.com/202611058093",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "88fbae3f-f60d-4b88-9f2f-47fb5b2de299",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "میزان واقعیِ جدیت کاخ سفید در بررسی گزینه های نظامی در برابر تمایل به دیپلماسی مشخص نیست.؛ جزئیات دقیق پیشنهادهای ارائه شده توسط میانجی ها علنی نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-0e33674d473830ed4e",
+    "date": "2026-11-05",
+    "ts": 1793903410000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "آقای پوتین بمباران سایت های هسته ای ایران را محکوم کردند و معتقد بودند جنگ علیه ایران ظالمانه است.",
+    "source": "محسن رضایی",
+    "source_url": "https://www.rouydad24.ir/fa/news/476687/ببینید-محسن-رضایی-آقای-پوتین-گفت-هر-کمکی-برای-پایان-جنگ-انجام-می-دهد",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.rouydad24.ir/fa/news/476687/ببینید-محسن-رضایی-آقای-پوتین-گفت-هر-کمکی-برای-پایان-جنگ-انجام-می-دهد",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/848dd606-ad7c-4729-80ff-82f36ac557f7/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "848dd606-ad7c-4729-80ff-82f36ac557f7",
+    "speaker": "محسن رضایی",
+    "speaker_role": "دبیر شورای عالی امنیت ملی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-319a53f286bcd4508d",
+    "date": "2026-11-05",
+    "ts": 1793902012000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "آقای پوتین گفت هر کمکی برای پایان جنگ انجام می دهد و بمباران سایت های هسته ای ایران را محکوم کرد.",
+    "source": "محسن رضایی",
+    "source_url": "https://www.khabaronline.ir/news/2298170/%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1%D8%B4-%D8%A8%D8%A7-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D9%85%D8%A7%DB%8C%D9%84-%D8%A8%D9%88%D8%AF%D9%86%D8%AF-%D9%87%D8%B1%DA%86%D9%87-%D8%B3%D8%B1%DB%8C%D8%B9%D8%AA%D8%B1-%D9%BE%DB%8C%D8%A7%D9%85",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.khabaronline.ir/news/2298170/%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1%D8%B4-%D8%A8%D8%A7-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D9%85%D8%A7%DB%8C%D9%84-%D8%A8%D9%88%D8%AF%D9%86%D8%AF-%D9%87%D8%B1%DA%86%D9%87-%D8%B3%D8%B1%DB%8C%D8%B9%D8%AA%D8%B1-%D9%BE%DB%8C%D8%A7%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/7b133f91-afd4-4f71-b7e1-5e5799212c0e/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "7b133f91-afd4-4f71-b7e1-5e5799212c0e",
+    "speaker": "محسن رضایی",
+    "speaker_role": "دبیر شورای عالی امنیت ملی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-a566bbf61cb0259d82",
+    "date": "2026-11-05",
+    "ts": 1793883946000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "دموکرات ها جنگ علیه ایران را نه فقط با قطعنامه، بلکه با قطع بودجه متوقف می کنند؛ این جنگ غیرقانونی و خلاف قانون اساسی است.",
+    "source": "برنی سندرز",
+    "source_url": "https://www.mizanonline.ir/fa/news/4927817/برنی-سندرز-بودجه-جنگ-علیه-ایران-را-قطع-خواهیم-کرد",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.mizanonline.ir/fa/news/4927817/برنی-سندرز-بودجه-جنگ-علیه-ایران-را-قطع-خواهیم-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/2c073f45-bc20-4ed9-a12e-c1a5caa14f61/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "2c073f45-bc20-4ed9-a12e-c1a5caa14f61",
+    "speaker": "برنی سندرز",
+    "speaker_role": "سناتور آمریکایی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-5fa7288d44711b30a5",
+    "date": "2026-11-05",
+    "ts": 1793882844000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "شکست ترامپ و ناکامی راهبرد نظامی او در برابر ایران، فرصتی دوباره برای مذاکره و توافق ایجاد کرده است. تاب آوری ایران در جنگ اخیر، محاسبات ترامپ را تغییر داده و او را به سمت پذیرش دیپلماسی سوق داده است.",
+    "source": "کوروش احمدی",
+    "source_url": "https://t.me/covid_policy_dip/2789",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/covid_policy_dip/2789",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@covid_policy_dip",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "976c4d94-7134-4777-b565-3bc01466d066",
+    "speaker": "کوروش احمدی",
+    "speaker_role": "دیپلمات بازنشسته و پژوهشگر روابط بین الملل",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@covid_policy_dip",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-046066efab0e300295",
+    "date": "2026-11-05",
+    "ts": 1793882844000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "شکست ترامپ در انتخابات و ناکامی در دستیابی به پیروزی سریع در تجاوز نظامی، فرصتی برای توافق ایجاد کرده است. ایران با تاب آوری خود، ترامپ را به تغییر موضع و ابراز تمایل برای مذاکره واداشته است.",
+    "source": "کوروش احمدی",
+    "source_url": "https://t.me/covid_policy_dip/2789",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/covid_policy_dip/2789",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@covid_policy_dip",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "eda59f5c-d3d1-4832-8c8d-dfe81dac5e47",
+    "speaker": "کوروش احمدی",
+    "speaker_role": "دیپلمات بازنشسته و پژوهشگر روابط بین الملل",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@covid_policy_dip",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-129d9acd73c51a21a3",
+    "date": "2026-11-05",
+    "ts": 1793879593028,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "دور جدید تحریم های آمریکا علیه شبکه های پشتیبان ایران در حوزه های تسلیحاتی و نفتی",
+    "source": "میخائیل اولیانوف، وزارت خارجه آمریکا",
+    "source_url": "/story/5938e160-8556-4367-89d9-480f1a36760e/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/5938e160-8556-4367-89d9-480f1a36760e/",
+        "kind": "pendar"
+      },
+      {
+        "label": "باشگاه خبرنگاران جوان",
+        "url": "https://www.yjc.ir/fa/news/9145728/تحریم‌های-جدید-آمریکا-علیه-شرکت‌ها-و-افراد-مرتبط-با-ایران",
+        "kind": "original"
+      },
+      {
+        "label": "برترین ها",
+        "url": "https://www.bartarinha.ir/بخش-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B1%D9%88%D8%B2-20/1625818-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D8%AA%D9%85%D8%AF%DB%8C%D8%AF-%DA%A9%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "برترین ها",
+        "url": "https://www.bartarinha.ir/بخش-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B1%D9%88%D8%B2-20/1625806-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF%DB%8C-%DA%A9%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88%D8%B6%D8%B9-%DA%A9%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "ایران اینترنشنال (Iran International)",
+        "url": "https://www.iranintl.com/202611054006",
+        "kind": "original"
+      },
+      {
+        "label": "یورونیوز فارسی",
+        "url": "https://parsi.euronews.com/2026/11/05/us-sanctions-iran-shoulder-fired-missiles-oil-shadow-fleet-nov-2026",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946545/اولیانوف-درباره-شکست-جمهوری-خواهان-جنگ-علیه-ایران-تاثیر-زیادی-در-تحولات-داخلی-آمریکا-داشت",
+        "kind": "original"
+      },
+      {
+        "label": "دویچه وله فارسی (DW Persian)",
+        "url": "https://www.dw.com/fa-ir/آمریکا-چند-شرکت-و-فرد-را-در-هند-و-ترکیه-بابت-همکاری-با-ایران-تحریم-کرد/a-79861634?maca=per-rss-per-all-1491-rdf",
+        "kind": "original"
+      },
+      {
+        "label": "آشیان سیمرغ",
+        "url": "https://t.me/simorghdata369/3357",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "5938e160-8556-4367-89d9-480f1a36760e",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "میخائیل اولیانوف",
+        "role": "نماینده روسیه در سازمان های بین المللی",
+        "statement": "جنگ افروزی علیه ایران تاثیر زیادی در تحولات داخلی آمریکا و شکست جمهوری خواهان در انتخابات میان دوره ای داشت.",
+        "direct_quote": false,
+        "source_url": "https://www.entekhab.ir/fa/news/946545/اولیانوف-درباره-شکست-جمهوری-خواهان-جنگ-علیه-ایران-تاثیر-زیادی-در-تحولات-داخلی-آمریکا-داشت"
+      }
+    ],
+    "uncertainty": "تاثیر واقعی این تحریم ها بر ظرفیت پدافندی یا صادرات نفت ایران به دلیل استفاده از شبکه های واسطه و صوری نامشخص است.؛ ارتباط مستقیم و اثبات شده بین شکست جمهوری خواهان در انتخابات میان دوره ای و زمان بندی دقیق این تحریم ها توسط وزارتخانه های آمریکا تایید نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-61d16bfc78460b767f",
+    "date": "2026-11-05",
+    "ts": 1793879458495,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "واکاوی پیامدهای سیاسی جنگ با ایران برای دولت دونالد ترامپ پس از شکست انتخاباتی",
+    "source": "مشرق نیوز، سی ان ان، بی بی سی فارسی",
+    "source_url": "/story/5f555033-d095-4dd3-9e69-4f793075288e/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/5f555033-d095-4dd3-9e69-4f793075288e/",
+        "kind": "pendar"
+      },
+      {
+        "label": "مشرق نیوز",
+        "url": "https://www.mashreghnews.ir/news/1850562/%D8%A7%D9%84%D8%AC%D8%B2%DB%8C%D8%B1%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%88-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%AA%D8%AD%D9%85%DB%8C%D9%84-%DA%A9%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1083358/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%82%D8%B5%D8%AF-%D8%AF%D8%A7%D8%B1%D8%AF-%D8%A8%D8%B1%D8%AE%DB%8C-%D9%85%D9%82%D8%A7%D9%85-%D9%87%D8%A7%DB%8C-%D8%AF%D9%88%D9%84%D8%AA%D8%B4-%D8%B1%D8%A7-%D9%82%D8%B1%D8%A8%D8%A7%D9%86%DB%8C-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DA%A9%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405081409230/%D8%B3%DB%8C-%D8%A7%D9%86-%D8%A7%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%AD%D8%B3%D8%A7%D8%B3-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%DA%AF-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%81%D8%B1%DB%8C%D8%A8-%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "بی بی سی فارسی (BBC Persian)",
+        "url": "https://www.bbc.com/persian/articles/ck4g1jr84ndro?at_medium=RSS&at_campaign=rss",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1095131/ترامپ-احساس-می-کند-در-جنگ-با-ایران-فریب-خورده-است-چه-کسی-قرار-است-بهای-شکست-را-بپردازد",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1014827/%DA%86%D8%B1%D8%A7-%D9%88%D9%86%D8%B3-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%D8%A7%D9%86-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%86%D8%B3%D8%A8%D8%AA-%D8%AF%D8%A7%D8%AF",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "5f555033-d095-4dd3-9e69-4f793075288e",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "مشخص نیست دونالد ترامپ دقیقاً چه کسانی را در دولت خود مسئول گمراه شدن در تصمیمات جنگی می داند.؛ میزان واقعیِ تأثیر جنگ با ایران بر آرای رأی دهندگان آمریکایی همچنان موضوع بحث و تحلیل های متناقض سیاسی است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-91f7913013215409fe",
+    "date": "2026-11-05",
+    "ts": 1793879434957,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "صدور آرای قضایی به ارزش ۳۰۰ میلیارد دلار علیه آمریکا در محاکم داخلی ایران",
+    "source": "میزان، باشگاه خبرنگاران جوان، شرق",
+    "source_url": "/story/c5a4c50d-0e0c-429b-8e77-6d142945ec59/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/c5a4c50d-0e0c-429b-8e77-6d142945ec59/",
+        "kind": "pendar"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4927638/از-کودتای-28-مرداد-تا-جاسوسی-و-جنایت-در-مدرسه-میناب-بازخوانی-سابقه-اقدامات-آمریکا-علیه-ملت-ایران-و-ضرورت-پیگیری-حقوقی",
+        "kind": "original"
+      },
+      {
+        "label": "باشگاه خبرنگاران جوان",
+        "url": "https://www.yjc.ir/fa/news/9145780/نبرد-حقوقی-علیه-آمریکا-و-رژیم-صهیونیستی-با-قوت-ادامه-دارد-۳۰۰-میلیارد-دلار-رأی-علیه-آمریکا-صادر-شده-است",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری مهر (Mehr)",
+        "url": "https://www.mehrnews.com/news/7001076/%D8%B5%D8%AF%D9%88%D8%B1-%DB%B3%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%A3%DB%8C-%D9%82%D8%B6%D8%A7%DB%8C%DB%8C-%D8%B9%D9%84%DB%8C%D9%87-%D8%AF%D9%88%D9%84%D8%AA-%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D8%AA%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405081409477/%D8%B1%D8%A6%DB%8C%D8%B3-%D9%85%D8%B1%DA%A9%D8%B2-%D9%88%DA%A9%D9%84%D8%A7-%D9%82%D9%88%D9%87-%D9%82%D8%B6%D8%A7%D8%A6%DB%8C%D9%87-%D8%A2%D8%B1%D8%A7%DB%8C-%D9%82%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B9%D9%84%DB%8C%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%AD%D8%AF%D9%88%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1139771",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4927794/برگزاری-صد-و-چهل-و-پنجمین-نشست-از-سلسله-مباحث-جهاد-تبیین-عبدلیان-پور-نبرد-نظامی-امروز-نیازمند-پیوست-حقوقی-است",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86313144/%D9%85%D8%AD%DA%A9%D9%88%D9%85%DB%8C%D8%AA-%DB%B3%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D9%85%D8%AD%D8%A7%DA%A9%D9%85-%D9%82%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "c5a4c50d-0e0c-429b-8e77-6d142945ec59",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات حقوقی و مستندات پرونده های تشکیل شده برای رسیدن به رقم ۳۰۰ میلیارد دلار به طور شفاف ارائه نشده است.؛ میزان دقیق دارایی های توقیف و فروخته شده برای اجرای احکام به طور مشخص تفکیک نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-720d9f7ec47b6d8e5c",
+    "date": "2026-11-05",
+    "ts": 1793875744000,
+    "family": "deal",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تغییر موضع ونس تلاشی برای معامله ژئوپلیتیک است تا در داخل آمریکا به عنوان سیاستمدار عمل گرا شناخته شود و همزمان سیگنال توافق به جریان های سیاسی در تهران بفرستد.",
+    "source": "علی علیزاده",
+    "source_url": "https://t.me/jedaal/8577",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/jedaal/8577",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@ali-alizadeh",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "4c798668-302c-435c-a140-3e2f56ed7e9b",
+    "speaker": "علی علیزاده",
+    "speaker_role": "تحلیلگر سیاسی و مدیر رسانه",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@ali-alizadeh",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-136f3beca23203ffc0",
+    "date": "2026-11-05",
+    "ts": 1793873741889,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "اعمال تحریم های جدید آمریکا علیه شبکه حمل ونقل نفت ایران",
+    "source": "همشهری آنلاین، آشیان سیمرغ، تابناک",
+    "source_url": "/story/f50ae3d7-5fc4-4764-8ea8-14d1155c7798/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/f50ae3d7-5fc4-4764-8ea8-14d1155c7798/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرگزاری مهر (Mehr)",
+        "url": "https://www.mehrnews.com/news/7000669/%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/667469",
+        "kind": "original"
+      },
+      {
+        "label": "فردانیوز",
+        "url": "https://www.fardanews.com/fa/tiny/news-1417685",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1095026/تحریم-های-جدید-آمریکا-علیه-ایران",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1083335/%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%DB%B6-%D9%81%D8%B1%D8%AF-%D9%88-%DB%B1%DB%B0-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%81%D9%87%D8%B1%D8%B3%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D8%B6%D8%AF%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D8%B6%D8%A7%D9%81%D9%87-%DA%A9%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "رویداد۲۴",
+        "url": "https://www.rouydad24.ir/fa/news/476602/اعمال-تحریم-های-جدید-آمریکا-علیه-ایران",
+        "kind": "original"
+      },
+      {
+        "label": "ایران اینترنشنال (Iran International)",
+        "url": "https://www.iranintl.com/202611042631",
+        "kind": "original"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1139673",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "f50ae3d7-5fc4-4764-8ea8-14d1155c7798",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "سونیل کومار شارما",
+        "role": "مدیر شبکه هندی",
+        "statement": "او مدیریت شبکه ای را بر عهده داشته که با استفاده از پرچم های جعلی به نفتکش های ایرانی کمک می کرده است.",
+        "direct_quote": false,
+        "source_url": "https://t.me/simorghdata369/3348"
+      }
+    ],
+    "uncertainty": "تأثیر عملیاتی دقیق این تحریم ها بر حجم صادرات نفت ایران هنوز مشخص نیست.؛ ابعاد دقیق عملیات «طرد اقتصادی» که منابع به آن اشاره کرده اند، فراتر از جزئیات این دور از تحریم ها شفاف سازی نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-02f9ff9c57db7118b3",
+    "date": "2026-11-05",
+    "ts": 1793873738509,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تأثیر جنگ ایران بر شکست انتخاباتی جمهوری خواهان در انتخابات میان دوره ای آمریکا",
+    "source": "Al Jazeera، The Guardian، Arab News",
+    "source_url": "/story/a0cc8eaa-70d3-40a0-b2a5-50790b1bedaf/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/a0cc8eaa-70d3-40a0-b2a5-50790b1bedaf/",
+        "kind": "pendar"
+      },
+      {
+        "label": "Jerusalem Post",
+        "url": "https://www.jpost.com/us-elections/article-913803",
+        "kind": "original"
+      },
+      {
+        "label": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills?traffic_source=rss",
+        "kind": "original"
+      },
+      {
+        "label": "Financial Times — World",
+        "url": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725?syn-25a6b1a6=1",
+        "kind": "original"
+      },
+      {
+        "label": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
+        "kind": "original"
+      },
+      {
+        "label": "Arab News",
+        "url": "https://www.arabnews.com/world/after-midterm-loss-trump-is-left-to-weigh-his-next-move-in-iran-war-that-contributed-to-gop-debacle-3009895",
+        "kind": "original"
+      },
+      {
+        "label": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/nov/05/democrats-trump-foreign-policy-analysis",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "a0cc8eaa-70d3-40a0-b2a5-50790b1bedaf",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهور آمریکا",
+        "statement": "جنگ در ایران احتمالاً در عقب نشینی جمهوری خواهان در انتخابات میان دوره ای نقش داشته است.",
+        "direct_quote": false,
+        "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss"
+      }
+    ],
+    "uncertainty": "استراتژی نهایی دولت ترامپ در قبال جنگ ایران (تشدید، حفظ وضعیت یا خروج) هنوز مشخص نیست.؛ میزان موفقیت کنگره تحت کنترل دموکرات ها در اعمال محدودیت واقعی بر قدرت جنگ افروزی رئیس جمهور نامعلوم است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-a8fc07f2d3a2f2d43e",
+    "date": "2026-11-05",
+    "ts": 1793873733062,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تشدید اختلاف در دولت ترامپ بر سر استراتژی نظامی در قبال ایران پس از انتخابات میان دوره ای",
+    "source": "وال استریت ژورنال، آکسیوس، آشیان سیمرغ",
+    "source_url": "/story/6a503013-ad7f-4ac1-bf91-3161e69719e5/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/6a503013-ad7f-4ac1-bf91-3161e69719e5/",
+        "kind": "pendar"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1083359/%D9%81%D8%B4%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA-%DA%A9%D8%A7%D8%AE-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D9%85%D9%84%D9%87-%D9%85%D8%AC%D8%AF%D8%AF-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "ایران اینترنشنال (Iran International)",
+        "url": "https://www.iranintl.com/202611054146",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1075783/روز-250-جنگ-جشن-در-تهران-بخاطر-شکست-جمهوری-خواهان-در-آمریکا",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1075799/کاخ-سفید-در-آستانه-تصمیمی-جدید-درباره-ایران",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1075801/آکسیوس-شادی-تهران-می-تواند-ترامپ-را-به-ازسرگیری-جنگ-ترغیب-کند",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946547/اینکه-ونس-جنگ-علیه-ایران-را-عامل-نتایج-انتخابات-معرفی-کرده-نشان-دهنده-فاصله-گیری-کم-سابقه-او-از-ترامپ-است-دو-ماه-پیش-مقام-های-ارشد-دولت-در-نشستی-گفتند-اعلام-عمومی-ادامه-حملات-به-جمهوری-خواهان-آسیب-می-زند-در-هفته-های-بعد-آمریکا-حملاتش-را-به-صورت-محرمانه-انجام-داد-تا-از-ارسال-این-پیام-که-قصد-شروع-جنگ-را-دارد-جلوگیری-شود-اکنون-دو-نوع-فشار-بر-ترامپ-وجود-دارد-خروج-تدریجی-یا-آغاز-جنگ",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1095044/دو-دستگی-در-کاخ-سفید-فشار-برای-حمله-دوباره-به-ایران-هم-زمان-با-درخواست-پایان-جنگ",
+        "kind": "original"
+      },
+      {
+        "label": "آشیان سیمرغ",
+        "url": "https://t.me/simorghdata369/3355",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "6a503013-ad7f-4ac1-bf91-3161e69719e5",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهور آمریکا",
+        "statement": "ایران هرگز به سلاح هسته ای دست نخواهد یافت.",
+        "direct_quote": false,
+        "source_url": "https://aftabnews.ir/fa/news/1075801/آکسیوس-شادی-تهران-می-تواند-ترامپ-را-به-ازسرگیری-جنگ-ترغیب-کند"
+      },
+      {
+        "name": "پیت هگست",
+        "role": "وزیر دفاع آمریکا",
+        "statement": "او از ادامه حملات نظامی علیه ایران حمایت می کند.",
+        "direct_quote": false,
+        "source_url": "https://t.me/simorghdata369/3355"
+      }
+    ],
+    "uncertainty": "میزان دقیق نفوذ هر یک از جناح های مخالف یا موافق جنگ در دولت ترامپ مشخص نیست.؛ تصمیم نهایی ترامپ میان دو گزینه خروج تدریجی یا تشدید نظامی هنوز اتخاذ نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-a7d4bfc17e185416d1",
+    "date": "2026-11-05",
+    "ts": 1793873650917,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "روایت سپاه پاسداران از حریق سه شناور و کنترل دو پهپاد در تنگه هرمز",
+    "source": "عصر ایران، یورونیوز فارسی، آشیان سیمرغ",
+    "source_url": "/story/fbd172c6-41fb-4c21-b81b-22f6c79298c6/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/fbd172c6-41fb-4c21-b81b-22f6c79298c6/",
+        "kind": "pendar"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1203963/سپاه-دو-نفتکش-و-یک-یدک-کش-را-به-آتش-کشیدیم-غنیمت-گرفتن-دو-پهپاد-لوکاس-عکس",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946538/سپاه-آتش-سوزی-و-توقف-دو-نفتکش-و-یک-یدکش-در-پی-عبور-از-مسیر-غیر-مجاز-تنگه-هرمز-در-دست-گرفتن-کنترل-2-فروند-پهپاد-لوکاس-و-غنیمت-گرفتن-آن-ها",
+        "kind": "original"
+      },
+      {
+        "label": "آفتاب نیوز",
+        "url": "https://aftabnews.ir/fa/news/1075794/سپاه-اطلاعیه-ای-صادر-کرد-جزئیات",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2173580/تصاویری-از-غنیمت-گیری-آسمانی-در-تنگه-هرمز-عملیات-نامرئی-سپاه-علیه-دو-پرنده-آمریکایی",
+        "kind": "original"
+      },
+      {
+        "label": "میزان",
+        "url": "https://www.mizanonline.ir/fa/news/4927739/حریق-در-2-نفتکش-و-یک-ید-کش-در-اثر-عبور-از-مسیر-غیر-مجاز-تنگه-هرمز-و-در-اختیار-گرفتن-کنترل-دو-پهپاد-لوکاس",
+        "kind": "original"
+      },
+      {
+        "label": "یورونیوز فارسی",
+        "url": "https://parsi.euronews.com/2026/11/05/iran-irgc-two-oil-tankers-tugboat-fire-hormuz-captures-two-us-drones",
+        "kind": "original"
+      },
+      {
+        "label": "دویچه وله فارسی (DW Persian)",
+        "url": "https://www.dw.com/fa-ir/سپاه-پاسداران-از-آتش‌-گرفتن-دو-نفتکش-و-یک-یدک‌کش-در-تنگه-هرمز-خبر-داد/live-79860026?maca=per-rss-per-all-1491-rdf",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1095055/آتش-سوزی-در-دو-نفتکش-و-یک-یدکش-در-پی-عبور-از-مسیر-غیر-مجاز-تنگه-هرمز",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "fbd172c6-41fb-4c21-b81b-22f6c79298c6",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "جزئیات دقیق علت آتش سوزی شناورها (برخورد با مین در مقابل سایر دلایل) مورد تردید یا نیازمند تأیید مستقل است.؛ ماهیت و وضعیت کنونی شناورهای آسیب دیده و سرنشینان آن ها مشخص نیست.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-ae7c96bdf1a01690d0",
+    "date": "2026-11-05",
+    "ts": 1793873639851,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تغییر موازنه در کنگره آمریکا و وعده دموکرات ها برای توقف جنگ با ایران",
+    "source": "شرق، انتخاب",
+    "source_url": "/story/33fa1d40-5388-4d94-a543-4b35064778d6/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/33fa1d40-5388-4d94-a543-4b35064778d6/",
+        "kind": "pendar"
+      },
+      {
+        "label": "شرق",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1139649",
+        "kind": "original"
+      },
+      {
+        "label": "اقتصاد آنلاین",
+        "url": "https://www.eghtesadonline.com/fa/news/2173588/کنگره-دست-و-پای-ترامپ-را-می-بندد-بودجه-جنگ-با-ایران-قطع-شد",
+        "kind": "original"
+      },
+      {
+        "label": "عصر ایران",
+        "url": "https://www.asriran.com/fa/news/1203992/بودجه-جنگ-علیه-ایران-را-قطع-خواهیم-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1083392/%D8%A8%D8%B1%D9%86%DB%8C-%D8%B3%D9%86%D8%AF%D8%B1%D8%B2-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D9%82%D8%B7%D8%B9-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%DA%A9%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "یورونیوز فارسی",
+        "url": "https://parsi.euronews.com/2026/11/05/europe-today-trump-loses-congress-will-he-now-be-even-more-unpredictable",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946557/تد-کروز-سناتور-جمهوری-خواه-انتخابات-2026-صرفا-یک-موج-آبی-نبود-بلکه-یک-سونامی-بود-این-انتخابات-در-سطح-رسوایی-واترگیت-بود-جمهوری-خواهان-پای-صندوق-های-رأی-حاضر-شدند-اما-به-نامزدهای-ما-رأی-ندادند-و-دموکرات-ها-را-انتخاب-کردند-جنگ-ایران-بیش-از-اندازه-طولانی-شده-این-جنگ-باید-کوتاه-و-قاطع-به-پایان-می-رسید-این-جنگ-باید-پایان-یابد",
+        "kind": "original"
+      },
+      {
+        "label": "دنیای اقتصاد",
+        "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306447-%D8%A8%D8%B1%D9%86%DB%8C-%D8%B3%D9%86%D8%AF%D8%B1%D8%B2-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D9%82%D8%B7%D8%B9-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%DA%A9%D8%B1%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/667518",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "33fa1d40-5388-4d94-a543-4b35064778d6",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "برنی سندرز",
+        "role": "سناتور",
+        "statement": "جنگ علیه ایران غیرقانونی و مغایر قانون اساسی است و ما آن را نه فقط با قطعنامه، بلکه با قطع بودجه متوقف می کنیم.",
+        "direct_quote": true,
+        "source_url": "https://www.asriran.com/fa/news/1203992/بودجه-جنگ-علیه-ایران-را-قطع-خواهیم-کرد"
+      },
+      {
+        "name": "تد کروز",
+        "role": "سناتور جمهوری خواه",
+        "statement": "انتخابات ۲۰۲۶ یک سونامی سیاسی بود و جنگ ایران که بیش از اندازه طولانی شده باید پایان یابد.",
+        "direct_quote": false,
+        "source_url": "https://www.entekhab.ir/fa/news/946557/تد-کروز-سناتور-جمهوری-خواه-انتخابات-2026-صرفا-یک-موج-آبی-نبود-بلکه-یک-سونامی-بود-این-انتخابات-در-سطح-رسوایی-واترگیت-بود-جمهوری-خواهان-پای-صندوق-های-رأی-حاضر-شدند-اما-به-نامزدهای-ما-رأی-ندادند-و-دموکرات-ها-را-انتخاب-کردند-جنگ-ایران-بیش-از-اندازه-طولانی-شده-این-جنگ-باید-کوتاه-و-قاطع-به-پایان-می-رسید-این-جنگ-باید-پایان-یابد"
+      }
+    ],
+    "uncertainty": "میزان عملی شدن وعده قطع بودجه جنگ در عمل و واکنش احتمالی دونالد ترامپ به این اقدامات کنگره مشخص نیست.؛ چگونگی مدیریت دولت آمریکا در قبال ایران پس از تغییرات کنگره هنوز در هاله ای از ابهام است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-ca6035d657a241d541",
+    "date": "2026-11-05",
+    "ts": 1793873633392,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "کره جنوبی محدوده عملیاتی واحد دریایی خود را به نزدیکی تنگه هرمز گسترش می دهد",
+    "source": "Arab News، France 24، The Guardian",
+    "source_url": "/story/9bf51a00-14c6-4169-88f5-5740b34b64d2/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/9bf51a00-14c6-4169-88f5-5740b34b64d2/",
+        "kind": "pendar"
+      },
+      {
+        "label": "Arab News",
+        "url": "https://www.arabnews.com/world/south-korea-to-expand-anti-piracy-unit-operations-closer-to-strait-of-hormuz-3009881",
+        "kind": "original"
+      },
+      {
+        "label": "France 24",
+        "url": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz",
+        "kind": "original"
+      },
+      {
+        "label": "Jerusalem Post",
+        "url": "https://www.jpost.com/international/article-913878",
+        "kind": "original"
+      },
+      {
+        "label": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+        "kind": "original"
+      },
+      {
+        "label": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "9bf51a00-14c6-4169-88f5-5740b34b64d2",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "لی جائه-میونگ",
+        "role": "رئیس جمهور کره جنوبی",
+        "statement": "تصمیم نهایی برای تمدید و گسترش مأموریت واحد چونه هه نیازمند تأیید اوست.",
+        "direct_quote": false,
+        "source_url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz"
+      }
+    ],
+    "uncertainty": "موضع نهایی پارلمان کره جنوبی نسبت به این لایحه هنوز مشخص نیست.؛ جزئیات دقیق نحوه همکاری با نیروهای ائتلاف تحت رهبری آمریکا در صورت تصویب طرح، شفاف نشده است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-2796f86cf13bffe208",
+    "date": "2026-11-05",
+    "ts": 1793873624262,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "واکنش های انتخاباتی و شکاف در حزب جمهوری خواه بر سر استمرار جنگ با ایران",
+    "source": "انتخاب، بی بی سی فارسی، فرارو",
+    "source_url": "/story/dfb536bb-8c6a-441f-8386-0ab5dd890d3c/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/dfb536bb-8c6a-441f-8386-0ab5dd890d3c/",
+        "kind": "pendar"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946539/دی-سانتیس-فرماندار-جمهوری-خواه-فلوریدا-انتخابات-میان-دوره-ای-واکنشی-اعتراضی-علیه-ترامپ-از-سوی-جمهوری-خواهانی-بود-که-به-نامزدهای-حزب-مقابل-رأی-دادند",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946540/ترامپ-شاید-ونس-در-انتخابات-ریاست-جمهوری-2028-نامزد-نشود-نمی-دانم-چه-کسی-نامزد-خواهد-شد",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946542/فاکس-نیوز-به-نقل-از-منابع-مطلع-اظهارات-ونس-در-مورد-ارتباط-جنگ-ایران-با-شکست-در-انتخابات-میان-دوره-ای-نوعی-فراخوان-برای-بسیج-جمهوری-خواهانی-است-که-معتقد-هستند-ترامپ-بیش-از-اندازه-با-اسرائیل-هم-سو-شده-ونس-می-خواهد-پیش-از-انتخابات-2028-ائتلافی-با-رأی-دهندگان-ناراضی-ترامپ-تشکیل-دهد",
+        "kind": "original"
+      },
+      {
+        "label": "بی بی سی فارسی (BBC Persian)",
+        "url": "https://www.bbc.com/persian/articles/cmly04rxz5xpo?at_medium=RSS&at_campaign=rss",
+        "kind": "original"
+      },
+      {
+        "label": "فرارو",
+        "url": "https://fararu.com/fa/news/1014785/%D8%A2%DB%8C%D8%A7-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%AA-%D9%88%D9%86%D8%B3-%D8%A8%D8%A7-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D9%82%D8%AF%D9%85%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D8%A7%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%B3%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "اخبار روز",
+        "url": "https://akhbar-rooz.com/2026/11/05/68741/",
+        "kind": "original"
+      },
+      {
+        "label": "خبرآنلاین — تلگرام",
+        "url": "https://t.me/khabaronline_ir/667526",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "dfb536bb-8c6a-441f-8386-0ab5dd890d3c",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [
+      {
+        "name": "دونالد ترامپ",
+        "role": "رئیس جمهور آمریکا",
+        "statement": "شاید ونس در انتخابات ۲۰۲۸ نامزد نشود و نمی دانم چه کسی نامزد خواهد شد.",
+        "direct_quote": true,
+        "source_url": "https://www.entekhab.ir/fa/news/946542/فاکس-نیوز-به-نقل-از-منابع-مطلع-اظهارات-ونس-در-مورد-ارتباط-جنگ-ایران-با-شکست-در-انتخابات-میان-دوره-ای-نوعی-فراخوان-برای-بسیج-جمهوری-خواهانی-است-که-معتقد-هستند-ترامپ-بیش-از-اندازه-با-اسرائیل-هم-سو-شده-ونس-می-خواهد-پیش-از-انتخابات-2028-ائتلافی-با-رأی-دهندگان-ناراضی-ترامپ-تشکیل-دهد"
+      },
+      {
+        "name": "ران دی سانتیس",
+        "role": "فرماندار جمهوری خواه فلوریدا",
+        "statement": "انتخابات میان دوره ای واکنشی اعتراضی از سوی دموکرات ها، مستقل ها و شماری از جمهوری خواهان علیه رئیس جمهور و کنگره بود.",
+        "direct_quote": false,
+        "source_url": "https://www.entekhab.ir/fa/news/946542/فاکس-نیوز-به-نقل-از-منابع-مطلع-اظهارات-ونس-در-مورد-ارتباط-جنگ-ایران-با-شکست-در-انتخابات-میان-دوره-ای-نوعی-فراخوان-برای-بسیج-جمهوری-خواهانی-است-که-معتقد-هستند-ترامپ-بیش-از-اندازه-با-اسرائیل-هم-سو-شده-ونس-می-خواهد-پیش-از-انتخابات-2028-ائتلافی-با-رأی-دهندگان-ناراضی-ترامپ-تشکیل-دهد"
+      }
+    ],
+    "uncertainty": "میزان دقیق تأثیر موضع گیری ونس بر آرایش سیاسی جمهوری خواهان در انتخابات ۲۰۲۸.؛ نامزدهای نهایی حزب جمهوری خواه در رقابت های ریاست جمهوری آینده.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-89afe45273b55e07d1",
+    "date": "2026-11-05",
+    "ts": 1793873612252,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تغییر موازنه در کنگره آمریکا و واکنش ها به پیامدهای سیاسی و اقتصادی انتخابات میان دوره ای",
+    "source": "ایرنا، فوربس، رویترز",
+    "source_url": "/story/4364cfcc-97e4-475a-91da-545f3e6a7e15/",
+    "source_links": [
+      {
+        "label": "پروندهٔ خبر در پندار",
+        "url": "/story/4364cfcc-97e4-475a-91da-545f3e6a7e15/",
+        "kind": "pendar"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86312955/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7-%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%AA-%D9%87%D8%A7-%D8%B1%D8%A7-%D9%85%D8%B7%D8%B1%D8%AD-%DA%A9%D8%B1%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایسنا (ISNA)",
+        "url": "https://www.isna.ir/news/1405081409218/%D9%81%D9%88%D8%B1%D8%A8%D8%B3-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%AA-%D9%87%D8%A7-%DB%B1%DB%B1%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B2-%D8%AB%D8%B1%D9%88%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%DA%A9%D8%A7%D8%B3%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86312974/%D9%88%D8%B2%DB%8C%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D8%A8%D9%82-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%AA%D9%84%D8%A7%D8%B4-%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%AA-%D9%87%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D9%84-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%AA%DB%8C%DA%A9",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86312983/%D8%B1%D9%88%D9%86%D8%AF-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%A8%D9%87%D8%A7%DB%8C-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%86%D9%87%D8%A7%D8%B1%D9%85%DB%8C%D9%86-%D8%B1%D9%88%D8%B2-%D9%85%D8%AA%D9%88%D8%A7%D9%84%DB%8C-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%DB%8C%D8%A7%D9%81%D8%AA",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86312984/%D8%B3%D9%86%D8%A7%D8%AA%D9%88%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%AA-%D9%87%D8%A7-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%82%D8%B7%D8%B9-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%81%D8%B1%D8%A7%D8%AE%D9%88%D8%A7%D9%86%D8%AF",
+        "kind": "original"
+      },
+      {
+        "label": "خبرگزاری ایرنا (IRNA)",
+        "url": "https://www.irna.ir/news/86312981/%D8%B3%D9%86%D8%A7%D8%AA%D9%88%D8%B1-%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%AA-%DA%A9%D9%86%DA%AF%D8%B1%D9%87-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%87%D8%A7-%D9%88-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "آنا",
+        "url": "https://ana.ir/fa/news/1095041/ترامپ-در-یک-روز-168-میلیون-دلار-از-ثروتش-را-از-دست-داد-سقوط-سهام-تروث-سوشال-پس-از-پیروزی-دموکرات-ها",
+        "kind": "original"
+      },
+      {
+        "label": "انتخاب",
+        "url": "https://www.entekhab.ir/fa/news/946548/بلینکن-وزیر-خارجه-سابق-آمریکا-نقطه-آغاز-تلاش-دموکرات-ها-دستیابی-به-یک-راه-حل-دیپلماتیک-برای-جنگ-انتخابی-ترامپ-علیه-ایران-باشد",
+        "kind": "original"
+      }
+    ],
+    "source_type": "story",
+    "source_doc_id": "4364cfcc-97e4-475a-91da-545f3e6a7e15",
+    "speaker": "",
+    "speaker_role": "",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "میزان واقعی کاهش ثروت دونالد ترامپ بین ۱۱۱ تا ۱۶۸ میلیون دلار گزارش شده است.؛ تاثیر عملی نفوذ دموکرات ها در کنگره بر تصمیمات سیاست خارجی دولت ترامپ هنوز نامشخص است.",
+    "evidence_phrase": "",
+    "score_reason": "سرخط مبهم یا بدون رویداد قابل امتیازدهی",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ سرخط مبهم یا بدون رویداد قابل امتیازدهی"
+  },
+  {
+    "id": "auto-9678b4d50427f0179c",
+    "date": "2026-11-05",
+    "ts": 1793873455000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "جنگ ترامپ علیه ایران هزینه سنگینی بر خانوارهای آمریکایی داشته و باید از طریق دیپلماتیک پایان یابد.",
+    "source": "آنتونی بلینکن",
+    "source_url": "https://www.mashreghnews.ir/news/1850683/%D8%A8%D9%84%DB%8C%D9%86%DA%A9%D9%86-%D8%AC%D9%86%DA%AF-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D8%A7-%D8%B1%D8%A7%D9%87-%D8%AD%D9%84-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.mashreghnews.ir/news/1850683/%D8%A8%D9%84%DB%8C%D9%86%DA%A9%D9%86-%D8%AC%D9%86%DA%AF-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D8%A7-%D8%B1%D8%A7%D9%87-%D8%AD%D9%84-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/40fbb0e4-190a-4bb9-b23f-75006cc4aeca/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "40fbb0e4-190a-4bb9-b23f-75006cc4aeca",
+    "speaker": "آنتونی بلینکن",
+    "speaker_role": "وزیر خارجه پیشین آمریکا",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-801ddc7cf837d3b924",
+    "date": "2026-11-05",
+    "ts": 1793868790000,
+    "family": "attrition",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "تغییر سیاست خارجی و رفع تحریم ها به تنهایی موتور رشد ایران را روشن نمی کند. عبور از ساختار تمرکزگرای ۱۰۰ ساله و حرکت به سمت نوعی فدرالیسم، تنها راه پیشرفت پایدار کشور است.",
+    "source": "یدالله کریمی پور",
+    "source_url": "https://t.me/Karimipour_K/6334",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://t.me/Karimipour_K/6334",
+        "kind": "original"
+      },
+      {
+        "label": "صفحهٔ چهره در پندار",
+        "url": "/@Karimipour_K",
+        "kind": "figure"
+      }
+    ],
+    "source_type": "figure",
+    "source_doc_id": "16b842f1-caaa-4bf8-beca-ee25346ee58e",
+    "speaker": "یدالله کریمی پور",
+    "speaker_role": "پژوهشگر ژئوپلیتیک",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "/@Karimipour_K",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-22419b8fd81e2ab87d",
+    "date": "2026-11-05",
+    "ts": 1793863308000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "انتخابات ۲۰۲۶ یک سونامی سیاسی بود و جنگ ایران که بیش از اندازه طولانی شده باید پایان یابد.",
+    "source": "تد کروز",
+    "source_url": "https://www.entekhab.ir/fa/news/946557/تد-کروز-سناتور-جمهوری-خواه-انتخابات-2026-صرفا-یک-موج-آبی-نبود-بلکه-یک-سونامی-بود-این-انتخابات-در-سطح-رسوایی-واترگیت-بود-جمهوری-خواهان-پای-صندوق-های-رأی-حاضر-شدند-اما-به-نامزدهای-ما-رأی-ندادند-و-دموکرات-ها-را-انتخاب-کردند-جنگ-ایران-بیش-از-اندازه-طولانی-شده-این-جنگ-باید-کوتاه-و-قاطع-به-پایان-می-رسید-این-جنگ-باید-پایان-یابد",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.entekhab.ir/fa/news/946557/تد-کروز-سناتور-جمهوری-خواه-انتخابات-2026-صرفا-یک-موج-آبی-نبود-بلکه-یک-سونامی-بود-این-انتخابات-در-سطح-رسوایی-واترگیت-بود-جمهوری-خواهان-پای-صندوق-های-رأی-حاضر-شدند-اما-به-نامزدهای-ما-رأی-ندادند-و-دموکرات-ها-را-انتخاب-کردند-جنگ-ایران-بیش-از-اندازه-طولانی-شده-این-جنگ-باید-کوتاه-و-قاطع-به-پایان-می-رسید-این-جنگ-باید-پایان-یابد",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/33fa1d40-5388-4d94-a543-4b35064778d6/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "33fa1d40-5388-4d94-a543-4b35064778d6",
+    "speaker": "تد کروز",
+    "speaker_role": "سناتور جمهوری خواه",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-b1deaeb4be420ba321",
+    "date": "2026-11-05",
+    "ts": 1793860550000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "جنگ علیه ایران غیرقانونی و مغایر قانون اساسی است و ما آن را نه فقط با قطعنامه، بلکه با قطع بودجه متوقف می کنیم.",
+    "source": "برنی سندرز",
+    "source_url": "https://www.asriran.com/fa/news/1203992/بودجه-جنگ-علیه-ایران-را-قطع-خواهیم-کرد",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.asriran.com/fa/news/1203992/بودجه-جنگ-علیه-ایران-را-قطع-خواهیم-کرد",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/33fa1d40-5388-4d94-a543-4b35064778d6/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "33fa1d40-5388-4d94-a543-4b35064778d6",
+    "speaker": "برنی سندرز",
+    "speaker_role": "سناتور",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-a8c54e9a2f8a5d2d87",
+    "date": "2026-11-05",
+    "ts": 1793855870000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "جنگ افروزی علیه ایران تاثیر زیادی در تحولات داخلی آمریکا و شکست جمهوری خواهان در انتخابات میان دوره ای داشت.",
+    "source": "میخائیل اولیانوف",
+    "source_url": "https://www.entekhab.ir/fa/news/946545/اولیانوف-درباره-شکست-جمهوری-خواهان-جنگ-علیه-ایران-تاثیر-زیادی-در-تحولات-داخلی-آمریکا-داشت",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.entekhab.ir/fa/news/946545/اولیانوف-درباره-شکست-جمهوری-خواهان-جنگ-علیه-ایران-تاثیر-زیادی-در-تحولات-داخلی-آمریکا-داشت",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/5938e160-8556-4367-89d9-480f1a36760e/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "5938e160-8556-4367-89d9-480f1a36760e",
+    "speaker": "میخائیل اولیانوف",
+    "speaker_role": "نماینده روسیه در سازمان های بین المللی",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
     "id": "auto-42955fe05ce970d868",
     "date": "2026-11-05",
     "ts": 1793850528828,
@@ -1678,6 +3908,47 @@
     "review_note": "خبر گردآوری‌شده؛ اصالت ادعاها مستقلاً راستی‌آزمایی نشده است؛ گزارش یک ادعا یا پیش بینی؛ وقوع رویداد احراز نشده است"
   },
   {
+    "id": "auto-f69adacc669c407dc2",
+    "date": "2026-11-04",
+    "ts": 1793835001000,
+    "family": "war",
+    "direction": 1,
+    "weight": 1,
+    "raw_direction": 1,
+    "raw_weight": 1,
+    "text": "جنگ در ایران احتمالاً در عقب نشینی جمهوری خواهان در انتخابات میان دوره ای نقش داشته است.",
+    "source": "دونالد ترامپ",
+    "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/a0cc8eaa-70d3-40a0-b2a5-50790b1bedaf/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "a0cc8eaa-70d3-40a0-b2a5-50790b1bedaf",
+    "speaker": "دونالد ترامپ",
+    "speaker_role": "رئیس جمهور آمریکا",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "احتمال",
+    "score_reason": "عبارت شناسایی‌شده: «احتمال»؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل",
+    "by": "pendar-auto",
+    "score_kind": "analyst_view",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل"
+  },
+  {
     "id": "auto-a4bb54ae772a257451",
     "date": "2026-11-04",
     "ts": 1793824200000,
@@ -1928,7 +4199,7 @@
     "date": "2026-11-04",
     "ts": 1793820411000,
     "family": "war",
-    "direction": 1,
+    "direction": 0,
     "weight": 1,
     "raw_direction": 1,
     "raw_weight": 1,
@@ -1960,9 +4231,9 @@
     "evidence_phrase": "پیش رو",
     "score_reason": "عبارت شناسایی‌شده: «پیش رو»؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل",
     "by": "pendar-auto",
-    "score_kind": "analyst_view",
+    "score_kind": "capped",
     "review_status": "auto_unverified",
-    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ دیدگاه مثبت تحلیل گر؛ نه شاهد مستقل"
+    "review_note": "سقف امتیاز روزانه برای جلوگیری از اثر تکرار خبر"
   },
   {
     "id": "auto-ee739453f747877799",
@@ -2154,6 +4425,47 @@
     ],
     "source_type": "statement",
     "source_doc_id": "bf18a22d-eeb3-4bde-bc23-cf594cb2777b",
+    "speaker": "دونالد ترامپ",
+    "speaker_role": "رئیس جمهور آمریکا",
+    "analyst_priority": false,
+    "analyst_handle": "",
+    "analyst_group": "",
+    "speaker_url": "",
+    "related_people": [],
+    "uncertainty": "",
+    "evidence_phrase": "",
+    "score_reason": "بدون جهت صریح یا دارای نشانه های متعارض",
+    "by": "pendar-auto",
+    "score_kind": "unscored",
+    "review_status": "auto_unverified",
+    "review_note": "دیدگاه منتسب؛ وقوع رویداد را اثبات نمی‌کند؛ بدون جهت صریح یا دارای نشانه های متعارض"
+  },
+  {
+    "id": "auto-907e8c5a4f05641ffb",
+    "date": "2026-11-04",
+    "ts": 1793816884000,
+    "family": "war",
+    "direction": 0,
+    "weight": 1,
+    "raw_direction": 0,
+    "raw_weight": 1,
+    "text": "ایران نباید سلاح اتمی داشته باشد و این موضوع مستقل از تأثیرات جنگ است.",
+    "source": "دونالد ترامپ",
+    "source_url": "https://www.sharghdaily.com/fa/tiny/news-1139678",
+    "source_links": [
+      {
+        "label": "منبع اصلی اظهارنظر",
+        "url": "https://www.sharghdaily.com/fa/tiny/news-1139678",
+        "kind": "original"
+      },
+      {
+        "label": "خبر مرتبط در پندار",
+        "url": "/story/d8c2c708-9630-43d3-b4ba-dafd91f4d657/",
+        "kind": "pendar"
+      }
+    ],
+    "source_type": "statement",
+    "source_doc_id": "d8c2c708-9630-43d3-b4ba-dafd91f4d657",
     "speaker": "دونالد ترامپ",
     "speaker_role": "رئیس جمهور آمریکا",
     "analyst_priority": false,
