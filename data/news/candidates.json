@@ -21,6 +21,15 @@
     "score_effect": null
   },
   {
+    "id": "01be32132973d8c23a2d",
+    "source_id": "aljazeera",
+    "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
+    "published": "Thu, 05 Nov 2026 21:33:40 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "0201a2ec007580e0cb75",
     "source_id": "aljazeera",
     "title": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
@@ -1368,6 +1377,15 @@
     "score_effect": null
   },
   {
+    "id": "52d5e9bd3a7af2c23382",
+    "source_id": "aljazeera",
+    "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
+    "url": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
+    "published": "Thu, 05 Nov 2026 20:07:04 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "5313b64befa0f84c531a",
     "source_id": "aljazeera",
     "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
@@ -1904,6 +1922,15 @@
     "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
     "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
     "published": "Mon, 02 Nov 2026 00:29:16 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "6f1bcb838dc7d4dcf19f",
+    "source_id": "axios",
+    "title": "Trump meets with national security team, says Iran war decision coming \"soon\"",
+    "url": "https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision",
+    "published": "Thu, 05 Nov 2026 23:25:56 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -2544,6 +2571,15 @@
     "score_effect": null
   },
   {
+    "id": "91bd40f7f4bb83f2ee04",
+    "source_id": "aljazeera",
+    "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+    "published": "Fri, 06 Nov 2026 00:19:57 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "91fa8735e1ca953464d8",
     "source_id": "axios",
     "title": "Brazil's election ignites MAGA's midterm warnings",
@@ -3030,6 +3066,15 @@
     "score_effect": null
   },
   {
+    "id": "abe606335fc688ea6dd6",
+    "source_id": "axios",
+    "title": "Raman ousts Bass in LA mayor race for historic socialist win",
+    "url": "https://www.axios.com/2026/11/05/nithya-raman-la-mayor-upset-democratic-socialist",
+    "published": "Thu, 05 Nov 2026 21:36:01 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "ac651dd7c69151c6024a",
     "source_id": "simorghdata369",
     "title": "🔴سپاه از انهدام دو پهپاد تهاجمی آمریکایی در آسمان بندرخمیر خبر داد",
@@ -3074,6 +3119,15 @@
     "title": "Israeli exit polls suggest no clear winner in pivotal general election",
     "url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
     "published": "Wed, 28 Oct 2026 02:09:11 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "b183a82f2dbe2c294743",
+    "source_id": "aljazeera",
+    "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+    "published": "Fri, 06 Nov 2026 00:00:00 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -3875,6 +3929,15 @@
     "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
     "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
     "published": "Sat, 31 Oct 2026 17:49:23 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "e913161249b60e8c3f4a",
+    "source_id": "axios",
+    "title": "\"Never heard of them\": Meet the incoming House Dems who shocked even their own party",
+    "url": "https://www.axios.com/2026/11/06/house-democrats-nc-tennessee-new-members-wave",
+    "published": "Fri, 06 Nov 2026 00:43:45 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
