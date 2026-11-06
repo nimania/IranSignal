@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T05:31:23.360161+00:00",
+  "generated_at": "2026-11-06T07:18:49.479476+00:00",
   "score_is_probability": false,
   "snapshots": [
     {
@@ -3497,6 +3497,44 @@
         "auto-e581c112288cc36700",
         "auto-7a5a61f5fbaac79515",
         "auto-bc740c897b92018640"
+      ]
+    },
+    {
+      "at": "2026-11-06T07:18:49.479476+00:00",
+      "digest": "77aabfd2ddb5b1321eeb7e46",
+      "scores": {
+        "deal": 9,
+        "regroup": 1,
+        "war": 24,
+        "transition": 5,
+        "attrition": 3,
+        "recovery": 1
+      },
+      "changes": {
+        "deal": 0,
+        "regroup": 0,
+        "war": 1,
+        "transition": 0,
+        "attrition": 0,
+        "recovery": 0
+      },
+      "signal_count": 637,
+      "recent_signal_ids": [
+        "auto-c7465f0a76f9fe880a",
+        "auto-609aac3ba159fb68f1",
+        "auto-d2e6ae39fe8f6f74f9",
+        "auto-dab3ae9c70d1d2472c",
+        "auto-406f6975feba5c3782",
+        "auto-bfddf5032deb9e0e89",
+        "auto-09823f4d4822cad311",
+        "auto-3e743b59055bd43868",
+        "auto-97579fbb5f5eab4c43",
+        "auto-cbba2819d747220f4c",
+        "auto-2eed0a400b67a8891f",
+        "auto-910702cd529f0b7769",
+        "auto-f929e5d3b612e36711",
+        "auto-ddf91b544f4db73e45",
+        "auto-30f8f3a7377d68df6b"
       ]
     }
   ]

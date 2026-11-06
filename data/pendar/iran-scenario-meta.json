@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T05:31:23.360161+00:00",
-  "total": 627,
-  "automatic_candidates": 619,
-  "new_candidates": 0,
-  "auto_scored": 42,
+  "generated_at": "2026-11-06T07:18:49.479476+00:00",
+  "total": 637,
+  "automatic_candidates": 629,
+  "new_candidates": 10,
+  "auto_scored": 43,
   "auto_direction_policy": "conservative_rules_with_daily_caps_unverified",
   "priority_analyst_policy": {
     "group": "iran_future_expert_views",
@@ -23,7 +23,7 @@
   "history_points": 28,
   "history_file": "iran-scenario-history.json",
   "snapshots_file": "iran-scenario-snapshots.json",
-  "last_observed_change": "2026-11-06T00:27:31.849151+00:00",
+  "last_observed_change": "2026-11-06T07:18:49.479476+00:00",
   "poll_interval_seconds": 60,
   "upstream_news_schedule_minutes": 15,
   "upstream_figure_schedule_minutes": 30
