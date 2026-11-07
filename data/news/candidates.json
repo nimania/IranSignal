@@ -1479,6 +1479,15 @@
     "score_effect": null
   },
   {
+    "id": "4a03d61bd890eedc04db",
+    "source_id": "aljazeera",
+    "title": "Demonstration in Berlin calls for an end to arming Israel",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
+    "published": "Sat, 07 Nov 2026 19:04:04 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "4b8127674807a8497b88",
     "source_id": "simorghdata369",
     "title": "🔴 چین فرستاده ویژه خود را به ایران، عمان و عربستان اعزام می‌کند؛ تحرک دیپلماتیک تازه پکن در بحران خاورمیانه",
@@ -1508,6 +1517,15 @@
     "title": "Trump has frank call with Netanyahu about next move in Iran war",
     "url": "https://www.axios.com/2026/11/01/trump-netanyahu-iran-negotiations-war",
     "published": "Sun, 01 Nov 2026 18:00:05 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "4e36144c09d6b1dbf825",
+    "source_id": "aljazeera",
+    "title": "Masked protesters set off firecrackers and block roads in Albania",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
+    "published": "Sat, 07 Nov 2026 19:49:19 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -2504,6 +2522,15 @@
     "title": "Smotrich dances in Israel despite far-right decline",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
     "published": "Tue, 27 Oct 2026 23:03:44 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "7e21c16f1ab6d682bd6c",
+    "source_id": "aljazeera",
+    "title": "Mélenchon promises action against Israeli annexation if elected President",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+    "published": "Sat, 07 Nov 2026 20:53:47 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -3633,6 +3660,15 @@
     "score_effect": null
   },
   {
+    "id": "b81ebdbbeaa0b7187239",
+    "source_id": "axios",
+    "title": "Netanyahu rival Eisenkot tapped to form Israeli government",
+    "url": "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog",
+    "published": "Sat, 07 Nov 2026 20:48:32 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "b82991400671cb8d5df1",
     "source_id": "aljazeera",
     "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
@@ -3836,6 +3872,15 @@
     "title": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
     "url": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
     "published": "Tue, 27 Oct 2026 18:11:57 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "c2447301fd56c0417808",
+    "source_id": "aljazeera",
+    "title": "How did AIPAC-backed candidates fare in the US midterm elections?",
+    "url": "https://www.aljazeera.com/news/2026/11/7/how-did-aipac-backed-candidates-fare-in-the-us-midterm-elections?traffic_source=rss",
+    "published": "Sat, 07 Nov 2026 19:29:06 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -4769,6 +4814,15 @@
     "title": "Israel and the US are both going to the polls - the consequences will be global",
     "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
     "published": "Mon, 26 Oct 2026 16:30:34 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "ff36b173deb6378ac4d8",
+    "source_id": "aljazeera",
+    "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+    "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+    "published": "Sat, 07 Nov 2026 20:26:58 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   }
