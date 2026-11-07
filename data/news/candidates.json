@@ -642,6 +642,15 @@
     "score_effect": null
   },
   {
+    "id": "26da8a0247aee88761dd",
+    "source_id": "axios",
+    "title": "Vance leads behind-the-scenes push for new Iran deal",
+    "url": "https://www.axios.com/2026/11/06/vance-leads-push-new-iran-deal",
+    "published": "Fri, 06 Nov 2026 22:41:57 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "27665cc79da74fea21fe",
     "source_id": "aljazeera",
     "title": "Could the US midterms further isolate Israel in Washington?",
@@ -1326,6 +1335,15 @@
     "score_effect": null
   },
   {
+    "id": "4539af2981461496411d",
+    "source_id": "aljazeera",
+    "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+    "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+    "published": "Fri, 06 Nov 2026 23:07:22 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "45f99a7330e50de51e5b",
     "source_id": "simorghdata369",
     "title": "💯🇮🇷 سپاه: دو نفتکش در تنگه هرمز بر اثر برخورد با مین دریایی منفجر شدند",
@@ -1926,6 +1944,15 @@
     "score_effect": null
   },
   {
+    "id": "664a7a0f59072e0a7ee3",
+    "source_id": "axios",
+    "title": "Dems plot a unified case against Trump",
+    "url": "https://www.axios.com/2026/11/06/democrats-trump-investigations-congress",
+    "published": "Fri, 06 Nov 2026 21:39:17 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "6692b44eef6d30484131",
     "source_id": "aljazeera",
     "title": "Palestinian families return home after Israeli siege of Hebron",
@@ -2216,6 +2243,15 @@
     "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
     "url": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
     "published": "Wed, 04 Nov 2026 21:13:56 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "753787c656ca9dea5695",
+    "source_id": "aljazeera",
+    "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+    "published": "Fri, 06 Nov 2026 21:37:30 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -3327,6 +3363,15 @@
     "score_effect": null
   },
   {
+    "id": "b06bb407ff9bac75e1a9",
+    "source_id": "axios",
+    "title": "Trump still defiant after a bruising week",
+    "url": "https://www.axios.com/2026/11/06/trump-midterms-arch-felony-appea",
+    "published": "Fri, 06 Nov 2026 21:19:46 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "b09d6a13d4b470b6ad52",
     "source_id": "bbc",
     "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
@@ -3440,6 +3485,15 @@
     "title": "The fallout from Trump's Russia energy moves",
     "url": "https://www.axios.com/2026/10/19/fallout-trump-russia-energy",
     "published": "Mon, 19 Oct 2026 12:40:07 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "b562dff502e45ba8d965",
+    "source_id": "aljazeera",
+    "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+    "published": "Sat, 07 Nov 2026 00:00:00 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
