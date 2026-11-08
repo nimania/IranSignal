@@ -129,6 +129,15 @@
     "score_effect": null
   },
   {
+    "id": "0ae85b0b6b6d8cfed180",
+    "source_id": "aljazeera",
+    "title": "Eisenkot open to Netanyahu joining Israel’s next government",
+    "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
+    "published": "Sun, 08 Nov 2026 18:12:27 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "0b0d5790d741951894fa",
     "source_id": "simorghdata369",
     "title": "🔴🤩 اکسیوس: نتانیاهو خواستار حمله فوری به ایران پس از انتخابات آمریکاست؛ ترامپ فعلاً مخالف شتاب در حمله است",
@@ -281,6 +290,15 @@
     "title": "Israel election results: No clear winner projected, what’s next?",
     "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
     "published": "Tue, 27 Oct 2026 23:06:47 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "1274e1d4989d1130db0e",
+    "source_id": "aljazeera",
+    "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
+    "published": "Sun, 08 Nov 2026 16:51:41 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -1851,6 +1869,18 @@
     "score_effect": null
   },
   {
+    "id": "581c40d6556f8e3e0265",
+    "source_id": "simorghdata369",
+    "title": "🔴🇺🇸🇮🇷 آکسیوس: جمهوری‌خواهان برای استیضاح وزیر جنگ ترامپ آماده می‌شوند؛ جنگ ایران در مرکز بحران واشنگتن",
+    "url": "https://t.me/simorghdata369/3414",
+    "published": "2026-11-08T14:58:45+00:00",
+    "excerpt": "🔴🇺🇸🇮🇷 آکسیوس: جمهوری‌خواهان برای استیضاح وزیر جنگ ترامپ آماده می‌شوند؛ جنگ ایران در مرکز بحران واشنگتن آکسیوس گزارش داد رهبران جمهوری‌خواه مجلس نمایندگان آمریکا احتمال می‌دهند شمار کافی از اعضای حزبشان به طرح استیضاح پیت هگست، وزیر جنگ دولت ترامپ، رأی مثبت دهند. #️⃣ توماس مسی، نماینده جمهوری‌خواه، قصد دارد در هفته آغازشده از ۹ نوامبر، رأی‌گیری درباره استیضاح هگست را به جریان بیندازد. #️⃣ محور اصلی اتهامات، ادامه جنگ آمریکا علیه ایران و ادعای نقض اختیارات قانونی کنگره در تصمیم‌گیری‌های نظامی است. #️⃣ بر اساس این گزارش، برخی نمایندگان جمهوری‌خواه که در انتخابات میان‌دوره‌ای شکست خورده‌اند، ممکن است در کنار دموکرات‌ها به استیضاح رأی دهند. #️⃣ پنتاگون اتهامات را رد کرده و تأکید دارد اقدامات وزارت جنگ قانونی بوده است. ❗️💯: حتی در صورت تصویب استیضاح در مجلس نمایندگان، برکناری هگست نیازمند محکومی",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
     "id": "582e00d2cc77a38ad230",
     "source_id": "aljazeera",
     "title": "Arab parties on track to win record seats in Israel election, polls show",
@@ -2018,6 +2048,15 @@
     "title": "Republicans see shrinking boost from redistricting",
     "url": "https://www.axios.com/2026/10/20/republicans-redistricting-boost-shrinking-midterms",
     "published": "Tue, 20 Oct 2026 09:20:11 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "5f3e26599b3141d16dcb",
+    "source_id": "aljazeera",
+    "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+    "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+    "published": "Sun, 08 Nov 2026 17:44:51 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -2816,6 +2855,15 @@
     "title": "How Israel is tightening its grip on Palestinian schools in East Jerusalem",
     "url": "https://www.aljazeera.com/features/2026/11/6/how-israel-is-tightening-its-grip-on-palestinian-schools-in-east-jerusalem?traffic_source=rss",
     "published": "Fri, 06 Nov 2026 07:28:53 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "861e666c76c36a684ba6",
+    "source_id": "aljazeera",
+    "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
+    "url": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+    "published": "Sun, 08 Nov 2026 16:18:09 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -4047,6 +4095,15 @@
     "score_effect": null
   },
   {
+    "id": "c0c7196f6f29d5507e4f",
+    "source_id": "axios",
+    "title": "Scoop: Trump asked Netanyahu to move on Gaza peace plan in post-election call",
+    "url": "https://www.axios.com/2026/11/08/trump-netanyahu-implement-gaza-peace-plan",
+    "published": "Sun, 08 Nov 2026 17:59:28 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "c16c12fb6fbf6c7733de",
     "source_id": "aljazeera",
     "title": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
@@ -4311,6 +4368,15 @@
     "score_effect": null
   },
   {
+    "id": "d0036df64462e6cb8ca4",
+    "source_id": "aljazeera",
+    "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
+    "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
+    "published": "Sun, 08 Nov 2026 14:06:19 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "d0231a82d68c4243c82b",
     "source_id": "bbc",
     "title": "Israel heads to polls for pivotal election defined by security and democracy",
@@ -4502,6 +4568,15 @@
     "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
     "url": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
     "published": "Sat, 07 Nov 2026 13:50:15 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "dc5da81467e406f22b24",
+    "source_id": "aljazeera",
+    "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
+    "published": "Sun, 08 Nov 2026 17:11:52 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
