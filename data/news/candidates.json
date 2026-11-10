@@ -291,6 +291,15 @@
     "score_effect": null
   },
   {
+    "id": "10356f70501142dc8c4b",
+    "source_id": "aljazeera",
+    "title": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank",
+    "url": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
+    "published": "Tue, 10 Nov 2026 05:23:57 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "105c085da21b142f6623",
     "source_id": "bbc",
     "title": "Israel's far right find fertile ground among first-time voters",
@@ -1725,6 +1734,15 @@
     "score_effect": null
   },
   {
+    "id": "4a13c26e31e25bbff4ac",
+    "source_id": "aljazeera",
+    "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+    "url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
+    "published": "Tue, 10 Nov 2026 01:56:47 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "4b8127674807a8497b88",
     "source_id": "simorghdata369",
     "title": "🔴 چین فرستاده ویژه خود را به ایران، عمان و عربستان اعزام می‌کند؛ تحرک دیپلماتیک تازه پکن در بحران خاورمیانه",
@@ -2157,6 +2175,18 @@
     "score_effect": null
   },
   {
+    "id": "5c64ec08e71d15d9c998",
+    "source_id": "simorghdata369",
+    "title": "🔴حمله تازه به شریان حیاتی نفت عربستان؛ مسیر جایگزین تنگه هرمز هدف قرار گرفت",
+    "url": "https://t.me/simorghdata369/3445",
+    "published": "2026-11-10T07:01:15+00:00",
+    "excerpt": "🔴حمله تازه به شریان حیاتی نفت عربستان؛ مسیر جایگزین تنگه هرمز هدف قرار گرفت وزارت انرژی عربستان سعودی اعلام کرد خط لوله راهبردی «شرق–غرب» در منطقه مدینه، روز دوشنبه ۹ نوامبر هدف حمله قرار گرفته است. #️⃣به گفته این وزارتخانه، حمله موجب آتش‌سوزی محدودی شد که مهار شده است؛ تلفات انسانی گزارش نشده و فعالیت خط لوله نیز مختل نشده است. 🔎چرا این حمله اهمیت دارد؟ #️⃣طبق گزارش رویترز، عربستان در پی اختلال صادرات نفت از تنگه هرمز، روزانه حدود ۴ میلیون بشکه نفت را از طریق همین خط لوله به بندر ینبع در دریای سرخ منتقل می‌کند. #️⃣این مسیر حدود ۴ درصد عرضه جهانی نفت را جابه‌جا می‌کند و یکی از مهم‌ترین راه‌های دورزدن محدودیت‌های هرمز است. ⚠️عامل حمله هنوز به‌طور رسمی مشخص نشده و توقف صادرات نفت نیز گزارش نشده است. 📡 🌟 آشیان سیمرغ تنها رسانه خبری دکتر مهدی مطهرنیا📽 @simorghdata369✅ zal🔋 👉👍👍👍",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
     "id": "5c7213c233193ef07fe9",
     "source_id": "aljazeera",
     "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
@@ -2507,6 +2537,15 @@
     "title": "How AI is enabling faster, more dangerous cyber warfare",
     "url": "https://www.axios.com/2026/11/06/ai-government-hackers-fridge-hacks",
     "published": "Fri, 06 Nov 2026 12:15:06 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "6c8df0fca36d5c77b0b6",
+    "source_id": "aljazeera",
+    "title": "Israel’s Shin Bet finds no evidence of foreign election interference",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
+    "published": "Tue, 10 Nov 2026 01:59:59 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -3527,6 +3566,15 @@
     "title": "What the US midterm results mean for the Middle East",
     "url": "https://www.bbc.co.uk/news/videos/cq74pedvwlw8o?at_medium=RSS&at_campaign=rss",
     "published": "Wed, 04 Nov 2026 17:57:03 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "94dc11fed0875cdb2a5a",
+    "source_id": "axios",
+    "title": "France says Iranian hackers sabotaged supermarket refrigerators",
+    "url": "https://www.axios.com/2026/11/10/france-iran-supermarket-refridgerator-hacks",
+    "published": "Tue, 10 Nov 2026 01:36:17 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -5028,6 +5076,15 @@
     "score_effect": null
   },
   {
+    "id": "e05a4882d6b207104eaa",
+    "source_id": "aljazeera",
+    "title": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
+    "url": "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions?traffic_source=rss",
+    "published": "Tue, 10 Nov 2026 05:39:50 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "e06cb770ead31d776b4f",
     "source_id": "simorghdata369",
     "title": "🔴آمریکا ارتباط مالی صرافی رمزارز MEXC با نظام بانکی خود را ممنوع کرد؛ ادعای شناسایی ۱۶ میلیارد دلار تراکنش مشکوک",
@@ -5250,6 +5307,15 @@
     "score_effect": null
   },
   {
+    "id": "ed51392ded6bbdc44424",
+    "source_id": "aljazeera",
+    "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+    "published": "Tue, 10 Nov 2026 01:00:00 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "ed990f5f3f00115c7d2d",
     "source_id": "simorghdata369",
     "title": "🔴ایران پرونده تصویری حملات به بنادر و تأسیسات دریایی را به سازمان بین‌المللی دریانوردی ارائه کرد",
@@ -5279,6 +5345,15 @@
     "title": "Exclusive: Democrats lay groundwork to probe Trump's diesel deal",
     "url": "https://www.axios.com/2026/10/26/democrats-trump-diesel-deal",
     "published": "Mon, 26 Oct 2026 12:30:46 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "ef90a89b75046741f4ce",
+    "source_id": "aljazeera",
+    "title": "France blames Iran for October supermarket cyberattack",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+    "published": "Tue, 10 Nov 2026 01:01:47 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
