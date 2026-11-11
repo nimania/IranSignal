@@ -2854,3 +2854,17 @@ date,metric,region,value,unit,source_url,source_name,observation_scope,verified
 2026-10-23,commercial_vessel_transits,Strait of Hormuz,5,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
 2026-10-24,commercial_vessel_transits,Strait of Hormuz,2,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
 2026-10-25,commercial_vessel_transits,Strait of Hormuz,2,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
+2026-10-26,commercial_vessel_transits,Strait of Hormuz,5,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
+2026-10-27,commercial_vessel_transits,Strait of Hormuz,4,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
+2026-10-28,commercial_vessel_transits,Strait of Hormuz,3,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
+2026-10-29,commercial_vessel_transits,Strait of Hormuz,3,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
+2026-10-30,commercial_vessel_transits,Strait of Hormuz,7,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
+2026-10-31,commercial_vessel_transits,Strait of Hormuz,8,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
+2026-11-01,commercial_vessel_transits,Strait of Hormuz,1,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
+2026-11-02,commercial_vessel_transits,Strait of Hormuz,2,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
+2026-11-03,commercial_vessel_transits,Strait of Hormuz,4,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
+2026-11-04,commercial_vessel_transits,Strait of Hormuz,5,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
+2026-11-05,commercial_vessel_transits,Strait of Hormuz,5,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
+2026-11-06,commercial_vessel_transits,Strait of Hormuz,6,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
+2026-11-07,commercial_vessel_transits,Strait of Hormuz,2,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
+2026-11-08,commercial_vessel_transits,Strait of Hormuz,3,daily_calls,https://portwatch.imf.org/,IMF PortWatch,IMF PortWatch; chokepoint6; n_total; AIS-observed commercial transit calls,true
