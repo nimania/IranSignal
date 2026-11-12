@@ -822,6 +822,15 @@
     "score_effect": null
   },
   {
+    "id": "201701a311edfc8d6c0c",
+    "source_id": "bbc",
+    "title": "Two men guilty of spying for Iran over plan to target journalists and lawyer",
+    "url": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 12 Nov 2026 18:54:00 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "2052fc1b7ea7420e781a",
     "source_id": "bbc",
     "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
@@ -1281,6 +1290,15 @@
     "score_effect": null
   },
   {
+    "id": "307c098c64ff72f9b798",
+    "source_id": "bbc",
+    "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+    "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 11 Nov 2026 16:45:11 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "310da3987f2d15e943ed",
     "source_id": "aljazeera",
     "title": "Israeli air strike on Gaza City university kills three people",
@@ -1650,6 +1668,18 @@
     "url": "https://www.aljazeera.com/opinions/2026/10/31/a-un-protection-force-must-be-urgently-deployed-to-palestine?traffic_source=rss",
     "published": "Sat, 31 Oct 2026 08:57:35 +0000",
     "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "3d2cea95cb16886af192",
+    "source_id": "simorghdata369",
+    "title": "🔴مجلس خبرگان رهبری: بررسی خروج ایران از NPT و بازنگری در دکترین دفاعی ضروری شده است",
+    "url": "https://t.me/simorghdata369/3508",
+    "published": "2026-11-12T15:00:35+00:00",
+    "excerpt": "🔴مجلس خبرگان رهبری: بررسی خروج ایران از NPT و بازنگری در دکترین دفاعی ضروری شده است مجلس خبرگان رهبری در بیانیه‌ای تازه اعلام کرد بررسی خروج ایران از پیمان منع گسترش سلاح‌های هسته‌ای (NPT)، بازنگری در دکترین دفاعی و تقویت بازدارندگی کشور به ضرورتی اجتناب‌ناپذیر تبدیل شده است. #️⃣ این نهاد با اشاره به تهدیدهای مکرر علیه ایران، به‌ویژه در حوزه هسته‌ای، خواستار توجه مسئولان به این موضوع با هدایت رهبری شد. #️⃣ در بخش دیگری از بیانیه تأکید شده که هرگونه حمله مجدد به ایران با پاسخ فوری و مؤثر نیروهای مسلح، بدون محدودیت جغرافیایی، مواجه خواهد شد. ⚠️ ❗️💯: این بیانیه به معنای تصویب خروج ایران از NPT یا تغییر رسمی دکترین دفاعی نیست. ایران همچنان عضو این پیمان است. 📡 🌟آشیان سیمرغ تنها رسانه خبری دکتر مهدی مطهرنیا📽 @simorghdata369✅ zal🔋 👉👍👍👍",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
     "score_effect": null
   },
   {
@@ -2196,6 +2226,15 @@
     "score_effect": null
   },
   {
+    "id": "4fabd03765f925caf3ab",
+    "source_id": "aljazeera",
+    "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
+    "published": "Thu, 12 Nov 2026 18:03:02 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "4fc13356be9f76268359",
     "source_id": "axios",
     "title": "Trump's \"war-time consigliere\" and the Miller Doctrine",
@@ -2219,6 +2258,15 @@
     "title": "Haley Stevens requests U.S. marshals' protection after death threats",
     "url": "https://www.axios.com/2026/11/03/haley-stevens-death-threats-marshals",
     "published": "Tue, 03 Nov 2026 20:55:28 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "5042121f0991be7f5ee9",
+    "source_id": "aljazeera",
+    "title": "Iranian men guilty of spying on British journalists",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss",
+    "published": "Thu, 12 Nov 2026 19:38:33 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -2406,6 +2454,15 @@
     "score_effect": null
   },
   {
+    "id": "57971533232eb6854083",
+    "source_id": "aljazeera",
+    "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
+    "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
+    "published": "Thu, 12 Nov 2026 14:27:54 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "57a8109683ef21f7676a",
     "source_id": "aljazeera",
     "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
@@ -2577,6 +2634,18 @@
     "url": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
     "published": "Thu, 05 Nov 2026 05:39:31 +0000",
     "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "5cbb9b39d02e3bab89af",
+    "source_id": "simorghdata369",
+    "title": "🚨 وزیر دفاع اسرائیل: درباره ایران با نتانیاهو و فرمانده ارتش کاملاً هم‌نظر هستیم",
+    "url": "https://t.me/simorghdata369/3519",
+    "published": "2026-11-12T18:35:26+00:00",
+    "excerpt": "🚨 وزیر دفاع اسرائیل: درباره ایران با نتانیاهو و فرمانده ارتش کاملاً هم‌نظر هستیم اسرائیل کاتس، وزیر دفاع اسرائیل، پس از نشست ارزیابی امنیتی با ایال زامیر، رئیس ستاد ارتش، اعلام کرد که میان مقام‌های سیاسی و نظامی این کشور درباره ایران هماهنگی کامل وجود دارد. #️⃣ کاتس گفت: «نخست‌وزیر نتانیاهو، من و رئیس ستاد ارتش درباره مسئله ایران در تمام ابعاد آن هم‌نظر هستیم.» #️⃣ او تأکید کرد همکاری برای انجام هر اقدامی که از نظر مقامات اسرائیلی برای تأمین امنیت این کشور ضروری باشد، ادامه خواهد یافت. #️⃣ این اظهارات هم‌زمان با دیدار امنیتی نتانیاهو و گادی آیزنکوت و در پی گزارش‌هایی درباره اختلاف نتانیاهو با فرمانده ارتش بر سر عملیات احتمالی علیه ایران مطرح شده است. ⚠️تاکنون صدور دستور حمله جدید به ایران یا توافق بر سر زمان عملیات اعلام نشده است. 📡 🌟آشیان سیمرغ تنها رسانه خبری دکتر مهدی مطهرنیا📽 @simorghd",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
     "score_effect": null
   },
   {
@@ -2973,6 +3042,18 @@
     "score_effect": null
   },
   {
+    "id": "6cea29bec98d0c824e46",
+    "source_id": "simorghdata369",
+    "title": "🔴نیویورک‌تایمز: مخالفت سه همسایه ایران با درخواست آمریکا برای بستن مرزهای زمینی",
+    "url": "https://t.me/simorghdata369/3515",
+    "published": "2026-11-12T17:31:44+00:00",
+    "excerpt": "🔴نیویورک‌تایمز: مخالفت سه همسایه ایران با درخواست آمریکا برای بستن مرزهای زمینی روزنامه نیویورک‌تایمز در گزارشی به نقل از مقام‌های آمریکایی و عراقی فاش کرد تلاش چند هفته‌ای واشنگتن برای متقاعدکردن همسایگان ایران به بستن گذرگاه‌های مرزی، تاکنون به نتیجه موردنظر آمریکا نرسیده است. #️⃣ عراق: آمریکا خواستار بسته‌شدن تمام گذرگاه‌ها به‌جز دو مرز شده، اما بغداد این درخواست را نپذیرفته است. #️⃣ ترکیه: عمدتاً از تغییر سیاست‌های مرزی خودداری کرده است. #️⃣ پاکستان: برخی گذرگاه‌ها را موقتاً بسته، اما تعطیلی گسترده مرزها را اجرا نکرده است. #️⃣ به گزارش این روزنامه، نگرانی از آسیب اقتصادی و ناآرامی در مناطق مرزی، از دلایل اصلی مقاومت همسایگان ایران است. ⚠️: این گزارش محدودیت مهمی را در اجرای فشار اقتصادی آمریکا نشان می‌دهد؛ کنترل مرزهای زمینی ایران به همکاری دولت‌های همسایه وابسته است. 📡 🌟آشیان سیمرغ تن",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
     "id": "6cefb239012cf4ac6334",
     "source_id": "aljazeera",
     "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
@@ -3243,6 +3324,18 @@
     "url": "https://t.me/simorghdata369/3473",
     "published": "2026-11-11T06:17:41+00:00",
     "excerpt": "🔴وزیر خزانه‌داری آمریکا در پی تهدیدهای منتسب به ایران به پایگاه نظامی منتقل شد نیویورک‌تایمز گزارش داد «اسکات بسنت»، وزیر خزانه‌داری آمریکا، به دنبال تهدیدهایی علیه جان خود که به ایران نسبت داده شده، محل سکونتش را ترک کرده و به یک پایگاه نظامی منتقل شده است. #️⃣ رویترز نیز با استناد به دو منبع مطلع، انتقال او را تأیید کرده است. #️⃣ سخنگوی وزارت خزانه‌داری آمریکا اعلام کرد این تهدیدها مانع ادامه کارزار فشار اقتصادی بسنت علیه ایران نخواهد شد. #️⃣ شدت و جزئیات تهدیدها روشن نیست و ایران پیش‌تر اتهام طراحی حمله علیه افراد در خاک آمریکا را رد کرده است. 🌟 آشیان سیمرغ تنها رسانه خبری دکتر مهدی مطهرنیا📽 @simorghdata369✅ zal🔋 👉👍👍👍",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
+    "id": "75a3d73bdd50a615f59d",
+    "source_id": "simorghdata369",
+    "title": "🚨بیانیه مشترک کم‌سابقه نتانیاهو و آیزنکوت؛ نشست امنیتی در سایه اختلاف بر سر حمله احتمالی به ایران",
+    "url": "https://t.me/simorghdata369/3509",
+    "published": "2026-11-12T15:03:18+00:00",
+    "excerpt": "🚨بیانیه مشترک کم‌سابقه نتانیاهو و آیزنکوت؛ نشست امنیتی در سایه اختلاف بر سر حمله احتمالی به ایران رسانه‌های اسرائیلی گزارش دادند بنیامین نتانیاهو و گادی آیزنکوت، مأمور تشکیل دولت جدید اسرائیل، در اقدامی کم‌سابقه با انتشار بیانیه‌ای مشترک از برگزاری نشست امنیتی خبر دادند. #️⃣ این جلسه برای ساعت ۱۷ امروز به وقت اسرائیل در دفتر نخست‌وزیر در اورشلیم برنامه‌ریزی شده و قرار است «گای مارکیزانو»، دبیر نظامی نتانیاهو، نیز در آن حضور داشته باشد. #️⃣ نشست در شرایطی برگزار می‌شود که گزارش‌هایی از اختلاف نتانیاهو با فرماندهان نظامی درباره عملیات احتمالی علیه ایران منتشر شده است. #️⃣ آیزنکوت پیش‌تر از نتانیاهو خواسته بود تا زمان تشکیل دولت جدید، از اقدامات نظامی غیرضروری خودداری کند. ⚠️نکته مهم: موضوع رسمی نشست، ارائه گزارش سیاسی و امنیتی اعلام شده است؛ تاکنون هیچ سندی مبنی بر توافق نتانیاهو و آیزنکوت ب",
     "source_kind": "public_telegram_preview",
     "status": "unverified_candidate",
     "verification": "requires_independent_primary_or_reputable_source",
@@ -3624,6 +3717,15 @@
     "score_effect": null
   },
   {
+    "id": "81fec70bf6679bc0cc52",
+    "source_id": "aljazeera",
+    "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
+    "published": "Thu, 12 Nov 2026 16:07:16 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "826a6ba37ac2cdaeec74",
     "source_id": "aljazeera",
     "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
@@ -3647,6 +3749,15 @@
     "title": "Education under fire: Gaza’s children face death on their way to school",
     "url": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss",
     "published": "Sat, 31 Oct 2026 10:00:17 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "84121a77cad0de35ed7b",
+    "source_id": "aljazeera",
+    "title": "Prominent Israeli settler denied entry into France",
+    "url": "https://www.aljazeera.com/news/2026/11/12/chk-prominent-israeli-settler-denied-entry-into-france?traffic_source=rss",
+    "published": "Thu, 12 Nov 2026 16:44:49 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -3714,6 +3825,18 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
     "published": "Wed, 28 Oct 2026 18:31:33 +0000",
     "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "868707cfa1a4f97894ff",
+    "source_id": "simorghdata369",
+    "title": "🔴ترامپ: دیگر به توافق با ایران نیاز نداریم؛ مأموریت ونس تغییر کرد",
+    "url": "https://t.me/simorghdata369/3506",
+    "published": "2026-11-12T14:42:37+00:00",
+    "excerpt": "🔴ترامپ: دیگر به توافق با ایران نیاز نداریم؛ مأموریت ونس تغییر کرد دونالد ترامپ، رئیس‌جمهور آمریکا، در پیامی تازه در شبکه اجتماعی تروث سوشال اعلام کرد واشنگتن دیگر نیازی به توافق با ایران ندارد. #️⃣ ترامپ نوشت: «ما به توافق با ایران نیاز نداریم. آن روزها مدت‌هاست گذشته است.» #️⃣ او همچنین مدعی شد آمریکا صدها میلیارد دلار از پول ایران و کنترل تنگه هرمز را در اختیار دارد. #️⃣ ترامپ از معاون خود، جی‌دی ونس، خواست تمام تمرکزش را بر بررسی فساد و جرایم در شهرها و ایالت‌های تحت مدیریت دموکرات‌ها بگذارد. #️⃣ این تغییر موضع در حالی اعلام شده که ونس در روزهای اخیر در تلاش‌های دیپلماتیک برای پایان‌دادن به جنگ با ایران نقش داشته است. ⚠️هنوز مشخص نیست این اظهارات به معنای توقف کامل مذاکرات غیرمستقیم تهران و واشنگتن باشد. 📡 🌟آشیان سیمرغ تنها رسانه خبری دکتر مهدی مطهرنیا📽 @simorghdata369✅ zal🔋 👉👍👍👍",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
     "score_effect": null
   },
   {
@@ -3927,6 +4050,15 @@
     "score_effect": null
   },
   {
+    "id": "8cbbb168a09a20e63ad9",
+    "source_id": "aljazeera",
+    "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
+    "published": "Thu, 12 Nov 2026 16:55:10 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "8d5fe81ce920a495c113",
     "source_id": "simorghdata369",
     "title": "🔴 تصمیم تازه اوپک‌پلاس در میانه بحران هرمز؛ افزایش تولید نفت متوقف ماند",
@@ -3999,6 +4131,18 @@
     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
     "published": "Wed, 11 Nov 2026 16:59:34 GMT",
     "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "900db5a18adbf8704123",
+    "source_id": "simorghdata369",
+    "title": "🔴گزارش منتسب به کان اسرائیل: هشدار آمریکا درباره احتمال جنگ تمام‌عیار جدید با ایران",
+    "url": "https://t.me/simorghdata369/3518",
+    "published": "2026-11-12T18:20:46+00:00",
+    "excerpt": "🔴گزارش منتسب به کان اسرائیل: هشدار آمریکا درباره احتمال جنگ تمام‌عیار جدید با ایران بر اساس گزارشی منتسب به شبکه «کان» اسرائیل، یک مقام آمریکایی مدعی شده فرماندهی مرکزی ارتش آمریکا (سنتکام) به نمایندگان ارتش اسرائیل پیام داده است برای احتمال وقوع جنگی تمام‌عیار با ایران در آینده نزدیک آماده باشند. #️⃣ طبق این گزارش، پیام‌های مشابهی نیز به کشورهای حوزه خلیج فارس منتقل شده است. #️⃣ پیش‌تر نیز رسانه‌های اسرائیلی از افزایش آمادگی نظامی آمریکا و اسرائیل برای سناریوهای احتمالی درگیری با ایران خبر داده بودند. ⚠️ صحت‌سنجی: متن اصلی این گزارش تازه و تأیید رسمی سنتکام هنوز احراز نشده است. 📡 🌟آشیان سیمرغ تنها رسانه خبری دکتر مهدی مطهرنیا📽 @simorghdata369✅ zal🪫 👉👍👍👍",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
     "score_effect": null
   },
   {
@@ -4377,6 +4521,18 @@
     "score_effect": null
   },
   {
+    "id": "9dd3099be761d870c197",
+    "source_id": "simorghdata369",
+    "title": "🔴دادگاه بریتانیا دو ایرانی را به جرم همکاری اطلاعاتی با سپاه محکوم کرد؛ افشای وعده ۱۵۰ هزار پوندی برای حمله به یک خبرنگار",
+    "url": "https://t.me/simorghdata369/3520",
+    "published": "2026-11-12T19:06:19+00:00",
+    "excerpt": "🔴دادگاه بریتانیا دو ایرانی را به جرم همکاری اطلاعاتی با سپاه محکوم کرد؛ افشای وعده ۱۵۰ هزار پوندی برای حمله به یک خبرنگار دادگاه وولویچ لندن روز پنجشنبه ۲۱ آبان، دو تبعه ایرانی به نام‌های «مصطفی سپهوند» و «فرهاد جاویدی‌منش» را به اتهام فعالیت اطلاعاتی به نفع سپاه پاسداران مجرم شناخت. #️⃣ سپهوند به دلیل اقداماتی با هدف اجرای حمله خشونت‌آمیز مجرم شناخته شد. به گفته پلیس، به او وعده پرداخت ۱۵۰ هزار پوند داده شده بود. #️⃣ رویترز گزارش داد این نخستین محکومیت اتباع ایرانی بر اساس قانون امنیت ملی مصوب ۲۰۲۳ بریتانیاست. #️⃣ متهم سوم پرونده از تمامی اتهامات تبرئه شد. ⚠️سفارت ایران در لندن، ادعای دخالت دولت ایران در این پرونده را رد کرده است. هیچ حمله خشونت‌آمیزی در این پرونده به مرحله اجرا نرسید. 📡 🌟آشیان سیمرغ تنها رسانه خبری دکتر مهدی مطهرنیا📽 @simorghdata369✅ zal🪫 👉👍👍👍",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
     "id": "9de8ae5ae9f5b648b0f5",
     "source_id": "axios",
     "title": "Oil prices plunge after Vance post on Iran war",
@@ -4458,6 +4614,18 @@
     "url": "https://t.me/simorghdata369/3328",
     "published": "2026-11-03T14:04:14+00:00",
     "excerpt": "🔴پیامد تازه بحران هرمز؛ هند از قطر خواست گاز آمریکا را جایگزین بخشی از محموله‌های خود کند 💨 🗞رویترز امروز سه‌شنبه ۳ نوامبر گزارش داد شرکت پترونت، بزرگ‌ترین واردکننده گاز طبیعی مایع هند، در حال مذاکره با قطر است تا بخشی از گاز قرارداد بلندمدت خود را از منابع آمریکایی دریافت کند. 🔴 جزئیات مهم: 🚨 قرارداد هند و قطر شامل سالانه ۷.۵ میلیون تن LNG است و تا سال ۲۰۴۸ تمدید شده است. 🚨 مقام ارشد پترونت اعلام کرد قطر با بررسی درخواست هند برای تنوع‌بخشی به منابع تأمین موافقت کرده است. 🚨 قطر پیش‌تر قراردادهای خرید سالانه تا ۷ میلیون تن LNG از تولیدکنندگان آمریکایی امضا کرده؛ تحویل این محموله‌ها از سال‌های ۲۰۳۰ و ۲۰۳۱ آغاز می‌شود. 📌❗️🔑: اختلال در صادرات گاز قطر بر اثر جنگ و محدودیت‌های تنگه هرمز، هند را به بررسی تغییر منشأ تأمین گاز سوق داده است؛ حتی در قراردادی که طرف فروشنده آن همچنان قطر خواهد بود. هن",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
+    "id": "a1afbc312c4b32222d3d",
+    "source_id": "simorghdata369",
+    "title": "🔴نیویورک‌تایمز: مخالفت سه همسایه ایران با درخواست آمریکا برای بستن مرزهای زمینی",
+    "url": "https://t.me/simorghdata369/3517",
+    "published": "2026-11-12T18:08:01+00:00",
+    "excerpt": "🔴نیویورک‌تایمز: مخالفت سه همسایه ایران با درخواست آمریکا برای بستن مرزهای زمینی روزنامه نیویورک‌تایمز در گزارشی به نقل از مقام‌های آمریکایی و عراقی فاش کرد تلاش چند هفته‌ای واشنگتن برای متقاعدکردن همسایگان ایران به بستن گذرگاه‌های مرزی، تاکنون به نتیجه موردنظر آمریکا نرسیده است. #️⃣ عراق: آمریکا خواستار بسته‌شدن تمام گذرگاه‌ها به‌جز دو مرز شده، اما بغداد این درخواست را نپذیرفته است. #️⃣ ترکیه: عمدتاً از تغییر سیاست‌های مرزی خودداری کرده است. #️⃣ پاکستان: برخی گذرگاه‌ها را موقتاً بسته، اما تعطیلی گسترده مرزها را اجرا نکرده است. ⚠️ به گزارش این روزنامه، نگرانی از آسیب اقتصادی و ناآرامی در مناطق مرزی، از دلایل اصلی مقاومت همسایگان ایران است. ⚠️: این گزارش محدودیت مهمی را در اجرای فشار اقتصادی آمریکا نشان می‌دهد؛ کنترل مرزهای زمینی ایران به همکاری دولت‌های همسایه وابسته است. 📡 🌟آشیان سیمرغ تنه",
     "source_kind": "public_telegram_preview",
     "status": "unverified_candidate",
     "verification": "requires_independent_primary_or_reputable_source",
@@ -4637,6 +4805,15 @@
     "title": "Israeli military conducts massive \"power projection\" operation near Iran's border",
     "url": "https://www.axios.com/2026/10/21/israel-military-training-sortie-iran-border",
     "published": "Wed, 21 Oct 2026 17:33:53 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "a6e973e5ee9d688653ab",
+    "source_id": "aljazeera",
+    "title": "UK court finds two Iranian men guilty of spying for Iran",
+    "url": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
+    "published": "Thu, 12 Nov 2026 15:15:48 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -5730,6 +5907,15 @@
     "score_effect": null
   },
   {
+    "id": "d3fbda4c56397ea31a96",
+    "source_id": "axios",
+    "title": "Fed faces tougher inflation fight as pressure builds for more rate hikes",
+    "url": "https://www.axios.com/2026/11/12/inflation-rates-fed-iran-tariffs",
+    "published": "Thu, 12 Nov 2026 16:55:07 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "d43e0f8b4ff84a32815a",
     "source_id": "axios",
     "title": "Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.",
@@ -5766,6 +5952,18 @@
     "url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
     "published": "Mon, 26 Oct 2026 21:42:18 +0000",
     "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "d5910197c47361fb9092",
+    "source_id": "simorghdata369",
+    "title": "🔴درخواست رسمی ایران برای جبران خسارت‌های زیست‌محیطی حملات آمریکا و اسرائیل",
+    "url": "https://t.me/simorghdata369/3503",
+    "published": "2026-11-12T12:51:38+00:00",
+    "excerpt": "🔴درخواست رسمی ایران برای جبران خسارت‌های زیست‌محیطی حملات آمریکا و اسرائیل خبرگزاری رویترز گزارش داد مسعود پزشکیان، رئیس‌جمهور ایران، در نشست جهانی تغییرات اقلیمی سازمان ملل (COP31) در آنتالیا خواستار ایجاد سازوکاری بین‌المللی برای ارزیابی و جبران خسارت‌های زیست‌محیطی ناشی از حملات نظامی شد. #️⃣پزشکیان تأکید کرد جامعه جهانی باید میان تعهدات زیست‌محیطی در زمان صلح و مسئولیت دولت‌ها در زمان جنگ ارتباط برقرار کند. #️⃣ به گزارش رویترز، توافق‌های اقلیمی کنونی میلیاردها دلار منابع مالی برای مقابله با تغییرات اقلیمی پیش‌بینی کرده‌اند، اما سازوکار مشخصی برای جبران خسارت‌های زیست‌محیطی ناشی از حملات نظامی ندارند. ⚠️این درخواست به معنای تصویب غرامت یا پذیرش مسئولیت حقوقی از سوی نهادهای بین‌المللی نیست. 📡 🌟آشیان سیمرغ تنها رسانه خبری دکتر مهدی مطهرنیا📽 @simorghdata369✅ zal🔋 👉👍👍👍",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
     "score_effect": null
   },
   {
@@ -5979,6 +6177,18 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
     "published": "Sun, 25 Oct 2026 12:05:16 +0000",
     "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "df8b5c7390e114ae063d",
+    "source_id": "simorghdata369",
+    "title": "🚨رسانه‌های اسرائیلی: نتانیاهو خواهان بررسی گزینه حمله مجدد به ایران است",
+    "url": "https://t.me/simorghdata369/3513",
+    "published": "2026-11-12T16:20:38+00:00",
+    "excerpt": "🚨رسانه‌های اسرائیلی: نتانیاهو خواهان بررسی گزینه حمله مجدد به ایران است 📡 در پی انتشار گزارش‌هایی درباره افزایش آمادگی نظامی اسرائیل، رسانه‌های این کشور از اختلاف‌نظر میان بنیامین نتانیاهو و مقام‌های ارشد نظامی درباره عملیات احتمالی علیه ایران خبر داده‌اند. #️⃣ شبکه «کان» پیش‌تر از دستور افزایش آمادگی ارتش برای سناریوی حمله احتمالی به ایران گزارش داده بود. #️⃣ شبکه ۱۲ اسرائیل نیز از اختلاف‌نظر نتانیاهو و رئیس ستاد ارتش درباره این موضوع خبر داده است؛ گزارشی که دفتر نخست‌وزیری اسرائیل آن را رد کرده است. #️⃣ هم‌زمان، نشست امنیتی نتانیاهو و گادی آیزنکوت درباره تحولات امنیتی در دستور کار قرار گرفته است. ⚠️تاکنون صدور فرمان قطعی حمله، تعیین زمان عملیات یا توافق سیاسی برای آغاز حمله جدید به ایران تأیید نشده است⚠️. 📡 🌟آشیان سیمرغ تنها رسانه خبری دکتر مهدی مطهرنیا📽 @simorghdata369✅ zal🔋 👉👍👍👍",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
     "score_effect": null
   },
   {
@@ -6215,6 +6425,15 @@
     "title": "Joint List says it will back Eisenkot to form Israel’s next government",
     "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss",
     "published": "Thu, 05 Nov 2026 14:15:52 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "eafdd986271e06460a80",
+    "source_id": "axios",
+    "title": "Trump orders Vance to focus on \"corruption\" in Democrat-run areas, not Iran",
+    "url": "https://www.axios.com/2026/11/12/trump-vance-focus-democrat-cities-iran",
+    "published": "Thu, 12 Nov 2026 13:54:59 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
