@@ -25,6 +25,8 @@ PAIRS = {
     NEW_REPORT: NEW_FA_REPORT,
     "weekly/": "fa/weekly/",
 }
+ARTICLE_PATHS = set()
+ARTICLE_METADATA = {}
 SITE_NAME = "IranSignal"
 LEGAL = {
  "about/": ("About IranSignal", "About this independent Iran scenario analysis project", """
@@ -102,14 +104,16 @@ def enhance(file,relative):
                     f'<link rel="alternate" hreflang="fa" href="{url(fa)}">')
     schema={"@context":"https://schema.org","@type":"WebPage","name":title,
             "url":canonical,"inLanguage":lang,"isPartOf":{"@type":"WebSite","name":"IranSignal","url":BASE}}
-    if relative in (REPORT,FA_REPORT,NEW_REPORT,NEW_FA_REPORT):
-        published=re.search(r"(\\d{4}-\\d{2}-\\d{2})",relative)
+    if relative in ARTICLE_PATHS:
+        record=ARTICLE_METADATA.get(relative,{})
+        coverage_date=record.get("date") or (re.search(r"(\\d{4}-\\d{2}-\\d{2})",relative).group(1) if re.search(r"(\\d{4}-\\d{2}-\\d{2})",relative) else None)
+        published=record.get("published_at") or coverage_date
         schema={"@context":"https://schema.org","@type":"NewsArticle","headline":title,
-                "inLanguage":lang,"mainEntityOfPage":canonical,"datePublished":published.group(1) if published else "2026-10-24",
+                "inLanguage":lang,"mainEntityOfPage":canonical,"datePublished":published or "2026-10-24","dateCreated":coverage_date or "2026-10-24",
                 "author":{"@type":"Person","name":AUTHOR,"url":AUTHOR_URL},
                 "publisher":{"@type":"Organization","name":"IranSignal","url":BASE}}
     extra=('<!-- SEO:START --><link rel="canonical" href="'+canonical+'">'+alternates+
-           '<meta property="og:type" content="article">' if relative in (REPORT,FA_REPORT,NEW_REPORT,NEW_FA_REPORT) else
+           '<meta property="og:type" content="article">' if relative in ARTICLE_PATHS else
            '<!-- SEO:START --><link rel="canonical" href="'+canonical+'">'+alternates+
            '<meta property="og:type" content="website">')
     extra+='<link rel="stylesheet" href="'+BASE+'assets/editorial.css">'
@@ -149,6 +153,16 @@ def enhance(file,relative):
     file.write_text(html,encoding="utf-8")
 def main():
     root=Path("_site")
+    manifest=json.loads((root/"daily/manifest.json").read_text(encoding="utf-8"))
+    for record in manifest:
+        slug=str(record.get("slug","")).strip("/")
+        if not slug: continue
+        en="daily/"+slug+"/"
+        fa="fa/"+en
+        PAIRS[en]=fa
+        ARTICLE_PATHS.update((en,fa))
+        ARTICLE_METADATA[en]=record
+        ARTICLE_METADATA[fa]=record
     if not (root/"index.html").is_file(): raise SystemExit("_site/index.html missing")
     for path,(title,desc,body) in LEGAL.items():
         dest=root/path/"index.html"
@@ -189,7 +203,7 @@ def main():
                 SubElement(e,"{"+xn+"}link",{"rel":"alternate","hreflang":lang,"href":url(target)})
     ElementTree(rootxml).write(root/"sitemap.xml",encoding="utf-8",xml_declaration=True)
     for path in ("","daily/","fa/","fa/daily/",REPORT,FA_REPORT,
-                 "about/","editorial-policy/","privacy/","contact/","weekly/","fa/weekly/",NEW_REPORT,NEW_FA_REPORT):
+                 "about/","editorial-policy/","privacy/","contact/","weekly/","fa/weekly/",NEW_REPORT,NEW_FA_REPORT,*sorted(ARTICLE_PATHS)):
         html=(root/path/"index.html").read_text(encoding="utf-8")
         assert '<link rel="canonical" href="'+url(path)+'">' in html,(path,"canonical")
         assert "application/ld+json" in html,(path,"schema")

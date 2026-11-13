@@ -1,11 +1,181 @@
 [
   {
     "date": "2026-11-13",
-    "slug": "2026-11-13/hormuz-and-verification",
-    "title": "Iran Between a Deal and Escalation: Hormuz and Nuclear Verification Become the Central Tests",
-    "summary": "Two weeks of Qatari mediation have not closed the gap between Tehran’s Hormuz-first demands and Washington’s insistence on nuclear restrictions, while maritime incidents and the IAEA access dispute keep escalation risks alive.",
+    "slug": "2026-11-13/isfahan-verification-and-bahrain-radar-claims",
+    "title": "Isfahan Verification Crisis and Competing Claims Around Bahrain Raise the Stakes",
+    "summary": "The IAEA said it still lacked access and precise information about Iran’s declared Isfahan enrichment plant; competing Iranian and US accounts of an alleged radar strike in Bahrain added escalation risk.",
     "status": "published",
     "report_id": "2026-11-13-daily",
+    "published_at": "2026-11-13",
+    "author": {
+      "name": "Nima Afshar Naderi",
+      "profile": "https://pendar.io/@nima-afshar-naderi"
+    }
+  },
+  {
+    "date": "2026-11-12",
+    "slug": "2026-11-12/total-victory-rhetoric-and-seven-conditions",
+    "title": "Victory Rhetoric Collides with Tehran’s Seven Conditions",
+    "summary": "Trump declared that Washington did not need a deal, while Iranian officials repeated that negotiations would follow only after Tehran’s conditions were accepted; shipping risks persisted.",
+    "status": "published",
+    "report_id": "2026-11-12-daily",
+    "published_at": "2026-11-13",
+    "author": {
+      "name": "Nima Afshar Naderi",
+      "profile": "https://pendar.io/@nima-afshar-naderi"
+    }
+  },
+  {
+    "date": "2026-11-11",
+    "slug": "2026-11-11/uranium-red-line-and-g7-pressure",
+    "title": "Tehran Draws a Red Line on Uranium as the G7 Warns of Continued Pressure",
+    "summary": "Mohsen Rezaei said Iran would not allow enriched uranium to leave the country and denied that talks were under way, while G7 statements kept pressure on the diplomatic track.",
+    "status": "published",
+    "report_id": "2026-11-11-daily",
+    "published_at": "2026-11-13",
+    "author": {
+      "name": "Nima Afshar Naderi",
+      "profile": "https://pendar.io/@nima-afshar-naderi"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "slug": "2026-11-10/tanker-fires-and-us-public-opinion",
+    "title": "Tanker Fires and US Public Opinion Put the Cost of the Iran War Back in Focus",
+    "summary": "Reuters documented repeated tanker fires and maritime incidents, while a Reuters/Ipsos poll found broad US support for Congress to end the war, increasing domestic pressure for a settlement.",
+    "status": "published",
+    "report_id": "2026-11-10-daily",
+    "published_at": "2026-11-13",
+    "author": {
+      "name": "Nima Afshar Naderi",
+      "profile": "https://pendar.io/@nima-afshar-naderi"
+    }
+  },
+  {
+    "date": "2026-11-09",
+    "slug": "2026-11-09/trump-qatar-meeting-no-imminent-deal",
+    "title": "Trump Meets Qatar’s Mediator, but Officials See No Imminent Iran Deal",
+    "summary": "A high-level meeting with Qatar revived diplomatic momentum after the US midterms, yet senior US and Gulf officials doubted that an immediate agreement was close.",
+    "status": "published",
+    "report_id": "2026-11-09-daily",
+    "published_at": "2026-11-13",
+    "author": {
+      "name": "Nima Afshar Naderi",
+      "profile": "https://pendar.io/@nima-afshar-naderi"
+    }
+  },
+  {
+    "date": "2026-11-08",
+    "slug": "2026-11-08/election-shock-and-stalled-mediators",
+    "title": "Post-Election Shock Slows Mediation as Trump Plays Down the Prospect of New Strikes",
+    "summary": "Araghchi said mediator travel had paused after the US midterms, while Trump described renewed strikes as highly unlikely if negotiations progressed; maritime incidents continued.",
+    "status": "published",
+    "report_id": "2026-11-08-daily",
+    "published_at": "2026-11-13",
+    "author": {
+      "name": "Nima Afshar Naderi",
+      "profile": "https://pendar.io/@nima-afshar-naderi"
+    }
+  },
+  {
+    "date": "2026-11-07",
+    "slug": "2026-11-07/hormuz-reopening-and-inspection-plan",
+    "title": "A Qatari Plan Links Hormuz Reopening to Nuclear Inspections",
+    "summary": "A reported Qatari framework paired a phased reopening of Hormuz with IAEA access to bombed nuclear sites, but it remained a proposal rather than an accepted agreement.",
+    "status": "published",
+    "report_id": "2026-11-07-daily",
+    "published_at": "2026-11-13",
+    "author": {
+      "name": "Nima Afshar Naderi",
+      "profile": "https://pendar.io/@nima-afshar-naderi"
+    }
+  },
+  {
+    "date": "2026-11-06",
+    "slug": "2026-11-06/qatari-nuclear-inspection-proposal",
+    "title": "Qatar’s Nuclear Inspection Proposal Tests the Core of the Iran Dispute",
+    "summary": "Reports said Iran was reviewing Qatari ideas on nuclear issues, but Tehran still tied substantive talks to prior US concessions, leaving verification and sequencing unresolved.",
+    "status": "published",
+    "report_id": "2026-11-06-daily",
+    "published_at": "2026-11-13",
+    "author": {
+      "name": "Nima Afshar Naderi",
+      "profile": "https://pendar.io/@nima-afshar-naderi"
+    }
+  },
+  {
+    "date": "2026-11-05",
+    "slug": "2026-11-05/nuclear-proposal-and-maritime-security",
+    "title": "Iran Sends a Nuclear Proposal Through Qatar but Keeps Its Seven Conditions",
+    "summary": "A senior Iranian official said Tehran had sent Washington a nuclear proposal via Qatar, while Iran and Oman discussed technical arrangements for safer shipping through Hormuz.",
+    "status": "published",
+    "report_id": "2026-11-05-daily",
+    "published_at": "2026-11-13",
+    "author": {
+      "name": "Nima Afshar Naderi",
+      "profile": "https://pendar.io/@nima-afshar-naderi"
+    }
+  },
+  {
+    "date": "2026-11-04",
+    "slug": "2026-11-04/midterm-rebuke-and-war-pressure",
+    "title": "US Midterm Results Reshape the Political Context, Not the Strategic Dispute",
+    "summary": "Democrats’ midterm gains gave Tehran a political narrative about US public opposition to the war, but neither the election result nor Washington’s domestic debate resolved the military and nuclear disputes.",
+    "status": "published",
+    "report_id": "2026-11-04-daily",
+    "published_at": "2026-11-13",
+    "author": {
+      "name": "Nima Afshar Naderi",
+      "profile": "https://pendar.io/@nima-afshar-naderi"
+    }
+  },
+  {
+    "date": "2026-11-03",
+    "slug": "2026-11-03/qeshm-strikes-and-qatar-proposal",
+    "title": "Qeshm Strikes and a Tanker Attack Put Qatar’s Proposal Under Pressure",
+    "summary": "Limited US strikes on Qeshm, an attack reported against a tanker off Oman and sharply different public positions complicated Qatar’s effort to prevent renewed war.",
+    "status": "published",
+    "report_id": "2026-11-03-daily",
+    "published_at": "2026-11-13",
+    "author": {
+      "name": "Nima Afshar Naderi",
+      "profile": "https://pendar.io/@nima-afshar-naderi"
+    }
+  },
+  {
+    "date": "2026-11-02",
+    "slug": "2026-11-02/limited-strikes-and-no-breakthrough",
+    "title": "Limited US Strikes Raise the Cost of a Qatari-Mediated Deal",
+    "summary": "Qatari consultations ended without a breakthrough as Washington carried out limited defensive strikes near Hormuz, reinforcing the gap between diplomatic contact and de-escalation.",
+    "status": "published",
+    "report_id": "2026-11-02-daily",
+    "published_at": "2026-11-13",
+    "author": {
+      "name": "Nima Afshar Naderi",
+      "profile": "https://pendar.io/@nima-afshar-naderi"
+    }
+  },
+  {
+    "date": "2026-11-01",
+    "slug": "2026-11-01/qatar-two-day-hormuz-plan",
+    "title": "Qatar Tests a Two-Day Hormuz Proposal as Both Sides Keep Military Options in View",
+    "summary": "Tehran said a Qatari-backed proposal could reopen Hormuz within two days if Washington met its conditions, while both sides continued to signal readiness for escalation.",
+    "status": "published",
+    "report_id": "2026-11-01-daily",
+    "published_at": "2026-11-13",
+    "author": {
+      "name": "Nima Afshar Naderi",
+      "profile": "https://pendar.io/@nima-afshar-naderi"
+    }
+  },
+  {
+    "date": "2026-10-31",
+    "slug": "2026-10-31/maximum-deterrence-and-qatar-channel",
+    "title": "Tehran Raises the Cost of a New Strike While Keeping Qatar’s Channel Open",
+    "summary": "Iran’s supreme leader ordered wider military deterrence as Qatari mediation continued, but Washington and Tehran had not agreed to resume direct talks.",
+    "status": "published",
+    "report_id": "2026-10-31-daily",
+    "published_at": "2026-11-13",
     "author": {
       "name": "Nima Afshar Naderi",
       "profile": "https://pendar.io/@nima-afshar-naderi"
