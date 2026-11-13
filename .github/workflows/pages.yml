@@ -29,49 +29,47 @@ jobs:
         uses: actions/checkout@v4
       - name: Configure Pages
         uses: actions/configure-pages@v5
-      - name: Prepare static site
+      - name: Prepare Persian-only archive
         run: |
           mkdir -p _site
-          cp index.html _site/index.html
-          cp -a daily _site/daily
           cp -a fa _site/fa
           cp -a assets _site/assets
           mkdir -p _site/telegram
           cp telegram/editorial.json _site/telegram/editorial.json
           touch _site/.nojekyll
-      - name: Generate Telegram-ready Persian summaries
+      - name: Generate Persian Telegram summaries
         run: |
           python3 scripts/build_telegram_daily.py
           cp -a telegram/daily _site/telegram/daily
-      - name: Generate SEO pages, metadata and sitemap
-        run: python3 scripts/build_seo_site.py
-      - name: Validate generated SEO XML and page paths
+      - name: Build simple Persian archive and sitemap
+        run: python3 scripts/build_persian_archive.py
+      - name: Validate Persian-only archive
         run: |
           python3 - <<'PY'
+          import json
           from pathlib import Path
           from xml.etree import ElementTree
           root=Path('_site')
-          ElementTree.parse(root/'sitemap.xml')
-          import json
-          manifest=json.loads((root/'daily/manifest.json').read_text(encoding='utf-8'))
-          editorial=json.loads((root/'telegram/editorial.json').read_text(encoding='utf-8'))
+          manifest=json.loads((Path('daily/manifest.json')).read_text(encoding='utf-8'))
           expected=[r for r in manifest if r.get('status')=='published']
+          assert (root/'index.html').is_file()
+          assert (root/'fa/daily/index.html').is_file()
+          assert not (root/'daily').exists(), 'English archive must not be published'
+          assert (root/'telegram/daily/index.html').is_file()
           generated={p.name for p in (root/'telegram/daily').glob('*.txt')}
           expected_names={r['slug'].replace('/','--')+'.txt' for r in expected}
-          assert generated==expected_names, ('Telegram edition mismatch', sorted(generated ^ expected_names))
+          assert generated==expected_names, ('Telegram editions mismatch', sorted(generated ^ expected_names))
           for r in expected:
               slug=r['slug']
-              assert slug in editorial, ('missing Persian archive metadata',slug)
-              filename=slug.replace('/','--')+'.txt'
-              assert (root/'telegram/daily'/filename).is_file(), ('missing Telegram edition',slug)
-              assert (root/'daily'/slug/'index.html').is_file(), ('missing English report',slug)
               assert (root/'fa/daily'/slug/'index.html').is_file(), ('missing Persian report',slug)
               assert (root/'fa/daily'/slug/'full-transcript'/'index.html').is_file(), ('missing narration',slug)
-          assert (root/'telegram/daily/index.html').is_file()
-          print('All', len(expected), 'bilingual daily reports, narrations, and Telegram editions packaged')
-          for page in ['index.html','fa/index.html','daily/index.html','fa/daily/index.html','weekly/index.html','fa/weekly/index.html','about/index.html','editorial-policy/index.html','privacy/index.html','contact/index.html']:
-              assert (root/page).is_file(),page
-          print('SEO deployment validation passed')
+          for page in root.rglob('*.html'):
+              html=page.read_text(encoding='utf-8')
+              assert 'iran-signal-fa-dashboard.js' not in html, page
+              assert 'hreflang="en"' not in html, page
+              assert '/IranSignal/daily/' not in html, page
+          ElementTree.parse(root/'sitemap.xml')
+          print('Persian-only archive validation passed:',len(expected),'daily reports')
           PY
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

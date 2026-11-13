@@ -83,9 +83,6 @@ def build():
             "📖 گزارش تحلیلی فارسی:",
             FA_BASE + slug + "/",
             "",
-            "🌐 English analysis:",
-            EN_BASE + slug + "/",
-            "",
             "🎙 متن اجرای ویدئوی فارسی:",
             FA_BASE + slug + "/full-transcript/",
             "",
@@ -108,7 +105,6 @@ def build():
             '<h2><a href="./' + escape(filename, quote=True) + '">' + escape(data["title"]) + '</a></h2>'
             '<p>' + escape(data["lead"]) + '</p>'
             '<p><a href="/IranSignal/fa/daily/' + escape(slug, quote=True) + '/">گزارش فارسی</a> · '
-            '<a href="/IranSignal/daily/' + escape(slug, quote=True) + '/">English report</a> · '
             '<a href="/IranSignal/fa/daily/' + escape(slug, quote=True) + '/full-transcript/">متن اجرا</a></p></article>'
         )
     index_html = (
