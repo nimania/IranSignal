@@ -1,6 +1,6 @@
 # IranSignal Daily Brief publication contract
 
-The English archive is the default edition. Each publication day has one comprehensive Persian report, one English editorial adaptation of the same report, and one full Persian video narration script. The target narration length is 8–12 minutes (normally about 900–1,300 Persian words). Telegram receives a concise Persian summary linking all three editions after editorial review.
+The English archive is the default edition. Each publication day has one comprehensive Persian report, one English editorial adaptation of the same report, and one full Persian video narration script. The target narration length is 8–12 minutes (normally about 900–1,300 Persian words); unusually dense news days may run longer, but must not be shortened by omitting material evidence or caveats. Telegram receives a concise Persian summary linking all three editions after editorial review.
 
 ## Publication workflow
 1. Build a shared evidence dossier with source URL, publication/event time, supporting and contrary evidence, and any correction.
