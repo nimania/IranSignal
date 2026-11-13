@@ -768,6 +768,15 @@
     "score_effect": null
   },
   {
+    "id": "1e3e204281c20aa80d07",
+    "source_id": "aljazeera",
+    "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
+    "published": "Fri, 13 Nov 2026 00:00:26 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "1e8ff57bdc2f9899b6d1",
     "source_id": "aljazeera",
     "title": "Suwayda remains in stasis as US signals differences with Israel on Syria",
@@ -4671,6 +4680,15 @@
     "score_effect": null
   },
   {
+    "id": "a28787cfe52572f3a61b",
+    "source_id": "aljazeera",
+    "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+    "url": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
+    "published": "Thu, 12 Nov 2026 19:56:26 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "a2c57af4001d93876bc7",
     "source_id": "simorghdata369",
     "title": "🦅 آشیان سیمرغ تنها رسانه خبری دکتر مهدی مطهرنیا ━━━━━━━━━━━━━━━━━━ 🔴🇮🇷🇺🇸 افشاگری آسوشیتدپرس؛ دولت ترامپ در میانه جنگ با ایران، تماس‌های محرمانه‌ای با تهران داشته است 🚨 آسوشیتدپرس",
@@ -4920,6 +4938,15 @@
     "source_kind": "public_telegram_preview",
     "status": "unverified_candidate",
     "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
+    "id": "aa313d28bd55e2d6320e",
+    "source_id": "aljazeera",
+    "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+    "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
+    "published": "Thu, 12 Nov 2026 23:52:38 +0000",
+    "status": "unverified_candidate",
     "score_effect": null
   },
   {
