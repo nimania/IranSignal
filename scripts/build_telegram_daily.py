@@ -32,6 +32,10 @@ def build():
     missing = sorted(set(expected) - set(actual))
     if missing:
         raise SystemExit(f"Missing daily report dates: {', '.join(missing)}")
+    valid_filenames = {r["slug"].replace("/", "--") + ".txt" for r in published}
+    for old in out.glob("*.txt"):
+        if old.name not in valid_filenames:
+            old.unlink()
     for report in published:
         slug = report["slug"]
         data = editorial.get(slug)

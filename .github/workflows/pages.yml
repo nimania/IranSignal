@@ -56,6 +56,9 @@ jobs:
           manifest=json.loads((root/'daily/manifest.json').read_text(encoding='utf-8'))
           editorial=json.loads((root/'telegram/editorial.json').read_text(encoding='utf-8'))
           expected=[r for r in manifest if r.get('status')=='published']
+          generated={p.name for p in (root/'telegram/daily').glob('*.txt')}
+          expected_names={r['slug'].replace('/','--')+'.txt' for r in expected}
+          assert generated==expected_names, ('Telegram edition mismatch', sorted(generated ^ expected_names))
           for r in expected:
               slug=r['slug']
               assert slug in editorial, ('missing Persian archive metadata',slug)
