@@ -1,6 +1,6 @@
 # IranSignal Daily Brief publication contract
 
-The English archive is the default edition. Each publication day has one Persian report, one English editorial adaptation of the same report, and one Persian video narration. Telegram receives a concise Persian summary after editorial review.
+The English archive is the default edition. Each publication day has one comprehensive Persian report, one English editorial adaptation of the same report, and one full Persian video narration script. The target narration length is 8–12 minutes (normally about 900–1,300 Persian words). Telegram receives a concise Persian summary linking all three editions after editorial review.
 
 ## Publication workflow
 1. Build a shared evidence dossier with source URL, publication/event time, supporting and contrary evidence, and any correction.
@@ -19,8 +19,10 @@ When a publication gap exists, publish a clearly dated catch-up report with an e
 - Do not publish essential claims that remain unverified without explicit attribution and qualification.
 - Link primary documents and reputable reporting wherever possible.
 - Do not invent quotations, dates, source confirmations, probabilities or market measurements.
-- Scenario momentum points are directional evidence scores, not probabilities. If the source history is stale, state its last actual date and do not label it current.
-- Prediction-market prices are market observations, not calibrated event probabilities. Explain contract definitions when they materially affect interpretation.
+- Both Persian and English reports must carry the same scenario-momentum and prediction-market data tables, with observation dates and timestamps.
+- Scenario momentum points are directional evidence scores, not probabilities. If the source history is stale, state its last actual date and do not label it current or fabricate a daily update.
+- Prediction-market prices are market observations, not calibrated event probabilities. Explain contract definitions when they materially affect interpretation and preserve the raw observation archive link.
+- Each narration must explain the main developments, distinguish attributed claims from verified facts, analyse competing scenarios, discuss the available data with its limitations, and close with specific indicators to watch.
 - A prepared narration is a script, not an uploaded video. Never invent a video URL or embed.
 
 ## Automation status
