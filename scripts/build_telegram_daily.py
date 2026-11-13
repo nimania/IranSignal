@@ -54,7 +54,7 @@ def build():
         if '<html lang="fa"' not in fa_html or '<html lang="en"' not in en_html:
             raise SystemExit(f"Incorrect language declaration for {slug}")
         for edition, content in (("Persian", fa_html), ("English", en_html)):
-            if 'id="iran-signal-data-snapshot"' not in content or len(re.findall(r"<table\\b", content, re.I)) < 2:
+            if 'id="iran-signal-data-snapshot"' not in content or len(re.findall(r"<table\b", content, re.I)) < 2:
                 raise SystemExit(f"{edition} scenario and market tables missing for {slug}")
         transcript_html = transcript.read_text(encoding="utf-8")
         if '<html lang="fa"' not in transcript_html:
