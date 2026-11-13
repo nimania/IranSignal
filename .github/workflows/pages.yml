@@ -36,9 +36,13 @@ jobs:
           cp -a daily _site/daily
           cp -a fa _site/fa
           cp -a assets _site/assets
+          mkdir -p _site/telegram
+          cp telegram/editorial.json _site/telegram/editorial.json
           touch _site/.nojekyll
       - name: Generate Telegram-ready Persian summaries
-        run: python3 scripts/build_telegram_daily.py
+        run: |
+          python3 scripts/build_telegram_daily.py
+          cp -a telegram/daily _site/telegram/daily
       - name: Generate SEO pages, metadata and sitemap
         run: python3 scripts/build_seo_site.py
       - name: Validate generated SEO XML and page paths
@@ -48,6 +52,20 @@ jobs:
           from xml.etree import ElementTree
           root=Path('_site')
           ElementTree.parse(root/'sitemap.xml')
+          import json
+          manifest=json.loads((root/'daily/manifest.json').read_text(encoding='utf-8'))
+          editorial=json.loads((root/'telegram/editorial.json').read_text(encoding='utf-8'))
+          expected=[r for r in manifest if r.get('status')=='published']
+          for r in expected:
+              slug=r['slug']
+              assert slug in editorial, ('missing Persian archive metadata',slug)
+              filename=slug.replace('/','--')+'.txt'
+              assert (root/'telegram/daily'/filename).is_file(), ('missing Telegram edition',slug)
+              assert (root/'daily'/slug/'index.html').is_file(), ('missing English report',slug)
+              assert (root/'fa/daily'/slug/'index.html').is_file(), ('missing Persian report',slug)
+              assert (root/'fa/daily'/slug/'full-transcript'/'index.html').is_file(), ('missing narration',slug)
+          assert (root/'telegram/daily/index.html').is_file()
+          print('All', len(expected), 'bilingual daily reports, narrations, and Telegram editions packaged')
           for page in ['index.html','fa/index.html','daily/index.html','fa/daily/index.html','weekly/index.html','fa/weekly/index.html','about/index.html','editorial-policy/index.html','privacy/index.html','contact/index.html']:
               assert (root/page).is_file(),page
           print('SEO deployment validation passed')
