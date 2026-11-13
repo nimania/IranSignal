@@ -42,3 +42,13 @@ main iframe{width:100%;max-width:100%}
 body>footer:not(.is-trust-footer){display:none!important}
 :focus-visible{outline:3px solid #a72f34;outline-offset:3px}
 @media(max-width:680px){.is-masthead-inner{padding:15px 18px;align-items:flex-start}.is-logo{font-size:25px}.is-tagline{font-size:9px}.is-navbar-inner{gap:14px;padding:9px 18px}.is-navbar a{font-size:12px}main,.wrap{padding:18px!important}.grid{grid-template-columns:1fr!important}h1{font-size:36px!important}}
+
+
+/* Daily evidence tables */
+.data-snapshot{margin:2.2rem 0;padding-top:1.2rem;border-top:2px solid var(--line,#cbd5e1)}
+.data-snapshot .table-wrap{width:100%;overflow-x:auto;margin:.8rem 0 1.1rem}
+.data-snapshot table{width:100%;border-collapse:collapse;font-size:.94rem;line-height:1.55}
+.data-snapshot th,.data-snapshot td{border:1px solid var(--line,#cbd5e1);padding:.65rem .75rem;text-align:start;vertical-align:top}
+.data-snapshot th{font-weight:700;background:var(--surface2,#edf2f7)}
+.data-snapshot .num{white-space:nowrap;font-variant-numeric:tabular-nums}
+.data-snapshot .data-note{font-size:.88rem;color:var(--muted,#64748b)}
