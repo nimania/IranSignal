@@ -16,7 +16,7 @@ AUTHOR = "Nima Afshar Naderi"
 AUTHOR_URL = "https://pendar.io/@nima-afshar-naderi"
 REPORT = "daily/2026-10-24/military-threat-and-diplomacy/"
 FA_REPORT = "fa/" + REPORT
-NEW_REPORT = "daily/2026-11-13/hormuz-and-verification/"
+NEW_REPORT = "daily/2026-11-13/isfahan-verification-and-bahrain-radar-claims/"
 NEW_FA_REPORT = "fa/" + NEW_REPORT
 PAIRS = {
     "": "fa/",
@@ -106,7 +106,7 @@ def enhance(file,relative):
             "url":canonical,"inLanguage":lang,"isPartOf":{"@type":"WebSite","name":"IranSignal","url":BASE}}
     if relative in ARTICLE_PATHS:
         record=ARTICLE_METADATA.get(relative,{})
-        coverage_date=record.get("date") or (re.search(r"(\\d{4}-\\d{2}-\\d{2})",relative).group(1) if re.search(r"(\\d{4}-\\d{2}-\\d{2})",relative) else None)
+        coverage_date=record.get("date") or (re.search(r"(\d{4}-\d{2}-\d{2})",relative).group(1) if re.search(r"(\d{4}-\d{2}-\d{2})",relative) else None)
         published=record.get("published_at") or coverage_date
         schema={"@context":"https://schema.org","@type":"NewsArticle","headline":title,
                 "inLanguage":lang,"mainEntityOfPage":canonical,"datePublished":published or "2026-10-24","dateCreated":coverage_date or "2026-10-24",
