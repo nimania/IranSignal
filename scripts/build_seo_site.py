@@ -16,10 +16,13 @@ AUTHOR = "Nima Afshar Naderi"
 AUTHOR_URL = "https://pendar.io/@nima-afshar-naderi"
 REPORT = "daily/2026-10-24/military-threat-and-diplomacy/"
 FA_REPORT = "fa/" + REPORT
+NEW_REPORT = "daily/2026-11-13/hormuz-and-verification/"
+NEW_FA_REPORT = "fa/" + NEW_REPORT
 PAIRS = {
     "": "fa/",
     "daily/": "fa/daily/",
     REPORT: FA_REPORT,
+    NEW_REPORT: NEW_FA_REPORT,
     "weekly/": "fa/weekly/",
 }
 SITE_NAME = "IranSignal"
@@ -99,13 +102,14 @@ def enhance(file,relative):
                     f'<link rel="alternate" hreflang="fa" href="{url(fa)}">')
     schema={"@context":"https://schema.org","@type":"WebPage","name":title,
             "url":canonical,"inLanguage":lang,"isPartOf":{"@type":"WebSite","name":"IranSignal","url":BASE}}
-    if relative in (REPORT,FA_REPORT):
+    if relative in (REPORT,FA_REPORT,NEW_REPORT,NEW_FA_REPORT):
+        published=re.search(r"(\\d{4}-\\d{2}-\\d{2})",relative)
         schema={"@context":"https://schema.org","@type":"NewsArticle","headline":title,
-                "inLanguage":lang,"mainEntityOfPage":canonical,"datePublished":"2026-10-24",
+                "inLanguage":lang,"mainEntityOfPage":canonical,"datePublished":published.group(1) if published else "2026-10-24",
                 "author":{"@type":"Person","name":AUTHOR,"url":AUTHOR_URL},
                 "publisher":{"@type":"Organization","name":"IranSignal","url":BASE}}
     extra=('<!-- SEO:START --><link rel="canonical" href="'+canonical+'">'+alternates+
-           '<meta property="og:type" content="article">' if relative in (REPORT,FA_REPORT) else
+           '<meta property="og:type" content="article">' if relative in (REPORT,FA_REPORT,NEW_REPORT,NEW_FA_REPORT) else
            '<!-- SEO:START --><link rel="canonical" href="'+canonical+'">'+alternates+
            '<meta property="og:type" content="website">')
     extra+='<link rel="stylesheet" href="'+BASE+'assets/editorial.css">'
@@ -185,7 +189,7 @@ def main():
                 SubElement(e,"{"+xn+"}link",{"rel":"alternate","hreflang":lang,"href":url(target)})
     ElementTree(rootxml).write(root/"sitemap.xml",encoding="utf-8",xml_declaration=True)
     for path in ("","daily/","fa/","fa/daily/",REPORT,FA_REPORT,
-                 "about/","editorial-policy/","privacy/","contact/","weekly/","fa/weekly/"):
+                 "about/","editorial-policy/","privacy/","contact/","weekly/","fa/weekly/",NEW_REPORT,NEW_FA_REPORT):
         html=(root/path/"index.html").read_text(encoding="utf-8")
         assert '<link rel="canonical" href="'+url(path)+'">' in html,(path,"canonical")
         assert "application/ld+json" in html,(path,"schema")
