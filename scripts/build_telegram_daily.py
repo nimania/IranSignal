@@ -49,7 +49,16 @@ def build():
             raise SystemExit(f"English article missing for {slug}")
         if not transcript.is_file():
             raise SystemExit(f"Persian narration script missing for {slug}")
+        fa_html = fa_article.read_text(encoding="utf-8")
+        en_html = en_article.read_text(encoding="utf-8")
+        if '<html lang="fa"' not in fa_html or '<html lang="en"' not in en_html:
+            raise SystemExit(f"Incorrect language declaration for {slug}")
+        for edition, content in (("Persian", fa_html), ("English", en_html)):
+            if 'id="iran-signal-data-snapshot"' not in content or len(re.findall(r"<table\\b", content, re.I)) < 2:
+                raise SystemExit(f"{edition} scenario and market tables missing for {slug}")
         transcript_html = transcript.read_text(encoding="utf-8")
+        if '<html lang="fa"' not in transcript_html:
+            raise SystemExit(f"Persian narration language declaration incorrect for {slug}")
         match = re.search(r"([0-9,]+) واژه", transcript_html)
         if not match or int(match.group(1).replace(",", "")) < 850:
             raise SystemExit(f"Persian narration is missing a valid word-count note or is under 850 words: {slug}")
