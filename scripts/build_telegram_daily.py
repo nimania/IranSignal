@@ -8,7 +8,8 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-BASE = "https://nimania.github.io/IranSignal/fa/daily/"
+FA_BASE = "https://nimania.github.io/IranSignal/fa/daily/"
+EN_BASE = "https://nimania.github.io/IranSignal/daily/"
 
 def build():
     manifest = json.loads((ROOT / "daily/manifest.json").read_text(encoding="utf-8"))
@@ -41,8 +42,14 @@ def build():
             "📍 در رصد بعدی:",
             data["watch"],
             "",
-            "📖 گزارش کامل، منابع و ویدئو:",
-            BASE + slug + "/",
+            "📖 گزارش تحلیلی فارسی:",
+            FA_BASE + slug + "/",
+            "",
+            "🌐 English analysis:",
+            EN_BASE + slug + "/",
+            "",
+            "🎙 متن اجرای ویدئوی فارسی:",
+            FA_BASE + slug + "/full-transcript/",
             "",
             "✍️ نیما افشارنادری | IranSignal",
         ]
