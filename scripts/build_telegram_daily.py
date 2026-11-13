@@ -5,6 +5,8 @@ No credentials, network requests, or automatic Telegram posting.
 """
 from __future__ import annotations
 import json
+import re
+from datetime import date, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -17,17 +19,39 @@ def build():
     out = ROOT / "telegram/daily"
     out.mkdir(parents=True, exist_ok=True)
     published = [r for r in manifest if r.get("status") == "published"]
+    dates = sorted(date.fromisoformat(r["date"]) for r in published)
+    if not dates:
+        raise SystemExit("No published daily reports in manifest")
+    expected = []
+    cursor = dates[0]
+    while cursor <= dates[-1]:
+        expected.append(cursor.isoformat())
+        cursor += timedelta(days=1)
+    actual = sorted(d.isoformat() for d in dates)
+    missing = sorted(set(expected) - set(actual))
+    if missing:
+        raise SystemExit(f"Missing daily report dates: {', '.join(missing)}")
     for report in published:
         slug = report["slug"]
         data = editorial.get(slug)
         if not data:
-            print(f"WARNING: Skipping unapproved Telegram summary for {slug}; the website report still publishes.")
-            continue
-        for field in ("title", "lead", "analysis", "watch"):
+            raise SystemExit(f"Missing approved Telegram editorial summary for {slug}")
+        for field in ("date_fa", "title", "lead", "analysis", "watch"):
             if not isinstance(data.get(field), str) or not data[field].strip():
                 raise SystemExit(f"Missing {field} for {slug}")
-        if not (ROOT / "fa/daily" / slug / "index.html").is_file():
+        fa_article = ROOT / "fa/daily" / slug / "index.html"
+        en_article = ROOT / "daily" / slug / "index.html"
+        transcript = ROOT / "fa/daily" / slug / "full-transcript" / "index.html"
+        if not fa_article.is_file():
             raise SystemExit(f"Persian article missing for {slug}")
+        if not en_article.is_file():
+            raise SystemExit(f"English article missing for {slug}")
+        if not transcript.is_file():
+            raise SystemExit(f"Persian narration script missing for {slug}")
+        transcript_html = transcript.read_text(encoding="utf-8")
+        match = re.search(r"([0-9,]+) واژه", transcript_html)
+        if not match or int(match.group(1).replace(",", "")) < 850:
+            raise SystemExit(f"Persian narration is missing a valid word-count note or is under 850 words: {slug}")
         parts = [
             "📡 ایران سیگنال | گزارش روز",
             f"🗓 {data['date_fa']}",
