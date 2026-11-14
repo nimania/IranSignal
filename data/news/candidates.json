@@ -2037,6 +2037,15 @@
     "score_effect": null
   },
   {
+    "id": "42a6f0770bdcf0c73fa1",
+    "source_id": "axios",
+    "title": "How the Microsoft outage impacted courts and governments",
+    "url": "https://www.axios.com/2026/11/13/microsoft-outage-hits-courts-congress",
+    "published": "Fri, 13 Nov 2026 19:59:55 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "42a71c26230ee142b3cc",
     "source_id": "aljazeera",
     "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
@@ -4425,6 +4434,15 @@
     "source_kind": "public_telegram_preview",
     "status": "unverified_candidate",
     "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
+    "id": "913bcf9d66c2e1c3adee",
+    "source_id": "aljazeera",
+    "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+    "published": "Sat, 14 Nov 2026 00:00:25 +0000",
+    "status": "unverified_candidate",
     "score_effect": null
   },
   {
