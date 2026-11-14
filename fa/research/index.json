@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-15T01:22:12.110319+03:30",
+  "generated_at": "2026-11-15T01:23:36.553345+03:30",
   "items": [
     {
       "id": "weekly-2026-11-15",
@@ -25,6 +25,66 @@
       "date": "2026-11-15",
       "status": "auto_archive_only",
       "url": "/IranSignal/fa/radar/daily/2026-11-15/"
+    },
+    {
+      "id": "IR-20261115-006",
+      "title": "تداوم مسئله محدودیت دسترسی اینترنت",
+      "kind": "سیگنال",
+      "date": "2026-11-15",
+      "status": "candidate_unverified",
+      "url": "/IranSignal/fa/research/",
+      "description": "VOA در اکتبر از اظهارات سخنگوی دولت درباره کاهش سرعت اینترنت گزارش داد.",
+      "domain": "رسانه و فناوری"
+    },
+    {
+      "id": "IR-20261115-005",
+      "title": "چشم‌انداز رشد اقتصادی سال ۲۰۲۶",
+      "kind": "سیگنال",
+      "date": "2026-11-15",
+      "status": "candidate_unverified",
+      "url": "/IranSignal/fa/research/",
+      "description": "گزارش دولت بریتانیا بر پایه IMF کاهش ۷٫۶ درصدی تولید واقعی را برای ۲۰۲۶ پیش‌بینی می‌کند.",
+      "domain": "اقتصاد و معیشت"
+    },
+    {
+      "id": "IR-20261115-004",
+      "title": "تداوم اختلاف بر سر نظارت آژانس",
+      "kind": "سیگنال",
+      "date": "2026-11-15",
+      "status": "candidate_unverified",
+      "url": "/IranSignal/fa/research/",
+      "description": "AP: ایران ازسرگیری بازرسی‌ها را به شرایط امنیتی گره می‌زند؛ آژانس نگران خلأ اطلاعاتی است.",
+      "domain": "حکمرانی و روابط خارجی"
+    },
+    {
+      "id": "IR-20261115-003",
+      "title": "ادعای برخورد نفتکش با مین در هرمز",
+      "kind": "سیگنال",
+      "date": "2026-11-15",
+      "status": "candidate_unverified",
+      "url": "/IranSignal/fa/research/",
+      "description": "به گزارش رویترز، نیروی دریایی ایران مدعی برخورد نفتکش با مین شد؛ رویترز مستقل تأیید نکرد.",
+      "domain": "تجارت و روابط خارجی"
+    },
+    {
+      "id": "IR-20261115-002",
+      "title": "محدودیت ذخایر سدهای تأمین آب تهران",
+      "kind": "سیگنال",
+      "date": "2026-11-15",
+      "status": "candidate_unverified",
+      "url": "/IranSignal/fa/research/",
+      "description": "گزارش منتسب به آبفای تهران: ذخایر سدهای پایتخت محدود است.",
+      "domain": "آب و محیط‌زیست"
+    },
+    {
+      "id": "IR-20261115-001",
+      "title": "احتمال تشدید کسری گاز در زمستان",
+      "kind": "سیگنال",
+      "date": "2026-11-15",
+      "status": "candidate_unverified",
+      "url": "/IranSignal/fa/research/",
+      "description": "رویترز: دولت کسری احتمالی گاز را ۴۳۰ میلیون مترمکعب در برابر حدود ۳۰۰ میلیون پیشین گزارش کرد.",
+      "domain": "انرژی و معیشت"
     },
     {
       "id": "H-IR-0001",

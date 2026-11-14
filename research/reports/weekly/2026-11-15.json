@@ -51,7 +51,7 @@
       "status": "published_archive"
     }
   ],
-  "candidate_signal_count": 1,
+  "candidate_signal_count": 7,
   "candidate_signals": [
     {
       "id": "IR-20261113-001",
@@ -59,6 +59,48 @@
       "status": "candidate_unverified",
       "domain": "سیاست و حکمرانی",
       "source_report_slug": "2026-11-13/isfahan-verification-and-bahrain-radar-claims"
+    },
+    {
+      "id": "IR-20261115-001",
+      "title": "احتمال تشدید کسری گاز در زمستان",
+      "status": "candidate_unverified",
+      "domain": "انرژی و معیشت",
+      "source_report_slug": null
+    },
+    {
+      "id": "IR-20261115-002",
+      "title": "محدودیت ذخایر سدهای تأمین آب تهران",
+      "status": "candidate_unverified",
+      "domain": "آب و محیط‌زیست",
+      "source_report_slug": null
+    },
+    {
+      "id": "IR-20261115-003",
+      "title": "ادعای برخورد نفتکش با مین در هرمز",
+      "status": "candidate_unverified",
+      "domain": "تجارت و روابط خارجی",
+      "source_report_slug": null
+    },
+    {
+      "id": "IR-20261115-004",
+      "title": "تداوم اختلاف بر سر نظارت آژانس",
+      "status": "candidate_unverified",
+      "domain": "حکمرانی و روابط خارجی",
+      "source_report_slug": null
+    },
+    {
+      "id": "IR-20261115-005",
+      "title": "چشم‌انداز رشد اقتصادی سال ۲۰۲۶",
+      "status": "candidate_unverified",
+      "domain": "اقتصاد و معیشت",
+      "source_report_slug": null
+    },
+    {
+      "id": "IR-20261115-006",
+      "title": "تداوم مسئله محدودیت دسترسی اینترنت",
+      "status": "candidate_unverified",
+      "domain": "رسانه و فناوری",
+      "source_report_slug": null
     }
   ],
   "signal_interpretation": "هیچ سیگنال جدیدی به‌صورت خودکار تأیید یا به روند ارتقا داده نمی‌شود.",
