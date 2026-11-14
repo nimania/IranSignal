@@ -1,0 +1,100 @@
+name: Build IranSignal research radar
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/research_radar.yml'
+      - 'scripts/build_research_radar.py'
+      - 'research/knowledge.json'
+  schedule:
+    - cron: '15 8 * * 6,0-3'
+      timezone: 'Asia/Tehran'
+    - cron: '15 10 * * 4'
+      timezone: 'Asia/Tehran'
+    - cron: '15 11 1 * *'
+      timezone: 'Asia/Tehran'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Report timeframe'
+        required: true
+        default: 'daily'
+        type: choice
+        options: [daily, weekly, monthly]
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: iran-signal-radar-main
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Resolve Iranian editorial cadence
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json, os
+          with open(os.environ["GITHUB_EVENT_PATH"], encoding="utf-8") as f:
+              event=json.load(f)
+          schedule=event.get("schedule","")
+          mode={"15 10 * * 4":"weekly","15 11 1 * *":"monthly"}.get(schedule,"daily")
+          if os.environ.get("GITHUB_EVENT_NAME")=="workflow_dispatch":
+              mode=event.get("inputs",{}).get("mode") or "daily"
+          with open(os.environ["GITHUB_ENV"],"a",encoding="utf-8") as f:
+              f.write("RADAR_MODE="+mode+"\n")
+          print("Research radar cadence:",mode)
+          PY
+      - name: Build persistent research briefs and public search
+        env:
+          TZ: Asia/Tehran
+        run: python3 scripts/build_research_radar.py --mode "$RADAR_MODE"
+      - name: Validate generated files
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          root=Path('research/reports')
+          for p in root.glob('*/*.json'):
+              data=json.loads(p.read_text(encoding='utf-8'))
+              assert data.get('generation_method')=='deterministic_archive_digest', p
+              assert data.get('verification_notice'), p
+              assert (Path('fa/radar')/data['type']/data['date']/'index.html').exists(), p
+          search=json.loads(Path('fa/research/index.json').read_text(encoding='utf-8'))
+          assert 'items' in search
+          for needed in ['fa/research/index.html','fa/radar/index.html',
+                         'fa/radar/daily/index.html','fa/radar/weekly/index.html',
+                         'fa/radar/monthly/index.html']:
+              assert Path(needed).exists(),needed
+          print('Research radar files validated')
+          PY
+      - name: Commit archived reports only if changes exist
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add research/reports fa/radar fa/research
+          if git diff --cached --quiet; then
+            echo "No new archive records to commit"
+          else
+            git commit -m "Archive $RADAR_MODE IranSignal research radar"
+            git push origin HEAD:main
+          fi
+      - name: Redeploy existing Persian-only site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref main
