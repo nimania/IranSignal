@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "type": "daily",
+  "title": "رادار روزانه | 2026-11-15",
+  "date": "2026-11-15",
+  "period_start": "2026-11-13",
+  "period_end": "2026-11-15",
+  "timezone": "Asia/Tehran",
+  "generation_method": "deterministic_archive_digest",
+  "verification_notice": "خلاصه خودکار گزارش‌های پیش‌تر منتشرشده؛ ادعاهای اصلی مستقلاً در این نوبت راستی‌آزمایی نشده‌اند. این گزارش کشف تازه، پیش‌بینی و تأیید روند نیست.",
+  "archive_report_count": 1,
+  "archived_reports": [
+    {
+      "date": "2026-11-13",
+      "slug": "2026-11-13/isfahan-verification-and-bahrain-radar-claims",
+      "title": "بحران راستی‌آزمایی اصفهان و روایت‌های متضاد از بحرین، خطر را بالا برد",
+      "lead": "آژانس هنوز به تأسیسات غنی‌سازی اعلام‌شدهٔ اصفهان دسترسی و اطلاعات دقیق نداشت؛ هم‌زمان روایت‌های متضاد ایران و آمریکا دربارهٔ حمله به رادار بحرین خطر تشدید را افزایش داد.",
+      "url": "/IranSignal/fa/daily/2026-11-13/isfahan-verification-and-bahrain-radar-claims/",
+      "status": "published_archive"
+    }
+  ],
+  "candidate_signal_count": 1,
+  "candidate_signals": [
+    {
+      "id": "IR-20261113-001",
+      "title": "نیاز به راستی‌آزمایی دو روایت متعارض",
+      "status": "candidate_unverified",
+      "domain": "سیاست و حکمرانی",
+      "source_report_slug": "2026-11-13/isfahan-verification-and-bahrain-radar-claims"
+    }
+  ],
+  "signal_interpretation": "هیچ سیگنال جدیدی به‌صورت خودکار تأیید یا به روند ارتقا داده نمی‌شود.",
+  "evidence_gap": "",
+  "open_research_questions": [
+    {
+      "id": "H-IR-0001",
+      "title": "اختلاف روایت رسمی و امکان راستی‌آزمایی مستقل چگونه بر اعتماد عمومی اثر می‌گذارد؟",
+      "status": "open_question"
+    }
+  ]
+}

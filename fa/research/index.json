@@ -1,0 +1,233 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-11-15T01:20:47.963782+03:30",
+  "items": [
+    {
+      "id": "daily-2026-11-15",
+      "title": "رادار روزانه | 2026-11-15",
+      "kind": "گزارش رادار روزانه",
+      "date": "2026-11-15",
+      "status": "auto_archive_only",
+      "url": "/IranSignal/fa/radar/daily/2026-11-15/"
+    },
+    {
+      "id": "H-IR-0001",
+      "title": "اختلاف روایت رسمی و امکان راستی‌آزمایی مستقل چگونه بر اعتماد عمومی اثر می‌گذارد؟",
+      "kind": "فرضیه",
+      "date": "2026-11-15",
+      "status": "open_question",
+      "url": "/IranSignal/fa/research/",
+      "description": "پرسش پژوهشی؛ درباره اندازه اثر، جهت تغییر یا رابطه علّی هنوز نتیجه‌گیری نشده است.",
+      "domain": "سیاست و حکمرانی"
+    },
+    {
+      "id": "archive-2026-11-13/isfahan-verification-and-bahrain-radar-claims",
+      "title": "بحران راستی‌آزمایی اصفهان و روایت‌های متضاد از بحرین، خطر را بالا برد",
+      "kind": "آرشیو گزارش",
+      "date": "2026-11-13",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-11-13/isfahan-verification-and-bahrain-radar-claims/"
+    },
+    {
+      "id": "IR-20261113-001",
+      "title": "نیاز به راستی‌آزمایی دو روایت متعارض",
+      "kind": "سیگنال",
+      "date": "2026-11-13",
+      "status": "candidate_unverified",
+      "url": "/IranSignal/fa/research/",
+      "description": "گزارش بایگانی‌شده ۱۳ نوامبر درباره اختلاف روایت‌ها و کمبود اطلاعات کافی است؛ این ثبت به معنی احراز جزئیات ادعاها نیست.",
+      "domain": "سیاست و حکمرانی"
+    },
+    {
+      "id": "archive-2026-11-12/total-victory-rhetoric-and-seven-conditions",
+      "title": "روایت پیروزی ترامپ در برابر هفت شرط تهران",
+      "kind": "آرشیو گزارش",
+      "date": "2026-11-12",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-11-12/total-victory-rhetoric-and-seven-conditions/"
+    },
+    {
+      "id": "archive-2026-11-11/uranium-red-line-and-g7-pressure",
+      "title": "خط قرمز تهران دربارهٔ اورانیوم؛ هشدار گروه هفت دربارهٔ ادامهٔ فشار",
+      "kind": "آرشیو گزارش",
+      "date": "2026-11-11",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-11-11/uranium-red-line-and-g7-pressure/"
+    },
+    {
+      "id": "archive-2026-11-10/tanker-fires-and-us-public-opinion",
+      "title": "آتش‌سوزی نفتکش‌ها و افکار عمومی آمریکا، هزینهٔ جنگ را دوباره برجسته کرد",
+      "kind": "آرشیو گزارش",
+      "date": "2026-11-10",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-11-10/tanker-fires-and-us-public-opinion/"
+    },
+    {
+      "id": "archive-2026-11-09/trump-qatar-meeting-no-imminent-deal",
+      "title": "دیدار ترامپ با میانجی قطری؛ مقام‌ها توافق فوری را محتمل نمی‌دانند",
+      "kind": "آرشیو گزارش",
+      "date": "2026-11-09",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-11-09/trump-qatar-meeting-no-imminent-deal/"
+    },
+    {
+      "id": "archive-2026-11-08/election-shock-and-stalled-mediators",
+      "title": "پس‌لرزهٔ انتخابات میانجی‌گری را کند کرد؛ ترامپ احتمال حملهٔ تازه را پایین دانست",
+      "kind": "آرشیو گزارش",
+      "date": "2026-11-08",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-11-08/election-shock-and-stalled-mediators/"
+    },
+    {
+      "id": "archive-2026-11-07/hormuz-reopening-and-inspection-plan",
+      "title": "طرح قطر، بازگشایی هرمز را به بازرسی‌های هسته‌ای پیوند می‌زند",
+      "kind": "آرشیو گزارش",
+      "date": "2026-11-07",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-11-07/hormuz-reopening-and-inspection-plan/"
+    },
+    {
+      "id": "archive-2026-11-06/qatari-nuclear-inspection-proposal",
+      "title": "پیشنهاد قطر برای بازرسی هسته‌ای، هستهٔ اختلاف ایران و آمریکا را می‌آزماید",
+      "kind": "آرشیو گزارش",
+      "date": "2026-11-06",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-11-06/qatari-nuclear-inspection-proposal/"
+    },
+    {
+      "id": "archive-2026-11-05/nuclear-proposal-and-maritime-security",
+      "title": "پیشنهاد هسته‌ای ایران از مسیر قطر؛ هفت شرط تهران پابرجاست",
+      "kind": "آرشیو گزارش",
+      "date": "2026-11-05",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-11-05/nuclear-proposal-and-maritime-security/"
+    },
+    {
+      "id": "archive-2026-11-04/midterm-rebuke-and-war-pressure",
+      "title": "نتیجهٔ انتخابات آمریکا فضای سیاسی را تغییر داد، نه اختلاف راهبردی را",
+      "kind": "آرشیو گزارش",
+      "date": "2026-11-04",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-11-04/midterm-rebuke-and-war-pressure/"
+    },
+    {
+      "id": "archive-2026-11-03/qeshm-strikes-and-qatar-proposal",
+      "title": "حملات قشم و حمله به نفتکش، طرح قطر را زیر فشار برد",
+      "kind": "آرشیو گزارش",
+      "date": "2026-11-03",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-11-03/qeshm-strikes-and-qatar-proposal/"
+    },
+    {
+      "id": "archive-2026-11-02/limited-strikes-and-no-breakthrough",
+      "title": "حملات محدود آمریکا هزینهٔ توافق با میانجی‌گری قطر را بالا برد",
+      "kind": "آرشیو گزارش",
+      "date": "2026-11-02",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-11-02/limited-strikes-and-no-breakthrough/"
+    },
+    {
+      "id": "archive-2026-11-01/qatar-two-day-hormuz-plan",
+      "title": "طرح دو روزهٔ هرمز روی میز قطر؛ گزینهٔ نظامی همچنان کنار گذاشته نشده است",
+      "kind": "آرشیو گزارش",
+      "date": "2026-11-01",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-11-01/qatar-two-day-hormuz-plan/"
+    },
+    {
+      "id": "archive-2026-10-31/maximum-deterrence-and-qatar-channel",
+      "title": "تهران هزینهٔ حملهٔ تازه را بالا می‌برد؛ کانال قطر همچنان باز است",
+      "kind": "آرشیو گزارش",
+      "date": "2026-10-31",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-10-31/maximum-deterrence-and-qatar-channel/"
+    },
+    {
+      "id": "archive-2026-10-30/qatari-mediators-return-to-tehran",
+      "title": "بازگشت میانجی‌های قطری به تهران؛ اختلاف بر سر ترتیب امتیازها پابرجاست",
+      "kind": "آرشیو گزارش",
+      "date": "2026-10-30",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-10-30/qatari-mediators-return-to-tehran/"
+    },
+    {
+      "id": "archive-2026-10-29/hormuz-incidents-and-diplomatic-signals",
+      "title": "حوادث هرمز و آزمون اعتبار طرح هفت‌روزه",
+      "kind": "آرشیو گزارش",
+      "date": "2026-10-29",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-10-29/hormuz-incidents-and-diplomatic-signals/"
+    },
+    {
+      "id": "archive-2026-10-28/diplomacy-and-verification",
+      "title": "دیپلماسی منطقه‌ای و گره بازرسی؛ توافق چگونه قابل سنجش می‌شود؟",
+      "kind": "آرشیو گزارش",
+      "date": "2026-10-28",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-10-28/diplomacy-and-verification/"
+    },
+    {
+      "id": "archive-2026-10-27/dialogue-amid-regional-escalation",
+      "title": "گفت‌وگو در تهران؛ آزمون دیپلماسی زیر سایهٔ تشدید منطقه‌ای",
+      "kind": "آرشیو گزارش",
+      "date": "2026-10-27",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-10-27/dialogue-amid-regional-escalation/"
+    },
+    {
+      "id": "archive-2026-10-26/pressure-and-regional-diplomacy",
+      "title": "ایران میان تهدید و میانجی‌گری؛ مسیر توافق باز است؟",
+      "kind": "آرشیو گزارش",
+      "date": "2026-10-26",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-10-26/pressure-and-regional-diplomacy/"
+    },
+    {
+      "id": "archive-2026-10-25/strike-threat-or-deal",
+      "title": "تهدید حمله یا راهی برای واداشتن ایران به توافق؟",
+      "kind": "آرشیو گزارش",
+      "date": "2026-10-25",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-10-25/strike-threat-or-deal/"
+    },
+    {
+      "id": "archive-2026-10-24/military-threat-and-diplomacy",
+      "title": "تهدید حمله یا فشار برای توافق؟ سه روایت از روز پرتنش ایران",
+      "kind": "آرشیو گزارش",
+      "date": "2026-10-24",
+      "status": "published_archive",
+      "url": "/IranSignal/fa/daily/2026-10-24/military-threat-and-diplomacy/"
+    },
+    {
+      "id": "METHOD-003",
+      "title": "عدم قطعیت و شواهد ابطال‌کننده",
+      "kind": "روش",
+      "date": "",
+      "status": "active",
+      "url": "/IranSignal/fa/research/",
+      "description": "هر فرضیه باید شاهد مخالف، تبیین جایگزین و شرایط بازنگری داشته باشد.",
+      "domain": ""
+    },
+    {
+      "id": "METHOD-002",
+      "title": "حمایت و مقاومت در سیستم اجتماعی",
+      "kind": "روش",
+      "date": "",
+      "status": "experimental",
+      "url": "/IranSignal/fa/research/",
+      "description": "حمایت یا مقاومت ویژگی علّی مستند یک روند است، نه لزوماً آستانه عددی معادل بازار مالی.",
+      "domain": ""
+    },
+    {
+      "id": "METHOD-001",
+      "title": "تفکیک رویداد، ادعا، سیگنال و روند",
+      "kind": "روش",
+      "date": "",
+      "status": "active",
+      "url": "/IranSignal/fa/research/",
+      "description": "انتشار خبر یا اعلام موضع به تنهایی نشان‌دهنده وقوع تغییر ساختاری نیست؛ روند مستلزم چند مشاهده قابل مقایسه است.",
+      "domain": ""
+    }
+  ],
+  "notice": "نمایه عمومی؛ پیش‌نویس محرمانه یا منابع تأییدنشده به‌عنوان واقعیت منتشر نشده‌اند."
+}
