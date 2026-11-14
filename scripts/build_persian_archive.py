@@ -81,6 +81,7 @@ footer{{padding:20px 0;color:#77818d;font-size:13px}}
 <main class="wrap">
 <h1>{escape(title)}</h1>
 <p class="intro">{escape(description)} · آرشیو به ترتیب تازه‌ترین گزارش</p>
+<p><a class="archive-link" href="{PREFIX}/fa/radar/">رادار ایران: روزانه، هفتگی و ماهانه</a> · <a class="archive-link" href="{PREFIX}/fa/research/">مغز پژوهشی و جست‌وجو</a></p>
 <p><a class="archive-link" href="{PREFIX}/telegram/daily/">نسخه‌های آمادهٔ انتشار در تلگرام</a></p>
 {''.join(cards)}
 <footer>ایران سیگنال · گزارش‌ها، منابع و متن‌های اجرای ویدئو</footer>
