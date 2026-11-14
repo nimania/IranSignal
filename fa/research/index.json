@@ -1,7 +1,23 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-15T01:20:47.963782+03:30",
+  "generated_at": "2026-11-15T01:22:12.110319+03:30",
   "items": [
+    {
+      "id": "weekly-2026-11-15",
+      "title": "نبض هفته | 2026-11-15",
+      "kind": "گزارش نبض هفته",
+      "date": "2026-11-15",
+      "status": "auto_archive_only",
+      "url": "/IranSignal/fa/radar/weekly/2026-11-15/"
+    },
+    {
+      "id": "monthly-2026-11-15",
+      "title": "نقشه ماهانه | 2026-11-15",
+      "kind": "گزارش نقشه ماهانه",
+      "date": "2026-11-15",
+      "status": "auto_archive_only",
+      "url": "/IranSignal/fa/radar/monthly/2026-11-15/"
+    },
     {
       "id": "daily-2026-11-15",
       "title": "رادار روزانه | 2026-11-15",
