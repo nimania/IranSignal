@@ -62,7 +62,13 @@ jobs:
       - name: Build persistent research briefs and public search
         env:
           TZ: Asia/Tehran
-        run: python3 scripts/build_research_radar.py --mode "$RADAR_MODE"
+        run: |
+          python3 scripts/build_research_radar.py --mode "$RADAR_MODE"
+          # Initialize historical overview on the first setup/edit without waiting weeks.
+          if [[ "$GITHUB_EVENT_NAME" == "push" ]]; then
+            python3 scripts/build_research_radar.py --mode weekly
+            python3 scripts/build_research_radar.py --mode monthly
+          fi
       - name: Validate generated files
         run: |
           python3 - <<'PY'
