@@ -2412,6 +2412,15 @@
     "score_effect": null
   },
   {
+    "id": "481a477fac04d8f140ca",
+    "source_id": "aljazeera",
+    "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+    "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
+    "published": "Mon, 16 Nov 2026 00:01:45 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "483a6a98dd138f38b5f9",
     "source_id": "aljazeera",
     "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
@@ -5517,6 +5526,15 @@
     "score_effect": null
   },
   {
+    "id": "a68055e8d700dc8de4ae",
+    "source_id": "aljazeera",
+    "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+    "published": "Mon, 16 Nov 2026 00:00:00 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "a6c02f7644b6c08591cf",
     "source_id": "axios",
     "title": "Israeli military conducts massive \"power projection\" operation near Iran's border",
@@ -6117,6 +6135,18 @@
     "score_effect": null
   },
   {
+    "id": "baceef3b5a01b0e272f1",
+    "source_id": "simorghdata369",
+    "title": "🔴ورود نماینده ارشد آمریکا به بیروت؛ مقابله با نفوذ ایران و خلع سلاح حزب‌الله در دستورکار",
+    "url": "https://t.me/simorghdata369/3592",
+    "published": "2026-11-16T06:33:38+00:00",
+    "excerpt": "🔴ورود نماینده ارشد آمریکا به بیروت؛ مقابله با نفوذ ایران و خلع سلاح حزب‌الله در دستورکار مایک والتز، سفیر آمریکا در سازمان ملل متحد، روز یکشنبه ۱۵ نوامبر وارد بیروت شد تا با مقام‌های ارشد لبنان درباره آینده امنیتی این کشور گفت‌وگو کند. #️⃣ موضع واشنگتن: سفارت آمریکا اعلام کرد حمایت از تشکیل «لبنانی مستقل و عاری از نفوذ حزب‌الله و ایران» از محورهای این سفر است. #️⃣ پرونده امنیتی: اجرای توافق سه‌جانبه آمریکا، لبنان و اسرائیل، شامل خلع سلاح حزب‌الله و خروج مرحله‌ای نیروهای اسرائیلی، بررسی خواهد شد. #️⃣ آینده نیروهای سازمان ملل: والتز همچنین درباره پایان مأموریت یونیفل و انتقال مسئولیت امنیتی به دولت لبنان با مسئولان سازمان ملل گفت‌وگو خواهد کرد. ⚠️این موارد دستورکار اعلام‌شده واشنگتن هستند؛ هنوز تصمیم یا توافق جدیدی از مذاکرات این سفر گزارش نشده است. 📡 🌟آشیان سیمرغ تنها رسانه خبری دکتر مهدی م",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
     "id": "bad0a60e45c61aff86a3",
     "source_id": "aljazeera",
     "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
@@ -6299,6 +6329,15 @@
     "title": "MAGA castoffs plot 2028 spoiler bid",
     "url": "https://www.axios.com/2026/11/08/massie-president-2028-libertarian",
     "published": "Sun, 08 Nov 2026 22:30:06 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "c2c58733cf210e2a500f",
+    "source_id": "aljazeera",
+    "title": "Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’",
+    "url": "https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss",
+    "published": "Mon, 16 Nov 2026 04:53:42 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
