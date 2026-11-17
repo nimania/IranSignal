@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "type": "daily",
+  "title": "رادار روزانه | 2026-11-17",
+  "date": "2026-11-17",
+  "period_start": "2026-11-15",
+  "period_end": "2026-11-17",
+  "timezone": "Asia/Tehran",
+  "generation_method": "deterministic_archive_digest",
+  "verification_notice": "خلاصه خودکار گزارش‌های پیش‌تر منتشرشده؛ ادعاهای اصلی مستقلاً در این نوبت راستی‌آزمایی نشده‌اند. این گزارش کشف تازه، پیش‌بینی و تأیید روند نیست.",
+  "archive_report_count": 0,
+  "archived_reports": [],
+  "candidate_signal_count": 6,
+  "candidate_signals": [
+    {
+      "id": "IR-20261115-001",
+      "title": "احتمال تشدید کسری گاز در زمستان",
+      "status": "candidate_unverified",
+      "domain": "انرژی و معیشت",
+      "source_report_slug": null
+    },
+    {
+      "id": "IR-20261115-002",
+      "title": "محدودیت ذخایر سدهای تأمین آب تهران",
+      "status": "candidate_unverified",
+      "domain": "آب و محیط‌زیست",
+      "source_report_slug": null
+    },
+    {
+      "id": "IR-20261115-003",
+      "title": "ادعای برخورد نفتکش با مین در هرمز",
+      "status": "candidate_unverified",
+      "domain": "تجارت و روابط خارجی",
+      "source_report_slug": null
+    },
+    {
+      "id": "IR-20261115-004",
+      "title": "تداوم اختلاف بر سر نظارت آژانس",
+      "status": "candidate_unverified",
+      "domain": "حکمرانی و روابط خارجی",
+      "source_report_slug": null
+    },
+    {
+      "id": "IR-20261115-005",
+      "title": "چشم‌انداز رشد اقتصادی سال ۲۰۲۶",
+      "status": "candidate_unverified",
+      "domain": "اقتصاد و معیشت",
+      "source_report_slug": null
+    },
+    {
+      "id": "IR-20261115-006",
+      "title": "تداوم مسئله محدودیت دسترسی اینترنت",
+      "status": "candidate_unverified",
+      "domain": "رسانه و فناوری",
+      "source_report_slug": null
+    }
+  ],
+  "signal_interpretation": "هیچ سیگنال جدیدی به‌صورت خودکار تأیید یا به روند ارتقا داده نمی‌شود.",
+  "evidence_gap": "در بازه مورد بررسی هیچ گزارش منتشرشده تازه‌ای در آرشیو ثبت نشده است. این موضوع به معنای رخ ندادن رویداد در جهان واقعی نیست.",
+  "open_research_questions": [
+    {
+      "id": "H-IR-0001",
+      "title": "اختلاف روایت رسمی و امکان راستی‌آزمایی مستقل چگونه بر اعتماد عمومی اثر می‌گذارد؟",
+      "status": "open_question"
+    }
+  ]
+}
