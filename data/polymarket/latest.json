@@ -1,5 +1,5 @@
 {
-  "observed_at": "2026-11-19T03:20:39+00:00",
+  "observed_at": "2026-11-19T12:57:09+00:00",
   "source_api": "https://gamma-api.polymarket.com/markets",
   "coverage_note": "Up to 2,100 active Gamma markets scanned using supported offsets (0..2000); question-filtered coverage is not exhaustive.",
   "markets": [
@@ -10,8 +10,8 @@
       "slug": "us-recognizes-reza-pahlavi-as-leader-of-iran-in2026",
       "end_date": "2027-01-01T04:59:00Z",
       "yes_market_price": 0.017,
-      "volume": 686867.3955120001,
-      "liquidity": 15052.1824,
+      "volume": 686887.3955120001,
+      "liquidity": 18528.27265,
       "source": "Polymarket Gamma API",
       "status": "market_expectation_not_scenario_probability",
       "resolution_rule_excerpt": "This market will resolve to \"Yes\" if the Trump administration announces that the United States officially recognizes Reza Pahlavi as the \"leader of Iran\" by December 31, 2026, 11:59 ET. Otherwise, this market will resolve to \"No\".\n\nRoles that could qualify for \"leader of Iran\" status include, but are not limited to, \"head of state,\" \"prime minister,\" or other similar roles that give him primary executive authority in the territory of Iran.\n\nA qualifying US statement must be direct and unqualifie",
@@ -24,14 +24,14 @@
       "question": "Will the US officially declare war on Iran by December 31, 2026?",
       "slug": "will-the-us-officially-declare-war-on-iran-by-december-31-2026-746",
       "end_date": "2027-01-01T04:59:00Z",
-      "yes_market_price": 0.0175,
-      "volume": 930798.553934,
-      "liquidity": 90272.30604,
+      "yes_market_price": 0.016,
+      "volume": 931412.6939340001,
+      "liquidity": 93553.77706,
       "source": "Polymarket Gamma API",
       "status": "market_expectation_not_scenario_probability",
       "resolution_rule_excerpt": "This market will resolve to \"Yes\" if the United States formally declares war on Iran through an act of Congress between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nTo qualify, Congress must pass a formal declaration of war, consistent with its constitutional authority under Article I, Section 8. Authorizations for the use of military force (AUMFs), executive orders, presidential statements, or military actions do not qualify unless accompani",
-      "delta_24h": 0.15,
-      "delta_7d": 0.2
+      "delta_24h": -0.15,
+      "delta_7d": 0.05
     },
     {
       "market_id": "663583",
@@ -39,14 +39,14 @@
       "question": "Will the Iranian regime fall before 2027?",
       "slug": "will-the-iranian-regime-fall-by-the-end-of-2026",
       "end_date": "2027-01-01T04:59:00Z",
-      "yes_market_price": 0.027,
-      "volume": 30080295.213038,
-      "liquidity": 401692.4921,
+      "yes_market_price": 0.0255,
+      "volume": 30091854.055903,
+      "liquidity": 395437.04747,
       "source": "Polymarket Gamma API",
       "status": "market_expectation_not_scenario_probability",
       "resolution_rule_excerpt": "This market will resolve to \"Yes\" if the Islamic Republic of Iran’s current ruling regime is overthrown, collapsed, or otherwise ceases to govern by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nThis requires a broad consensus of reporting indicating that core structures of the Islamic Republic (e.g. the office of the Supreme Leader, the Guardian Council, IRGC control under clerical authority) have been dissolved, incapacitated, or replaced by a fundamentally diff",
-      "delta_24h": -0.25,
-      "delta_7d": 0.25
+      "delta_24h": -0.5,
+      "delta_7d": -0.2
     },
     {
       "market_id": "665374",
@@ -55,13 +55,13 @@
       "slug": "will-the-us-invade-iran-before-2027",
       "end_date": "2027-01-01T04:59:00Z",
       "yes_market_price": 0.065,
-      "volume": 80657888.94237204,
-      "liquidity": 247473.87,
+      "volume": 80677304.005943,
+      "liquidity": 240241.6349,
       "source": "Polymarket Gamma API",
       "status": "market_expectation_not_scenario_probability",
       "resolution_rule_excerpt": "This market will resolve to \"Yes\" if the United States commences a military offensive intended to establish control over any portion of Iran by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, land de facto controlled by Iran or the United States as of November 4, 2025 12:00 PM ET, will be considered the sovereign territory of that country.\n\nThe resolution source for this market will be a consensus of credible sources.",
       "delta_24h": -1.0,
-      "delta_7d": -2.0
+      "delta_7d": -1.0
     },
     {
       "market_id": "665521",
@@ -70,13 +70,13 @@
       "slug": "iran-nuclear-test-before-2027",
       "end_date": "2027-01-01T04:59:00Z",
       "yes_market_price": 0.0205,
-      "volume": 324914.07027700014,
-      "liquidity": 41700.4151,
+      "volume": 324952.900277,
+      "liquidity": 44979.4281,
       "source": "Polymarket Gamma API",
       "status": "market_expectation_not_scenario_probability",
       "resolution_rule_excerpt": "This market will resolve to \"Yes\" if Iran conducts a nuclear test by December 31, 2026 11:59pm ET. Otherwise, this market will resolve to \"No\".\n\nA nuclear test is defined as the intentional non-combat detonation of a device by Iran that produces a nuclear chain reaction (fission or fusion), regardless of yield.\n\nAccidents, radiological dispersal devices (bombs that spread radioactive material using conventional explosives such as \"dirty bombs\"), or actions by third parties will not count toward ",
-      "delta_24h": 0.15,
-      "delta_7d": -0.15
+      "delta_24h": 0.2,
+      "delta_7d": -0.1
     },
     {
       "market_id": "665727",
@@ -85,12 +85,12 @@
       "slug": "will-iran-withdraw-from-the-npt-before-2027",
       "end_date": "2027-01-01T04:59:00Z",
       "yes_market_price": 0.0795,
-      "volume": 682678.1534760001,
-      "liquidity": 40055.86613,
+      "volume": 682678.153476,
+      "liquidity": 37160.28526,
       "source": "Polymarket Gamma API",
       "status": "market_expectation_not_scenario_probability",
       "resolution_rule_excerpt": "This market will resolve to \"Yes\" if the Islamic Republic of Iran formally notifies the United Nations of its decision to withdraw from the Nuclear Non-Proliferation Treaty (NPT), pursuant to Article X of the treaty by December 31, 2026 at 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nTo qualify, the Iranian government must issue an official written notice that explicitly states its intention to withdraw under Article X of the NPT.\n\nThe resolution sources for this market will be a c",
-      "delta_24h": 0.15,
+      "delta_24h": 0.2,
       "delta_7d": 2.25
     },
     {
@@ -100,13 +100,13 @@
       "slug": "iran-nuke-before-2027",
       "end_date": "2027-01-01T04:59:00Z",
       "yes_market_price": 0.021,
-      "volume": 1635627.0926590003,
-      "liquidity": 93907.22469,
+      "volume": 1635678.372659,
+      "liquidity": 96393.16744,
       "source": "Polymarket Gamma API",
       "status": "market_expectation_not_scenario_probability",
       "resolution_rule_excerpt": "This market will resolve to \"Yes\" if credible reports from international nuclear agencies, Iran's government itself, or credible global news sources officially confirm that Iran possesses a nuclear weapon by December 31, 2026, 11:59 PM ET.\n\nOtherwise, this market will resolve to \"No\".",
-      "delta_24h": 0.2,
-      "delta_7d": -0.35
+      "delta_24h": -0.05,
+      "delta_7d": -0.4
     },
     {
       "market_id": "689102",
