@@ -1,7 +1,15 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-18T16:59:15.990431+03:30",
+  "generated_at": "2026-11-19T19:33:21.173520+03:30",
   "items": [
+    {
+      "id": "weekly-2026-11-19",
+      "title": "نبض هفته | 2026-11-19",
+      "kind": "گزارش نبض هفته",
+      "date": "2026-11-19",
+      "status": "auto_archive_only",
+      "url": "/IranSignal/fa/radar/weekly/2026-11-19/"
+    },
     {
       "id": "daily-2026-11-18",
       "title": "رادار روزانه | 2026-11-18",
