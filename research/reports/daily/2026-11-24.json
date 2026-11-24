@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "type": "daily",
+  "title": "رادار روزانه | 2026-11-24",
+  "date": "2026-11-24",
+  "period_start": "2026-11-22",
+  "period_end": "2026-11-24",
+  "timezone": "Asia/Tehran",
+  "generation_method": "deterministic_archive_digest",
+  "verification_notice": "خلاصه خودکار گزارش‌های پیش‌تر منتشرشده؛ ادعاهای اصلی مستقلاً در این نوبت راستی‌آزمایی نشده‌اند. این گزارش کشف تازه، پیش‌بینی و تأیید روند نیست.",
+  "archive_report_count": 0,
+  "archived_reports": [],
+  "candidate_signal_count": 0,
+  "candidate_signals": [],
+  "signal_interpretation": "هیچ سیگنال جدیدی به‌صورت خودکار تأیید یا به روند ارتقا داده نمی‌شود.",
+  "evidence_gap": "در بازه مورد بررسی هیچ گزارش منتشرشده تازه‌ای در آرشیو ثبت نشده است. این موضوع به معنای رخ ندادن رویداد در جهان واقعی نیست.",
+  "open_research_questions": [
+    {
+      "id": "H-IR-0001",
+      "title": "اختلاف روایت رسمی و امکان راستی‌آزمایی مستقل چگونه بر اعتماد عمومی اثر می‌گذارد؟",
+      "status": "open_question"
+    }
+  ]
+}
