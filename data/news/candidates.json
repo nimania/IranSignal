@@ -1167,6 +1167,15 @@
     "score_effect": null
   },
   {
+    "id": "1d000ce0fbace0716b5d",
+    "source_id": "aljazeera",
+    "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+    "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+    "published": "Wed, 25 Nov 2026 21:03:51 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "1d285bbabece8328a9ff",
     "source_id": "simorghdata369",
     "title": "🔴اتحادیه اروپا و بریتانیا در بیانیه مشترک: ایران باید فعالیت‌های منتسب به خود در خاک اروپا را متوقف کند",
@@ -1485,6 +1494,15 @@
     "score_effect": null
   },
   {
+    "id": "233a5f73d7d710c54ad4",
+    "source_id": "bbc",
+    "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+    "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 25 Nov 2026 19:47:39 GMT",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "23553f81e4e85fafd56d",
     "source_id": "axios",
     "title": "Myanmar becomes first state found responsible for genocide by UN court",
@@ -1511,6 +1529,15 @@
     "title": "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
     "published": "Fri, 06 Nov 2026 18:17:39 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "23de30394497f5625ee0",
+    "source_id": "aljazeera",
+    "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
+    "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
+    "published": "Wed, 25 Nov 2026 20:29:22 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -2439,6 +2466,15 @@
     "score_effect": null
   },
   {
+    "id": "356bb1f1abf1cd89595b",
+    "source_id": "axios",
+    "title": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI",
+    "url": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
+    "published": "Wed, 25 Nov 2026 20:19:21 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
     "id": "357d5071f3ca748c1c41",
     "source_id": "axios",
     "title": "Exclusive: Fired general admitted to leaking classified Iran and Ukraine info, report says",
@@ -3303,6 +3339,18 @@
     "score_effect": null
   },
   {
+    "id": "42dea26cd35a672e2492",
+    "source_id": "simorghdata369",
+    "title": "🔴ایران ۲۶ یدک‌کش را به فهرست عدم‌سازگاری تنگه هرمز اضافه کرد",
+    "url": "https://t.me/simorghdata369/4207",
+    "published": "2026-11-25T20:10:19+00:00",
+    "excerpt": "🔴ایران ۲۶ یدک‌کش را به فهرست عدم‌سازگاری تنگه هرمز اضافه کرد نهاد مدیریت آبراه خلیج فارس اعلام کرده است ۲۶ شناور یدک‌کش به دلیل آنچه خدمت‌رسانی به کشتی‌های متخلف در جنوب تنگه هرمز خوانده، وارد فهرست عدم‌سازگاری شده‌اند. #️⃣به گزارش آناتولی، نام، شماره شناسایی IMO و پرچم این شناورها نیز منتشر شده است. #️⃣نشریه تخصصی لویدز لیست امروز این اقدام را بخشی از افزایش فشار ایران بر شبکه خدمات پشتیبانی کشتیرانی در هرمز ارزیابی کرد. 📌دامنه اقدامات اعلام‌شده ایران اکنون علاوه بر کشتی‌های تجاری، شناورهای خدمات‌رسان به آن‌ها را نیز دربر می‌گیرد. 📡 آشیان سیمرغ تنها رسانه خبری دکتر مهدی مطهرنیا📽 @simorghdata369✅ zal🔋 👉👍👍👍",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
     "id": "42e2cf2ee4f430c641da",
     "source_id": "simorghdata369",
     "title": "🔴تأیید حکم اعدام یک بازداشتی حوادث دی در دیوان عالی کشور؛ هویت او علی پیشه‌ورزاده گزارش شد",
@@ -3677,6 +3725,15 @@
     "title": "US deports Lebanese consul-general in Detroit over Hezbollah praise",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-deports-lebanese-consul-general-in-detroit-over-hezbollah-praise?traffic_source=rss",
     "published": "Mon, 09 Nov 2026 10:35:53 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "49b3ac80426ca5881af1",
+    "source_id": "aljazeera",
+    "title": "Judges recommend prosecutors end corruption case against Netanyahu",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
+    "published": "Thu, 26 Nov 2026 01:08:43 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -4947,6 +5004,18 @@
     "score_effect": null
   },
   {
+    "id": "665a641ecd2c96289422",
+    "source_id": "simorghdata369",
+    "title": "🔴شمار حوادث دریایی تأییدشده در خاورمیانه به ۱۴۱ رسید؛ هشدار تازه بیمه‌گر بین‌المللی",
+    "url": "https://t.me/simorghdata369/4212",
+    "published": "2026-11-25T21:33:48+00:00",
+    "excerpt": "🔴شمار حوادث دریایی تأییدشده در خاورمیانه به ۱۴۱ رسید؛ هشدار تازه بیمه‌گر بین‌المللی باشگاه بیمه دریایی Swedish Club در تازه‌ترین ارزیابی عملیاتی خود از وخامت شرایط امنیتی خلیج فارس و تنگه هرمز خبر داده و بر تعویق عبورهای غیرضروری تأکید کرده است. #️⃣هم‌زمان، تازه‌ترین آمار منتشرشده از سازمان بین‌المللی دریانوردی (IMO) نشان می‌دهد شمار حوادث دریایی تأییدشده در منطقه افزایش یافته است: #️⃣ ۱۷ نوامبر: ۱۳۸ حادثه #️⃣ ۲۳ نوامبر: ۱۴۱ حادثه ⚠️این بیمه‌گر تأکید کرده است که عبور موفق قبلی یک کشتی از تنگه هرمز، تضمینی برای ایمنی عبور بعدی آن نیست. 📡 🌟آشیان سیمرغ تنها رسانه خبری دکتر مهدی مطهرنیا📽 @simorghdata369✅ zal🪫 👉👍👍👍",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
     "id": "6692b44eef6d30484131",
     "source_id": "aljazeera",
     "title": "Palestinian families return home after Israeli siege of Hebron",
@@ -5577,6 +5646,18 @@
     "score_effect": null
   },
   {
+    "id": "742997b9a12c2c548627",
+    "source_id": "simorghdata369",
+    "title": "🔴بیانیه تازه تهران علیه اقدامات آمریکا و اسرائیل در لبنان",
+    "url": "https://t.me/simorghdata369/4211",
+    "published": "2026-11-25T21:10:16+00:00",
+    "excerpt": "🔴بیانیه تازه تهران علیه اقدامات آمریکا و اسرائیل در لبنان وزارت امور خارجه ایران عصر امروز با صدور بیانیه‌ای، حملات اسرائیل به جنوب لبنان را محکوم کرد و آن را نقض توافق آتش‌بس نوامبر ۲۰۲۴ دانست. #️⃣تهران همچنین نسبت به تلاش واشنگتن برای ایجاد سازوکارهایی که به گفته وزارت خارجه ایران فاقد اجماع ملی در لبنان هستند، هشدار داد. #️⃣وزارت خارجه ایران تأکید کرد این اقدامات می‌توانند استقلال، امنیت و انسجام ملی لبنان را با مخاطرات جدی مواجه کنند. ⚠️این بیانیه در شرایطی صادر شده که موضوع خلع سلاح حزب‌الله همچنان از محورهای اختلاف تهران و واشنگتن است. 📡 🌟آشیان سیمرغ تنها رسانه خبری دکتر مهدی مطهرنیا📽 @simorghdata369✅ zal🪫 👉👍👍👍",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
     "id": "74625a953574881aa9cc",
     "source_id": "aljazeera",
     "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
@@ -6075,6 +6156,18 @@
     "url": "https://t.me/simorghdata369/3280",
     "published": "2026-11-01T08:31:58+00:00",
     "excerpt": "🔴ایران نیروی دریایی و هوایی بریتانیا را «سازمان تروریستی» اعلام کرد؛ MI6 «گروه متخاصم» شناخته شد 🇬🇧 🤩 وزارت امور خارجه ایران روز یکشنبه ۱۰ آبان، با استناد به مصوبه شورای عالی امنیت ملی، از اتخاذ اقدامات متقابل علیه سه نهاد نظامی و اطلاعاتی بریتانیا خبر داد. ❗️ جزئیات مهم این تصمیم: 🚨 نیروی دریایی سلطنتی (Royal Navy) و نیروی هوایی سلطنتی (RAF) از سوی ایران سازمان تروریستی شناخته شدند. 🚨 سازمان اطلاعات خارجی بریتانیا (MI6) ذیل قانون تشدید مجازات جاسوسی، «گروه متخاصم» اعلام شد. 🚨 این تصمیم‌ها از زمان انتشار بیانیه، ۱۰ آبان ۱۴۰۵، اجرایی شده‌اند. 🚨 تهران این اقدام را پاسخ به حمایت نظامی و لجستیکی ادعایی لندن از عملیات علیه ایران و قرارگرفتن سپاه در فهرست تهدیدات امنیت ملی بریتانیا عنوان کرده است. 📌 ❗️ 🔑 : ایران برای دو نهاد نظامی و یک سازمان اطلاعاتی بریتانیا از دو عنوان حقوقی متفاوت استفاده کر",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
+    "id": "7efe70d82b38fff016dc",
+    "source_id": "simorghdata369",
+    "title": "🚨هشدار امنیتی مجدد آمریکا به شهروندان خود در خاورمیانه؛ احتمال بسته‌شدن حریم هوایی",
+    "url": "https://t.me/simorghdata369/4210",
+    "published": "2026-11-25T20:50:40+00:00",
+    "excerpt": "🚨هشدار امنیتی مجدد آمریکا به شهروندان خود در خاورمیانه؛ احتمال بسته‌شدن حریم هوایی رسانه‌های عبری والا و شبکه ۱۳ اسرائیل از انتشار هشدار امنیتی به‌روزشده سفارت آمریکا در اورشلیم خبر دادند. 🔴در این هشدار به شهروندان آمریکایی توصیه شده است: #️⃣ برای احتمال لغو پروازها و بسته‌شدن حریم هوایی آماده باشند. #️⃣ نزدیک‌ترین پناهگاه را شناسایی کنند. #️⃣ ذخایر ضروری آب، غذا و دارو در اختیار داشته باشند. #️⃣سفارت مجازی آمریکا در ایران نیز بار دیگر از شهروندان آمریکایی خواسته است ایران را ترک کنند. 📌واشنگتن این هشدارها را به افزایش تهدیدهای منتسب به ایران و حوثی‌ها مرتبط دانسته است. ⚠️این اطلاعیه به معنای صدور دستور آغاز عملیات نظامی نیست. 📡 🌟آشیان سیمرغ تنها رسانه خبری دکتر مهدی مطهرنیا📽 @simorghdata369✅ zal🪫 👉👍👍👍",
     "source_kind": "public_telegram_preview",
     "status": "unverified_candidate",
     "verification": "requires_independent_primary_or_reputable_source",
@@ -7038,6 +7131,18 @@
     "score_effect": null
   },
   {
+    "id": "93b58799e98c263bc2c0",
+    "source_id": "simorghdata369",
+    "title": "🔥هشدار دریایی ۲۲۲ بریتانیا؛ انفجار پرتابه ناشناس در نزدیکی یک نفتکش در خلیج فارس",
+    "url": "https://t.me/simorghdata369/4214",
+    "published": "2026-11-25T23:35:29+00:00",
+    "excerpt": "🔥هشدار دریایی ۲۲۲ بریتانیا؛ انفجار پرتابه ناشناس در نزدیکی یک نفتکش در خلیج فارس بر اساس اطلاعیه شماره ۲۲۲-۲۶ مرکز عملیات تجارت دریایی بریتانیا (UKMTO)، ناخدای یک نفتکش از وقوع انفجار ناشی از یک پرتابه ناشناس در نزدیکی شناور خود، در فاصله ۵۰ مایل دریایی (حدود ۹۳ کیلومتر) غرب دبی خبر داده است. #️⃣ تمامی اعضای خدمه سالم هستند. #️⃣ خسارتی به نفتکش یا محیط‌زیست گزارش نشده است. #️⃣ نام نفتکش، پرچم و عامل حادثه مشخص نشده‌اند. ⏱زمان وقوع: ساعت ۰۱:۰۰ بامداد پنجشنبه ۵ آذر، به وقت تهران. 📌نکته سیمرغ | محل گزارش‌شده حادثه در داخل خلیج فارس و غرب تنگه هرمز قرار دارد. ⚠️مقامات در حال بررسی حادثه هستند. 📡 🌟آشیان سیمرغ تنها رسانه خبری دکتر مهدی مطهرنیا📽 @simorghdata369✅ zal🪫 پ ن : اومدیم ۲ ساعت بخوابیم 🫠🥲 👉👍👍👍",
+    "source_kind": "public_telegram_preview",
+    "status": "unverified_candidate",
+    "verification": "requires_independent_primary_or_reputable_source",
+    "score_effect": null
+  },
+  {
     "id": "93f5b0e357315ed8d496",
     "source_id": "aljazeera",
     "title": "Exit polls from Israel’s election show no clear winner",
@@ -7052,6 +7157,15 @@
     "title": "Elections cannot produce change in Israel",
     "url": "https://www.aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-israel?traffic_source=rss",
     "published": "Sun, 25 Oct 2026 06:54:37 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "943456d27339a95b8206",
+    "source_id": "aljazeera",
+    "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
+    "published": "Thu, 26 Nov 2026 00:00:00 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
@@ -9539,6 +9653,15 @@
     "title": "Israeli exit polls: Netanyahu bloc loses, but Eisenkot's short of clear majority",
     "url": "https://www.axios.com/2026/10/27/netanyahu-eisenkot-israel-election-exit-polls",
     "published": "Tue, 27 Oct 2026 20:26:46 +0000",
+    "status": "unverified_candidate",
+    "score_effect": null
+  },
+  {
+    "id": "cfd0c02da378f2389e9c",
+    "source_id": "aljazeera",
+    "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+    "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+    "published": "Thu, 26 Nov 2026 02:03:03 +0000",
     "status": "unverified_candidate",
     "score_effect": null
   },
